@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let stage_database: any = require ("./stage_table.json").stages
+let stage_database: any = require ("../../database/stage_table.json").stages
 let stage_keys: any[] = Object.keys(stage_database);
 
 let ss_info: any = require("./ss_info.json")
@@ -21,14 +21,16 @@ interface Episode{
 
 interface Stage{
   operation: string,
-  levelId: string,
   cn_name: string,
   description: string,
-  episode: string
+  episode: string,
+  custom: any[]         //关卡机制信息
+  challenge?: string,    //突袭条件，突袭关才会有
 }
 
-const parseStorysData = (data: any):Story[] => {
+const parseStorysData = (data: any) => {
   const storys: Story[] = [];
+  const stageKeyMap: { [key: string]: string } = {};
   data.forEach((story_json: any) => {
 
     const story: Story = {
@@ -47,34 +49,50 @@ const parseStorysData = (data: any):Story[] => {
         const find = stage_keys.find((key: string) => {
           return stage_database[key].code === stage_json.operation;
         })
+        const levelPath = stage_database[find]?.levelId?.toLowerCase();
 
         const stage: Stage = {
           operation: stage_json.operation,
-          levelId: "",
           cn_name: stage_json.cn_name,
           description: stage_json.description,
           episode: stage_json.episode,
+          custom: stage_json.custom
         }
-        
-        if(find){
-          stage.levelId = stage_database[find].levelId;
-        }
-
         episode.childNodes.push(stage);
 
+        if(levelPath){
+          stageKeyMap[stage.operation] = levelPath;
+        }
+
+        //添加突袭关卡
+        if(stage_json.hasChallenge){
+          const challenge = {
+            ...stage,
+            challenge: stage_json.challenge
+          }
+          challenge.operation += "突袭";
+          episode.childNodes.push(challenge);
+
+          if(levelPath){
+            stageKeyMap[challenge.operation] = levelPath;
+          }
+          
+        }
+
       })
+
       story.childNodes.push(episode);
     })
 
     storys.push(story);
   });
 
-  return storys;
+  return {storys, stageKeyMap};
 } 
 
-const storys:Story[] = parseStorysData(ss_info.childNodes);
+const data = parseStorysData(ss_info.childNodes);
 
-fs.writeFile('storys.json', JSON.stringify({storys}), (err: any) => {
+fs.writeFile('storys.json', JSON.stringify(data), (err: any) => {
   if (err) throw err;
   console.log('JSON文件已保存');
 });
