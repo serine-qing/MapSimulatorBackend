@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "ts-node main.ts",
-    "story": "ts-node ./src/scripts/story/story.ts"
+    "story": "ts-node ./src/scripts/story/story.ts",
+    "runes": "ts-node ./src/scripts/levels/runes.ts"
   },
   "keywords": [],
   "author": "",

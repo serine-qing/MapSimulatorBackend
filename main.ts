@@ -1,16 +1,16 @@
-export{}//TODO 百思不得其解
+import express from "express";
+import path from "path";
 
-const express = require('express')
 const app = express()
 const cors = require('cors')   //引入cors解决跨域问题
 app.use(cors());
 
-const path = require('path')
+
 const port = 3000;
 
 app.use(express.json());
 
-const enemyRoutes = require("./src/routes/enemy")
+import enemyRoutes from "./src/routes/enemy"
 app.use("/enemy", enemyRoutes)
 
 //设置静态资源

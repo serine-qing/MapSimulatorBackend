@@ -1,6 +1,4 @@
-export{}
-
-const express = require('express')
+import express from "express";
 const router = express.Router();
 const enemy_database: any = require ("../database/enemy_database.json").enemies;
 
@@ -58,4 +56,4 @@ router.post("/data", (req: any, res: any) => {
   res.send({ EnemyDatas })
 })
 
-module.exports = router;
+export default router;

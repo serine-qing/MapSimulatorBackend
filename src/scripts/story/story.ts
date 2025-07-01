@@ -1,6 +1,6 @@
-const fs = require('fs');
+import fs from 'fs';
 
-let stage_database: any = require ("../../database/stage_table.json").stages
+let stage_database: any = require ("./stage_table.json").stages
 let stage_keys: any[] = Object.keys(stage_database);
 
 let ss_info: any = require("./ss_info.json")
@@ -25,6 +25,8 @@ interface Stage{
   description: string,
   episode: string,
   custom: any[]         //关卡机制信息
+  levelId: string,      //关卡id
+  hasChallenge: boolean,
   challenge?: string,    //突袭条件，突袭关才会有
 }
 
@@ -56,7 +58,9 @@ const parseStorysData = (data: any) => {
           cn_name: stage_json.cn_name,
           description: stage_json.description,
           episode: stage_json.episode,
-          custom: stage_json.custom
+          custom: stage_json.custom,
+          hasChallenge: stage_json.hasChallenge,
+          levelId: levelPath? levelPath : ""
         }
         episode.childNodes.push(stage);
 
@@ -92,7 +96,7 @@ const parseStorysData = (data: any) => {
 
 const data = parseStorysData(ss_info.childNodes);
 
-fs.writeFile('storys.json', JSON.stringify(data), (err: any) => {
+fs.writeFile('storys.json', JSON.stringify(data, null, 2), (err: any) => {
   if (err) throw err;
   console.log('JSON文件已保存');
 });
