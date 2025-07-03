@@ -30,7 +30,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 
     const parsedData: EnemyData= {
       key: find.Key,
-      attributes: find.Value[enemyRef.level].enemyData.attributes,  
+      attributes: {...sourceData.attributes},  
       description: sourceData.description.m_value,
       levelType:sourceData.levelType.m_value,
       name: sourceData.name.m_value,
@@ -38,9 +38,21 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       motion: sourceData.motion.m_value, 
     }
 
-    Object.keys(parsedData.attributes).forEach(attrName => {
-      if(typeof parsedData.attributes[attrName] === "object"){
-        parsedData.attributes[attrName] = parsedData.attributes[attrName].m_value;
+    //敌人级别大于0，需要从用高级别的数据覆盖低级别的数据
+    if(enemyRef.level > 0){
+      const overwriteAttr = find.Value[enemyRef.level].enemyData.attributes;
+      Object.keys(overwriteAttr).forEach(attr => {
+        const { m_defined, m_value } = overwriteAttr[attr];
+
+        if(m_defined){
+          sourceData.attributes[attr] = m_value;
+        }
+      })
+    }
+
+    Object.keys(parsedData.attributes).forEach(attr => {
+      if(typeof parsedData.attributes[attr] === "object"){
+        parsedData.attributes[attr] = parsedData.attributes[attr].m_value;
       }
     })
 
