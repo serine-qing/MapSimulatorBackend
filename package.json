@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "ts-node main.ts",
     "story": "ts-node ./src/scripts/story/story.ts",
+    "activities": "ts-node ./src/scripts/story/activities.ts",
     "runes": "ts-node ./src/scripts/levels/runes.ts",
     "spinesCheck": "ts-node ./src/scripts/spine/changeName.ts"
   },

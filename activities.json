@@ -1,0 +1,138 @@
+{
+  "childNodes": [
+    {
+      "operation": "FM-1",
+      "levelId": "activities/act19mini/level_act19mini_01",
+      "cn_name": "求同则塞",
+      "description": "路朝八方，世间人物秉性本来不相同。何必强求事事如一，反倒失了乐趣？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-1 突袭",
+      "levelId": "activities/act19mini/level_act19mini_01",
+      "cn_name": "求同则塞",
+      "description": "路朝八方，世间人物秉性本来不相同。何必强求事事如一，反倒失了乐趣？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+    },
+    {
+      "operation": "FM-2",
+      "levelId": "activities/act19mini/level_act19mini_02",
+      "cn_name": "求异则悖",
+      "description": "海纳百川，世间总有不言自明的公理。何必强求特立独行，反倒失了本心？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><特种战术点></>置于其中的我方单位在推动或拉动敌方单位时力度增大",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-2 突袭",
+      "levelId": "activities/act19mini/level_act19mini_02",
+      "cn_name": "求异则悖",
+      "description": "海纳百川，世间总有不言自明的公理。何必强求特立独行，反倒失了本心？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><特种战术点></>置于其中的我方单位在推动或拉动敌方单位时力度增大",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n“得意”的移动速度大幅增加"
+    },
+    {
+      "operation": "FM-3",
+      "levelId": "activities/act19mini/level_act19mini_03",
+      "cn_name": "求遐则失",
+      "description": "步踏不过五尺，世间难有一蹴而至的山岳。何必强求运筹千里，反倒忘了眼前？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-3 突袭",
+      "levelId": "activities/act19mini/level_act19mini_03",
+      "cn_name": "求遐则失",
+      "description": "步踏不过五尺，世间难有一蹴而至的山岳。何必强求运筹千里，反倒忘了眼前？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n<田地>病害造成的伤害增加"
+    },
+    {
+      "operation": "FM-4",
+      "levelId": "activities/act19mini/level_act19mini_04",
+      "cn_name": "求迩则乱",
+      "description": "举目可观千山，世间常有走不通的断头路。何必强求步步为营，反倒忘了初衷？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-4 突袭",
+      "levelId": "activities/act19mini/level_act19mini_04",
+      "cn_name": "求迩则乱",
+      "description": "举目可观千山，世间常有走不通的断头路。何必强求步步为营，反倒忘了初衷？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n田鼷和田鼷飞贼的生命值和移动速度大幅增加"
+    },
+    {
+      "operation": "FM-5",
+      "levelId": "activities/act19mini/level_act19mini_05",
+      "cn_name": "求缓则迟",
+      "description": "笋一夕成竹，槿花一日而落。何必强求事缓则圆，反倒失了良机？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-5 突袭",
+      "levelId": "activities/act19mini/level_act19mini_05",
+      "cn_name": "求缓则迟",
+      "description": "笋一夕成竹，槿花一日而落。何必强求事缓则圆，反倒失了良机？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n我方近战单位阻挡数-1，远程单位阻挡数+1"
+    },
+    {
+      "operation": "FM-6",
+      "levelId": "activities/act19mini/level_act19mini_06",
+      "cn_name": "求速则贪",
+      "description": "铁百炼成钢，大泽万年方涸。何必强求一挥而就，反倒欠了火候？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-6 突袭",
+      "levelId": "activities/act19mini/level_act19mini_06",
+      "cn_name": "求速则贪",
+      "description": "铁百炼成钢，大泽万年方涸。何必强求一挥而就，反倒欠了火候？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n可部署人数-2"
+    },
+    {
+      "operation": "FM-7",
+      "levelId": "activities/act19mini/level_act19mini_07",
+      "cn_name": "求退则惘",
+      "description": "百草向阳，木争高而成林。何必强求与世无争，反倒亏了根本？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-7 突袭",
+      "levelId": "activities/act19mini/level_act19mini_07",
+      "cn_name": "求退则惘",
+      "description": "百草向阳，木争高而成林。何必强求与世无争，反倒亏了根本？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n不再持有<泵站>"
+    },
+    {
+      "operation": "FM-8",
+      "levelId": "activities/act19mini/level_act19mini_08",
+      "cn_name": "求进则愎",
+      "description": "万兽竞猎，羽弃陆而翔空。何必强求破釜沉舟，反倒绝了生路？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><改良型二踢脚></>对周围四格的敌人造成法术伤害，效果范围内晦明属性变化",
+      "hasChallenge": true
+    },
+    {
+      "operation": "FM-8 突袭",
+      "levelId": "activities/act19mini/level_act19mini_08",
+      "cn_name": "求进则愎",
+      "description": "万兽竞猎，羽弃陆而翔空。何必强求破釜沉舟，反倒绝了生路？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><改良型二踢脚></>对周围四格的敌人造成法术伤害，效果范围内晦明属性变化",
+      "hasChallenge": true,
+      "challenge": "<@lv.fs>附加条件：</>\\n“自在”【破桎而出】屏障吸收伤害量提升，【纬地经天】伤害大幅提升"
+    },
+    {
+      "operation": "FM-S-1",
+      "levelId": "activities/act19mini/level_act19mini_sub-1-1",
+      "cn_name": "有求则苦",
+      "description": "万般欲求，无外乎求得或求失。得失之间，遗漏了多少，又背负了多少？\\n<@lv.item><血债账簿></>“血债账簿”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”",
+      "hasChallenge": false
+    },
+    {
+      "operation": "FM-S-2",
+      "levelId": "activities/act19mini/level_act19mini_sub-2-1",
+      "cn_name": "莫向外求",
+      "description": "因心生缘，因缘而至。随性而为，顺手办事。不为得失所累，不被爱憎所困，方能心清目明，不忘自己最初的选择以及如此选择的原因。",
+      "hasChallenge": false
+    }
+  ]
+}
