@@ -70,11 +70,26 @@ const parseStorysData = (data: any) => {
 
         //添加突袭关卡
         if(stage_json.hasChallenge){
+          let hasTough = false;   //是否是磨难险地类型的关卡
+          let {levelId} = stage;
+          if(levelId.includes("easy")){
+            hasTough = true;
+            stage.levelId = levelId.replace("easy","main")
+          }
+
           const challenge = {
             ...stage,
             challenge: stage_json.challenge
           }
-          challenge.operation += "突袭";
+
+          if(hasTough){
+            challenge.levelId = levelId.replace("easy","tough");
+            challenge.operation += "磨难";
+          }else{
+            challenge.operation += "突袭";
+          }
+
+          
           episode.childNodes.push(challenge);
 
           if(levelPath){

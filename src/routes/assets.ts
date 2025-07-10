@@ -1,28 +1,42 @@
+import { errorMonitor } from "events";
 import express from "express";
 import fs from "fs";
 
 const router = express.Router();
 
-const trapDirs = fs.readdirSync("public/trap");
+const spineDirName = "public/trap/spine";
+const fbxDirName = "public/trap/fbx";
+
+const spineDirs = fs.readdirSync(spineDirName);
+const fbxDirs = fs.readdirSync(fbxDirName);
+
 const traps: {[key: string]: any} = {};
 
-trapDirs.forEach(name => {
-  const trapFiles = fs.readdirSync(`public/trap/${name}`);
-
+spineDirs.forEach(name => {
+  const trapFiles = fs.readdirSync(`${spineDirName}/${name}`);
   const skel = trapFiles.find( file => file.includes(".skel"));
-  const fbx = trapFiles.find( file => file.includes(".fbx"));
 
   if(skel){
     //spine文件
     traps[name] = {
       type: "spine",
+      name,
       skel: skel.replace(".skel",""),
       atlas: trapFiles.find( file => file.includes(".atlas"))?.replace(".atlas","")
     } 
-  }else if(fbx){
+  }
+
+})
+
+fbxDirs.forEach(name => {
+  const trapFiles = fs.readdirSync(`${fbxDirName}/${name}`);
+  const fbx = trapFiles.find( file => file.includes(".fbx"));
+
+  if(fbx){
     //fbx文件
     traps[name] = {
       type: "fbx",
+      name,
       fbx: fbx.replace(".fbx","")
     } 
   }
@@ -34,6 +48,8 @@ router.post("/getTrapsKey", (req: any, res: any) => {
   const keys: string[] = req.body.keys;
 
   const resData: {[key: string]: any[]} = {}
+  let error = "trap文件缺失:";
+  let hasError = false;
   keys.forEach(key => {
     const trap = traps[key];
     if(trap){
@@ -42,11 +58,15 @@ router.post("/getTrapsKey", (req: any, res: any) => {
       }
       resData[trap.type].push(trap)
     }else{
-      console.log(`trap文件缺失:${key}!`);
+      hasError = true;
+      error += ` ${key}`;
     }
   })
 
-  res.send(resData);
+  res.send({
+    data: resData,
+    error: hasError? error : null
+  });
 })
 
 export default router;

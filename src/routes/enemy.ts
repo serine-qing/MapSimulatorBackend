@@ -65,7 +65,9 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 router.post("/data", (req: any, res: any) => {
   const EnemyRefs: EnemyRef[] = req.body?.enemyRefs;
   const EnemyDatas: EnemyData[] = getEnemyData(EnemyRefs);
-  res.send({ EnemyDatas })
+  res.send({
+    data: { EnemyDatas }
+  })
 })
 
 export default router;
