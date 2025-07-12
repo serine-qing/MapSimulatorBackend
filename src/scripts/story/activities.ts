@@ -1,6 +1,8 @@
 import fs from "fs"
 
-const activities = "act19mini";
+const activities = "camp";
+//campaign即剿灭关卡，operation是地区名 所以需要特殊处理
+const isCamp = true;
 
 let stage_database: any = require ("./stage_table.json").stages
 //全部关卡的key
@@ -22,6 +24,12 @@ stage_keys.forEach(key => {
       description: findStage.description,
       hasChallenge: !!challenge,
     }
+
+    if(isCamp){
+      stage.operation = `${findStage.code} ${findStage.name}`;
+      stage.cn_name = "";
+    }
+
     stageJSON.childNodes.push(stage)
 
     if(challenge){

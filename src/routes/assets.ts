@@ -6,9 +6,11 @@ const router = express.Router();
 
 const spineDirName = "public/trap/spine";
 const fbxDirName = "public/trap/fbx";
+const imageDirName = "public/trap/image";
 
 const spineDirs = fs.readdirSync(spineDirName);
 const fbxDirs = fs.readdirSync(fbxDirName);
+const imageFiles = fs.readdirSync(imageDirName);
 
 const traps: {[key: string]: any} = {};
 
@@ -43,6 +45,19 @@ fbxDirs.forEach(name => {
 
 })
 
+imageFiles.forEach(name => {
+  const trapName = name.replace(".png","");
+
+  //没有fbx和spine的 再用贴图
+  if(!traps[trapName]){
+    traps[trapName] = {
+      type: "image",
+      name: trapName,
+      image: trapName
+    } 
+  }
+
+})
 
 router.post("/getTrapsKey", (req: any, res: any) => {
   const keys: string[] = req.body.keys;

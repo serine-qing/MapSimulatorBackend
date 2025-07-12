@@ -9,7 +9,8 @@
     "floder": "ts-node ./src/scripts/fbx/floder.ts",
     "activities": "ts-node ./src/scripts/story/activities.ts",
     "runes": "ts-node ./src/scripts/levels/runes.ts",
-    "spinesCheck": "ts-node ./src/scripts/spine/changeName.ts"
+    "spinesCheck": "ts-node ./src/scripts/spine/changeName.ts",
+    "getTraps": "ts-node ./src/scripts/pachong/getTraps.ts"
   },
   "keywords": [],
   "author": "",
@@ -18,8 +19,11 @@
   "dependencies": {
     "@types/express": "^5.0.3",
     "@types/node": "^24.0.3",
+    "axios": "^1.10.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "puppeteer": "^24.12.1",
+    "puppeteer-extra": "^3.3.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
