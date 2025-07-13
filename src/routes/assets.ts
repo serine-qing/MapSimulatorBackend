@@ -14,21 +14,23 @@ const imageFiles = fs.readdirSync(imageDirName);
 
 const traps: {[key: string]: any} = {};
 
-spineDirs.forEach(name => {
-  const trapFiles = fs.readdirSync(`${spineDirName}/${name}`);
-  const skel = trapFiles.find( file => file.includes(".skel"));
 
-  if(skel){
-    //spine文件
-    traps[name] = {
-      type: "spine",
-      name,
-      skel: skel.replace(".skel",""),
-      atlas: trapFiles.find( file => file.includes(".atlas"))?.replace(".atlas","")
-    } 
-  }
+//暂时不用spine的trap了 （太丑）
+// spineDirs.forEach(name => {
+//   const trapFiles = fs.readdirSync(`${spineDirName}/${name}`);
+//   const skel = trapFiles.find( file => file.includes(".skel"));
 
-})
+//   if(skel){
+//     //spine文件
+//     traps[name] = {
+//       type: "spine",
+//       name,
+//       skel: skel.replace(".skel",""),
+//       atlas: trapFiles.find( file => file.includes(".atlas"))?.replace(".atlas","")
+//     } 
+//   }
+
+// })
 
 fbxDirs.forEach(name => {
   const trapFiles = fs.readdirSync(`${fbxDirName}/${name}`);

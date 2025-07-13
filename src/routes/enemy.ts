@@ -17,6 +17,7 @@ interface EnemyData{
   name: string,
   rangeRadius: number,     //攻击范围
   motion: string,         //移动motion
+  notCountInTotal: boolean   //非首要目标
 }
 
 const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
@@ -36,6 +37,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       name: sourceData.name.m_value,
       rangeRadius: sourceData.rangeRadius.m_value,  
       motion: sourceData.motion.m_value, 
+      notCountInTotal: sourceData.notCountInTotal.m_value
     }
 
     //敌人级别大于0，需要从用高级别的数据覆盖低级别的数据
