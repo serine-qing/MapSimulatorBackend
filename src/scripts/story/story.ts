@@ -71,8 +71,14 @@ const parseStorysData = (data: any) => {
         //添加突袭关卡
         if(stage_json.hasChallenge){
           let hasTough = false;   //是否是磨难险地类型的关卡
-          let {levelId} = stage;
-          if(levelId.includes("easy")){
+
+          let { levelId } = stage;
+
+          //磨难排除第九章
+          if(levelId.includes("easy_09")){
+            stage.levelId = levelId.replace("easy","main")
+            
+          }else if(levelId.includes("easy")){
             hasTough = true;
             stage.levelId = levelId.replace("easy","main")
           }

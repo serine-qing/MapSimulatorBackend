@@ -75,7 +75,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       })
 
       //覆盖天赋
-      getTalents(talentBlackboard).forEach(talent => {
+      getTalents(talentBlackboard)?.forEach(talent => {
         const {key , value} = talent;
         const find = parsedData.talentBlackboard.find(t => t.key === key);
         if(find){
