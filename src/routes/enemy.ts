@@ -15,6 +15,7 @@ interface EnemyData{
   description: string,    //
   levelType: string,      //敌人级别 普通/精英/领袖
   name: string,
+  applyWay: string,
   rangeRadius: number,     //攻击范围
   motion: string,         //移动motion
   notCountInTotal: boolean,   //非首要目标
@@ -47,6 +48,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       description: sourceData.description.m_value,
       levelType:sourceData.levelType.m_value,
       name: sourceData.name.m_value,
+      applyWay: sourceData.applyWay.m_value,
       rangeRadius: sourceData.rangeRadius.m_value,  
       motion: sourceData.motion.m_value, 
       notCountInTotal: sourceData.notCountInTotal.m_value,

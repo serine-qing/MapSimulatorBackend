@@ -31,6 +31,7 @@ spineDirs.forEach(name => {
 
 })
 
+
 fbxDirs.forEach(name => {
   const trapFiles = fs.readdirSync(`${fbxDirName}/${name}`);
   const fbx = trapFiles.find( file => file.includes(".fbx"));
@@ -68,6 +69,7 @@ router.post("/getTrapsKey", (req: any, res: any) => {
   let hasError = false;
   keys.forEach(key => {
     const trap = traps[key];
+
     if(trap){
       if(!resData[trap.type]){
         resData[trap.type] = [];
