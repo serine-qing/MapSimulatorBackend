@@ -14,11 +14,13 @@ interface EnemyData{
   attributes: any,        //敌人属性
   description: string,    //
   levelType: string,      //敌人级别 普通/精英/领袖
+  level: number,          //敌人等级
   name: string,
   applyWay: string,
-  rangeRadius: number,     //攻击范围
+  rangeRadius?: number,     //攻击范围
   motion: string,         //移动motion
   notCountInTotal: boolean,   //非首要目标
+  lifePointReduce: number,    //目标价值
   talentBlackboard: any[]   //天赋
 }
 
@@ -47,13 +49,16 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       attributes: {...sourceData.attributes},  
       description: sourceData.description.m_value,
       levelType:sourceData.levelType.m_value,
+      level: enemyRef.level,
       name: sourceData.name.m_value,
       applyWay: sourceData.applyWay.m_value,
       rangeRadius: sourceData.rangeRadius.m_value,  
       motion: sourceData.motion.m_value, 
+      lifePointReduce: sourceData.lifePointReduce.m_value,
       notCountInTotal: sourceData.notCountInTotal.m_value,
       talentBlackboard
     }
+
 
     //敌人级别大于0，需要从用高级别的数据覆盖低级别的数据
     if(enemyRef.level > 0){
@@ -95,6 +100,10 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       }
     })
     
+    //将rangeRadius放到属性里，更符合逻辑
+    parsedData.attributes.rangeRadius = parsedData.rangeRadius;
+    delete parsedData.rangeRadius;
+
     enemyDatas.push(parsedData);
   })
 
