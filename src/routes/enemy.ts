@@ -1,3 +1,4 @@
+import { isHugeEnemy } from "../function/EnemyHelper";
 import express from "express";
 const router = express.Router();
 const enemy_database: any = require ("../database/enemy_database.json").enemies;
@@ -19,10 +20,14 @@ interface EnemyData{
   applyWay: string,
   rangeRadius?: number,     //攻击范围
   motion: string,         //移动motion
+  hugeEnemy: boolean,     //是否是巨型敌人
+  unMoveable: boolean,   //是否不可移动
   notCountInTotal: boolean,   //非首要目标
   lifePointReduce: number,    //目标价值
-  talentBlackboard: any[]   //天赋
+  talentBlackboard: any[],   //天赋
+  skills: any[]              //技能
 }
+
 
 const getTalents = (talentBlackboard: any[]) => {
   return talentBlackboard?.map(talent => {
@@ -44,6 +49,13 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 
     const talentBlackboard = getTalents(sourceData.talentBlackboard)
 
+    let hugeEnemy = false;
+    let unMoveable = false;
+    if(isHugeEnemy(find.Key)){
+      hugeEnemy = true;
+      unMoveable = true;
+    }
+    
     const parsedData: EnemyData= {
       key: find.Key,
       attributes: {...sourceData.attributes},  
@@ -54,9 +66,11 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       applyWay: sourceData.applyWay.m_value,
       rangeRadius: sourceData.rangeRadius.m_value,  
       motion: sourceData.motion.m_value, 
+      hugeEnemy, unMoveable,
       lifePointReduce: sourceData.lifePointReduce.m_value,
       notCountInTotal: sourceData.notCountInTotal.m_value,
-      talentBlackboard
+      talentBlackboard,
+      skills: sourceData.skills
     }
 
 
@@ -71,7 +85,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
         }
       });
 
-      const {attributes, talentBlackboard} = overwriteData;
+      const {attributes, talentBlackboard, skills} = overwriteData;
 
       Object.keys(attributes).forEach(key => {
         const { m_defined, m_value } = attributes[key];
@@ -92,6 +106,13 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
         }
       })
 
+      skills?.forEach((skill: any) => {
+        const index = parsedData.skills.findIndex(findSkill => findSkill.prefabKey === skill.prefabKey);
+        if(index > -1){
+          parsedData.skills[index] = skill;
+        }
+      })
+
     }
 
     Object.keys(parsedData.attributes).forEach(attr => {
@@ -99,7 +120,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
         parsedData.attributes[attr] = parsedData.attributes[attr].m_value;
       }
     })
-    
+      
     //将rangeRadius放到属性里，更符合逻辑
     parsedData.attributes.rangeRadius = parsedData.rangeRadius;
     delete parsedData.rangeRadius;
