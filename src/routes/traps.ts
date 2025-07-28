@@ -10,6 +10,7 @@ const fbxDirs = fs.readdirSync(fbxDirName);
 const imageFiles = fs.readdirSync(imageDirName);
 
 const traps: {[key: string]: any} = {};
+const tokenCards: {[key: string]: any} = {};
 
 
 spineDirs.forEach(name => {
@@ -56,6 +57,11 @@ imageFiles.forEach(name => {
     } 
   }
 
+  tokenCards[trapName] = {
+    name: trapName,
+    image: trapName
+  } 
+
 })
 
 const getTrapsKey = (req: any, res: any) => {
@@ -84,4 +90,28 @@ const getTrapsKey = (req: any, res: any) => {
   });
 };
 
-export default getTrapsKey;
+//获取能使用的装置图标
+const getTokenCards= (req: any, res: any) => {
+  const keys: string[] = req.body.keys;
+
+  const resData: any[] = [];
+  let error = "tokenCards文件缺失:";
+  let hasError = false;
+  keys.forEach(key => {
+    const tokenCard = tokenCards[key];
+
+    if(tokenCard){
+      resData.push(tokenCard)
+    }else{
+      hasError = true;
+      error += ` ${key}`;
+    }
+  })
+
+  res.send({
+    data: resData,
+    error: hasError? error : null
+  });
+};
+
+export { getTrapsKey, getTokenCards };
