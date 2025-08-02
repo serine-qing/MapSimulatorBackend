@@ -2,6 +2,7 @@ import { isHugeEnemy } from "../function/EnemyHelper";
 import express from "express";
 const router = express.Router();
 const enemy_database: any = require ("../database/enemy_database.json").enemies;
+const enemy_handbook: any = require ("../database/enemy_handbook_table.json").enemyData;
 
 interface EnemyRef{
   id: string,
@@ -25,8 +26,16 @@ interface EnemyData{
   notCountInTotal: boolean,   //非首要目标
   lifePointReduce: number,    //目标价值
   talentBlackboard: any[],   //天赋
-  skills: any[]              //技能
+  skills: any[],              //技能
+  abilityList: any,        //能力描述列表
 }
+
+enemy_database.forEach((enemy: any) => {
+  const find: any = Object.values(enemy_handbook).find((e: any) => e.enemyId === enemy.key);
+  if(find){
+    enemy.abilityList = find.abilityList;
+  }
+})
 
 
 const getTalents = (talentBlackboard: any[]) => {
@@ -43,21 +52,22 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 
   enemyRefs.forEach((enemyRef: EnemyRef) => {
     const find = enemy_database.find( (e: any) =>{
-      return enemyRef.id === e.Key;
+      return enemyRef.id === e.key;
     })
-    const sourceData = find.Value[0].enemyData;
+
+    const sourceData = find.value[0].enemyData;
 
     const talentBlackboard = getTalents(sourceData.talentBlackboard)
 
     let hugeEnemy = false;
     let unMoveable = false;
-    if(isHugeEnemy(find.Key)){
+    if(isHugeEnemy(find.key)){
       hugeEnemy = true;
       unMoveable = true;
     }
     
     const parsedData: EnemyData= {
-      key: find.Key,
+      key: find.key,
       attributes: {...sourceData.attributes},  
       description: sourceData.description.m_value,
       levelType:sourceData.levelType.m_value,
@@ -70,13 +80,14 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
       lifePointReduce: sourceData.lifePointReduce.m_value,
       notCountInTotal: sourceData.notCountInTotal.m_value,
       talentBlackboard,
-      skills: sourceData.skills
+      skills: sourceData.skills,
+      abilityList: find.abilityList
     }
 
 
     //敌人级别大于0，需要从用高级别的数据覆盖低级别的数据
     if(enemyRef.level > 0){
-      const overwriteData = find.Value[enemyRef.level].enemyData;
+      const overwriteData = find.value[enemyRef.level].enemyData;
       Object.keys(overwriteData).forEach(key => {
         const attr = overwriteData[key];
         if(attr?.m_defined === true){

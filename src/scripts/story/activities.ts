@@ -1,6 +1,6 @@
 import fs from "fs"
 
-const activities = "camp";
+const activities = "act44side";
 //campaign即剿灭关卡，operation是地区名 所以需要特殊处理
 const isCamp = true;
 
@@ -16,7 +16,7 @@ stage_keys.forEach(key => {
   if(key.includes(activities) && !key.includes("#f#")){
     const findStage = stage_database[key];
     const challenge = findStage.hardStagedId;
-
+    if(!findStage.levelId) return; //非战斗
     const stage = {
       operation: findStage.code,
       levelId: findStage.levelId.toLowerCase(),
