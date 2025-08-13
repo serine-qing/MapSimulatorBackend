@@ -17,20 +17,42 @@ spineDirs.forEach(name => {
       atlas
     } 
   }
-
 })
 
-const getSpinesKey = (req: any, res: any) => {
+const fbxDirName = "public/fbx";
+const fbxDirs = fs.readdirSync(fbxDirName);
+const fbxs: {[key: string]: any} = {};
+
+fbxDirs.forEach(name => {
+  const trapFiles = fs.readdirSync(`${fbxDirName}/${name}`);
+  const fbx = trapFiles.find( file => file.includes(".fbx"));
+
+  if(fbx){
+    fbxs[name] = {
+      name,
+      fbxName: fbx.replace(".fbx",""),
+      url: `fbx/${name}/${fbx}`,
+    } 
+  }
+})
+
+const getMeshsKey = (req: any, res: any) => {
   const keys: string[] = req.body.keys;
 
-  const resData: {[key: string]: any} = {}
-  let error = "spine文件缺失:";
+  const resData: {[key: string]: any} = {
+    spine: {},
+    fbx:{}
+  }
+  let error = "敌人mesh文件缺失:";
   let hasError = false;
   keys.forEach(key => {
     const spine = spines[key];
+    const fbx = fbxs[key];
 
     if(spine){
-      resData[key] = spine;
+      resData.spine[key] = spine;
+    }else if(fbx){
+      resData.fbx[key] = fbx;
     }else{
       hasError = true;
       error += ` ${key}`;
@@ -42,5 +64,5 @@ const getSpinesKey = (req: any, res: any) => {
     error: hasError? error : null
   });
 };
-export default getSpinesKey;
+export default getMeshsKey;
 

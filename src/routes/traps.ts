@@ -1,20 +1,20 @@
 
 import fs from "fs";
 
-const spineDirName = "public/trap/spine";
-const fbxDirName = "public/trap/fbx";
-const imageDirName = "public/trap/image";
+const spineDirName = "trap/spine";
+const fbxDirName = "trap/fbx";
+const imageDirName = "trap/image";
 
-const spineDirs = fs.readdirSync(spineDirName);
-const fbxDirs = fs.readdirSync(fbxDirName);
-const imageFiles = fs.readdirSync(imageDirName);
+const spineDirs = fs.readdirSync("public/" + spineDirName);
+const fbxDirs = fs.readdirSync("public/" + fbxDirName);
+const imageFiles = fs.readdirSync("public/" + imageDirName);
 
 const traps: {[key: string]: any} = {};
 const tokenCards: {[key: string]: any} = {};
 
 
 spineDirs.forEach(name => {
-  const trapFiles = fs.readdirSync(`${spineDirName}/${name}`);
+  const trapFiles = fs.readdirSync(`public/${spineDirName}/${name}`);
   const skel = trapFiles.find( file => file.includes(".skel"));
 
   if(skel){
@@ -31,7 +31,7 @@ spineDirs.forEach(name => {
 
 
 fbxDirs.forEach(name => {
-  const trapFiles = fs.readdirSync(`${fbxDirName}/${name}`);
+  const trapFiles = fs.readdirSync(`public/${fbxDirName}/${name}`);
   const fbx = trapFiles.find( file => file.includes(".fbx"));
 
   if(fbx){
@@ -39,7 +39,8 @@ fbxDirs.forEach(name => {
     traps[name] = {
       type: "fbx",
       name,
-      fbx: fbx.replace(".fbx","")
+      fbxName: fbx.replace(".fbx",""),
+      url: `${fbxDirName}/${name}/${fbx}`,
     } 
   }
 
