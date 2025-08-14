@@ -197,6 +197,66 @@
               "challenge": "<@lv.fs>附加条件：</>\\n“斩”所需费用提升"
             },
             {
+              "operation": "AT-S-1 神签",
+              "levelId": "activities/act44side/level_act44side_sub-1-1",
+              "cn_name": "",
+              "description": "签落为尘，诸缘已定。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "hasChallenge": true
+            },
+            {
+              "operation": "AT-S-1 神签 突袭",
+              "levelId": "activities/act44side/level_act44side_sub-1-1",
+              "cn_name": "",
+              "description": "签落为尘，诸缘已定。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n土遁宗师更早行动"
+            },
+            {
+              "operation": "AT-S-2 祓雨",
+              "levelId": "activities/act44side/level_act44side_sub-1-2",
+              "cn_name": "",
+              "description": "清雨过身，心尘难祓。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "hasChallenge": true
+            },
+            {
+              "operation": "AT-S-2 祓雨 突袭",
+              "levelId": "activities/act44side/level_act44side_sub-1-2",
+              "cn_name": "",
+              "description": "清雨过身，心尘难祓。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n雷遁宗师获得隐匿"
+            },
+            {
+              "operation": "AT-S-3 逢魔",
+              "levelId": "activities/act44side/level_act44side_sub-1-3",
+              "cn_name": "",
+              "description": "昼夜交隙，百魅争途。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "hasChallenge": true
+            },
+            {
+              "operation": "AT-S-3 逢魔 突袭",
+              "levelId": "activities/act44side/level_act44side_sub-1-3",
+              "cn_name": "",
+              "description": "昼夜交隙，百魅争途。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n场上两个位置不可部署"
+            },
+            {
+              "operation": "AT-S-4 罪业",
+              "levelId": "activities/act44side/level_act44side_sub-1-4",
+              "cn_name": "",
+              "description": "灯火既熄，业焰自明。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "hasChallenge": true
+            },
+            {
+              "operation": "AT-S-4 罪业 突袭",
+              "levelId": "activities/act44side/level_act44side_sub-1-4",
+              "cn_name": "",
+              "description": "灯火既熄，业焰自明。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n三船光平更频繁的使用“握筹布画”"
+            },
+            {
               "operation": "AT-P-1 起点",
               "levelId": "activities/act44side/level_act44side_sp01",
               "cn_name": "",
