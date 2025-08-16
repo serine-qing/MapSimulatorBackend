@@ -34572,6 +34572,25 @@
       ]
     },
     {
+      "type": "危机合约RE",
+      "childNodes":[
+        {
+          "episode": "#4 弧光作战",
+          "childNodes": [
+            {
+              "operation": "常驻图 滞空焦点",
+              "cn_name": "",
+              "description": "还没有做Tag选择，仅供参考！",
+              "challenge": "",
+              "episode": "#4 弧光作战",
+              "hasChallenge": false,
+              "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "剿灭作战",
       "stage": true,
       "childNodes": [
