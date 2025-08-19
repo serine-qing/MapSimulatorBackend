@@ -2,7 +2,6 @@ import fs from 'fs';
 
 let stage_database: any = require ("./stage_table.json").stages
 let stage_keys: any[] = Object.keys(stage_database);
-
 let ss_info: any = require("./ss_info.json")
 
 //活动ss和主线详情数据
@@ -62,6 +61,11 @@ const parseStorysData = (data: any) => {
           hasChallenge: stage_json.hasChallenge,
           levelId: levelPath? levelPath : ""
         }
+
+        if(story.type === "剿灭作战"){
+          stage.operation = `${stage.operation} ${stage.cn_name}`;
+          stage.cn_name = "";
+        }
         episode.childNodes.push(stage);
 
         if(levelPath){
@@ -112,10 +116,10 @@ const parseStorysData = (data: any) => {
     storys.push(story);
   });
 
-  return {storys, stageKeyMap};
+  return {storys};
 } 
 
-const data = parseStorysData(ss_info.childNodes);
+const data = parseStorysData(ss_info);
 
 fs.writeFile('storys.json', JSON.stringify(data, null, 2), (err: any) => {
   if (err) throw err;

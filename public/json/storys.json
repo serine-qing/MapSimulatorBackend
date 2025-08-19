@@ -33915,659 +33915,597 @@
         {
           "episode": "离解复合",
           "childNodes": [
-            {
-              "operation": "15-2",
-              "cn_name": "执此剑者",
-              "description": "“......死亡也无法统治一切。”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "obt/main/level_main_15-01"
-            },
-            {
-              "operation": "15-3",
-              "cn_name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-02"
-            },
-            {
-              "operation": "15-3突袭",
-              "cn_name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-02",
-              "challenge": "敌人的移动速度提升"
-            },
-            {
-              "operation": "15-4",
-              "cn_name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-03"
-            },
-            {
-              "operation": "15-4突袭",
-              "cn_name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-03",
-              "challenge": "敌人的移动速度提升"
-            },
-            {
-              "operation": "15-5",
-              "cn_name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-04"
-            },
-            {
-              "operation": "15-5突袭",
-              "cn_name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-04",
-              "challenge": "部分敌人有所不同"
-            },
-            {
-              "operation": "15-6",
-              "cn_name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-05"
-            },
-            {
-              "operation": "15-6突袭",
-              "cn_name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-05",
-              "challenge": "内测版自助出餐终端召唤技能冷却时间减少"
-            },
-            {
-              "operation": "15-7",
-              "cn_name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                },
-                {
-                  "name": "<活性源石>",
-                  "value": "部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-06"
-            },
-            {
-              "operation": "15-7突袭",
-              "cn_name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                },
-                {
-                  "name": "<活性源石>",
-                  "value": "部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-06",
-              "challenge": "内测版自助出餐终端召唤技能冷却时间减少"
-            },
-            {
-              "operation": "15-8",
-              "cn_name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-07"
-            },
-            {
-              "operation": "15-8突袭",
-              "cn_name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-07",
-              "challenge": "稳定态萨卡兹术师结晶的防御力大幅提升"
-            },
-            {
-              "operation": "15-9",
-              "cn_name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-08"
-            },
-            {
-              "operation": "15-9突袭",
-              "cn_name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-08",
-              "challenge": "战场中有4个位置无法部署我方单位"
-            },
-            {
-              "operation": "15-10",
-              "cn_name": "隔离净空",
-              "description": "“经验，理论，现象。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-09"
-            },
-            {
-              "operation": "15-10突袭",
-              "cn_name": "隔离净空",
-              "description": "“经验，理论，现象。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-09",
-              "challenge": "敌人的防御力大幅提升"
-            },
-            {
-              "operation": "15-11",
-              "cn_name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-10"
-            },
-            {
-              "operation": "15-11突袭",
-              "cn_name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-10",
-              "challenge": "部署费用的回复速度降低"
-            },
-            {
-              "operation": "15-12",
-              "cn_name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-11"
-            },
-            {
-              "operation": "15-12突袭",
-              "cn_name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-11",
-              "challenge": "部分敌人有所不同"
-            },
-            {
-              "operation": "15-13",
-              "cn_name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-12"
-            },
-            {
-              "operation": "15-13突袭",
-              "cn_name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-12",
-              "challenge": "我方单位的攻击力降低"
-            },
-            {
-              "operation": "15-14",
-              "cn_name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-13"
-            },
-            {
-              "operation": "15-14突袭",
-              "cn_name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-13",
-              "challenge": "部分地块会长出源石晶簇造成范围伤害"
-            },
-            {
-              "operation": "15-15",
-              "cn_name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-14"
-            },
-            {
-              "operation": "15-15突袭",
-              "cn_name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-14",
-              "challenge": "部分敌人有所不同"
-            },
-            {
-              "operation": "15-17",
-              "cn_name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-15"
-            },
-            {
-              "operation": "15-17突袭",
-              "cn_name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-15",
-              "challenge": "敌人的攻击力大幅提升"
-            },
-            {
-              "operation": "15-18",
-              "cn_name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-16"
-            },
-            {
-              "operation": "15-18突袭",
-              "cn_name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-16",
-              "challenge": "我方单位的防御力降低"
-            },
-            {
-              "operation": "15-19",
-              "cn_name": "直至，此刻",
-              "description": "“准备战斗。只有战斗能决定结果。”",
-              "episode": "离解复合",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "obt/main/level_main_15-17"
-            },
-            {
-              "operation": "15-20",
-              "cn_name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-18"
-            },
-            {
-              "operation": "15-20突袭",
-              "cn_name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "obt/main/level_main_15-18",
-              "challenge": "敌人的移动速度提升"
-            },
-            {
-              "operation": "H15-1",
-              "cn_name": "机密预案-1",
-              "description": "“只因生与死本是一体，如同江河与海。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "obt/hard/level_hard_15-01"
-            },
-            {
-              "operation": "H15-2",
-              "cn_name": "机密预案-2",
-              "description": "“只有在饮下缄默河水之后，才能开口歌唱。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "obt/hard/level_hard_15-02"
-            },
-            {
-              "operation": "H15-3",
-              "cn_name": "机密预案-3",
-              "description": "“只有在抵达山峰之巅以后，才能开始攀登。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "obt/hard/level_hard_15-03"
-            },
-            {
-              "operation": "H15-4",
-              "cn_name": "机密预案-4",
-              "description": "“只有在身躯归还于大地后，才能真正地起舞。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "obt/hard/level_hard_15-04"
-            },
-            {
-              "operation": "TR-26",
-              "cn_name": "内在威胁",
-              "description": "“敌人，不总是从外面到来。”",
-              "episode": "离解复合",
-              "custom": [
-                {
-                  "name": "<侵入式调用>",
-                  "value": "PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点"
-                },
-                {
-                  "name": "<弱化节点>",
-                  "value": "激活后使范围内的对方单位防御力和法术抗性降低"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "obt/training/level_training_26"
-            }
-          ]
+              {
+                "operation": "15-2",
+                "levelId": "obt/main/level_main_15-01",
+                "cn_name": "执此剑者",
+                "description": "“......死亡也无法统治一切。”",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-3",
+                "levelId": "obt/main/level_main_15-02",
+                "cn_name": "所谓奇迹",
+                "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-3 险地",
+                "levelId": "obt/main/level_main_15-02",
+                "cn_name": "所谓奇迹",
+                "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-02_1a",
+                    "runeDesc": "冰镇饮料机的攻击速度大幅提升",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-02_1b",
+                    "runeDesc": "冰镇饮料机的生命值大幅提升",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-02_2a",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-02_2b",
+                    "runeDesc": "战场中有4个位置无法部署我方单位",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-4",
+                "levelId": "obt/main/level_main_15-03",
+                "cn_name": "深渊之侧",
+                "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-4 险地",
+                "levelId": "obt/main/level_main_15-03",
+                "cn_name": "深渊之侧",
+                "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-03_1a",
+                    "runeDesc": "无忧货运帮手的生命值大幅提升",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-03_1b",
+                    "runeDesc": "无忧货运帮手的攻击力大幅提升",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-03_2a",
+                    "runeDesc": "部分地块会长出源石晶簇造成范围伤害",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-03_2b",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-5",
+                "levelId": "obt/main/level_main_15-04",
+                "cn_name": "喧哗争端",
+                "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-5 险地",
+                "levelId": "obt/main/level_main_15-04",
+                "cn_name": "喧哗争端",
+                "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-04_1a",
+                    "runeDesc": "禁止使用狙击和近卫干员",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-04_1b",
+                    "runeDesc": "禁止使用术师和特种干员",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-04_2a",
+                    "runeDesc": "战场中有4个位置无法部署我方单位",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-04_2b",
+                    "runeDesc": "可部署干员数量减少2",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-6",
+                "levelId": "obt/main/level_main_15-05",
+                "cn_name": "刻骨入髓",
+                "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-6 险地",
+                "levelId": "obt/main/level_main_15-05",
+                "cn_name": "刻骨入髓",
+                "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-05_1a",
+                    "runeDesc": "可部署干员数量减少2",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-05_1b",
+                    "runeDesc": "我方单位的阻挡数-1",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-05_2a",
+                    "runeDesc": "内测版自助出餐终端召唤技能冷却时间进一步减少",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-05_2b",
+                    "runeDesc": "内测版自助出餐终端和迷茫的修理小助手获得<隐匿>效果",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-7",
+                "levelId": "obt/main/level_main_15-06",
+                "cn_name": "临界时刻",
+                "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-7 险地",
+                "levelId": "obt/main/level_main_15-06",
+                "cn_name": "临界时刻",
+                "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-06_1a",
+                    "runeDesc": "活性源石提高攻击力的效果翻倍",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-06_1b",
+                    "runeDesc": "先锋干员、重装干员、近卫干员和特种干员的再部署时间大幅增加",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-06_2a",
+                    "runeDesc": "我方单位生命值在50%以下时受到的伤害增加",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-06_2b",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-8",
+                "levelId": "obt/main/level_main_15-07",
+                "cn_name": "破碎回响",
+                "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-8 险地",
+                "levelId": "obt/main/level_main_15-07",
+                "cn_name": "破碎回响",
+                "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n稳定态萨卡兹术师结晶的防御力大幅提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-07_1a",
+                    "runeDesc": "部分敌人有所不同",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-07_1b",
+                    "runeDesc": "冰镇饮料机的攻击范围扩大",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-07_2a",
+                    "runeDesc": "我方单位的部署费用+3",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-07_2b",
+                    "runeDesc": "我方单位的再部署时间大幅增加",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-9",
+                "levelId": "obt/main/level_main_15-08",
+                "cn_name": "减压症候",
+                "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-9 险地",
+                "levelId": "obt/main/level_main_15-08",
+                "cn_name": "减压症候",
+                "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n战场中有4个位置无法部署我方单位",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-08_1a",
+                    "runeDesc": "失控的修理小助手移动速度增加",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-08_1b",
+                    "runeDesc": "失控的修理小助手防御力增加",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-08_2a",
+                    "runeDesc": "狙击干员的部署费用提升至2倍",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-08_2b",
+                    "runeDesc": "术师干员的部署费用提升至2倍",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-10",
+                "levelId": "obt/main/level_main_15-09",
+                "cn_name": "隔离净空",
+                "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-10 险地",
+                "levelId": "obt/main/level_main_15-09",
+                "cn_name": "隔离净空",
+                "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的防御力大幅提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-09_1a",
+                    "runeDesc": "禁止使用近卫干员",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-09_1b",
+                    "runeDesc": "PRTS将部署额外的弱化节点",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-09_2a",
+                    "runeDesc": "稳定态萨卡兹术师结晶周围没有其他敌人时攻击力提升",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-09_2b",
+                    "runeDesc": "稳定态萨卡兹术师结晶封锁费用回复的时间增加",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-11",
+                "levelId": "obt/main/level_main_15-10",
+                "cn_name": "一段长梦将醒",
+                "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-11 险地",
+                "levelId": "obt/main/level_main_15-10",
+                "cn_name": "一段长梦将醒",
+                "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部署费用的回复速度降低",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-10_1a",
+                    "runeDesc": "战场中有4个位置无法部署我方单位",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-10_1b",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-10_2a",
+                    "runeDesc": "近卫和重装干员的部署费用提升至2倍",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-10_2b",
+                    "runeDesc": "狙击和术师干员的部署费用提升至2倍",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-12",
+                "levelId": "obt/main/level_main_15-11",
+                "cn_name": "目击众神死亡的荒原",
+                "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-12 险地",
+                "levelId": "obt/main/level_main_15-11",
+                "cn_name": "目击众神死亡的荒原",
+                "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-11_1a",
+                    "runeDesc": "禁止使用狙击干员",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-11_1b",
+                    "runeDesc": "“寒灾回响”的攻击范围扩大",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-11_2a",
+                    "runeDesc": "我方单位的阻挡数-1",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-11_2b",
+                    "runeDesc": "“寒灾回响”获得缓慢回复生命效果",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-13",
+                "levelId": "obt/main/level_main_15-12",
+                "cn_name": "成为你的眼睛",
+                "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-13 险地",
+                "levelId": "obt/main/level_main_15-12",
+                "cn_name": "成为你的眼睛",
+                "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的攻击力降低",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-12_1a",
+                    "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-12_1b",
+                    "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-12_2a",
+                    "runeDesc": "固化源石巨像的生命值提升",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-12_2b",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-14",
+                "levelId": "obt/main/level_main_15-13",
+                "cn_name": "在尘或血中",
+                "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-14 险地",
+                "levelId": "obt/main/level_main_15-13",
+                "cn_name": "在尘或血中",
+                "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分地块会长出源石晶簇造成范围伤害",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-13_1a",
+                    "runeDesc": "源石晶簇长出的间隔时间缩短",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-13_1b",
+                    "runeDesc": "源石晶簇爆炸造成的伤害增加",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-13_2a",
+                    "runeDesc": "“寒灾回响”的攻击速度提升",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-13_2b",
+                    "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-15",
+                "levelId": "obt/main/level_main_15-14",
+                "cn_name": "拒绝哀悼",
+                "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-15 险地",
+                "levelId": "obt/main/level_main_15-14",
+                "cn_name": "拒绝哀悼",
+                "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-14_1a",
+                    "runeDesc": "转译基底·β变形需要的攻击次数增加",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-14_1b",
+                    "runeDesc": "转译基底·β变形后的攻击速度提升",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-14_2a",
+                    "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-14_2b",
+                    "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-17",
+                "levelId": "obt/main/level_main_15-15",
+                "cn_name": "“她”",
+                "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-17 险地",
+                "levelId": "obt/main/level_main_15-15",
+                "cn_name": "“她”",
+                "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>\\n<@lv.fs>附加条件：</>\\n敌人的攻击力大幅提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-15_1a",
+                    "runeDesc": "部署费用的回复速度降低",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-15_1b",
+                    "runeDesc": "可部署干员数量减少3",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-15_2a",
+                    "runeDesc": "PRTS部署的“寒灾回响”位置改变",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-15_2b",
+                    "runeDesc": "转译基底·β攻击生命值低于50%的目标时伤害提升",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-18",
+                "levelId": "obt/main/level_main_15-16",
+                "cn_name": "从未怀疑，从未远离",
+                "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-18 险地",
+                "levelId": "obt/main/level_main_15-16",
+                "cn_name": "从未怀疑，从未远离",
+                "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的防御力降低",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-16_1a",
+                    "runeDesc": "转译基底·β的移动速度提升",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-16_1b",
+                    "runeDesc": "转译基底·β的生命值提升",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-16_2a",
+                    "runeDesc": "部署费用的回复速度降低",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-16_2b",
+                    "runeDesc": "禁止使用辅助和术师干员",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              },
+              {
+                "operation": "15-19",
+                "levelId": "obt/main/level_main_15-17",
+                "cn_name": "直至，此刻",
+                "description": "“准备战斗。只有战斗能决定结果。”",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-20",
+                "levelId": "obt/main/level_main_15-18",
+                "cn_name": "得以重回",
+                "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+                "hasChallenge": false
+              },
+              {
+                "operation": "15-20 险地",
+                "levelId": "obt/main/level_main_15-18",
+                "cn_name": "得以重回",
+                "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+                "hasChallenge": false,
+                "sandTable": [
+                  {
+                    "runeId": "main_15-18_1a",
+                    "runeDesc": "狙击和近卫干员的部署费用提升至2倍",
+                    "runeKey": "rune_level1_1"
+                  },
+                  {
+                    "runeId": "main_15-18_1b",
+                    "runeDesc": "术师和特种干员的部署费用提升至2倍",
+                    "runeKey": "rune_level1_2"
+                  },
+                  {
+                    "runeId": "main_15-18_2a",
+                    "runeDesc": "场上出现新的敌人",
+                    "runeKey": "rune_level2_1"
+                  },
+                  {
+                    "runeId": "main_15-18_2b",
+                    "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                    "runeKey": "rune_level2_2"
+                  }
+                ]
+              }
+            ]
         }
       ]
     },
