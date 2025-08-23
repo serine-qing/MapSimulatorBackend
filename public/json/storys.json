@@ -34529,6 +34529,40 @@
       ]
     },
     {
+      "type": "全息作战矩阵",
+      "stage": true,
+      "childNodes":[
+        {
+          "operation": "7-18",
+          "levelId": "obt/recalrune/level_recalrune_01-01",
+          "cn_name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "operation": "LS-4",
+          "levelId": "obt/recalrune/level_recalrune_01-02",
+          "cn_name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "operation": "H5-1",
+          "levelId": "obt/recalrune/level_recalrune_01-03",
+          "cn_name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "operation": "H9-2",
+          "levelId": "obt/recalrune/level_recalrune_01-04",
+          "cn_name": "",
+          "description": "",
+          "hasChallenge": false
+        }
+      ]
+    },
+    {
       "type": "剿灭作战",
       "stage": true,
       "childNodes": [
