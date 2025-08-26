@@ -1,0 +1,118 @@
+{
+  "base": [
+    {
+      "key": "测试1",
+      "group": "fuck",
+      "runes": [
+        {
+          "key": "enemy_attribute_mul",
+          "blackboard": [
+            {
+              "key": "atk",
+              "value": 10.0,
+              "valueStr": null
+            },
+            {
+              "key": "enemy",
+              "value": 0.0,
+              "valueStr": "enemy_1506_patrt"
+            }
+          ]
+        }
+      ],
+      "desc": "爱国者攻击力 + 1000%"
+    },
+    {
+      "key": "测试2",
+      "group": "fuck",
+      "runes": [
+        {
+          "key": "enemy_attribute_mul",
+          "blackboard": [
+            {
+              "key": "max_hp",
+              "value": 10.0,
+              "valueStr": null
+            },
+            {
+              "key": "enemy",
+              "value": 0.0,
+              "valueStr": "enemy_1506_patrt"
+            }
+          ]
+        }
+      ],
+      "desc": "爱国者最大生命值 + 1000%"
+    }
+  ],
+  "extra": [
+    {
+      "key": "dpshlda",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "dpshlda"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现3个游击队传令兵组长 额外出现6个游击队盾卫组长 "
+    },
+    {
+      "key": "sotiab2",
+      "group": "sotiab",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "sotiab2"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个乌萨斯高级突袭弩手 额外出现11个游击队突袭战士 "
+    },
+    {
+      "key": "sotiab1",
+      "group": "sotiab",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "sotiab1"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个游击队突袭战士组长 额外出现11个游击队突袭战士 "
+    },
+    {
+      "key": "dpshldb",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "dpshldb"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现6个游击队盾卫组长 额外出现3个游击队传令兵组长 "
+    }
+  ]
+}

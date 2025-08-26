@@ -1,0 +1,124 @@
+{
+  "base": [],
+  "extra": [
+    {
+      "key": "zibao1",
+      "group": "zibao",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "zibao1"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现4个深池焚毁者队长 "
+    },
+    {
+      "key": "zibao2",
+      "group": "zibao",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "zibao2"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现3个深池焚毁者队长 "
+    },
+    {
+      "key": "dun",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "dun"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个深池伙友卫队精英 "
+    },
+    {
+      "key": "jian",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "jian"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个深池伙友影刃精英 "
+    },
+    {
+      "key": "dun0",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "dun0"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个深池伙友卫队精英 "
+    },
+    {
+      "key": "jian0",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "jian0"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个深池伙友影刃精英 "
+    },
+    {
+      "key": "zhihuiguan",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "zhihuiguan"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现10个深池方阵指挥官 "
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "base": [
+  ],
+  "extra": [
+    {
+      "key": "yokaibase",
+      "group": "yokai",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "yokaibase"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个妖怪 "
+    },
+    {
+      "key": "yokaihigh",
+      "group": "yokai",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "yokaihigh"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个威龙 "
+    },
+    {
+      "key": "cost1",
+      "group": "cost",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "cost1"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个荒原窃盗者 "
+    },
+    {
+      "key": "cost2",
+      "group": "cost",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "cost2"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现3个荒原窃盗者精英 "
+    },
+    {
+      "key": "def",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "def"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个御4 "
+    },
+    {
+      "key": "mr",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "mr"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个护障·P "
+    },
+    {
+      "key": "slimebase",
+      "group": "slime",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "slimebase"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个源石虫·α "
+    },
+    {
+      "key": "slimehigh",
+      "group": "slime",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "slimehigh"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个高能源石虫 "
+    },
+    {
+      "key": "litamrbase",
+      "group": "litamr",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "litamrbase"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个轻甲卫兵 "
+    },
+    {
+      "key": "litamrhigh",
+      "group": "litamr",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "litamrhigh"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个游击队盾卫组长 "
+    },
+    {
+      "key": "ghostbase",
+      "group": "ghost",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "ghostbase"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个幽灵 "
+    },
+    {
+      "key": "ghosthigh",
+      "group": "ghost",
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "ghosthigh"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现2个全封闭沙滩车 "
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "base": [
+    {
+      "key": "测试",
+      "group": null,
+      "runes": [
+        {
+          "key": "global_placable_char_num_add",
+          "blackboard": [
+            {
+              "key": "value",
+              "value": -7.0,
+              "valueStr": null
+            }
+          ]
+        },
+        {
+          "key": "global_squad_num_limit",
+          "blackboard": [
+            {
+              "key": "value",
+              "value": 1,
+              "valueStr": null
+            }
+          ]
+        }
+      ],
+      "desc": "最大携带1名干员，可部署干员-7"
+    }
+  ],
+  "extra": [
+    {
+      "key": "lunmagHidden",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "lunmagHidden"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现4个特战术师组长 "
+    },
+    {
+      "key": "frostdHidden",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "frostdHidden"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个寒霜 "
+    },
+    {
+      "key": "emppntHidden",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "emppntHidden"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现1个帝国炮火中枢先兆者 "
+    },
+    {
+      "key": "emppntMore",
+      "group": null,
+      "runes": [
+        {
+          "key": "level_hidden_group_enable",
+          "blackboard": [
+            {
+              "key": "key",
+              "value": 0,
+              "valueStr": "emppntMore"
+            }
+          ]
+        }
+      ],
+      "desc": "额外出现3个帝国炮火中枢先兆者 "
+    }
+  ]
+}
