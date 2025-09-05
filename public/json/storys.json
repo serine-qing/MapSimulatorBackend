@@ -1,6 +1,75 @@
 {
   "storys": [
     {
+      "type": "当前活动：无忧梦呓",
+      "stage": true,
+      "childNodes": [
+        {
+          "operation": "SS-TR-1",
+          "levelId": "activities/act45side/level_act45side_tr01",
+          "cn_name": "吊桥外的月光",
+          "description": "巨大的绞盘转动一周，通向正门的吊桥缓缓放下。现在，向前迈步，去探索清冷月光下的城堡吧。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-1",
+          "levelId": "activities/act45side/level_act45side_01",
+          "cn_name": "花格窗边的梦想",
+          "description": "这里有怀抱着探险精神的访客，也有不小心误入的来宾。暗色金属的窗格内，他们将见证同一个童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-2",
+          "levelId": "activities/act45side/level_act45side_02",
+          "cn_name": "寂静长廊的两端",
+          "description": "你们刚才有没有看到走廊尽头的那只娃娃睁眼？错觉？那我们身后这一只娃娃又是什么时候出现的？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-3",
+          "levelId": "activities/act45side/level_act45side_03",
+          "cn_name": "音乐室内的光芒",
+          "description": "月光恰好洒在管风琴前的琴凳上，就像是城堡发出的一份特殊邀请，期盼有人能将赞颂永夜的旋律奏响。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-4",
+          "levelId": "activities/act45side/level_act45side_04",
+          "cn_name": "名为客房区的迷宫",
+          "description": "每一扇门都没有任何标识，每一间客房的布置都完全一样。迷失对于访客来说是折磨，但对梦的主人而言却是乐趣。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-5",
+          "levelId": "activities/act45side/level_act45side_05",
+          "cn_name": "通往舞会的邀请函",
+          "description": "衣帽已穿戴妥当，仪容也整理完毕，只差一封邀请函，就能参加童话中的舞会。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-6",
+          "levelId": "activities/act45side/level_act45side_06",
+          "cn_name": "回声飘荡的大厅",
+          "description": "驻足看看那些带有雕刻的立柱，还有脚下的花纹地板。仔细听，这回荡的脚步声是从何而来？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-7",
+          "levelId": "activities/act45side/level_act45side_07",
+          "cn_name": "永恒绚烂的藏品",
+          "description": "在不醒童话之中，一切美好都是永恒。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": false
+        },
+        {
+          "operation": "SS-8",
+          "levelId": "activities/act45side/level_act45side_08",
+          "cn_name": "童话的开场",
+          "description": "童话的台本已然写就，舞台的布景已等候多时。别着急离开——精彩的故事将由你们来演绎。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光\\n<@lv.rem>远程干员可部署于部分近战位</>",
+          "hasChallenge": false
+        }
+      ]
+    },
+    {
       "type": "全息作战矩阵",
       "stage": true,
       "childNodes":[
@@ -20914,7 +20983,555 @@
             }
           ]
         },
-        
+        {
+          "episode": "太阳甩在身后",
+          "childNodes": [
+            {
+              "operation": "AS-1",
+              "cn_name": "节前热身",
+              "description": "节日在即，博物馆中却发生了异变——当然，对于见惯了大场面的市民来说，这也是生活的一部分。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_01"
+            },
+            {
+              "operation": "AS-2",
+              "cn_name": "馆中特别行动",
+              "description": "许多人正在行动，他们或相向而行，或背道而驰。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_02"
+            },
+            {
+              "operation": "AS-3",
+              "cn_name": "相约大巴扎",
+              "description": "我们有了一些新的伙伴，而他们有了一些古怪的诉求。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_03"
+            },
+            {
+              "operation": "AS-4",
+              "cn_name": "家传金拖鞋",
+              "description": "恰到好处地进行展示，只为获取自己需要的那一部分。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_04"
+            },
+            {
+              "operation": "AS-5",
+              "cn_name": "文物也上班",
+              "description": "活着的文物也得上班，所以它们能休假吗？",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的的所有结晶"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_05"
+            },
+            {
+              "operation": "AS-6",
+              "cn_name": "过往云烟",
+              "description": "哪怕是一时的遗憾，也有人愿意永远背负。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的的所有结晶"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_06"
+            },
+            {
+              "operation": "AS-7",
+              "cn_name": "谁是宠物？",
+              "description": "你觉得你是宠物吗？",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_07"
+            },
+            {
+              "operation": "AS-8",
+              "cn_name": "黄沙尽头",
+              "description": "再过千年、万年，血脉与精神依然不会磨灭，传承者仍需面对。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_08"
+            },
+            {
+              "operation": "AS-9",
+              "cn_name": "向过去告别",
+              "description": "梦寐以求的目标近在眼前，但她们选择跨过。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的的所有结晶"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_09"
+            },
+            {
+              "operation": "AS-EX-1",
+              "cn_name": "小偷与收款人",
+              "description": "有两种人平民是不能惹的，一种是窃贼，一种是收款人。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<障碍物>",
+                  "value": "部署以后可以阻挡敌人的行进路线"
+                },
+                {
+                  "name": "<特殊条件>",
+                  "value": "本次行动中远程干员可部署于近战位"
+                },
+                {
+                  "name": "<获得蚀刻章条件>",
+                  "value": "以3星评价完成AS-EX-1，且累计消除40块结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex01"
+            },
+            {
+              "operation": "AS-EX-1突袭",
+              "cn_name": "小偷与收款人",
+              "description": "有两种人平民是不能惹的，一种是窃贼，一种是收款人。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<障碍物>",
+                  "value": "部署以后可以阻挡敌人的行进路线"
+                },
+                {
+                  "name": "<特殊条件>",
+                  "value": "本次行动中远程干员可部署于近战位"
+                },
+                {
+                  "name": "<获得蚀刻章条件>",
+                  "value": "以3星评价完成AS-EX-1，且累计消除40块结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex01",
+              "challenge": "持有的障碍物数量大幅减少"
+            },
+            {
+              "operation": "AS-EX-2",
+              "cn_name": "被吹碎的镜子",
+              "description": "哦，河，不要让风撼动你。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex02"
+            },
+            {
+              "operation": "AS-EX-2突袭",
+              "cn_name": "被吹碎的镜子",
+              "description": "哦，河，不要让风撼动你。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex02",
+              "challenge": "净化结晶的效率大幅降低"
+            },
+            {
+              "operation": "AS-EX-3",
+              "cn_name": "一捧宝石",
+              "description": "要求一切，就会失去一切。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<获得蚀刻章条件>",
+                  "value": "以3星评价完成AS-EX-3，且放置纯净结晶时，单次连通10块以上结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex03"
+            },
+            {
+              "operation": "AS-EX-3突袭",
+              "cn_name": "一捧宝石",
+              "description": "要求一切，就会失去一切。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<获得蚀刻章条件>",
+                  "value": "以3星评价完成AS-EX-3，且放置纯净结晶时，单次连通10块以上结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex03",
+              "challenge": "“弹跳独轮车”的攻击速度大幅增加"
+            },
+            {
+              "operation": "AS-EX-4",
+              "cn_name": "被盗的钱包",
+              "description": "问问你的钱包，你应该买什么。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex04"
+            },
+            {
+              "operation": "AS-EX-4突袭",
+              "cn_name": "被盗的钱包",
+              "description": "问问你的钱包，你应该买什么。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex04",
+              "challenge": "初始出现额外的“弹跳独轮车”"
+            },
+            {
+              "operation": "AS-EX-5",
+              "cn_name": "不幸的士兵",
+              "description": "独处总比和坏人在一起好。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex05"
+            },
+            {
+              "operation": "AS-EX-5突袭",
+              "cn_name": "不幸的士兵",
+              "description": "独处总比和坏人在一起好。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex05",
+              "challenge": "出现额外的工蚁组长"
+            },
+            {
+              "operation": "AS-EX-6",
+              "cn_name": "假帕夏",
+              "description": "谎言是一种疾病，而揭示真相是一种治疗方式。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex06"
+            },
+            {
+              "operation": "AS-EX-6突袭",
+              "cn_name": "假帕夏",
+              "description": "谎言是一种疾病，而揭示真相是一种治疗方式。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex06",
+              "challenge": "风情区大型车辇获得<隐匿>"
+            },
+            {
+              "operation": "AS-EX-7",
+              "cn_name": "疯狂的宠物",
+              "description": "愤怒的开始是疯狂，结束是后悔。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex07"
+            },
+            {
+              "operation": "AS-EX-7突袭",
+              "cn_name": "疯狂的宠物",
+              "description": "愤怒的开始是疯狂，结束是后悔。",
+              "episode": "太阳甩在身后",
+              "custom": [],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex07",
+              "challenge": "净化结晶的效率大幅降低"
+            },
+            {
+              "operation": "AS-EX-8",
+              "cn_name": "无冕之王与朝圣者",
+              "description": "风与船的愿景背道而驰。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex08"
+            },
+            {
+              "operation": "AS-EX-8突袭",
+              "cn_name": "无冕之王与朝圣者",
+              "description": "风与船的愿景背道而驰。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_ex08",
+              "challenge": "禁止部署特种干员"
+            },
+            {
+              "operation": "AS-S-1",
+              "cn_name": "哲理在新生中传唱",
+              "description": "在萨尔贡诗人的传唱中，每一次故事的迭代都让哲理又新了一些。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-1"
+            },
+            {
+              "operation": "AS-S-1突袭",
+              "cn_name": "哲理在新生中传唱",
+              "description": "在萨尔贡诗人的传唱中，每一次故事的迭代都让哲理又新了一些。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-1",
+              "challenge": "结晶为米奥，热烈的考验者提供的增益效果大幅增强，大型破碎器皿损失的生命值减少"
+            },
+            {
+              "operation": "AS-S-2",
+              "cn_name": "精神在富饶中绽放",
+              "description": "越是靠近辉煌之城的老城区，故事的版本就越是朴素。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-2"
+            },
+            {
+              "operation": "AS-S-2突袭",
+              "cn_name": "精神在富饶中绽放",
+              "description": "越是靠近辉煌之城的老城区，故事的版本就越是朴素。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-2",
+              "challenge": "初始大型破碎器皿的行动路线有所不同，场上有2个位置无法部署"
+            },
+            {
+              "operation": "AS-S-3",
+              "cn_name": "笔尖凝聚着愿景",
+              "description": "萨尔贡人对未来充满期待，和那些忧心忡忡的核心圈国家的市民相比，完全是两种面貌。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                },
+                {
+                  "name": "<特殊条件>",
+                  "value": "本次行动中远程干员可部署于近战位"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-3"
+            },
+            {
+              "operation": "AS-S-3突袭",
+              "cn_name": "笔尖凝聚着愿景",
+              "description": "萨尔贡人对未来充满期待，和那些忧心忡忡的核心圈国家的市民相比，完全是两种面貌。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                },
+                {
+                  "name": "<特殊条件>",
+                  "value": "本次行动中远程干员可部署于近战位"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-3",
+              "challenge": "“弹跳独轮车”获得<隐匿>，场上有1个位置无法部署"
+            },
+            {
+              "operation": "AS-S-4",
+              "cn_name": "修辞流淌着期望",
+              "description": "在许多关于萨尔贡历史的书籍中，即便是讲述战争的章节，作者也总会迫不及待地讲述战后恢复和发展的境况。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-4"
+            },
+            {
+              "operation": "AS-S-4突袭",
+              "cn_name": "修辞流淌着期望",
+              "description": "在许多关于萨尔贡历史的书籍中，即便是讲述战争的章节，作者也总会迫不及待地讲述战后恢复和发展的境况。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                },
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                }
+              ],
+              "hasChallenge": true,
+              "levelId": "activities/act35side/level_act35side_sub-1-4",
+              "challenge": "部署在结晶上的单位攻击速度进一步降低"
+            },
+            {
+              "operation": "AS-MO-1",
+              "cn_name": "愿我们寻得安详",
+              "description": "历史终归是当下对过去的印象的集合体，而活在当下需要更具体的规划。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<结晶消除桩>",
+                  "value": "可消除一条直线上的所有结晶"
+                },
+                {
+                  "name": "额外条件",
+                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
+                },
+                {
+                  "name": "<获得蚀刻章条件>",
+                  "value": "完成[藏珍宝库]中全部关卡的突袭模式（不包含AS-MO-1）"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_mo01"
+            },
+            {
+              "operation": "AS-TR-1",
+              "cn_name": "护卫队演练",
+              "description": "城市护卫队的训练涉及许多关于结晶的基础知识。",
+              "episode": "太阳甩在身后",
+              "custom": [
+                {
+                  "name": "<纯净结晶>",
+                  "value": "可连通周围的结晶区块"
+                }
+              ],
+              "hasChallenge": false,
+              "levelId": "activities/act35side/level_act35side_tr01"
+            }
+          ]
+        },
         {
           "episode": "泰拉饭",
           "childNodes": [
@@ -26622,555 +27239,6 @@
               "cn_name": "",
               "description": "你祈求的所有，都如天命一般降临，计分灯一齐熄灭，只有写着你名字的那一格在漆黑里闪个不停。\\n<@lv.item>将敌人推入坑中获取高分！</>\\n<@lv.item>我方单位再部署时间大幅降低</>",
               "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "episode": "太阳甩在身后",
-          "childNodes": [
-            {
-              "operation": "AS-1",
-              "cn_name": "节前热身",
-              "description": "节日在即，博物馆中却发生了异变——当然，对于见惯了大场面的市民来说，这也是生活的一部分。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_01"
-            },
-            {
-              "operation": "AS-2",
-              "cn_name": "馆中特别行动",
-              "description": "许多人正在行动，他们或相向而行，或背道而驰。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_02"
-            },
-            {
-              "operation": "AS-3",
-              "cn_name": "相约大巴扎",
-              "description": "我们有了一些新的伙伴，而他们有了一些古怪的诉求。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_03"
-            },
-            {
-              "operation": "AS-4",
-              "cn_name": "家传金拖鞋",
-              "description": "恰到好处地进行展示，只为获取自己需要的那一部分。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_04"
-            },
-            {
-              "operation": "AS-5",
-              "cn_name": "文物也上班",
-              "description": "活着的文物也得上班，所以它们能休假吗？",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的的所有结晶"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_05"
-            },
-            {
-              "operation": "AS-6",
-              "cn_name": "过往云烟",
-              "description": "哪怕是一时的遗憾，也有人愿意永远背负。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的的所有结晶"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_06"
-            },
-            {
-              "operation": "AS-7",
-              "cn_name": "谁是宠物？",
-              "description": "你觉得你是宠物吗？",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_07"
-            },
-            {
-              "operation": "AS-8",
-              "cn_name": "黄沙尽头",
-              "description": "再过千年、万年，血脉与精神依然不会磨灭，传承者仍需面对。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_08"
-            },
-            {
-              "operation": "AS-9",
-              "cn_name": "向过去告别",
-              "description": "梦寐以求的目标近在眼前，但她们选择跨过。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的的所有结晶"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_09"
-            },
-            {
-              "operation": "AS-EX-1",
-              "cn_name": "小偷与收款人",
-              "description": "有两种人平民是不能惹的，一种是窃贼，一种是收款人。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<障碍物>",
-                  "value": "部署以后可以阻挡敌人的行进路线"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                },
-                {
-                  "name": "<获得蚀刻章条件>",
-                  "value": "以3星评价完成AS-EX-1，且累计消除40块结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex01"
-            },
-            {
-              "operation": "AS-EX-1突袭",
-              "cn_name": "小偷与收款人",
-              "description": "有两种人平民是不能惹的，一种是窃贼，一种是收款人。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<障碍物>",
-                  "value": "部署以后可以阻挡敌人的行进路线"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                },
-                {
-                  "name": "<获得蚀刻章条件>",
-                  "value": "以3星评价完成AS-EX-1，且累计消除40块结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex01",
-              "challenge": "持有的障碍物数量大幅减少"
-            },
-            {
-              "operation": "AS-EX-2",
-              "cn_name": "被吹碎的镜子",
-              "description": "哦，河，不要让风撼动你。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex02"
-            },
-            {
-              "operation": "AS-EX-2突袭",
-              "cn_name": "被吹碎的镜子",
-              "description": "哦，河，不要让风撼动你。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex02",
-              "challenge": "净化结晶的效率大幅降低"
-            },
-            {
-              "operation": "AS-EX-3",
-              "cn_name": "一捧宝石",
-              "description": "要求一切，就会失去一切。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<获得蚀刻章条件>",
-                  "value": "以3星评价完成AS-EX-3，且放置纯净结晶时，单次连通10块以上结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex03"
-            },
-            {
-              "operation": "AS-EX-3突袭",
-              "cn_name": "一捧宝石",
-              "description": "要求一切，就会失去一切。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<获得蚀刻章条件>",
-                  "value": "以3星评价完成AS-EX-3，且放置纯净结晶时，单次连通10块以上结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex03",
-              "challenge": "“弹跳独轮车”的攻击速度大幅增加"
-            },
-            {
-              "operation": "AS-EX-4",
-              "cn_name": "被盗的钱包",
-              "description": "问问你的钱包，你应该买什么。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex04"
-            },
-            {
-              "operation": "AS-EX-4突袭",
-              "cn_name": "被盗的钱包",
-              "description": "问问你的钱包，你应该买什么。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex04",
-              "challenge": "初始出现额外的“弹跳独轮车”"
-            },
-            {
-              "operation": "AS-EX-5",
-              "cn_name": "不幸的士兵",
-              "description": "独处总比和坏人在一起好。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex05"
-            },
-            {
-              "operation": "AS-EX-5突袭",
-              "cn_name": "不幸的士兵",
-              "description": "独处总比和坏人在一起好。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex05",
-              "challenge": "出现额外的工蚁组长"
-            },
-            {
-              "operation": "AS-EX-6",
-              "cn_name": "假帕夏",
-              "description": "谎言是一种疾病，而揭示真相是一种治疗方式。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex06"
-            },
-            {
-              "operation": "AS-EX-6突袭",
-              "cn_name": "假帕夏",
-              "description": "谎言是一种疾病，而揭示真相是一种治疗方式。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex06",
-              "challenge": "风情区大型车辇获得<隐匿>"
-            },
-            {
-              "operation": "AS-EX-7",
-              "cn_name": "疯狂的宠物",
-              "description": "愤怒的开始是疯狂，结束是后悔。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex07"
-            },
-            {
-              "operation": "AS-EX-7突袭",
-              "cn_name": "疯狂的宠物",
-              "description": "愤怒的开始是疯狂，结束是后悔。",
-              "episode": "太阳甩在身后",
-              "custom": [],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex07",
-              "challenge": "净化结晶的效率大幅降低"
-            },
-            {
-              "operation": "AS-EX-8",
-              "cn_name": "无冕之王与朝圣者",
-              "description": "风与船的愿景背道而驰。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex08"
-            },
-            {
-              "operation": "AS-EX-8突袭",
-              "cn_name": "无冕之王与朝圣者",
-              "description": "风与船的愿景背道而驰。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_ex08",
-              "challenge": "禁止部署特种干员"
-            },
-            {
-              "operation": "AS-S-1",
-              "cn_name": "哲理在新生中传唱",
-              "description": "在萨尔贡诗人的传唱中，每一次故事的迭代都让哲理又新了一些。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-1"
-            },
-            {
-              "operation": "AS-S-1突袭",
-              "cn_name": "哲理在新生中传唱",
-              "description": "在萨尔贡诗人的传唱中，每一次故事的迭代都让哲理又新了一些。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-1",
-              "challenge": "结晶为米奥，热烈的考验者提供的增益效果大幅增强，大型破碎器皿损失的生命值减少"
-            },
-            {
-              "operation": "AS-S-2",
-              "cn_name": "精神在富饶中绽放",
-              "description": "越是靠近辉煌之城的老城区，故事的版本就越是朴素。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-2"
-            },
-            {
-              "operation": "AS-S-2突袭",
-              "cn_name": "精神在富饶中绽放",
-              "description": "越是靠近辉煌之城的老城区，故事的版本就越是朴素。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-2",
-              "challenge": "初始大型破碎器皿的行动路线有所不同，场上有2个位置无法部署"
-            },
-            {
-              "operation": "AS-S-3",
-              "cn_name": "笔尖凝聚着愿景",
-              "description": "萨尔贡人对未来充满期待，和那些忧心忡忡的核心圈国家的市民相比，完全是两种面貌。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-3"
-            },
-            {
-              "operation": "AS-S-3突袭",
-              "cn_name": "笔尖凝聚着愿景",
-              "description": "萨尔贡人对未来充满期待，和那些忧心忡忡的核心圈国家的市民相比，完全是两种面貌。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                },
-                {
-                  "name": "<特殊条件>",
-                  "value": "本次行动中远程干员可部署于近战位"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-3",
-              "challenge": "“弹跳独轮车”获得<隐匿>，场上有1个位置无法部署"
-            },
-            {
-              "operation": "AS-S-4",
-              "cn_name": "修辞流淌着期望",
-              "description": "在许多关于萨尔贡历史的书籍中，即便是讲述战争的章节，作者也总会迫不及待地讲述战后恢复和发展的境况。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-4"
-            },
-            {
-              "operation": "AS-S-4突袭",
-              "cn_name": "修辞流淌着期望",
-              "description": "在许多关于萨尔贡历史的书籍中，即便是讲述战争的章节，作者也总会迫不及待地讲述战后恢复和发展的境况。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                },
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                }
-              ],
-              "hasChallenge": true,
-              "levelId": "activities/act35side/level_act35side_sub-1-4",
-              "challenge": "部署在结晶上的单位攻击速度进一步降低"
-            },
-            {
-              "operation": "AS-MO-1",
-              "cn_name": "愿我们寻得安详",
-              "description": "历史终归是当下对过去的印象的集合体，而活在当下需要更具体的规划。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<结晶消除桩>",
-                  "value": "可消除一条直线上的所有结晶"
-                },
-                {
-                  "name": "额外条件",
-                  "value": "无法自然回复部署费用，每消除一颗结晶获得3点费用"
-                },
-                {
-                  "name": "<获得蚀刻章条件>",
-                  "value": "完成[藏珍宝库]中全部关卡的突袭模式（不包含AS-MO-1）"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_mo01"
-            },
-            {
-              "operation": "AS-TR-1",
-              "cn_name": "护卫队演练",
-              "description": "城市护卫队的训练涉及许多关于结晶的基础知识。",
-              "episode": "太阳甩在身后",
-              "custom": [
-                {
-                  "name": "<纯净结晶>",
-                  "value": "可连通周围的结晶区块"
-                }
-              ],
-              "hasChallenge": false,
-              "levelId": "activities/act35side/level_act35side_tr01"
             }
           ]
         }
@@ -33950,597 +34018,625 @@
         {
           "episode": "离解复合",
           "childNodes": [
-              {
-                "operation": "15-2",
-                "levelId": "obt/main/level_main_15-01",
-                "cn_name": "执此剑者",
-                "description": "“......死亡也无法统治一切。”",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-3",
-                "levelId": "obt/main/level_main_15-02",
-                "cn_name": "所谓奇迹",
-                "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-3 险地",
-                "levelId": "obt/main/level_main_15-02",
-                "cn_name": "所谓奇迹",
-                "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-02_1a",
-                    "runeDesc": "冰镇饮料机的攻击速度大幅提升",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-02_1b",
-                    "runeDesc": "冰镇饮料机的生命值大幅提升",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-02_2a",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-02_2b",
-                    "runeDesc": "战场中有4个位置无法部署我方单位",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-4",
-                "levelId": "obt/main/level_main_15-03",
-                "cn_name": "深渊之侧",
-                "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-4 险地",
-                "levelId": "obt/main/level_main_15-03",
-                "cn_name": "深渊之侧",
-                "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-03_1a",
-                    "runeDesc": "无忧货运帮手的生命值大幅提升",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-03_1b",
-                    "runeDesc": "无忧货运帮手的攻击力大幅提升",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-03_2a",
-                    "runeDesc": "部分地块会长出源石晶簇造成范围伤害",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-03_2b",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-5",
-                "levelId": "obt/main/level_main_15-04",
-                "cn_name": "喧哗争端",
-                "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-5 险地",
-                "levelId": "obt/main/level_main_15-04",
-                "cn_name": "喧哗争端",
-                "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-04_1a",
-                    "runeDesc": "禁止使用狙击和近卫干员",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-04_1b",
-                    "runeDesc": "禁止使用术师和特种干员",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-04_2a",
-                    "runeDesc": "战场中有4个位置无法部署我方单位",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-04_2b",
-                    "runeDesc": "可部署干员数量减少2",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-6",
-                "levelId": "obt/main/level_main_15-05",
-                "cn_name": "刻骨入髓",
-                "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-6 险地",
-                "levelId": "obt/main/level_main_15-05",
-                "cn_name": "刻骨入髓",
-                "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-05_1a",
-                    "runeDesc": "可部署干员数量减少2",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-05_1b",
-                    "runeDesc": "我方单位的阻挡数-1",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-05_2a",
-                    "runeDesc": "内测版自助出餐终端召唤技能冷却时间进一步减少",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-05_2b",
-                    "runeDesc": "内测版自助出餐终端和迷茫的修理小助手获得<隐匿>效果",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-7",
-                "levelId": "obt/main/level_main_15-06",
-                "cn_name": "临界时刻",
-                "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-7 险地",
-                "levelId": "obt/main/level_main_15-06",
-                "cn_name": "临界时刻",
-                "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-06_1a",
-                    "runeDesc": "活性源石提高攻击力的效果翻倍",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-06_1b",
-                    "runeDesc": "先锋干员、重装干员、近卫干员和特种干员的再部署时间大幅增加",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-06_2a",
-                    "runeDesc": "我方单位生命值在50%以下时受到的伤害增加",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-06_2b",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-8",
-                "levelId": "obt/main/level_main_15-07",
-                "cn_name": "破碎回响",
-                "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-8 险地",
-                "levelId": "obt/main/level_main_15-07",
-                "cn_name": "破碎回响",
-                "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n稳定态萨卡兹术师结晶的防御力大幅提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-07_1a",
-                    "runeDesc": "部分敌人有所不同",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-07_1b",
-                    "runeDesc": "冰镇饮料机的攻击范围扩大",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-07_2a",
-                    "runeDesc": "我方单位的部署费用+3",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-07_2b",
-                    "runeDesc": "我方单位的再部署时间大幅增加",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-9",
-                "levelId": "obt/main/level_main_15-08",
-                "cn_name": "减压症候",
-                "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-9 险地",
-                "levelId": "obt/main/level_main_15-08",
-                "cn_name": "减压症候",
-                "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n战场中有4个位置无法部署我方单位",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-08_1a",
-                    "runeDesc": "失控的修理小助手移动速度增加",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-08_1b",
-                    "runeDesc": "失控的修理小助手防御力增加",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-08_2a",
-                    "runeDesc": "狙击干员的部署费用提升至2倍",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-08_2b",
-                    "runeDesc": "术师干员的部署费用提升至2倍",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-10",
-                "levelId": "obt/main/level_main_15-09",
-                "cn_name": "隔离净空",
-                "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-10 险地",
-                "levelId": "obt/main/level_main_15-09",
-                "cn_name": "隔离净空",
-                "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的防御力大幅提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-09_1a",
-                    "runeDesc": "禁止使用近卫干员",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-09_1b",
-                    "runeDesc": "PRTS将部署额外的弱化节点",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-09_2a",
-                    "runeDesc": "稳定态萨卡兹术师结晶周围没有其他敌人时攻击力提升",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-09_2b",
-                    "runeDesc": "稳定态萨卡兹术师结晶封锁费用回复的时间增加",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-11",
-                "levelId": "obt/main/level_main_15-10",
-                "cn_name": "一段长梦将醒",
-                "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-11 险地",
-                "levelId": "obt/main/level_main_15-10",
-                "cn_name": "一段长梦将醒",
-                "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部署费用的回复速度降低",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-10_1a",
-                    "runeDesc": "战场中有4个位置无法部署我方单位",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-10_1b",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-10_2a",
-                    "runeDesc": "近卫和重装干员的部署费用提升至2倍",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-10_2b",
-                    "runeDesc": "狙击和术师干员的部署费用提升至2倍",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-12",
-                "levelId": "obt/main/level_main_15-11",
-                "cn_name": "目击众神死亡的荒原",
-                "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-12 险地",
-                "levelId": "obt/main/level_main_15-11",
-                "cn_name": "目击众神死亡的荒原",
-                "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-11_1a",
-                    "runeDesc": "禁止使用狙击干员",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-11_1b",
-                    "runeDesc": "“寒灾回响”的攻击范围扩大",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-11_2a",
-                    "runeDesc": "我方单位的阻挡数-1",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-11_2b",
-                    "runeDesc": "“寒灾回响”获得缓慢回复生命效果",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-13",
-                "levelId": "obt/main/level_main_15-12",
-                "cn_name": "成为你的眼睛",
-                "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-13 险地",
-                "levelId": "obt/main/level_main_15-12",
-                "cn_name": "成为你的眼睛",
-                "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的攻击力降低",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-12_1a",
-                    "runeDesc": "战场中有2个地面位置无法部署我方单位",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-12_1b",
-                    "runeDesc": "战场中有2个高台位置无法部署我方单位",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-12_2a",
-                    "runeDesc": "固化源石巨像的生命值提升",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-12_2b",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-14",
-                "levelId": "obt/main/level_main_15-13",
-                "cn_name": "在尘或血中",
-                "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-14 险地",
-                "levelId": "obt/main/level_main_15-13",
-                "cn_name": "在尘或血中",
-                "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分地块会长出源石晶簇造成范围伤害",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-13_1a",
-                    "runeDesc": "源石晶簇长出的间隔时间缩短",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-13_1b",
-                    "runeDesc": "源石晶簇爆炸造成的伤害增加",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-13_2a",
-                    "runeDesc": "“寒灾回响”的攻击速度提升",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-13_2b",
-                    "runeDesc": "敌人周围没有其他敌人时攻击力提升",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-15",
-                "levelId": "obt/main/level_main_15-14",
-                "cn_name": "拒绝哀悼",
-                "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-15 险地",
-                "levelId": "obt/main/level_main_15-14",
-                "cn_name": "拒绝哀悼",
-                "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-14_1a",
-                    "runeDesc": "转译基底·β变形需要的攻击次数增加",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-14_1b",
-                    "runeDesc": "转译基底·β变形后的攻击速度提升",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-14_2a",
-                    "runeDesc": "战场中有2个地面位置无法部署我方单位",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-14_2b",
-                    "runeDesc": "战场中有2个高台位置无法部署我方单位",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-17",
-                "levelId": "obt/main/level_main_15-15",
-                "cn_name": "“她”",
-                "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-17 险地",
-                "levelId": "obt/main/level_main_15-15",
-                "cn_name": "“她”",
-                "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>\\n<@lv.fs>附加条件：</>\\n敌人的攻击力大幅提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-15_1a",
-                    "runeDesc": "部署费用的回复速度降低",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-15_1b",
-                    "runeDesc": "可部署干员数量减少3",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-15_2a",
-                    "runeDesc": "PRTS部署的“寒灾回响”位置改变",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-15_2b",
-                    "runeDesc": "转译基底·β攻击生命值低于50%的目标时伤害提升",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-18",
-                "levelId": "obt/main/level_main_15-16",
-                "cn_name": "从未怀疑，从未远离",
-                "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-18 险地",
-                "levelId": "obt/main/level_main_15-16",
-                "cn_name": "从未怀疑，从未远离",
-                "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的防御力降低",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-16_1a",
-                    "runeDesc": "转译基底·β的移动速度提升",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-16_1b",
-                    "runeDesc": "转译基底·β的生命值提升",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-16_2a",
-                    "runeDesc": "部署费用的回复速度降低",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-16_2b",
-                    "runeDesc": "禁止使用辅助和术师干员",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              },
-              {
-                "operation": "15-19",
-                "levelId": "obt/main/level_main_15-17",
-                "cn_name": "直至，此刻",
-                "description": "“准备战斗。只有战斗能决定结果。”",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-20",
-                "levelId": "obt/main/level_main_15-18",
-                "cn_name": "得以重回",
-                "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
-                "hasChallenge": false
-              },
-              {
-                "operation": "15-20 险地",
-                "levelId": "obt/main/level_main_15-18",
-                "cn_name": "得以重回",
-                "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
-                "hasChallenge": false,
-                "sandTable": [
-                  {
-                    "runeId": "main_15-18_1a",
-                    "runeDesc": "狙击和近卫干员的部署费用提升至2倍",
-                    "runeKey": "rune_level1_1"
-                  },
-                  {
-                    "runeId": "main_15-18_1b",
-                    "runeDesc": "术师和特种干员的部署费用提升至2倍",
-                    "runeKey": "rune_level1_2"
-                  },
-                  {
-                    "runeId": "main_15-18_2a",
-                    "runeDesc": "场上出现新的敌人",
-                    "runeKey": "rune_level2_1"
-                  },
-                  {
-                    "runeId": "main_15-18_2b",
-                    "runeDesc": "敌人周围没有其他敌人时攻击力提升",
-                    "runeKey": "rune_level2_2"
-                  }
-                ]
-              }
-            ]
+            {
+              "operation": "15-2",
+              "levelId": "obt/main/level_main_15-01",
+              "cn_name": "执此剑者",
+              "description": "“......死亡也无法统治一切。”",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-3",
+              "levelId": "obt/main/level_main_15-02",
+              "cn_name": "所谓奇迹",
+              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-3 险地",
+              "levelId": "obt/main/level_main_15-02",
+              "cn_name": "所谓奇迹",
+              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-02_1a",
+                  "runeDesc": "冰镇饮料机的攻击速度大幅提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-02_1b",
+                  "runeDesc": "冰镇饮料机的生命值大幅提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-02_2a",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-02_2b",
+                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-4",
+              "levelId": "obt/main/level_main_15-03",
+              "cn_name": "深渊之侧",
+              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-4 险地",
+              "levelId": "obt/main/level_main_15-03",
+              "cn_name": "深渊之侧",
+              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-03_1a",
+                  "runeDesc": "无忧货运帮手的生命值大幅提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-03_1b",
+                  "runeDesc": "无忧货运帮手的攻击力大幅提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-03_2a",
+                  "runeDesc": "部分地块会长出源石晶簇造成范围伤害",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-03_2b",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-5",
+              "levelId": "obt/main/level_main_15-04",
+              "cn_name": "喧哗争端",
+              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-5 险地",
+              "levelId": "obt/main/level_main_15-04",
+              "cn_name": "喧哗争端",
+              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-04_1a",
+                  "runeDesc": "禁止使用狙击和近卫干员",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-04_1b",
+                  "runeDesc": "禁止使用术师和特种干员",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-04_2a",
+                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-04_2b",
+                  "runeDesc": "可部署干员数量减少2",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-6",
+              "levelId": "obt/main/level_main_15-05",
+              "cn_name": "刻骨入髓",
+              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-6 险地",
+              "levelId": "obt/main/level_main_15-05",
+              "cn_name": "刻骨入髓",
+              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-05_1a",
+                  "runeDesc": "可部署干员数量减少2",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-05_1b",
+                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-05_2a",
+                  "runeDesc": "内测版自助出餐终端召唤技能冷却时间进一步减少",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-05_2b",
+                  "runeDesc": "内测版自助出餐终端和迷茫的修理小助手获得<隐匿>效果",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-7",
+              "levelId": "obt/main/level_main_15-06",
+              "cn_name": "临界时刻",
+              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-7 险地",
+              "levelId": "obt/main/level_main_15-06",
+              "cn_name": "临界时刻",
+              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-06_1a",
+                  "runeDesc": "活性源石提高攻击力的效果翻倍",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-06_1b",
+                  "runeDesc": "先锋干员、重装干员、近卫干员和特种干员的再部署时间大幅增加",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-06_2a",
+                  "runeDesc": "我方单位生命值在50%以下时受到的伤害增加",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-06_2b",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-8",
+              "levelId": "obt/main/level_main_15-07",
+              "cn_name": "破碎回响",
+              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-8 险地",
+              "levelId": "obt/main/level_main_15-07",
+              "cn_name": "破碎回响",
+              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n稳定态萨卡兹术师结晶的防御力大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-07_1a",
+                  "runeDesc": "部分敌人有所不同",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-07_1b",
+                  "runeDesc": "冰镇饮料机的攻击范围扩大",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-07_2a",
+                  "runeDesc": "我方单位的部署费用+3",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-07_2b",
+                  "runeDesc": "我方单位的再部署时间大幅增加",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-9",
+              "levelId": "obt/main/level_main_15-08",
+              "cn_name": "减压症候",
+              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-9 险地",
+              "levelId": "obt/main/level_main_15-08",
+              "cn_name": "减压症候",
+              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n战场中有4个位置无法部署我方单位",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-08_1a",
+                  "runeDesc": "失控的修理小助手移动速度增加",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-08_1b",
+                  "runeDesc": "失控的修理小助手防御力增加",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-08_2a",
+                  "runeDesc": "狙击干员的部署费用提升至2倍",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-08_2b",
+                  "runeDesc": "术师干员的部署费用提升至2倍",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-10",
+              "levelId": "obt/main/level_main_15-09",
+              "cn_name": "隔离净空",
+              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-10 险地",
+              "levelId": "obt/main/level_main_15-09",
+              "cn_name": "隔离净空",
+              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的防御力大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-09_1a",
+                  "runeDesc": "禁止使用近卫干员",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-09_1b",
+                  "runeDesc": "PRTS将部署额外的弱化节点",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-09_2a",
+                  "runeDesc": "稳定态萨卡兹术师结晶周围没有其他敌人时攻击力提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-09_2b",
+                  "runeDesc": "稳定态萨卡兹术师结晶封锁费用回复的时间增加",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-11",
+              "levelId": "obt/main/level_main_15-10",
+              "cn_name": "一段长梦将醒",
+              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-11 险地",
+              "levelId": "obt/main/level_main_15-10",
+              "cn_name": "一段长梦将醒",
+              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部署费用的回复速度降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-10_1a",
+                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-10_1b",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-10_2a",
+                  "runeDesc": "近卫和重装干员的部署费用提升至2倍",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-10_2b",
+                  "runeDesc": "狙击和术师干员的部署费用提升至2倍",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-12",
+              "levelId": "obt/main/level_main_15-11",
+              "cn_name": "目击众神死亡的荒原",
+              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-12 险地",
+              "levelId": "obt/main/level_main_15-11",
+              "cn_name": "目击众神死亡的荒原",
+              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-11_1a",
+                  "runeDesc": "禁止使用狙击干员",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-11_1b",
+                  "runeDesc": "“寒灾回响”的攻击范围扩大",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-11_2a",
+                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-11_2b",
+                  "runeDesc": "“寒灾回响”获得缓慢回复生命效果",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-13",
+              "levelId": "obt/main/level_main_15-12",
+              "cn_name": "成为你的眼睛",
+              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-13 险地",
+              "levelId": "obt/main/level_main_15-12",
+              "cn_name": "成为你的眼睛",
+              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的攻击力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-12_1a",
+                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-12_1b",
+                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-12_2a",
+                  "runeDesc": "固化源石巨像的生命值提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-12_2b",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-14",
+              "levelId": "obt/main/level_main_15-13",
+              "cn_name": "在尘或血中",
+              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-14 险地",
+              "levelId": "obt/main/level_main_15-13",
+              "cn_name": "在尘或血中",
+              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分地块会长出源石晶簇造成范围伤害",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-13_1a",
+                  "runeDesc": "源石晶簇长出的间隔时间缩短",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-13_1b",
+                  "runeDesc": "源石晶簇爆炸造成的伤害增加",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-13_2a",
+                  "runeDesc": "“寒灾回响”的攻击速度提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-13_2b",
+                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-15",
+              "levelId": "obt/main/level_main_15-14",
+              "cn_name": "拒绝哀悼",
+              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-15 险地",
+              "levelId": "obt/main/level_main_15-14",
+              "cn_name": "拒绝哀悼",
+              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-14_1a",
+                  "runeDesc": "转译基底·β变形需要的攻击次数增加",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-14_1b",
+                  "runeDesc": "转译基底·β变形后的攻击速度提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-14_2a",
+                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-14_2b",
+                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-17",
+              "levelId": "obt/main/level_main_15-15",
+              "cn_name": "“她”",
+              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-17 险地",
+              "levelId": "obt/main/level_main_15-15",
+              "cn_name": "“她”",
+              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>\\n<@lv.fs>附加条件：</>\\n敌人的攻击力大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-15_1a",
+                  "runeDesc": "部署费用的回复速度降低",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-15_1b",
+                  "runeDesc": "可部署干员数量减少3",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-15_2a",
+                  "runeDesc": "PRTS部署的“寒灾回响”位置改变",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-15_2b",
+                  "runeDesc": "转译基底·β攻击生命值低于50%的目标时伤害提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-18",
+              "levelId": "obt/main/level_main_15-16",
+              "cn_name": "从未怀疑，从未远离",
+              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-18 险地",
+              "levelId": "obt/main/level_main_15-16",
+              "cn_name": "从未怀疑，从未远离",
+              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的防御力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-16_1a",
+                  "runeDesc": "转译基底·β的移动速度提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-16_1b",
+                  "runeDesc": "转译基底·β的生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-16_2a",
+                  "runeDesc": "部署费用的回复速度降低",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-16_2b",
+                  "runeDesc": "禁止使用辅助和术师干员",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "15-19",
+              "levelId": "obt/main/level_main_15-17",
+              "cn_name": "直至，此刻",
+              "description": "“准备战斗。只有战斗能决定结果。”",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-20",
+              "levelId": "obt/main/level_main_15-18",
+              "cn_name": "得以重回",
+              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "15-20 险地",
+              "levelId": "obt/main/level_main_15-18",
+              "cn_name": "得以重回",
+              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_15-18_1a",
+                  "runeDesc": "狙击和近卫干员的部署费用提升至2倍",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_15-18_1b",
+                  "runeDesc": "术师和特种干员的部署费用提升至2倍",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_15-18_2a",
+                  "runeDesc": "场上出现新的敌人",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_15-18_2b",
+                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "operation": "H15-1",
+              "levelId": "obt/hard/level_hard_15-01",
+              "cn_name": "机密预案-1",
+              "description": "“只因生与死本是一体，如同江河与海。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "H15-2",
+              "levelId": "obt/hard/level_hard_15-02",
+              "cn_name": "机密预案-2",
+              "description": "“只有在饮下缄默河水之后，才能开口歌唱。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            },
+            {
+              "operation": "H15-3",
+              "levelId": "obt/hard/level_hard_15-03",
+              "cn_name": "机密预案-3",
+              "description": "“只有在抵达山峰之巅以后，才能开始攀登。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "hasChallenge": false
+            },
+            {
+              "operation": "H15-4",
+              "levelId": "obt/hard/level_hard_15-04",
+              "cn_name": "机密预案-4",
+              "description": "“只有在身躯归还于大地后，才能真正地起舞。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -34581,7 +34677,6 @@
         }
       ]
     },
-    
     {
       "type": "剿灭作战",
       "stage": true,

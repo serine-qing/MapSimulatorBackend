@@ -31,7 +31,7 @@ interface EnemyData{
 }
 
 enemy_database.forEach((enemy: any) => {
-  const find: any = Object.values(enemy_handbook).find((e: any) => e.enemyId === enemy.key);
+  const find: any = Object.values(enemy_handbook).find((e: any) => e.enemyId === enemy.Key);
   if(find){
     enemy.abilityList = find.abilityList;
   }
@@ -52,10 +52,10 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 
   enemyRefs.forEach((enemyRef: EnemyRef) => {
     const find = enemy_database.find( (e: any) =>{
-      return enemyRef.id === e.key;
+      return enemyRef.id === e.Key;
     })
-
-    const sourceData = find.value[0].enemyData;
+    if(!find) console.log(enemyRef)
+    const sourceData = find.Value[0].enemyData;
 
     const talentBlackboard = getTalents(sourceData.talentBlackboard)
 
@@ -67,7 +67,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
     }
     
     const parsedData: EnemyData= {
-      key: find.key,
+      key: find.Key,
       attributes: {...sourceData.attributes},  
       description: sourceData.description.m_value,
       levelType:sourceData.levelType.m_value,
@@ -87,7 +87,7 @@ const getEnemyData  = ( enemyRefs:EnemyRef[] ): EnemyData[] => {
 
     //敌人级别大于0，需要从用高级别的数据覆盖低级别的数据
     if(enemyRef.level > 0){
-      const overwriteData = find.value[enemyRef.level].enemyData;
+      const overwriteData = find.Value[enemyRef.level].enemyData;
       Object.keys(overwriteData).forEach(key => {
         const attr = overwriteData[key];
         if(attr?.m_defined === true){

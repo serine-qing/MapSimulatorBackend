@@ -1,6 +1,7 @@
 import fs from "fs"
 
-const activities = "main_15";
+// const activities = "main_15";   //主线
+const activities = "act45side";   //支线
 //campaign即剿灭关卡，operation是地区名 所以需要特殊处理
 const isCamp = false;
 
@@ -16,7 +17,12 @@ let stageJSON:any = {
 };
 
 stage_keys.forEach(key => {
-  if(key.includes(activities) && !key.includes("#f#")){
+  let HStage;
+  if(activities.includes("main")){
+    //主线
+    HStage = activities.replace("main", "hard");
+  }
+  if( (key.includes(activities) || HStage && key.includes(HStage)) && !key.includes("#f#")){
     const findStage = stage_database[key];
     const challenge = findStage.hardStagedId;
     if(!findStage.levelId) return; //非战斗
