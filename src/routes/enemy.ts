@@ -42,7 +42,7 @@ const getTalents = (talentBlackboard: any[]) => {
   return talentBlackboard?.map(talent => {
     return {
       key: talent.key,
-      value: talent.value === null ? talent.valueStr : talent.value
+      value: talent.valueStr? talent.valueStr : talent.value
     }
   })
 }
