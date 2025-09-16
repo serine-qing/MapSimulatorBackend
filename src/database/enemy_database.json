@@ -46750,11 +46750,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 8500
+                "m_value": 7700
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 620
+                "m_value": 605
               },
               "def": {
                 "m_defined": true,
@@ -47187,11 +47187,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 4500
+                "m_value": 3300
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 90
+                "m_value": 77
               },
               "def": {
                 "m_defined": true,
@@ -47635,11 +47635,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 26000
+                "m_value": 17600
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 200
+                "m_value": 165
               },
               "def": {
                 "m_defined": true,
@@ -48103,11 +48103,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 35000
+                "m_value": 27500
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 1100
+                "m_value": 900
               },
               "def": {
                 "m_defined": true,
@@ -48506,11 +48506,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 22000
+                "m_value": 16500
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 670
+                "m_value": 550
               },
               "def": {
                 "m_defined": true,
@@ -49432,11 +49432,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 45000
+                "m_value": 33000
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 180
+                "m_value": 150
               },
               "def": {
                 "m_defined": true,
@@ -278991,11 +278991,11 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 80000
+                "m_value": 70000
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 790
+                "m_value": 700
               },
               "def": {
                 "m_defined": false,

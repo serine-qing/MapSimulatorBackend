@@ -66,6 +66,126 @@
           "cn_name": "童话的开场",
           "description": "童话的台本已然写就，舞台的布景已等候多时。别着急离开——精彩的故事将由你们来演绎。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光\\n<@lv.rem>远程干员可部署于部分近战位</>",
           "hasChallenge": false
+        },
+        {
+          "operation": "SS-EX-1",
+          "levelId": "activities/act45side/level_act45side_ex01",
+          "cn_name": "第一篇·糖果小屋",
+          "description": "一篇无需担忧疾病的甜蜜童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-1 突袭",
+          "levelId": "activities/act45side/level_act45side_ex01",
+          "cn_name": "第一篇·糖果小屋",
+          "description": "一篇无需担忧疾病的甜蜜童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n敌人处于月光下提升更多攻击速度，且布景大师吹起气球后获得屏障大幅提升"
+        },
+        {
+          "operation": "SS-EX-2",
+          "levelId": "activities/act45side/level_act45side_ex02",
+          "cn_name": "第二篇·玩具盒子",
+          "description": "一篇无需担忧孤独的欢快童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-2 突袭",
+          "levelId": "activities/act45side/level_act45side_ex02",
+          "cn_name": "第二篇·玩具盒子",
+          "description": "一篇无需担忧孤独的欢快童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n出现额外的暗黑发条仆从且其防御力提升"
+        },
+        {
+          "operation": "SS-EX-3",
+          "levelId": "activities/act45side/level_act45side_ex03",
+          "cn_name": "第三篇·闪亮翅膀",
+          "description": "一篇无需担忧沉沦的轻松童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-3 突袭",
+          "levelId": "activities/act45side/level_act45side_ex03",
+          "cn_name": "第三篇·闪亮翅膀",
+          "description": "一篇无需担忧沉沦的轻松童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n欢快的卡尔顿生命值大幅提升"
+        },
+        {
+          "operation": "SS-EX-4",
+          "levelId": "activities/act45side/level_act45side_ex04",
+          "cn_name": "第四篇·轻轻眨眼",
+          "description": "一篇无需担忧喧嚣的静谧童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-4 突袭",
+          "levelId": "activities/act45side/level_act45side_ex04",
+          "cn_name": "第四篇·轻轻眨眼",
+          "description": "一篇无需担忧喧嚣的静谧童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n沃尔夫幽影的攻击范围扩大，但攻击速度降低"
+        },
+        {
+          "operation": "SS-EX-5",
+          "levelId": "activities/act45side/level_act45side_ex05",
+          "cn_name": "第五篇·羽绒被褥",
+          "description": "一篇无需担忧困倦的安详童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-5 突袭",
+          "levelId": "activities/act45side/level_act45side_ex05",
+          "cn_name": "第五篇·羽绒被褥",
+          "description": "一篇无需担忧困倦的安详童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n沉眠伴随兽的移动速度提升，关卡内一个部署位无法部署"
+        },
+        {
+          "operation": "SS-EX-6",
+          "levelId": "activities/act45side/level_act45side_ex06",
+          "cn_name": "第六篇·镜中茶会",
+          "description": "一篇无需担忧烦闷的热情童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-6 突袭",
+          "levelId": "activities/act45side/level_act45side_ex06",
+          "cn_name": "第六篇·镜中茶会",
+          "description": "一篇无需担忧烦闷的热情童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n出现额外的“羽化之梦”"
+        },
+        {
+          "operation": "SS-EX-7",
+          "levelId": "activities/act45side/level_act45side_ex07",
+          "cn_name": "第七篇·月下幻梦",
+          "description": "一篇无需担忧悲伤的梦幻童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-7 突袭",
+          "levelId": "activities/act45side/level_act45side_ex07",
+          "cn_name": "第七篇·月下幻梦",
+          "description": "一篇无需担忧悲伤的梦幻童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n沉眠伴随兽的移动速度和最大生命值大幅提升"
+        },
+        {
+          "operation": "SS-EX-8",
+          "levelId": "activities/act45side/level_act45side_ex08",
+          "cn_name": "童话的结局",
+          "description": "他们幸福又快乐，就这样永远留在了童话里。世上何处还有比这更好的结局？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true
+        },
+        {
+          "operation": "SS-EX-8 突袭",
+          "levelId": "activities/act45side/level_act45side_ex08",
+          "cn_name": "童话的结局",
+          "description": "他们幸福又快乐，就这样永远留在了童话里。世上何处还有比这更好的结局？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+          "hasChallenge": true,
+          "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
         }
       ]
     },
