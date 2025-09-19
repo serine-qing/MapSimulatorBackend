@@ -50,7 +50,9 @@ const parseStorysData = (data: any) => {
         const find = stage_keys.find((key: string) => {
           return stage_database[key].code === stage_json.operation;
         })
-        const levelPath = stage_database[find]?.levelId?.toLowerCase();
+
+        const stage_data = stage_database[find];
+        const levelPath = stage_data?.levelId?.toLowerCase();
 
         const stage: Stage = {
           operation: stage_json.operation,
@@ -94,9 +96,11 @@ const parseStorysData = (data: any) => {
 
           if(hasTough){
             challenge.levelId = levelId.replace("easy","tough");
-            challenge.operation += "磨难";
+            challenge.operation = "磨难" + challenge.operation;
+          }else if(find.difficulty === "SIX_STAR"){
+
           }else{
-            challenge.operation += "突袭";
+            challenge.operation = "突袭" + challenge.operation;
           }
 
           

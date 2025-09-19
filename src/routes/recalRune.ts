@@ -1,3 +1,4 @@
+import { accuracyNum } from "../utilities";
 import express from "express";
 const router = express.Router();
 const recalRuneData: any = require ("../database/crisis_v2_table.json").recalRuneData.seasons;
@@ -61,7 +62,7 @@ const parseDescription = (descArr: any[], runes: any[]) => {
 
       if(value){
         descArr[index] = hasPercent? 
-          descArr[index].replace(`{${key}:0%}`, value * 100 + "%")
+          descArr[index].replace(`{${key}:0%}`, accuracyNum(value * 100) + "%")  //防止出现很长的小数
           : hasColon ? descArr[index].replace(`{${key}:0}`, value) 
             : descArr[index].replace(`{${key}}`, value);
       }
