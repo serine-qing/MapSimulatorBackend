@@ -1,9 +1,10 @@
+
 import fs from 'fs';
 import parseStoryJSON from './parseStoryJSON';
-const ss_info: any = require("./ss_info.json")
+const ss_info: any = require("./ss_info.json");
 
 const mainStoryInfo = ss_info.find((ss: any) => ss.story === "主线关卡").childNodes;
-const data: any = {
+const mainData: any = {
   type: "主线关卡",
   childNodes: [],
 }
@@ -17,14 +18,13 @@ const mainStoryKeys = [
 for(let i = 0; i < mainStoryKeys.length; i++){
   const key = mainStoryKeys[i];
   const episode = mainStoryInfo[i].episode;
-  data.childNodes.push({
+  mainData.childNodes.push({
     episode,
     childNodes: parseStoryJSON(key, false)
   })
 }
 
-
-fs.writeFile('main.json', JSON.stringify(data, null, 2), (err: any) => {
+fs.writeFile('main.json', JSON.stringify(mainData, null, 2), (err: any) => {
   if (err) throw err;
   console.log('JSON文件已保存');
 });
