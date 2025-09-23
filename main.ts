@@ -1,6 +1,7 @@
 import express from "express";
 import path from "path";
 import http from "http"
+import 'tsconfig-paths/register';
 
 const app = express()
 const cors = require('cors')   //引入cors解决跨域问题

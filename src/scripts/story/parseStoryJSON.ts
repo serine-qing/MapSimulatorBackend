@@ -1,13 +1,40 @@
-const stage_table = require ("./stage_table.json");
-const stage_database: any = stage_table.stages
-const sixStarRuneData: any = stage_table.sixStarRuneData
 
-//全部关卡的key
-let stage_keys: any[] = Object.keys(stage_database);
 
-const parseStoryJSON = (episode: string, isCamp: boolean) => {
+const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "EN" | "KR") => {
+  const stageDatabase = stage_table.stages;
+  const sixStarRuneData = stage_table.sixStarRuneData;
+  const keys = Object.keys(stageDatabase);
+
   const childNodes: any[] = [];
-  stage_keys.forEach(key => {
+
+  //三种不同的突袭名
+  let cmName1 = "";
+  let cmName2 = "";
+  let cmName3 = "";
+  switch (lang) {
+    case "CN":
+      cmName1 = "突袭";
+      cmName2 = "磨难";
+      cmName3 = "险地";
+      break;
+    case "JP":
+      cmName1 = "強襲";
+      cmName2 = "厄難";
+      cmName3 = "危地";
+      break;
+    case "EN":
+      cmName1 = "CM ";
+      cmName2 = "CM ";
+      cmName3 = "CM ";
+      break;
+    case "KR":
+      cmName1 = "CM ";
+      cmName2 = "CM ";
+      cmName3 = "CM ";
+      break;
+  }
+
+  keys.forEach(key => {
     let HStage;      //H关
     let toughStage;  //磨难
     if(episode.includes("main")){
@@ -30,20 +57,15 @@ const parseStoryJSON = (episode: string, isCamp: boolean) => {
       ) && 
       !key.includes("#f#")
     ){
-      const findStage = stage_database[key];
+      const findStage = stageDatabase[key];
       const challenge = findStage.hardStagedId;
       if(!findStage.levelId) return; //非战斗
       const stage:{[key: string]: any} = {
         operation: findStage.code,
         levelId: findStage.levelId.toLowerCase(),
-        cn_name: findStage.name,
+        name: findStage.name,
         description: findStage.description,
         hasChallenge: !!challenge,
-      }
-
-      if(isCamp){
-        stage.operation = `${findStage.code} ${findStage.name}`;
-        stage.cn_name = "";
       }
 
       childNodes.push(stage)
@@ -51,17 +73,17 @@ const parseStoryJSON = (episode: string, isCamp: boolean) => {
       if(challenge){
         const challengeStage:{[key: string]: any} = {
           ...stage,
-          challenge: stage_database[challenge].description
+          challenge: stageDatabase[challenge].description
         }
-        challengeStage.operation = "突袭" + challengeStage.operation;
+        challengeStage.operation = cmName1 + challengeStage.operation;
 
         childNodes.push(challengeStage)
-      }else if(key.includes(toughStage)){
-        //磨难险地
-        stage.operation = "磨难" + stage.operation;
+      }else if(toughStage && key.includes(toughStage)){
+        //磨难
+        stage.operation = cmName2 + stage.operation;
       }else if(findStage.difficulty === "SIX_STAR"){
         //沙盘推演
-        stage.operation = "险地" + stage.operation;
+        stage.operation = cmName3 + stage.operation;
         stage.sandTable = [];
         const mapKey = key.replace("#s", "");
         Object.keys(sixStarRuneData).forEach(sixStarKey => {

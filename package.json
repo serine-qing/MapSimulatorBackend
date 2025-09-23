@@ -5,12 +5,10 @@
   "private": true,
   "scripts": {
     "dev": "ts-node main.ts",
-    "story": "ts-node ./src/scripts/story/story.ts",
     "skill": "ts-node ./src/scripts/skill/skill.ts",
     "floder": "ts-node ./src/scripts/fbx/floder.ts",
     "active": "ts-node ./src/scripts/story/activities.ts",
-    "main": "ts-node ./src/scripts/story/mainStory.ts",
-    "side": "ts-node ./src/scripts/story/sideStory.ts",
+    "story": "ts-node ./src/scripts/story/parseStory.ts",
     "runes": "ts-node ./src/scripts/levels/runes.ts",
     "spinesCheck": "ts-node ./src/scripts/spine/changeName.ts",
     "getTraps": "ts-node ./src/scripts/pachong/getTraps.ts"
@@ -29,5 +27,8 @@
     "puppeteer-extra": "^3.3.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "tsconfig-paths": "^4.2.0"
   }
 }

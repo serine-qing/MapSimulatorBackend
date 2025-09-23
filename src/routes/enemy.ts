@@ -1,8 +1,8 @@
 import { isHugeEnemy } from "../function/EnemyHelper";
 import express from "express";
 const router = express.Router();
-const enemy_database: any = require ("../database/enemy_database.json").enemies;
-const enemy_handbook: any = require ("../database/enemy_handbook_table.json").enemyData;
+const enemy_database: any = require ("../database/cn/enemy_database.json").enemies;
+const enemy_handbook: any = require ("../database/cn/enemy_handbook_table.json").enemyData;
 
 interface EnemyRef{
   id: string,

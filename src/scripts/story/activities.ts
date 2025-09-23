@@ -1,4 +1,6 @@
 import fs from "fs"
+//或者通过 ts-node 的命令行选项：ts-node -r tsconfig-paths/register xxx.ts
+import 'tsconfig-paths/register'; 
 import parseStoryJSON from "./parseStoryJSON";
 
 const activities = "main_01";   //主线

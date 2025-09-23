@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const enemy_database: any = require ("../../database/enemy_database.json").enemies;
+const enemy_database: any = require ("../../database/cn/enemy_database.json").enemies;
 
 const talentName = "revive";
 const skillName = null;

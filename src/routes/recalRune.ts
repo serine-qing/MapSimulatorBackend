@@ -1,7 +1,7 @@
 import { accuracyNum } from "../utilities";
 import express from "express";
 const router = express.Router();
-const recalRuneData: any = require ("../database/crisis_v2_table.json").recalRuneData.seasons;
+const recalRuneData: any = require("../database/cn/crisis_v2_table.json").recalRuneData.seasons;
 
 const levels: {[key: string]: any} = {};
 const parseLevelData = (data: {[key: string]: any}) => {
