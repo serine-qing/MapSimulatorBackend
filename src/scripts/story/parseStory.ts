@@ -13,6 +13,7 @@ const recalRunes = {
   "stage": true,
   "childNodes":[
     {
+      "id": "7-18Mat",
       "operation": "7-18",
       "levelId": "obt/recalrune/level_recalrune_01-01",
       "name": "",
@@ -20,6 +21,7 @@ const recalRunes = {
       "hasChallenge": false
     },
     {
+      "id": "LS-4Mat",
       "operation": "LS-4",
       "levelId": "obt/recalrune/level_recalrune_01-02",
       "name": "",
@@ -27,6 +29,7 @@ const recalRunes = {
       "hasChallenge": false
     },
     {
+      "id": "H5-1Mat",
       "operation": "H5-1",
       "levelId": "obt/recalrune/level_recalrune_01-03",
       "name": "",
@@ -34,6 +37,7 @@ const recalRunes = {
       "hasChallenge": false
     },
     {
+      "id": "H9-2Mat",
       "operation": "H9-2",
       "levelId": "obt/recalrune/level_recalrune_01-04",
       "name": "",

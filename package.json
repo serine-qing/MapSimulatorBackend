@@ -9,6 +9,7 @@
     "floder": "ts-node ./src/scripts/fbx/floder.ts",
     "active": "ts-node ./src/scripts/story/activities.ts",
     "story": "ts-node ./src/scripts/story/parseStory.ts",
+    "enemyData": "ts-node ./src/scripts/enemy/enemyData.ts",
     "runes": "ts-node ./src/scripts/levels/runes.ts",
     "spinesCheck": "ts-node ./src/scripts/spine/changeName.ts",
     "getTraps": "ts-node ./src/scripts/pachong/getTraps.ts"

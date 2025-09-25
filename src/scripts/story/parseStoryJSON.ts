@@ -61,6 +61,7 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
       const challenge = findStage.hardStagedId;
       if(!findStage.levelId) return; //非战斗
       const stage:{[key: string]: any} = {
+        id: findStage.code,
         operation: findStage.code,
         levelId: findStage.levelId.toLowerCase(),
         name: findStage.name,
@@ -75,14 +76,17 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
           ...stage,
           challenge: stageDatabase[challenge].description
         }
+        challengeStage.id += "CM";
         challengeStage.operation = cmName1 + challengeStage.operation;
 
         childNodes.push(challengeStage)
       }else if(toughStage && key.includes(toughStage)){
         //磨难
+        stage.id += "CM";
         stage.operation = cmName2 + stage.operation;
       }else if(findStage.difficulty === "SIX_STAR"){
         //沙盘推演
+        stage.id += "CM";
         stage.operation = cmName3 + stage.operation;
         stage.sandTable = [];
         const mapKey = key.replace("#s", "");
