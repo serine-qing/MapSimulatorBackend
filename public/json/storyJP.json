@@ -15173,6 +15173,132 @@
               "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
             }
           ]
+        },
+        {
+          "id": "act1halfidle",
+          "episode": "次生预案",
+          "childNodes": [
+            {
+              "id": "RM-TR-1",
+              "operation": "RM-TR-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
+              "name": "荒地前哨",
+              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-1",
+              "operation": "RM-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
+              "name": "旧城遗址",
+              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-2",
+              "operation": "RM-2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
+              "name": "风号峡谷",
+              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-3",
+              "operation": "RM-3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
+              "name": "坍塌矿区",
+              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-4",
+              "operation": "RM-4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
+              "name": "沉积河床",
+              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-5",
+              "operation": "RM-5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
+              "name": "斑斓巢穴",
+              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-6",
+              "operation": "RM-6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
+              "name": "猎骨荒野",
+              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H1",
+              "operation": "RM-H1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
+              "name": "岩溶险地",
+              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H2",
+              "operation": "RM-H2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
+              "name": "裂壕险地",
+              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H3",
+              "operation": "RM-H3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
+              "name": "孤隘险地",
+              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H4",
+              "operation": "RM-H4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
+              "name": "断岭险地",
+              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H5",
+              "operation": "RM-H5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
+              "name": "迷窟险地",
+              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H6",
+              "operation": "RM-H6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
+              "name": "蚀林险地",
+              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H7",
+              "operation": "RM-H7",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
+              "name": "雾城险地",
+              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H8",
+              "operation": "RM-H8",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
+              "name": "湖骸险地",
+              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -19787,6 +19913,7 @@
           "episode": "#4 弧光作战",
           "childNodes": [
             {
+              "id": "crisis_v2_04-01",
               "operation": "常驻图 滞空焦点",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19796,6 +19923,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
             },
             {
+              "id": "crisis_v2_04-03",
               "operation": "轮换图 熔炉检修口",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19805,6 +19933,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-03"
             },
             {
+              "id": "crisis_v2_04-05",
               "operation": "轮换图 巫诅骸地",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19826,7 +19955,7 @@
           "operation": "ウルサス チェルノボーグ",
           "name": "",
           "description": "チェルノボーグに巣食う大量のレユニオン構成員を殲滅せよ。当エリアに出現するレユニオン幹部にも警戒せよ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_01",
+          "levelId": "obt/campaign/level_camp_01",
           "hasChallenge": false
         },
         {
@@ -19834,7 +19963,7 @@
           "operation": "炎国 龍門郊外",
           "name": "",
           "description": "龍門郊外に潜伏するレユニオン構成員を殲滅し、龍門の安全を保証せよ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_02",
+          "levelId": "obt/campaign/level_camp_02",
           "hasChallenge": false
         },
         {
@@ -19842,7 +19971,7 @@
           "operation": "炎国 龍門市街",
           "name": "",
           "description": "龍門市街地に進攻するレユニオンの武装戦力を殲滅し、龍門の主導権を取り戻せ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_03",
+          "levelId": "obt/campaign/level_camp_03",
           "hasChallenge": false
         },
         {
@@ -19850,7 +19979,7 @@
           "operation": "カジミエーシュ 大騎士領郊外",
           "name": "",
           "description": "カジミエーシュ商業連合会が今回の大型競技エキシビション試合を企画した。守備側として、ロドスは協賛ドローンを活用し各大騎士団の精鋭に立ち向かわねばならない。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_r_01",
+          "levelId": "obt/campaign/level_camp_r_01",
           "hasChallenge": false
         },
         {
@@ -19858,7 +19987,7 @@
           "operation": "ウルサス 北原氷結廃城",
           "name": "",
           "description": "レユニオン遊撃部隊がウルサス氷原の廃棄された移動都市に潜伏している。防寒装備を準備しろ。さもなくば勝利の目はない。\n<@lv.rem><特殊条件></>コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_r_02",
+          "levelId": "obt/campaign/level_camp_r_02",
           "hasChallenge": false
         },
         {
@@ -19866,7 +19995,7 @@
           "operation": "ウルサス 廃棄鉱区",
           "name": "",
           "description": "ウルサスの辺地にある坑道。感染者監視隊はここで感染者を捜索している。鉱区の複雑な地形を活用して、感染者の撤退の時間稼ぎを行うのだ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。ウルサス民間人の救助失敗で殲滅数-1",
-          "levelId": "Obt/Campaign/level_camp_r_03",
+          "levelId": "obt/campaign/level_camp_r_03",
           "hasChallenge": false
         },
         {
@@ -19874,7 +20003,7 @@
           "operation": "シエスタ フラッドビーチ",
           "name": "",
           "description": "シエスタの海辺に位置する目立たないビーチエリア。シチリア人と暴徒に占領されてしまった。シエスタ市が提供したコマンドシステムを活用し、なるべく早く駆逐せよ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_r_04",
+          "levelId": "obt/campaign/level_camp_r_04",
           "hasChallenge": false
         },
         {
@@ -19882,7 +20011,7 @@
           "operation": "イベリア 水没潮窟",
           "name": "",
           "description": "波濤押し寄せる洞窟で、シーボーンたちが不気味にうごめいている。洞窟に残されたイベリアの機器を利用し、シーボーンを徹底的に排除せよ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_r_05",
+          "levelId": "obt/campaign/level_camp_r_05",
           "hasChallenge": false
         },
         {
@@ -19890,7 +20019,7 @@
           "operation": "サルゴン ロングスプリング郊外",
           "name": "",
           "description": "「展望タワー33」事件のあと、「レッドラベル」の傭兵が残った源石変異生物を操ってロドスの捜査の目をかいくぐった。これらの生物が他の地区にたどり着いてしまえば、惨劇が起きるのは想像に難くない。根絶やしにすべし。\n<@lv.rem><特殊条件></>コストが自動回復しない\n<@lv.item><砂嵐></>砂嵐の中に晒された味方は攻撃力が低下し、HPが減少し続け、再配置時間が上昇する。砂嵐中の敵の移動速度が低下する。",
-          "levelId": "Obt/Campaign/level_camp_r_06",
+          "levelId": "obt/campaign/level_camp_r_06",
           "hasChallenge": false
         },
         {
@@ -19898,7 +20027,7 @@
           "operation": "ボリバル ドッソレス換水口",
           "name": "",
           "description": "カンデラ市長より、ドッソレスの護衛たちとの演習依頼が届いた。なんでも、最近リターニアの「蓄音機」を二台仕入れたので、それを用いた拠点防衛のテストをしたいのだとか。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><「蓄音機」></>制御権を奪取した陣営の兵器となり、周囲の敵に術ダメージを与え、味方の体力を回復する",
-          "levelId": "Obt/Campaign/level_camp_r_07",
+          "levelId": "obt/campaign/level_camp_r_07",
           "hasChallenge": false
         },
         {
@@ -19906,7 +20035,7 @@
           "operation": "クルビア 南方監獄",
           "name": "",
           "description": "マンスフィールド監獄から移送された囚人、ジェッセルトンが他の囚人たちに脱獄を扇動している。現地のシラクーザマフィアも噂を聞きつけて助力している。ロドスのオペレーターは直ちに介入し、禁固装置を操り事態を収束させよ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><禁固装置></>作動範囲内にいる解放された敵を禁固する。",
-          "levelId": "Obt/Campaign/level_camp_r_08",
+          "levelId": "obt/campaign/level_camp_r_08",
           "hasChallenge": false
         },
         {
@@ -19914,7 +20043,7 @@
           "operation": "ヴィクトリア ヒロック郡郊外",
           "name": "",
           "description": "ヴィクトリア政府からの正式な依頼を受けた後、ロドスがヒロック郡の周辺にいる亡霊部隊の対応に着手した。\n<@lv.item><特殊条件></>所持コストが自然回復しない。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する。",
-          "levelId": "Obt/Campaign/level_camp_r_09",
+          "levelId": "obt/campaign/level_camp_r_09",
           "hasChallenge": false
         },
         {
@@ -19922,7 +20051,7 @@
           "operation": "カジミエーシュ 「ナイトチャンピオン」",
           "name": "",
           "description": "カジミエーシュの某企業が新たな「バラエティショー」番組を企画した。光が不十分な環境下で、参加チームはグランプリを取るため次々にやってくる騎士団メンバーの進攻に対応しなければならない。主催者側がロドスに招待状を送ってきた。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><都市のネオン></>隣接4マスの視野を確保する。起動すると確保できる視野の範囲が拡大する。",
-          "levelId": "Obt/Campaign/level_camp_r_10",
+          "levelId": "obt/campaign/level_camp_r_10",
           "hasChallenge": false
         },
         {
@@ -19930,7 +20059,7 @@
           "operation": "炎国 蜿蜒たる蜀道",
           "name": "",
           "description": "奇妙な形の器物たちが、長く続く山道のそこかしこに再び姿を現した。ソレらは探しているのだろうか。己に智慧を与え、そして雲を山間に落ちた酒杯を。炎国の関連部門は器物たちの処理をめぐってロドスに協力を要請した。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。",
-          "levelId": "Obt/Campaign/level_camp_r_11",
+          "levelId": "obt/campaign/level_camp_r_11",
           "hasChallenge": false
         },
         {
@@ -19938,7 +20067,7 @@
           "operation": "ラテラーノ チョコストリート",
           "name": "",
           "description": "万国サミットが終了したあと、先導者に同道しなかった求道者たちは聖都に残り、めいめいの方法でラテラーノの信仰を証明しようと試みた。彼らがステファン区のビジネス街で騒動を起こしたため、公証人役場はロドスに平定のための協力を求めた。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><「ジェラート供給所」></>制御権を奪取した陣営の設備となり、周囲の味方のSPを回復する。",
-          "levelId": "Obt/Campaign/level_camp_r_12",
+          "levelId": "obt/campaign/level_camp_r_12",
           "hasChallenge": false
         },
         {
@@ -19946,7 +20075,7 @@
           "operation": "イベリア 暗き造船所",
           "name": "",
           "description": "今となっては、かつて狂人号などの重要な艦船を製造した造船所でさえも恐魚の巣穴と化してしまった。今もなお使用可能な黄金時代の主力艦を奪還するため、裁判所がロドスに恐魚の殲滅依頼を出してきた。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><聖徒の御手・清掃モード></>配置した方向に「聖徒の御手」が放たれ、触れた敵にダメージを与えてスタンさせ、「聖徒の御手」の移動ルート上にある溟痕を取り除く。",
-          "levelId": "Obt/Campaign/level_camp_r_13",
+          "levelId": "obt/campaign/level_camp_r_13",
           "hasChallenge": false
         },
         {
@@ -19954,7 +20083,7 @@
           "operation": "クルビア 実験基地の格納庫",
           "name": "",
           "description": "359号基地の撤去作業中、格納庫に保管されていたはずの試作型パワードスーツが突然起動した。現場のオペレーターは速やかに事態を収束されたし。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><Rシリーズパワードスーツ></>周囲にある実験の産物を吸収してSPを回復し、SPが最大値に達すると起動する。",
-          "levelId": "Obt/Campaign/level_camp_r_14",
+          "levelId": "obt/campaign/level_camp_r_14",
           "hasChallenge": false
         },
         {
@@ -19962,7 +20091,7 @@
           "operation": "炎国 龍門商店街",
           "name": "",
           "description": "鼠王の意を受けた現地のシラクーザマフィアは、安魂祭期間中に都市を盛り上げるべく傭兵に連絡を入れた。だがまずは市民の安全を保証するために、ロドスのオペレーターとリハーサルを行う必要がある。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><可動式戦術格納庫></>状況に応じて随時ドローンを射出し、敵傭兵チームの作戦支援を行う\n<@lv.rem><コマンドシステム></>破壊されると耐久値が1減る\n",
-          "levelId": "Obt/Campaign/level_camp_r_15",
+          "levelId": "obt/campaign/level_camp_r_15",
           "hasChallenge": false
         },
         {
@@ -19970,7 +20099,7 @@
           "operation": "リターニア フェルマーテ通り",
           "name": "",
           "description": "とある有名な音楽家のチャリティーコンサートに、巫王の残党を装い、暴動を企てている不届き者が紛れ込んだとの情報が入った。コンサートを無事に成功させるためにも、現場の警備に当たっているロドスのオペレーターは、至急この件に対応する必要がある。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><異音の調べ></>味方全員のSPの自然回復速度が低下\n<@lv.item><指揮光線></>範囲内の味方オペレーターのSPの自然回復速度を通常に戻す",
-          "levelId": "Obt/Campaign/level_camp_r_16",
+          "levelId": "obt/campaign/level_camp_r_16",
           "hasChallenge": false
         },
         {
@@ -19978,7 +20107,7 @@
           "operation": "ヴィクトリア 薄暗い泥沼",
           "name": "",
           "description": "「怨念」という名の炎が生い茂る葦の群生の中に投げ込まれ、故郷を旅する人々の背後に灰塵が迫り寄る。彼らの救援要請を受けたロドスが、それを黙って見ているようなことはない。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><沼地></>このマスに配置された味方ユニットは攻撃速度が徐々に低下する。また、マス上の敵の攻撃速度と移動速度も徐々に低下する\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
-          "levelId": "Obt/Campaign/level_camp_r_17",
+          "levelId": "obt/campaign/level_camp_r_17",
           "hasChallenge": false
         },
         {
@@ -19986,7 +20115,7 @@
           "operation": "サルゴン 「特製小さな水たまり」",
           "name": "",
           "description": "「どでかい水たまり」を忘れることができないドゥリンたちは、地上に新しいウォーターパークを建設し、アカフラのすべての部族にカーニバルへの招待状を送った。アルコール飲料が詰め込まれた箱が次から次へとカーニバル会場に運ばれていく……頼む、ロドス。ここの秩序は君たちにかかってるんだ！\n<@lv.rem><特殊条件></>所持コストが自然回復しない",
-          "levelId": "Obt/Campaign/level_camp_r_18",
+          "levelId": "obt/campaign/level_camp_r_18",
           "hasChallenge": false
         },
         {
@@ -19994,7 +20123,7 @@
           "operation": "ヴィクトリア 腐敗した荒野",
           "name": "",
           "description": "ナハツェーラーの大軍が我が物顔で田んぼを荒らしている。このままでは豊かな土地が荒地にされてしまうだろう。長い間、苦しめられてきたロンディニウムの人々に希望を分け与えるためにも、どうか小隊を派遣し奴らを撃退してくれ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><渇欲の枯枝></>破壊された時または敵全滅時に<ナハツェーラーの使徒>を産み出す",
-          "levelId": "Obt/Campaign/level_camp_r_19",
+          "levelId": "obt/campaign/level_camp_r_19",
           "hasChallenge": false
         },
         {
@@ -20002,7 +20131,7 @@
           "operation": "炎国 千嶂の辺塞",
           "name": "",
           "description": "辺りをぶらついていた盗賊たちは再び戦力を集結させた。今度の標的は比較的守備が薄い山の要塞だ。ここが陥落すれば民たちに悲劇が降り注ぐことになるだろう。玉門からの援軍が到着するまでに、どうか奴らを食い止めてくれ！\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><天災防衛区画></>このマスに配置されたユニットは地面マスにいる敵への与ダメージが上昇し、被ダメージが減少する\n<@lv.item><都市防衛柵></>複数の敵をブロックできる",
-          "levelId": "Obt/Campaign/level_camp_r_20",
+          "levelId": "obt/campaign/level_camp_r_20",
           "hasChallenge": false
         },
         {
@@ -20010,7 +20139,7 @@
           "operation": "シエスタ ニューホテル通り",
           "name": "",
           "description": "旅人たちはここに長く留まりはしないが、たいていはこの地の歌を覚え、この地の美酒を手に旅立って行く。欲を言えば、爽やかな目覚めに導いてくれる、あのふわふわとした夢の数々も旅のお供にしたいものだが、それらは気がつけば夜風に融け、跡形もなく消えてしまう。向こうにいるモコモコした生き物たちが見えるかい？さあ、もう一度一緒に捕まえるんだ。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><景観噴水></>隣接4マスにはスチームが発生せず、範囲内に配置されたオペレーターの攻撃時に対象のいるマスにホワイトスチームが発生する\n<@lv.item><スチームサイダー></>壊されると、周囲にホワイトスチームを発生させる",
-          "levelId": "Obt/Campaign/level_camp_r_21",
+          "levelId": "obt/campaign/level_camp_r_21",
           "hasChallenge": false
         },
         {
@@ -20018,7 +20147,7 @@
           "operation": "クルビア 「離心率」ラボ",
           "name": "",
           "description": "重力、視野、道筋――すべてが不確かではあるが、光が弧を描くようにして運命の十字路に橋を架ける。大地よりつかず離れずの距離から、共に臆病さと浅はかさを飛び越えよう。我々はこの気持ちをしかと胸に刻み、恋しさとともに、ただ前へと進み続ける。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><重力誘導></>重力誘導装置と「惑星の破片」が出現する。「惑星の破片」は重力に応じて軌道上を移動し、敵の進路を阻むほか、通過した敵味方ユニットに物理ダメージを与える。隣接4マスの味方ユニットの攻撃によって押し出すこともできる",
-          "levelId": "Obt/Campaign/level_camp_r_22",
+          "levelId": "obt/campaign/level_camp_r_22",
           "hasChallenge": false
         },
         {
@@ -20026,7 +20155,7 @@
           "operation": "ヴィクトリア 燃える市街地",
           "name": "",
           "description": "これは彼らだけでなく、我々の戦いでもあるのだ！ロンディニウムを取り戻せ。我々の思い出が詰まった部屋から、通りから、そしてブロックから始めよう！さあ、突き進め！\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><ロンディニウム都市防衛副砲></>チャージ完了時、ブロック数が最も多い味方ユニットを中心とした一定範囲内の敵味方全員に確定ダメージを与える",
-          "levelId": "Obt/Campaign/level_camp_r_23",
+          "levelId": "obt/campaign/level_camp_r_23",
           "hasChallenge": false
         },
         {
@@ -20034,7 +20163,7 @@
           "operation": "イェラグ 閉ざされし雪渓",
           "name": "",
           "description": "風雪、ストーブ、氷漬けの駄獣。ロドス、訪問団、イェラグの雪渓。凍った湖の上では満足できなかった者たちは、この無人の地で心ゆくまで戦う約束をした。眠りを妨げられることになる駄獣たちが、ただただ気の毒でならない。\n<@lv.rem><特殊条件></>所持コストが自然回復しない。\n<@lv.item><非常用ストーブ></>起動すると周囲の味方ユニットに対する「極寒」の環境効果が無効化される",
-          "levelId": "Obt/Campaign/level_camp_r_24",
+          "levelId": "obt/campaign/level_camp_r_24",
           "hasChallenge": false
         },
         {
@@ -20042,7 +20171,7 @@
           "operation": "クルビア 66号航路",
           "name": "",
           "description": "かつてこの航路は、たくさんの開拓者と希望を西へ西へと運んでいった。時は移ろい、過去の約束はいずれも果たされることはなかった。期待を背負っていた施設もすでに荒れ果て、ただ敵の殲滅要請だけが電波に乗って漂っている。\n<@lv.rem><特殊条件></>所持コストが自然回復しない\n<@lv.item><廃熱噴出口></>熱噴射により前方一定範囲内の敵味方全員に術ダメージを与える。熱噴射を受けている敵は減速するが、エネルギーが持続的にチャージされる",
-          "levelId": "Obt/Campaign/level_camp_r_25",
+          "levelId": "obt/campaign/level_camp_r_25",
           "hasChallenge": false
         },
         {
@@ -20050,7 +20179,7 @@
           "operation": "炎国 壬午号水田",
           "name": "",
           "description": "広大な田んぼに、稲の香りが漂う。ここにあるのは飢饉をなくすという農夫たちの夢。生き残っていた害獣が再び畑を襲い、作物に病害の危機が迫っている。ロドス諸君、どうか農家の心血を守ってほしい！\n<@lv.rem><特殊条件>所持コストが自然回復しない</>\n<@lv.item><水田></>汚染の程度に応じて、上に配置されたオペレーターに回復効果、またはダメージを与える",
-          "levelId": "Obt/Campaign/level_camp_r_26",
+          "levelId": "obt/campaign/level_camp_r_26",
           "hasChallenge": false
         },
         {
@@ -20058,7 +20187,7 @@
           "operation": "リターニア 選帝侯広場",
           "name": "",
           "description": "「ヘーアクンフツホルンの余韻」、彼らは巫王の旋律が響き続けることを望んでいる。奏でよ、ロドスより来たりし救援隊よ。あなたたちの旋律で、混乱と憎悪と偏見に満ちた音をかき消せ。この広場に相応しいのは最も美しい夕景だ。\n<@lv.rem><特殊条件>所持コストが自然回復しない</>\n<@lv.item><調律器></>一定回数攻撃すると起動可能となり、変奏時に起動するとトーンアップ/ダウンを切り替え、一定時間味方の能力を上昇させる",
-          "levelId": "Obt/Campaign/level_camp_r_27",
+          "levelId": "obt/campaign/level_camp_r_27",
           "hasChallenge": false
         },
         {
@@ -20066,7 +20195,7 @@
           "operation": "萨尔贡 大巴扎",
           "name": "",
           "description": "一群胆大包天的沙盗闯入了博物馆，他们误触机关，居然使得沉睡的展品们苏醒了过来。城里现在一片混乱，快让街道恢复原本的秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_28",
+          "levelId": "obt/campaign/level_camp_r_28",
           "hasChallenge": false
         },
         {
@@ -20074,7 +20203,7 @@
           "operation": "伊比利亚 鳞骸盐漠 ",
           "name": "",
           "description": "寻找黄金时代遗物的商队误闯了盐鳞的巢穴，凶暴的盐鳞将他们围困在盐漠中，不怀好意的海盗们也正驾驶着盐船逼近。向罗德岛求援的信号不停催促，即刻启航前往吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><盐漠></>经过的敌人移动速度降低，停留一段时间后会摔落至远处直接被击倒\\n<@lv.item><盐坨子炮></>周期性发射炮弹造成物理溅射伤害，可以将周围1名重量小于等于3的地面敌人传送至爆炸中心",
-          "levelId": "Obt/Campaign/level_camp_r_29",
+          "levelId": "obt/campaign/level_camp_r_29",
           "hasChallenge": false
         }
       ]

@@ -53,6 +53,7 @@ const crisis_v2 = {
       "episode": "#4 弧光作战",
       "childNodes": [
         {
+          "id": "crisis_v2_04-01",
           "operation": "常驻图 滞空焦点",
           "name": "",
           "description": "还没有做Tag选择，仅供参考！",
@@ -62,6 +63,7 @@ const crisis_v2 = {
           "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
         },
         {
+          "id": "crisis_v2_04-03",
           "operation": "轮换图 熔炉检修口",
           "name": "",
           "description": "还没有做Tag选择，仅供参考！",
@@ -71,6 +73,7 @@ const crisis_v2 = {
           "levelId": "obt/crisis/v2/level_crisis_v2_04-03"
         },
         {
+          "id": "crisis_v2_04-05",
           "operation": "轮换图 巫诅骸地",
           "name": "",
           "description": "还没有做Tag选择，仅供参考！",
@@ -182,6 +185,19 @@ const parseBaseData = async () => {
       console.log(`${name}未找到`)
     }
   });
+
+  //todo 临时措施，需要不基于wiki的json数据就能获取活动时间顺序
+  sideStorys.push({
+    id: 'act1halfidle',
+    CNName: '次生预案',
+    JPName: '',
+    ENName: '',
+    KRName: '',
+    CNNodes: [],
+    JPNodes: [],
+    ENNodes: [],
+    KRNodes: []
+  })
 
   parseNodeData(sideStorys, stage_table, "CN");
 

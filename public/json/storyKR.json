@@ -15173,6 +15173,132 @@
               "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
             }
           ]
+        },
+        {
+          "id": "act1halfidle",
+          "episode": "次生预案",
+          "childNodes": [
+            {
+              "id": "RM-TR-1",
+              "operation": "RM-TR-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
+              "name": "荒地前哨",
+              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-1",
+              "operation": "RM-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
+              "name": "旧城遗址",
+              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-2",
+              "operation": "RM-2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
+              "name": "风号峡谷",
+              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-3",
+              "operation": "RM-3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
+              "name": "坍塌矿区",
+              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-4",
+              "operation": "RM-4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
+              "name": "沉积河床",
+              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-5",
+              "operation": "RM-5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
+              "name": "斑斓巢穴",
+              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-6",
+              "operation": "RM-6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
+              "name": "猎骨荒野",
+              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H1",
+              "operation": "RM-H1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
+              "name": "岩溶险地",
+              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H2",
+              "operation": "RM-H2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
+              "name": "裂壕险地",
+              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H3",
+              "operation": "RM-H3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
+              "name": "孤隘险地",
+              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H4",
+              "operation": "RM-H4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
+              "name": "断岭险地",
+              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H5",
+              "operation": "RM-H5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
+              "name": "迷窟险地",
+              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H6",
+              "operation": "RM-H6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
+              "name": "蚀林险地",
+              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H7",
+              "operation": "RM-H7",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
+              "name": "雾城险地",
+              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H8",
+              "operation": "RM-H8",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
+              "name": "湖骸险地",
+              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -19787,6 +19913,7 @@
           "episode": "#4 弧光作战",
           "childNodes": [
             {
+              "id": "crisis_v2_04-01",
               "operation": "常驻图 滞空焦点",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19796,6 +19923,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
             },
             {
+              "id": "crisis_v2_04-03",
               "operation": "轮换图 熔炉检修口",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19805,6 +19933,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-03"
             },
             {
+              "id": "crisis_v2_04-05",
               "operation": "轮换图 巫诅骸地",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19826,7 +19955,7 @@
           "operation": "우르수스 체르노보그",
           "name": "",
           "description": "체르노보그에 자리를 잡은 대규모의 리유니온 부대를 섬멸하라. 해당 구역을 순찰하는 리유니온 간부를 주의할 것.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_01",
+          "levelId": "obt/campaign/level_camp_01",
           "hasChallenge": false
         },
         {
@@ -19834,7 +19963,7 @@
           "operation": "염국 용문 외곽",
           "name": "",
           "description": "용문 외곽에 잠복한 리유니온을 섬멸하고, 용문의 안전을 그 누구도 위협할 수 없다는 것을 증명하라.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_02",
+          "levelId": "obt/campaign/level_camp_02",
           "hasChallenge": false
         },
         {
@@ -19842,7 +19971,7 @@
           "operation": "염국 용문 시내",
           "name": "",
           "description": "용문 시내까지 침공한 리유니온을 섬멸하고 지역의 주도권을 탈환하라.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_03",
+          "levelId": "obt/campaign/level_camp_03",
           "hasChallenge": false
         },
         {
@@ -19850,7 +19979,7 @@
           "operation": "카시미어 그랜드 나이트 영지 교외",
           "name": "",
           "description": "카시미어 상업연합회가 이번 대규모 경기 대회를 기획했다. 수비 측으로서, 로도스 아일랜드는 협찬 드론을 활용해 기사단의 정예들을 상대해야 한다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_01",
+          "levelId": "obt/campaign/level_camp_r_01",
           "hasChallenge": false
         },
         {
@@ -19858,7 +19987,7 @@
           "operation": "우르수스 북툰드라 얼어붙은 유령 도시",
           "name": "",
           "description": "리유니온 유격대가 우르수스 빙원에 숨겨놓은 버려진 이동도시, 방한 조치를 잘 해야만 승리할 수 있다. \n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_02",
+          "levelId": "obt/campaign/level_camp_r_02",
           "hasChallenge": false
         },
         {
@@ -19866,7 +19995,7 @@
           "operation": "우르수스 버려진 광산 구역",
           "name": "",
           "description": "우르수스에서 멀리 떨어져 있는 광갱. 감염자 감시팀이 이곳에서 감염자를 수색 중이다. 광산의 복잡한 지형을 이용해 감염자를 철수시키고, 그들을 위해 시간을 벌도록 하라. \n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음, 우르수스 평민 구출 실패 시 1명당 섬멸 수 1 감소",
-          "levelId": "Obt/Campaign/level_camp_r_03",
+          "levelId": "obt/campaign/level_camp_r_03",
           "hasChallenge": false
         },
         {
@@ -19874,7 +20003,7 @@
           "operation": "시에스타 파도치는 해변",
           "name": "",
           "description": "시에스타 해변의 볼품 없는 작은 백사장. 지금은 시칠리안과 폭도들에게 점령되어 있다. 시에스타에서 제공하는 지휘 단말기를 활용해 최대한 빨리 놈들을 몰아내라.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_04",
+          "levelId": "obt/campaign/level_camp_r_04",
           "hasChallenge": false
         },
         {
@@ -19882,7 +20011,7 @@
           "operation": "이베리아 물이 고인 동굴",
           "name": "",
           "description": "세찬 파도 아래 시본들이 동굴에서 꿈틀거리고 있다. 동굴에 남은 이베리아의 장치를 이용해 녀석들을 깨끗이 제거하라.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_05",
+          "levelId": "obt/campaign/level_camp_r_05",
           "hasChallenge": false
         },
         {
@@ -19890,7 +20019,7 @@
           "operation": "사르곤 롱스프링 황무지",
           "name": "",
           "description": "33번 감시탑' 사건 이후 일부 '레드마크' 용병은 남은 오리지뉴턴트를 이용해 로도스 아일랜드의 조사를 피해 갔다. 이 생물들이 다른 곳으로 도망친다면, 그 결과는 아주 끔찍할 것이다. 녀석들을 완전히 처치하라.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><모래 폭풍></> 모래 폭풍에 노출된 아군 유닛은 공격력이 저하, HP 지속 감소, 재배치 시간이 연장되며, 적군 유닛은 이동 속도가 저하된다",
-          "levelId": "Obt/Campaign/level_camp_r_06",
+          "levelId": "obt/campaign/level_camp_r_06",
           "hasChallenge": false
         },
         {
@@ -19898,7 +20027,7 @@
           "operation": "볼리바르 도솔레스 환수구",
           "name": "",
           "description": "최근 칸델라 시장이 라이타니엔 '축음기' 2대를 구매했다. 시장은 로도스 아일랜드가 도솔레스 호위대와 함께 훈련을 진행하면서, 이 '축음기'의 방어 효과를 테스트하고 싶어 한다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><'축음기'></> 아군, 적군 모두 점령할 수 있으며, 활성화되면 적군에 마법 대미지를 입히고 아군의 HP 회복",
-          "levelId": "Obt/Campaign/level_camp_r_07",
+          "levelId": "obt/campaign/level_camp_r_07",
           "hasChallenge": false
         },
         {
@@ -19906,7 +20035,7 @@
           "operation": "컬럼비아 남방 감옥",
           "name": "",
           "description": "맨스필드 형무소에서 옮겨온 죄수 제셀톤은 다른 죄수들의 집단 탈옥을 선동했고, 현지 시라쿠사 패밀리에서도 소문을 듣고 협조하러 왔다. 로도스 아일랜드 오퍼레이터는 즉시 개입하여 구속 장치를 이용해 사태를 수습하기를 바란다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><구속 장치></>범위 내 해방된 적 구속",
-          "levelId": "Obt/Campaign/level_camp_r_08",
+          "levelId": "obt/campaign/level_camp_r_08",
           "hasChallenge": false
         },
         {
@@ -19914,7 +20043,7 @@
           "operation": "빅토리아 힐록 카운티 교외",
           "name": "",
           "description": "빅토리아로부터 공식 의뢰를 받은 로도스 아일랜드는 힐록 카운티 주변에 나타난 귀혼대를 대응하기 시작했다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성",
-          "levelId": "Obt/Campaign/level_camp_r_09",
+          "levelId": "obt/campaign/level_camp_r_09",
           "hasChallenge": false
         },
         {
@@ -19922,7 +20051,7 @@
           "operation": "카시미어 나이트 챔피언 쇼",
           "name": "",
           "description": "카시미어의 어느 한 회사가 빛이 부족한 환경에서 기사단 멤버들의 공격을 막아내고, 최종 대상을 획득하는 독창적인 '예능' 프로그램을 기획했다. 그리고 그들은 로도스 아일랜드에 초대장을 보냈다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><네온사인></>기본적인 시야를 확보할 수 있으며, 가동 시 시야 범위 확대",
-          "levelId": "Obt/Campaign/level_camp_r_10",
+          "levelId": "obt/campaign/level_camp_r_10",
           "hasChallenge": false
         },
         {
@@ -19930,7 +20059,7 @@
           "operation": "염국 굽이진 상촉 산길",
           "name": "",
           "description": "형태가 제각기인 기물들이 계속해서 상촉의 산길에 다시 나타난다. 설마, 자신에게 의식을 부여한 뒤 구름 위의 산에서 떨어진 그 술잔을 찾고 있는 것일까? 염국의 관련 기관에서 그것들을 처리해달라고 로도스 아일랜드에 협조 요청을 보내왔다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_11",
+          "levelId": "obt/campaign/level_camp_r_11",
           "hasChallenge": false
         },
         {
@@ -19938,7 +20067,7 @@
           "operation": "라테라노 초콜릿 애비뉴",
           "name": "",
           "description": "만국 정상회담이 끝난 뒤, 선도자와 함께 떠나지 않은 패스파인더들은 성도에 남아 자신만의 방법으로 라테라노에 대한 신앙을 증명하려 한다. 그들이 스테보누스 구역의 번화가에서 난동을 피우자, 공증소는 로도스 아일랜드에 사건 수습 요청 공문을 보내왔다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><'젤라토 머신'></> 아군, 적군 모두 점령할 수 있으며, 활성화되면 주변 유닛의 SP 회복",
-          "levelId": "Obt/Campaign/level_camp_r_12",
+          "levelId": "obt/campaign/level_camp_r_12",
           "hasChallenge": false
         },
         {
@@ -19946,7 +20075,7 @@
           "operation": "이베리아 암흑 조선소",
           "name": "",
           "description": "과거 스툴티페라 나비스 등 주력 함선을 만들었던 조선소도 현재는 시테러의 둥지가 되어버렸다. 사용 가능한 황금시대의 주력함 한 척이라도 구해내기 위해, 재판소는 로도스 아일랜드에 시테러 제거에 대한 의뢰를 요청했다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n.\n<@lv.item><성도의 손 - 정리 모드></> 배치한 방향으로 '성도의 손'을 발사하여 적을 기절시키고 대미지를 입히며, 직선상의 모든 명흔 제거",
-          "levelId": "Obt/Campaign/level_camp_r_13",
+          "levelId": "obt/campaign/level_camp_r_13",
           "hasChallenge": false
         },
         {
@@ -19954,7 +20083,7 @@
           "operation": "컬럼비아 실험 기지 격납고",
           "name": "",
           "description": "395호 실험 기지의 정리가 한창 진행 중인데, 격납고에 보관돼 있던 실험용 기동 장갑이 알 수 없는 이유로 갑자기 작동하기 시작했다. 이에 현장에 있던 로도스 아일랜드 오퍼레이터들은 신속히 개입해 사태를 수습해야 했다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><R 시리즈 기동 장갑></> 주변의 실험 산물을 흡수하여 SP 회복, 전부 회복 후 활성화",
-          "levelId": "Obt/Campaign/level_camp_r_14",
+          "levelId": "obt/campaign/level_camp_r_14",
           "hasChallenge": false
         },
         {
@@ -19962,7 +20091,7 @@
           "operation": "염국 용문 번화가",
           "name": "",
           "description": "래트킹의 지시 아래, 현지 시라쿠사 패밀리는 서우인 기간에 용병들과 함께 축제를 열려고 하지만, 그 전에 시민들의 안전을 위한 로드스 아일랜드와의 합동훈련부터 진행해야 한다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><이동식 전술 격납고></> 수요에 따라 수시로 드론을 띄워 적군 용병팀의 작전을 지원\n<@lv.rem><지휘 단말기></> 파괴될 시 스테이지 HP 1 차감",
-          "levelId": "Obt/Campaign/level_camp_r_15",
+          "levelId": "obt/campaign/level_camp_r_15",
           "hasChallenge": false
         },
         {
@@ -19970,7 +20099,7 @@
           "operation": "라이타니엔 파우젠슈트라세",
           "name": "",
           "description": "한 유명 음악가가 지역에서 공익 콘서트를 개최할 예정이었데, 누군가가 군중 속에 섞여들어 위치킹의 잔당이라 자처하며 소란을 피우려고 한다는 정보를 입수했다. 현장 보안을 책임지는 로도스 아일랜드 오퍼레이터는 콘서트가 원활하게 개최될 수 있도록 신속하게 대응하도록.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><폐에너지 간섭></> SP 자연 회복 속도 저하\n<@lv.item><리포밍 플럭스></> 아군 오퍼레이터의 SP 자연 회복 속도 상승",
-          "levelId": "Obt/Campaign/level_camp_r_16",
+          "levelId": "obt/campaign/level_camp_r_16",
           "hasChallenge": false
         },
         {
@@ -19978,7 +20107,7 @@
           "operation": "빅토리아 잿빛 늪지대",
           "name": "",
           "description": "이른바 '원한'이라는 불길이 무성한 갈대밭에 뛰어들자, 그 뒤로 잿더미가 고향을 드나든 사람들을 뒤쫓아온다. 구조 요청을 받은 이상, 로도스 아일랜드는 결코 이를 방관할 수 없다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><늪지대></> 배치된 오퍼레이터의 공격 속도 감소, 지나는 적의 이동 속도 및 공격 속도 감소\n<@lv.item><갈대밭></> 배치된 오퍼레이터가 '위장' 효과 획득",
-          "levelId": "Obt/Campaign/level_camp_r_17",
+          "levelId": "obt/campaign/level_camp_r_17",
           "hasChallenge": false
         },
         {
@@ -19986,7 +20115,7 @@
           "operation": "사르곤 '스페셜 미니 아쿠아핏'",
           "name": "",
           "description": "그레이트 아쿠아핏'이 그리워진 두린들이 새로운 워터파크를 만들어 아카후알라의 모든 부족을 초대했다. 지금 수도 없는 알코올음료 상자가 축제 현장으로 정신없이 옮겨지고 있다…… 로도스 아일랜드, 부디 질서유지를 좀 도와주길!\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음",
-          "levelId": "Obt/Campaign/level_camp_r_18",
+          "levelId": "obt/campaign/level_camp_r_18",
           "hasChallenge": false
         },
         {
@@ -19994,7 +20123,7 @@
           "operation": "빅토리아 부패해진 황야",
           "name": "",
           "description": "나흐체러르의 부대가 경작지를 마구 집어삼켜 비옥한 토지조차도 결국은 황폐한 땅이 되고 말 것이다. 가능하다면 전투 소대를 파견해 그들을 물리치자. 적어도 기나긴 고통에 빠진 런디니움 시민들에게 한 줄기 희망이라도 줄 수 있으니.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><부식된 고목></> 파괴되거나 또는 모든 적을 처치하면 나흐체러르 추종자로 변경",
-          "levelId": "Obt/Campaign/level_camp_r_19",
+          "levelId": "obt/campaign/level_camp_r_19",
           "hasChallenge": false
         },
         {
@@ -20002,7 +20131,7 @@
           "operation": "염국 산속 관문",
           "name": "",
           "description": "떠돌이 도적들이 다시 한번 강력한 병력을 끌어모았다. 이번에 그들의 목표는 상대적으로 방어가 취약한 산속의 관문이다. 이 관문이 함락되면 사람들은 괴로운 결말을 맞이하게 될 것이다. 옥문에서 지원군이 도착하기 전까지 그들을 도와 적을 막아내자!\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><옥문 재앙 공사></> 배치된 오퍼레이터가 지상 적에게 입히는 대미지 증가, 지상 적으로부터 받는 대미지 감소\n<@lv.item><방호벽 바리케이드></> 여러 명의 적 저지 가능",
-          "levelId": "Obt/Campaign/level_camp_r_20",
+          "levelId": "obt/campaign/level_camp_r_20",
           "hasChallenge": false
         },
         {
@@ -20010,7 +20139,7 @@
           "operation": "시에스타 뉴호텔 애비뉴",
           "name": "",
           "description": "여행자들은 이곳에 머문 적이 없지만, 이곳의 술과 노래를 가지고 떠났다. 심지어 그들은 부드럽고 포근한 꿈마저 가져가려 했으나, 꿈은 어젯밤 바람 속에서 사라져 버렸다. 저기 복슬복슬한 녀석들이 보이는가? 다시 한번, 같이 녀석들을 잡으러 가볼까.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><분수대></> 주변에 배치된 유닛은 증기의 영향을 받지 않으며, 공격 시 하얀 증기 생성\n<@lv.item><증기 사이다></> 격파 시 하얀 증기 생성",
-          "levelId": "Obt/Campaign/level_camp_r_21",
+          "levelId": "obt/campaign/level_camp_r_21",
           "hasChallenge": false
         },
         {
@@ -20018,7 +20147,7 @@
           "operation": "컬럼비아 '이심률' 실험실",
           "name": "",
           "description": "중력, 시야, 루트. 모든 것이 불안정하고 아크는 운명의 교차로에 다리를 놓는다. 대지와 가깝지도 멀지도 않은 곳에서 비겁함과 근시안을 극복하라. 우리는 기억하고 그리워하며, 또한 거침없이 나아갈지니.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><중력 반응></>전장에 '행성 파편'과 중력 장치 존재, '행성 파편'은 중력에 따라 궤도에서 움직여 길을 막거나 충돌할 때 물리 대미지를 주며, 주변 4칸의 아군이 밀어내기 가능",
-          "levelId": "Obt/Campaign/level_camp_r_22",
+          "levelId": "obt/campaign/level_camp_r_22",
           "hasChallenge": false
         },
         {
@@ -20026,7 +20155,7 @@
           "operation": "빅토리아 불타는 거리",
           "name": "",
           "description": "이것은 그들의 전쟁뿐이 아니라, 이것은 우리의 전쟁이기도 하다! 런디니움을 반드시 되찾는다. 우리의 추억이 담겨있는 집에서, 골목에서, 거리에서부터 시작해서!\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><런디니움 수성 부포></> 에너지 공급이 완료되면 저지 가능 수가 가장 높은 아군 유닛 및 그 주변에 피아식별 없이 트루 대미지를 입힘",
-          "levelId": "Obt/Campaign/level_camp_r_23",
+          "levelId": "obt/campaign/level_camp_r_23",
           "hasChallenge": false
         },
         {
@@ -20034,7 +20163,7 @@
           "operation": "쉐라그 얼음 협곡",
           "name": "",
           "description": "눈보라, 난방기, 얼어붙은 버든비스트. 로도스 아일랜드, 방문단, 쉐라그의 협곡. 얼음 호수에서 제대로 즐기지 못한 사람들은 아무도 없는 곳에서 통쾌한 대결을 벌이기로 약속했다. 하지만 그들은 버든비스트들의 단잠을 방해하고 말았다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><비상 난방기></> 주변에 배치된 오퍼레이터가 환경의 '동결' 효과 면역",
-          "levelId": "Obt/Campaign/level_camp_r_24",
+          "levelId": "obt/campaign/level_camp_r_24",
           "hasChallenge": false
         },
         {
@@ -20042,7 +20171,7 @@
           "operation": "컬럼비아 66번 항로",
           "name": "",
           "description": "과거, 개척자들과 희망을 서쪽으로 실어 날랐던 항로. 그러나 지금, 과거의 약속은 전부 사라졌고, 희망을 나르던 시설도 전부 황폐해졌다. 남은 거라곤 전파 속에서 울리는 적을 섬멸해달라는 요청뿐이다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><폐열 분출구></> 아군, 적군에 모두 마법 대미지를 입히며, 지나간 적은 이동 속도가 감소하는 대신 에너지 획득",
-          "levelId": "Obt/Campaign/level_camp_r_25",
+          "levelId": "obt/campaign/level_camp_r_25",
           "hasChallenge": false
         },
         {
@@ -20050,7 +20179,7 @@
           "operation": "염국 임오호 논밭",
           "name": "",
           "description": "곡식이 무탈하고 잘 익어가는 것은 모든 농부들의 꿈이다. 그러나 해로운 짐승들의 습격으로 병해가 곡식을 오염시키고 있다. 부디 녀석들을 처치하고 농부들이 힘들게 가꾼 결실을 지켜주자!\n<@lv.rem><특수 조건> 배치 코스트가 자동으로 회복되지 않음</>\n<@lv.item><논밭></> 병해 정도에 따라 위에 배치된 오퍼레이터가 HP 회복 또는 감소",
-          "levelId": "Obt/Campaign/level_camp_r_26",
+          "levelId": "obt/campaign/level_camp_r_26",
           "hasChallenge": false
         },
         {
@@ -20058,7 +20187,7 @@
           "operation": "라이타니엔 선제후 광장",
           "name": "",
           "description": "'헤르쿤프트쇼른의 여음', 그들은 여전히 위치킹의 선율을 이어나가려고 한다. 연주하라, 로도스 아일랜드에서 온 구조대여. 그대들의 선율로 이 혼란스럽고, 원망에 찬, 편집증적인 음표를 덮어버려라. 광장에서는 본디 가장 아름다운 석양을 볼 수 있어야 할지니.\n<@lv.rem><특수 조건> 배치 코스트가 자동으로 회복되지 않음</>\n<@lv.item><조화 장치></> 피격 시 활성화, 악곡의 변주 중에 사용하면 변주를 바꿀 수 있으며, 아군은 일시적으로 버프 효과 획득",
-          "levelId": "Obt/Campaign/level_camp_r_27",
+          "levelId": "obt/campaign/level_camp_r_27",
           "hasChallenge": false
         },
         {
@@ -20066,7 +20195,7 @@
           "operation": "萨尔贡 大巴扎",
           "name": "",
           "description": "一群胆大包天的沙盗闯入了博物馆，他们误触机关，居然使得沉睡的展品们苏醒了过来。城里现在一片混乱，快让街道恢复原本的秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_28",
+          "levelId": "obt/campaign/level_camp_r_28",
           "hasChallenge": false
         },
         {
@@ -20074,7 +20203,7 @@
           "operation": "伊比利亚 鳞骸盐漠 ",
           "name": "",
           "description": "寻找黄金时代遗物的商队误闯了盐鳞的巢穴，凶暴的盐鳞将他们围困在盐漠中，不怀好意的海盗们也正驾驶着盐船逼近。向罗德岛求援的信号不停催促，即刻启航前往吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><盐漠></>经过的敌人移动速度降低，停留一段时间后会摔落至远处直接被击倒\\n<@lv.item><盐坨子炮></>周期性发射炮弹造成物理溅射伤害，可以将周围1名重量小于等于3的地面敌人传送至爆炸中心",
-          "levelId": "Obt/Campaign/level_camp_r_29",
+          "levelId": "obt/campaign/level_camp_r_29",
           "hasChallenge": false
         }
       ]

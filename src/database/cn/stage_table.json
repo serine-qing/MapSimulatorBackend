@@ -90918,6 +90918,1129 @@
       "advancedRuneIdList1": [],
       "advancedRuneIdList2": []
     },
+    "act1halfidle_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_tr01",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_tr01",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-TR-1",
+      "name": "荒地前哨",
+      "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_01",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_01",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-1",
+      "name": "旧城遗址",
+      "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：LV.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_02",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_02",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-2",
+      "name": "风号峡谷",
+      "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英1 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_03",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_03",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-3",
+      "name": "坍塌矿区",
+      "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_04",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_04",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-4",
+      "name": "沉积河床",
+      "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_05",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_05",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-5",
+      "name": "斑斓巢穴",
+      "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_06",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_06",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-6",
+      "name": "猎骨荒野",
+      "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h01",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_01",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H1",
+      "name": "岩溶险地",
+      "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h02",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_02",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H2",
+      "name": "裂壕险地",
+      "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.15",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h03",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_03",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H3",
+      "name": "孤隘险地",
+      "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h04",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_04",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H4",
+      "name": "断岭险地",
+      "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：精英2 LV.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h05",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_05",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H5",
+      "name": "迷窟险地",
+      "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h06",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_06",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H6",
+      "name": "蚀林险地",
+      "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h07",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_07",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H7",
+      "name": "雾城险地",
+      "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act1halfidle_h08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act1halfidle_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act1halfidle_h08",
+      "levelId": "Activities/ACT1VHALFIDLE/level_act1vhalfidle_hard_08",
+      "zoneId": "act1vhalfidle_zone1",
+      "code": "RM-H8",
+      "name": "湖骸险地",
+      "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "推荐平均等级：-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_MR_normal",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act1halfidle_tr01",
+      "extraCondition": null,
+      "extraInfo": null,
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": null,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
     "act45side_st01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -140282,7 +141405,7 @@
       ],
       "stageId": "act37side_st01",
       "levelId": null,
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-ST-1",
       "name": "历史的航向",
       "description": "“历史是一艘漂荡的帆船，没有人知道它会去往何方。”",
@@ -140369,7 +141492,7 @@
       ],
       "stageId": "act37side_01",
       "levelId": "Activities/act37side/level_act37side_01",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-1",
       "name": "仇怨残余",
       "description": "“维娜不是那种害怕用拳头说话的人。要干架的时候，她绝对冲在最前面。”",
@@ -140381,7 +141504,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -140395,7 +141518,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "displayMainItem": null,
@@ -140414,12 +141537,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140462,13 +141585,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140544,7 +141667,7 @@
       ],
       "stageId": "act37side_tr01",
       "levelId": "Activities/act37side/level_act37side_tr01",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-TR-1",
       "name": "物资难题",
       "description": "日落之后的伦蒂尼姆街道极不安全。为了抢夺几个罐头或一把药，一些人拿起武器铤而走险。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -140631,7 +141754,7 @@
       ],
       "stageId": "act37side_02",
       "levelId": "Activities/act37side/level_act37side_02",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-2",
       "name": "痼疾缠身",
       "description": "“罗德岛上的感染者很少会因为疼痛而彻夜难眠，我当时还以为市面上到处都是这么有效的抑制药。”\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -140643,7 +141766,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -140657,7 +141780,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "displayMainItem": null,
@@ -140676,12 +141799,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140724,13 +141847,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140806,7 +141929,7 @@
       ],
       "stageId": "act37side_03",
       "levelId": "Activities/act37side/level_act37side_03",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-3",
       "name": "议会公决",
       "description": "“那时我很感激阿勒黛，甚至有点敬畏。如果没有她在，格拉斯哥帮和罗德岛都会无处可去。”",
@@ -140818,7 +141941,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -140832,7 +141955,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "displayMainItem": null,
@@ -140851,12 +141974,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140899,13 +142022,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -140981,7 +142104,7 @@
       ],
       "stageId": "act37side_04",
       "levelId": "Activities/act37side/level_act37side_04",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-4",
       "name": "酒精与安慰剂",
       "description": "“我都要被维娜正经演讲的样子感动了，我猜典范军其他人也是，他们恨不得立刻把维娜抬回伦蒂尼姆。”\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -140993,7 +142116,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141007,7 +142130,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141026,12 +142149,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141054,13 +142177,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141112,7 +142235,7 @@
       ],
       "stageId": "act37side_05",
       "levelId": "Activities/act37side/level_act37side_05",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-5",
       "name": "废铁与铆钉",
       "description": "“厂里的工具被萨卡兹盯着，所以工人们想借维娜的锤子去砸墙开暗道。维娜居然还答应了......”",
@@ -141124,7 +142247,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141138,7 +142261,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141157,12 +142280,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141185,13 +142308,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141243,7 +142366,7 @@
       ],
       "stageId": "act37side_06",
       "levelId": "Activities/act37side/level_act37side_06",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-6",
       "name": "“晚饭宣言”",
       "description": "“以前我们吃饭就这样，有一顿没一顿。总有人来找麻烦，我们得先赶人再吃饭。”",
@@ -141255,7 +142378,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141269,7 +142392,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141288,12 +142411,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141316,13 +142439,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141374,7 +142497,7 @@
       ],
       "stageId": "act37side_07",
       "levelId": "Activities/act37side/level_act37side_07",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-7",
       "name": "锈王冠",
       "description": "“维娜的故事讲得很烂，但我们勉强搞明白了她是怎么一路从王宫跑到了我们这里。她说以后她只是格拉斯哥帮的推进之王。”\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -141386,7 +142509,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141400,7 +142523,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141419,12 +142542,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141442,13 +142565,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141494,7 +142617,7 @@
       ],
       "stageId": "act37side_08",
       "levelId": "Activities/act37side/level_act37side_08",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-8",
       "name": "战火重铸之剑",
       "description": "“蒸汽散去之后，维娜对我说，历史会记住每一位英雄。”\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -141506,7 +142629,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141520,7 +142643,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141539,12 +142662,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141562,13 +142685,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141614,7 +142737,7 @@
       ],
       "stageId": "act37side_09",
       "levelId": "Activities/act37side/level_act37side_09",
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-9",
       "name": "英雄的落幕",
       "description": "“毫无疑问，我们都爱着维多利亚。只是，我们无法为她做更伟大的事情了。”\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备\\n<@lv.item><黄金回响></>造成法术伤害",
@@ -141626,7 +142749,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141640,7 +142763,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141659,12 +142782,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141682,13 +142805,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -141734,7 +142857,7 @@
       ],
       "stageId": "act37side_st02",
       "levelId": null,
-      "zoneId": "act37side_zone1",
+      "zoneId": "act37sre_zone1",
       "code": "GO-ST-2",
       "name": "童话的结局",
       "description": "“总有一天，维娜你会看到我写下的这些文字。”",
@@ -141821,7 +142944,7 @@
       ],
       "stageId": "act37side_ex01",
       "levelId": "Activities/act37side/level_act37side_ex01",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-1",
       "name": "城墙机动作战",
       "description": "当家园近在眼前，最艰难的战斗才刚刚开始。",
@@ -141833,7 +142956,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141847,7 +142970,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -141866,7 +142989,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -141879,7 +143002,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -141923,7 +143046,7 @@
       ],
       "stageId": "act37side_ex01#f#",
       "levelId": "Activities/act37side/level_act37side_ex01",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-1",
       "name": "城墙机动作战",
       "description": "<@lv.fs>附加条件：</>\\n所有敌人出场时携带未装配刀片",
@@ -141935,7 +143058,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -141949,7 +143072,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142010,7 +143133,7 @@
       ],
       "stageId": "act37side_ex02",
       "levelId": "Activities/act37side/level_act37side_ex02",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-2",
       "name": "秘密通道突击",
       "description": "许多人在此牺牲，而活着的人都带着悍不畏死的神情。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -142022,7 +143145,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142036,7 +143159,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142055,7 +143178,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142068,7 +143191,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142112,7 +143235,7 @@
       ],
       "stageId": "act37side_ex02#f#",
       "levelId": "Activities/act37side/level_act37side_ex02",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-2",
       "name": "秘密通道突击",
       "description": "<@lv.fs>附加条件：</>\\n“街区自治队”队长攻击力提升，且获得<隐匿>",
@@ -142124,7 +143247,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142138,7 +143261,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142199,7 +143322,7 @@
       ],
       "stageId": "act37side_ex03",
       "levelId": "Activities/act37side/level_act37side_ex03",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-3",
       "name": "祭坛紧急拆除",
       "description": "一场不为人知的交易，流淌在城市深处的鲜血。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -142211,7 +143334,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142225,7 +143348,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142244,7 +143367,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142257,7 +143380,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142301,7 +143424,7 @@
       ],
       "stageId": "act37side_ex03#f#",
       "levelId": "Activities/act37side/level_act37side_ex03",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-3",
       "name": "祭坛紧急拆除",
       "description": "<@lv.fs>附加条件：</>\\n“街区自治队”队长攻击力提升",
@@ -142313,7 +143436,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142327,7 +143450,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142388,7 +143511,7 @@
       ],
       "stageId": "act37side_ex04",
       "levelId": "Activities/act37side/level_act37side_ex04",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-4",
       "name": "通讯频段干扰",
       "description": "搅乱敌方指挥系统，联络这片战场上所有愿意和我们站在一起的人。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -142400,7 +143523,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142414,7 +143537,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142433,7 +143556,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142446,7 +143569,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142490,7 +143613,7 @@
       ],
       "stageId": "act37side_ex04#f#",
       "levelId": "Activities/act37side/level_act37side_ex04",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-4",
       "name": "通讯频段干扰",
       "description": "<@lv.fs>附加条件：</>\\n“铣痕”团伙精锐佣兵和大容量物资运输艇最大生命值提升",
@@ -142502,7 +143625,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142516,7 +143639,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142577,7 +143700,7 @@
       ],
       "stageId": "act37side_ex05",
       "levelId": "Activities/act37side/level_act37side_ex05",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-5",
       "name": "工厂原料保障",
       "description": "全城的工厂纷纷升起白烟，机器以最大功率吼叫，欢迎归来的战士。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -142589,7 +143712,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142603,7 +143726,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142622,7 +143745,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142635,7 +143758,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142679,7 +143802,7 @@
       ],
       "stageId": "act37side_ex05#f#",
       "levelId": "Activities/act37side/level_act37side_ex05",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-5",
       "name": "工厂原料保障",
       "description": "<@lv.fs>附加条件：</>\\n场上部分军工厂指令平台消失",
@@ -142691,7 +143814,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142705,7 +143828,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142766,7 +143889,7 @@
       ],
       "stageId": "act37side_ex06",
       "levelId": "Activities/act37side/level_act37side_ex06",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-6",
       "name": "中央区正面对抗",
       "description": "那把剑被一个又一个手无寸铁的人接过，他们以自己的生命战胜衰朽与死亡。",
@@ -142778,7 +143901,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142792,7 +143915,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142811,7 +143934,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142824,7 +143947,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -142868,7 +143991,7 @@
       ],
       "stageId": "act37side_ex06#f#",
       "levelId": "Activities/act37side/level_act37side_ex06",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-6",
       "name": "中央区正面对抗",
       "description": "<@lv.fs>附加条件：</>\\n“护目镜”帮派打手出场时携带冲击式施术单元",
@@ -142880,7 +144003,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142894,7 +144017,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -142955,7 +144078,7 @@
       ],
       "stageId": "act37side_ex07",
       "levelId": "Activities/act37side/level_act37side_ex07",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-7",
       "name": "“休止角行动”",
       "description": "地面被轰开，工人们跟随着“爬行号”冲入战场。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备",
@@ -142967,7 +144090,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -142981,7 +144104,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -143000,7 +144123,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -143013,7 +144136,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -143057,7 +144180,7 @@
       ],
       "stageId": "act37side_ex07#f#",
       "levelId": "Activities/act37side/level_act37side_ex07",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-7",
       "name": "“休止角行动”",
       "description": "<@lv.fs>附加条件：</>\\n场上出现额外的大容量物资运输艇，部分大容量物资运输艇初始位置改变",
@@ -143069,7 +144192,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -143083,7 +144206,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -143144,7 +144267,7 @@
       ],
       "stageId": "act37side_ex08",
       "levelId": "Activities/act37side/level_act37side_ex08",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-8",
       "name": "在王座前",
       "description": "不必为王冠除锈，为王座拭灰，让最后的国王永远地睡在传奇故事里吧。\\n<@lv.item><军工厂指令平台></>技能开启后，开始生产装备，且自身成为所有货运轨道车终点；技力充满后在周围八格地面和可部署高台产出随机装备\\n<@lv.item><黄金回响></>造成法术伤害",
@@ -143156,7 +144279,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -143170,7 +144293,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -143189,7 +144312,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -143202,7 +144325,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act37side_token_nay",
+            "id": "act37side_token_nay_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -143246,7 +144369,7 @@
       ],
       "stageId": "act37side_ex08#f#",
       "levelId": "Activities/act37side/level_act37side_ex08",
-      "zoneId": "act37side_zone2",
+      "zoneId": "act37sre_zone2",
       "code": "GO-EX-8",
       "name": "在王座前",
       "description": "<@lv.fs>附加条件：</>\\n阿利斯泰尔，帝国余晖的攻击范围扩大至全场",
@@ -143258,7 +144381,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -143272,7 +144395,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -526037,6 +527160,66 @@
       "startTs": 1715155200,
       "endTs": -1
     },
+    "act1halfidle_tr01": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_01": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_02": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_03": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_04": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_05": {
+      "startTs": 1759046400,
+      "endTs": 1760558399
+    },
+    "act1halfidle_06": {
+      "startTs": 1759046400,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h01": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h02": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h03": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h04": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h05": {
+      "startTs": 1759392000,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h06": {
+      "startTs": 1759392000,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h07": {
+      "startTs": 1759392000,
+      "endTs": 1760558399
+    },
+    "act1halfidle_h08": {
+      "startTs": 1759392000,
+      "endTs": 1760558399
+    },
     "act45side_st01": {
       "startTs": 1756958400,
       "endTs": 1758139199
@@ -527890,116 +529073,116 @@
       "endTs": 1732219199
     },
     "act37side_st01": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_01": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_tr01": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_02": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_03": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_04": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_05": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_06": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_07": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_08": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_09": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_st02": {
-      "startTs": 1728446400,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex01": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex01#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex02": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex02#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex03": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex03#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex04": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex04#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex05": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex05#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex06": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex06#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex07": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex07#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex08": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act37side_ex08#f#": {
-      "startTs": 1729065600,
-      "endTs": 1729627199
+      "startTs": 1758268800,
+      "endTs": 1759089599
     },
     "act1vecb_01": {
       "startTs": 1727424000,
@@ -535709,6 +536892,14 @@
     }
   },
   "spNormalStageIdFor4StarList": [
+    "act1halfidle_h01",
+    "act1halfidle_h02",
+    "act1halfidle_h03",
+    "act1halfidle_h04",
+    "act1halfidle_h05",
+    "act1halfidle_h06",
+    "act1halfidle_h07",
+    "act1halfidle_h08",
     "act20side_mo01",
     "act12side_mo01",
     "hard_05-01",
@@ -537346,7 +538537,7 @@
         "tags": [
           "tag_15"
         ],
-        "reopenActivityId": null,
+        "reopenActivityId": "act37sre",
         "retroActivityId": "permanent_sub_7_Ending_A_Grand_Overture",
         "isRecommended": false,
         "recommendHideStageId": null,

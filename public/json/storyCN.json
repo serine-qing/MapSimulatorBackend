@@ -15173,6 +15173,132 @@
               "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
             }
           ]
+        },
+        {
+          "id": "act1halfidle",
+          "episode": "次生预案",
+          "childNodes": [
+            {
+              "id": "RM-TR-1",
+              "operation": "RM-TR-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
+              "name": "荒地前哨",
+              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-1",
+              "operation": "RM-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
+              "name": "旧城遗址",
+              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-2",
+              "operation": "RM-2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
+              "name": "风号峡谷",
+              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-3",
+              "operation": "RM-3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
+              "name": "坍塌矿区",
+              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-4",
+              "operation": "RM-4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
+              "name": "沉积河床",
+              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-5",
+              "operation": "RM-5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
+              "name": "斑斓巢穴",
+              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-6",
+              "operation": "RM-6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
+              "name": "猎骨荒野",
+              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H1",
+              "operation": "RM-H1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
+              "name": "岩溶险地",
+              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H2",
+              "operation": "RM-H2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
+              "name": "裂壕险地",
+              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H3",
+              "operation": "RM-H3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
+              "name": "孤隘险地",
+              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H4",
+              "operation": "RM-H4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
+              "name": "断岭险地",
+              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H5",
+              "operation": "RM-H5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
+              "name": "迷窟险地",
+              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H6",
+              "operation": "RM-H6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
+              "name": "蚀林险地",
+              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H7",
+              "operation": "RM-H7",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
+              "name": "雾城险地",
+              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H8",
+              "operation": "RM-H8",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
+              "name": "湖骸险地",
+              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -19787,6 +19913,7 @@
           "episode": "#4 弧光作战",
           "childNodes": [
             {
+              "id": "crisis_v2_04-01",
               "operation": "常驻图 滞空焦点",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19796,6 +19923,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
             },
             {
+              "id": "crisis_v2_04-03",
               "operation": "轮换图 熔炉检修口",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19805,6 +19933,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-03"
             },
             {
+              "id": "crisis_v2_04-05",
               "operation": "轮换图 巫诅骸地",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19826,7 +19955,7 @@
           "operation": "乌萨斯 切尔诺伯格",
           "name": "",
           "description": "剿灭切尔诺伯格城的大量整合运动破坏分子。小心在该区域巡逻的整合运动干部。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_01",
+          "levelId": "obt/campaign/level_camp_01",
           "hasChallenge": false
         },
         {
@@ -19834,7 +19963,7 @@
           "operation": "炎国 龙门外环",
           "name": "",
           "description": "剿灭潜伏在龙门外环的整合运动危险分子，保证龙门的安全不会受到任何威胁。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_02",
+          "levelId": "obt/campaign/level_camp_02",
           "hasChallenge": false
         },
         {
@@ -19842,7 +19971,7 @@
           "operation": "炎国 龙门市区",
           "name": "",
           "description": "剿灭攻入龙门市区的整合运动武装分子，夺回地区主动权。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_03",
+          "levelId": "obt/campaign/level_camp_03",
           "hasChallenge": false
         },
         {
@@ -19850,7 +19979,7 @@
           "operation": "卡西米尔 大骑士领郊外",
           "name": "",
           "description": "卡西米尔商业联合会筹划了这场大型竞技表演赛。作为防守方，罗德岛需要活用赞助无人机以应对各大骑士团的精锐。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_01",
+          "levelId": "obt/campaign/level_camp_r_01",
           "hasChallenge": false
         },
         {
@@ -19858,7 +19987,7 @@
           "operation": "乌萨斯 北原冰封废城",
           "name": "",
           "description": "成建制的整合运动游击队潜藏在乌萨斯冰原上的废弃移动城市。准备好防寒措施，只有这样，才有胜利的希望。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_02",
+          "levelId": "obt/campaign/level_camp_r_02",
           "hasChallenge": false
         },
         {
@@ -19866,7 +19995,7 @@
           "operation": "乌萨斯 废弃矿区",
           "name": "",
           "description": "乌萨斯的偏远矿坑，感染者纠察队正在此地搜索感染者。请借助矿区的复杂地形，为感染者撤离争取时间。\\n<@lv.rem><特殊条件></>部署费用不会自然回复，拯救乌萨斯平民失败扣除1歼灭数",
-          "levelId": "Obt/Campaign/level_camp_r_03",
+          "levelId": "obt/campaign/level_camp_r_03",
           "hasChallenge": false
         },
         {
@@ -19874,7 +20003,7 @@
           "operation": "汐斯塔 潮没海滨",
           "name": "",
           "description": "汐斯塔海滩上毫不起眼的一小块海滩，此时正被西西里人和暴徒占据。请熟练运用汐斯塔市提供的指挥终端，尽快驱逐他们。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_04",
+          "levelId": "obt/campaign/level_camp_r_04",
           "hasChallenge": false
         },
         {
@@ -19882,7 +20011,7 @@
           "operation": "伊比利亚 积水潮窟",
           "name": "",
           "description": "海浪涌动下，海嗣们正在洞窟中蠢蠢欲动，请借助洞中残留的伊比利亚器械，彻底清除海嗣。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_05",
+          "levelId": "obt/campaign/level_camp_r_05",
           "hasChallenge": false
         },
         {
@@ -19890,7 +20019,7 @@
           "operation": "萨尔贡 长泉镇郊野",
           "name": "",
           "description": "“瞭望塔33号”事件后，部分“红标”雇佣兵控制残余畸变生物躲过了罗德岛的搜查，如果这些生物流窜至其他地区，后果不堪设想。请彻底消灭他们。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><沙尘暴></>暴露在沙尘暴中会使我方单位攻击力降低、持续流失生命值、再部署时间延长，使敌方单位移动速度降低",
-          "levelId": "Obt/Campaign/level_camp_r_06",
+          "levelId": "obt/campaign/level_camp_r_06",
           "hasChallenge": false
         },
         {
@@ -19898,7 +20027,7 @@
           "operation": "玻利瓦尔 多索雷斯换水口",
           "name": "",
           "description": "坎黛拉女士最近购入了两台莱塔尼亚“留声机”，她希望罗德岛能配合多索雷斯护卫队进行演习，测试一下“留声机”对于关键地点的防卫效果。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><\"留声机\"></>我方与敌方可夺取控制权，激活后对敌方造成法术伤害，并可治疗友方单位",
-          "levelId": "Obt/Campaign/level_camp_r_07",
+          "levelId": "obt/campaign/level_camp_r_07",
           "hasChallenge": false
         },
         {
@@ -19906,7 +20035,7 @@
           "operation": "哥伦比亚 南方监狱",
           "name": "",
           "description": "从曼斯菲尔德监狱转来的囚犯杰斯顿煽动其他囚犯集体越狱，当地叙拉古帮派也闻风而动前来协助。请罗德岛干员立刻介入，操控禁锢装置平息事端。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><禁锢装置></>禁锢作用范围内已解放的敌人",
-          "levelId": "Obt/Campaign/level_camp_r_08",
+          "levelId": "obt/campaign/level_camp_r_08",
           "hasChallenge": false
         },
         {
@@ -19914,7 +20043,7 @@
           "operation": "维多利亚 小丘郡郊野",
           "name": "",
           "description": "在接受了维多利亚官方委托后，罗德岛着手应对出现在小丘郡周边的鬼魂部队。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟",
-          "levelId": "Obt/Campaign/level_camp_r_09",
+          "levelId": "obt/campaign/level_camp_r_09",
           "hasChallenge": false
         },
         {
@@ -19922,7 +20051,7 @@
           "operation": "卡西米尔 黑夜锦标秀",
           "name": "",
           "description": "卡西米尔某公司策划了一期别开生面的“综艺”节目，在光源不足的环境下，参赛团体需要应对一波波骑士团成员的进攻以获得最终的大奖。对方向罗德岛发出了邀请函。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><城市霓虹></>可以提供初始视野，使用后视野范围扩大",
-          "levelId": "Obt/Campaign/level_camp_r_10",
+          "levelId": "obt/campaign/level_camp_r_10",
           "hasChallenge": false
         },
         {
@@ -19930,7 +20059,7 @@
           "operation": "炎国 盘桓蜀道",
           "name": "",
           "description": "那些形态各异的器物们，复现于漫漫山道，它们是在寻找那只赋予了它们智识，后来跌入云间山外的酒盏吗？炎国相关机构向罗德岛发来了协助处理的请求。\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_11",
+          "levelId": "obt/campaign/level_camp_r_11",
           "hasChallenge": false
         },
         {
@@ -19938,7 +20067,7 @@
           "operation": "拉特兰 巧克力大街",
           "name": "",
           "description": "万国峰会结束后，并未跟随先导离开的寻路者们滞留圣城，试图以自己的方式重证拉特兰的信仰。他们在司提望区的商业街引发骚乱，公证所向罗德岛发来了协助平息事端的请求。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><“冰淇淋机”></>我方与敌方可夺取控制权，激活后回复周围友方单位技力",
-          "levelId": "Obt/Campaign/level_camp_r_12",
+          "levelId": "obt/campaign/level_camp_r_12",
           "hasChallenge": false
         },
         {
@@ -19946,7 +20075,7 @@
           "operation": "伊比利亚 昏黑造船厂",
           "name": "",
           "description": "时至今日，曾经用以制造愚人号等重要舰船的造船厂也成了恐鱼的巢穴。为了抢救出一艘尚可使用的黄金时代主力舰，审判庭向罗德岛发来了协助清除恐鱼的请求。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><圣徒之手·清理模式></>向部署方向弹射“圣徒之手”，伤害并晕眩碰撞到的敌人，清除移动路径沿途的溟痕",
-          "levelId": "Obt/Campaign/level_camp_r_13",
+          "levelId": "obt/campaign/level_camp_r_13",
           "hasChallenge": false
         },
         {
@@ -19954,7 +20083,7 @@
           "operation": "哥伦比亚 实验基地机库",
           "name": "",
           "description": "359号实验基地的清理工作正在进行，原本存放在机库的实验动力甲此时因不明原因突然恢复行动。在场的罗德岛干员需要迅速处理介入并平息事端。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><R系列动力装甲></>吸收周围实验产物回复技力，技力满时激活",
-          "levelId": "Obt/Campaign/level_camp_r_14",
+          "levelId": "obt/campaign/level_camp_r_14",
           "hasChallenge": false
         },
         {
@@ -19962,7 +20091,7 @@
           "operation": "炎国 龙门商业街",
           "name": "",
           "description": "在鼠王的授意之下，当地叙拉古帮派联络了一些雇佣兵，准备在安魂节期间为这座城市带来欢乐，但在此之前，他们需要与罗德岛干员进行排练以确保不会伤到市民。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><可移动战术机库></>根据需要可随时发射无人机支援敌方佣兵小队作战\\n<@lv.rem><指挥终端></>被摧毁时扣1点关卡生命值\\n",
-          "levelId": "Obt/Campaign/level_camp_r_15",
+          "levelId": "obt/campaign/level_camp_r_15",
           "hasChallenge": false
         },
         {
@@ -19970,7 +20099,7 @@
           "operation": "莱塔尼亚 休止符街道",
           "name": "",
           "description": "一位知名音乐家将在社区举办公益音乐会，情报显示有闹事者混入人群之中，假扮巫王残党企图引发骚乱。负责现场安保的罗德岛干员需要迅速行动，保障音乐会的顺利举行。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><废能干扰></>技力自然回复速度下降\\n<@lv.item><重整束流></>恢复处于其中的我方干员技力自然回复速度",
-          "levelId": "Obt/Campaign/level_camp_r_16",
+          "levelId": "obt/campaign/level_camp_r_16",
           "hasChallenge": false
         },
         {
@@ -19978,7 +20107,7 @@
           "operation": "维多利亚 灰暗泥沼",
           "name": "",
           "description": "一把唤作“怨恨”的火焰，投入芜杂蔓延的芦苇丛中，灰烬紧追着跋涉于故土的人们。收到了他们发出的救援请求，罗德岛绝不会坐视不顾。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><沼泽地段></>置于其中的干员攻击速度逐渐降低，经过的敌人攻击速度和移动速度逐渐降低\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
-          "levelId": "Obt/Campaign/level_camp_r_17",
+          "levelId": "obt/campaign/level_camp_r_17",
           "hasChallenge": false
         },
         {
@@ -19986,7 +20115,7 @@
           "operation": "萨尔贡 “特制小水坑”",
           "name": "",
           "description": "想念“大水坑”的杜林们在地表修建了新的水上游乐设施，阿卡胡拉的部落都收到了参加狂欢的邀请，成箱的酒精饮料正被送往狂欢现场......罗德岛，拜托了，帮帮忙维持秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_18",
+          "levelId": "obt/campaign/level_camp_r_18",
           "hasChallenge": false
         },
         {
@@ -19994,7 +20123,7 @@
           "operation": "维多利亚 腐烂荒野",
           "name": "",
           "description": "食腐者的大军在田地里肆意吞食，肥沃的田地最终也会成为无用的荒野。若有可能，请分派一支小队击退他们吧，这至少能让沉沦于漫长折磨的伦蒂尼姆人感受到一丝希望。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><汲营枯枝></>被摧毁或关卡结束时产生食腐使徒",
-          "levelId": "Obt/Campaign/level_camp_r_19",
+          "levelId": "obt/campaign/level_camp_r_19",
           "hasChallenge": false
         },
         {
@@ -20002,7 +20131,7 @@
           "operation": "炎国 千嶂边城",
           "name": "",
           "description": "游荡的流寇恶匪再度纠集起强大的兵力，这一次他们的目标是防备相对薄弱的山隘关塞。若此关失守，黎民难逃涂炭之危。在玉门的援军赶到前，请您施以援手吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
-          "levelId": "Obt/Campaign/level_camp_r_20",
+          "levelId": "obt/campaign/level_camp_r_20",
           "hasChallenge": false
         },
         {
@@ -20010,7 +20139,7 @@
           "operation": "汐斯塔 新旅店大道",
           "name": "",
           "description": "游人们从未在此驻留，却带走了这里的歌谣与美酒。他们还想带走那些清软蓬茸的梦，可梦已在昨日的晚风中消融。看到那些毛绒绒生物了吗？再一次，一起来抓住它们吧。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><景观喷泉></>站在周围的单位不受蒸汽影响，攻击时可以产生纯白水汽\\n<@lv.item><水汽汽水瓶></>被击破时在周围产生纯白水汽",
-          "levelId": "Obt/Campaign/level_camp_r_21",
+          "levelId": "obt/campaign/level_camp_r_21",
           "hasChallenge": false
         },
         {
@@ -20018,7 +20147,7 @@
           "operation": "哥伦比亚 “离心率”实验室",
           "name": "",
           "description": "重力，视野，道途，一切都飘忽不定，弧光在命运的十字路口架起桥梁。在与大地不即不离的地方，一同跨越怯懦与短视吧。我们铭记，我们依恋，我们义无反顾地向前。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><重力感应></>存在重力感应机关与“行星碎屑”：在轨道上随重力滑动，阻挡路线，对经过的单位造成物理伤害，可被周围4格我方推动。",
-          "levelId": "Obt/Campaign/level_camp_r_22",
+          "levelId": "obt/campaign/level_camp_r_22",
           "hasChallenge": false
         },
         {
@@ -20026,7 +20155,7 @@
           "operation": "维多利亚 燃烧街区",
           "name": "",
           "description": "这不仅仅是他们的战争，也是我们的战争！夺回伦蒂尼姆，从夺回每一个记录了我们回忆的房间、路口还有街区开始。前进，前进！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><伦蒂尼姆城防副炮></>能量充满时，对场上阻挡数最高的我方单位周围造成无视敌我的大量真实伤害",
-          "levelId": "Obt/Campaign/level_camp_r_23",
+          "levelId": "obt/campaign/level_camp_r_23",
           "hasChallenge": false
         },
         {
@@ -20034,7 +20163,7 @@
           "operation": "谢拉格 冰封雪谷",
           "name": "",
           "description": "风雪，供暖器，冰封的驮兽。罗德岛，访问团，谢拉格的雪谷。在冰湖上未能尽兴的人们，相约在无人处进行一场痛快淋漓的对决。只可惜，打搅了驮兽们的好梦。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><紧急供暖器></>可以使周围部署的干员免疫环境“封冻”效果",
-          "levelId": "Obt/Campaign/level_camp_r_24",
+          "levelId": "obt/campaign/level_camp_r_24",
           "hasChallenge": false
         },
         {
@@ -20042,7 +20171,7 @@
           "operation": "哥伦比亚 66号航道",
           "name": "",
           "description": "一条曾经满载拓荒者和希望的航道，向西，再向西。时过境迁，过往的承诺都已落空，承载期许的设施也已荒废，只剩下剿灭敌人的邀请在电波中回荡。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><废热喷口></>造成无视敌我的法术伤害并减速敌人，但会使敌人能量增加",
-          "levelId": "Obt/Campaign/level_camp_r_25",
+          "levelId": "obt/campaign/level_camp_r_25",
           "hasChallenge": false
         },
         {
@@ -20050,7 +20179,7 @@
           "operation": "炎国 壬午号水稻田",
           "name": "",
           "description": "百亩农田，稻谷飘香，亦是农人消除饥荒的梦想。残存的害兽再次来袭，病害行将污染庄稼。请罗德岛施以援手，守护职农们辛苦耕作的成果吧！\\n<@lv.rem><特殊条件>部署费用不会自然回复</>\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害",
-          "levelId": "Obt/Campaign/level_camp_r_26",
+          "levelId": "obt/campaign/level_camp_r_26",
           "hasChallenge": false
         },
         {
@@ -20058,7 +20187,7 @@
           "operation": "莱塔尼亚 选帝侯广场",
           "name": "",
           "description": "“赫尔昏佐伦的余音”，他们仍欲延续巫王的旋律。演奏吧，来自罗德岛的救援队，用属于你们的旋律盖过那些混乱的、怨恨的、偏执的音符。广场上本应能看到最美的夕阳。\\n<@lv.rem><特殊条件>部署费用不会自然回复</>\\n<@lv.item><调谐节点></>受击回复，乐曲变奏中开启可以切换变奏，并使我方获得短暂增益效果",
-          "levelId": "Obt/Campaign/level_camp_r_27",
+          "levelId": "obt/campaign/level_camp_r_27",
           "hasChallenge": false
         },
         {
@@ -20066,7 +20195,7 @@
           "operation": "萨尔贡 大巴扎",
           "name": "",
           "description": "一群胆大包天的沙盗闯入了博物馆，他们误触机关，居然使得沉睡的展品们苏醒了过来。城里现在一片混乱，快让街道恢复原本的秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_28",
+          "levelId": "obt/campaign/level_camp_r_28",
           "hasChallenge": false
         },
         {
@@ -20074,7 +20203,7 @@
           "operation": "伊比利亚 鳞骸盐漠 ",
           "name": "",
           "description": "寻找黄金时代遗物的商队误闯了盐鳞的巢穴，凶暴的盐鳞将他们围困在盐漠中，不怀好意的海盗们也正驾驶着盐船逼近。向罗德岛求援的信号不停催促，即刻启航前往吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><盐漠></>经过的敌人移动速度降低，停留一段时间后会摔落至远处直接被击倒\\n<@lv.item><盐坨子炮></>周期性发射炮弹造成物理溅射伤害，可以将周围1名重量小于等于3的地面敌人传送至爆炸中心",
-          "levelId": "Obt/Campaign/level_camp_r_29",
+          "levelId": "obt/campaign/level_camp_r_29",
           "hasChallenge": false
         }
       ]

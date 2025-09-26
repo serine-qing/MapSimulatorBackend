@@ -10,7 +10,7 @@ const parseCamp = (stage_table: any) => {
         operation: `${stage.code} ${stage.name}`,
         name: "",
         description: stage.description,
-        levelId: stage.levelId,
+        levelId: stage.levelId.toLowerCase(),
         hasChallenge: false
       })
     }

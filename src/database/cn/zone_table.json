@@ -1188,6 +1188,114 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
     },
+    "act1vhalfidle_zone1": {
+      "zoneID": "act1vhalfidle_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act37sre_zone1": {
+      "zoneID": "act37sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "无名之勋",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act37sre_zone2": {
+      "zoneID": "act37sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "未了往昔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act45side_zone1": {
+      "zoneID": "act45side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "万般皆梦",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act45side_zone2": {
+      "zoneID": "act45side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "拥抱命运",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act2enemyduel_zone1": {
+      "zoneID": "act2enemyduel_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
     "act35sre_zone1": {
       "zoneID": "act35sre_zone1",
       "zoneIndex": 0,
@@ -7090,6 +7198,30 @@
     }
   },
   "zoneValidInfo": {
+    "act1vhalfidle_zone1": {
+      "startTs": 1758787200,
+      "endTs": 1760558399
+    },
+    "act37sre_zone1": {
+      "startTs": 1758268800,
+      "endTs": 1759089599
+    },
+    "act37sre_zone2": {
+      "startTs": 1758268800,
+      "endTs": 1759089599
+    },
+    "act45side_zone1": {
+      "startTs": 1756958400,
+      "endTs": 1758139199
+    },
+    "act45side_zone2": {
+      "startTs": 1757577600,
+      "endTs": 1758139199
+    },
+    "act2enemyduel_zone1": {
+      "startTs": 1756368000,
+      "endTs": 1757534399
+    },
     "act35sre_zone1": {
       "startTs": 1756065600,
       "endTs": 1756929599

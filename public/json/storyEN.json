@@ -15173,6 +15173,132 @@
               "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
             }
           ]
+        },
+        {
+          "id": "act1halfidle",
+          "episode": "次生预案",
+          "childNodes": [
+            {
+              "id": "RM-TR-1",
+              "operation": "RM-TR-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
+              "name": "荒地前哨",
+              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-1",
+              "operation": "RM-1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
+              "name": "旧城遗址",
+              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-2",
+              "operation": "RM-2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
+              "name": "风号峡谷",
+              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-3",
+              "operation": "RM-3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
+              "name": "坍塌矿区",
+              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-4",
+              "operation": "RM-4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
+              "name": "沉积河床",
+              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-5",
+              "operation": "RM-5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
+              "name": "斑斓巢穴",
+              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-6",
+              "operation": "RM-6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
+              "name": "猎骨荒野",
+              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H1",
+              "operation": "RM-H1",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
+              "name": "岩溶险地",
+              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H2",
+              "operation": "RM-H2",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
+              "name": "裂壕险地",
+              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H3",
+              "operation": "RM-H3",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
+              "name": "孤隘险地",
+              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H4",
+              "operation": "RM-H4",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
+              "name": "断岭险地",
+              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H5",
+              "operation": "RM-H5",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
+              "name": "迷窟险地",
+              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H6",
+              "operation": "RM-H6",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
+              "name": "蚀林险地",
+              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H7",
+              "operation": "RM-H7",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
+              "name": "雾城险地",
+              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "hasChallenge": false
+            },
+            {
+              "id": "RM-H8",
+              "operation": "RM-H8",
+              "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
+              "name": "湖骸险地",
+              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -19787,6 +19913,7 @@
           "episode": "#4 弧光作战",
           "childNodes": [
             {
+              "id": "crisis_v2_04-01",
               "operation": "常驻图 滞空焦点",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19796,6 +19923,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-01"
             },
             {
+              "id": "crisis_v2_04-03",
               "operation": "轮换图 熔炉检修口",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19805,6 +19933,7 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_04-03"
             },
             {
+              "id": "crisis_v2_04-05",
               "operation": "轮换图 巫诅骸地",
               "name": "",
               "description": "还没有做Tag选择，仅供参考！",
@@ -19826,7 +19955,7 @@
           "operation": "Ursus Chernobog",
           "name": "",
           "description": "Annihilate the large number of Reunion mobs in Chernobog. Watch out for the leaders patrolling the area.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_01",
+          "levelId": "obt/campaign/level_camp_01",
           "hasChallenge": false
         },
         {
@@ -19834,7 +19963,7 @@
           "operation": "Yan Lungmen Outskirts",
           "name": "",
           "description": "Annihilate the dangerous Reunion mobs lurking in the outskirts of Lungmen, and ensure that no threat is posed to the safety of the city.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_02",
+          "levelId": "obt/campaign/level_camp_02",
           "hasChallenge": false
         },
         {
@@ -19842,7 +19971,7 @@
           "operation": "Yan Lungmen Downtown",
           "name": "",
           "description": "Annihilate the Reunion armed forces that have invaded Lungmen, and regain initiative within the region.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_03",
+          "levelId": "obt/campaign/level_camp_03",
           "hasChallenge": false
         },
         {
@@ -19850,7 +19979,7 @@
           "operation": "Kazimierz The Grand Knight Territory Outskirts",
           "name": "",
           "description": "A large-scale competitive exhibition game organized by the Kazimierz General Chamber of Commerce. As a defender, Rhodes Island must make use of sponsor drones to deal with the Knightclubs' elites.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_r_01",
+          "levelId": "obt/campaign/level_camp_r_01",
           "hasChallenge": false
         },
         {
@@ -19858,7 +19987,7 @@
           "operation": "Ursus Frozen Abandoned City",
           "name": "",
           "description": "Well-organized Reunion guerrillas are hiding in this abandoned nomadic city in the tundra of Ursus. Be prepared for the deathly chill, as that is your only hope for victory.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_r_02",
+          "levelId": "obt/campaign/level_camp_r_02",
           "hasChallenge": false
         },
         {
@@ -19866,7 +19995,7 @@
           "operation": "Ursus Abandoned Mine",
           "name": "",
           "description": "A remote mine in Ursus where the Infected Patrol Unit are hunting down the Infected. Make good use of the tricky terrain to buy time for the Infected to escape.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally and failing to save an Ursus civilian will result in a penalty of -1 annihilation count.",
-          "levelId": "Obt/Campaign/level_camp_r_03",
+          "levelId": "obt/campaign/level_camp_r_03",
           "hasChallenge": false
         },
         {
@@ -19874,7 +20003,7 @@
           "operation": "Siesta Flooded Seashore",
           "name": "",
           "description": "An unassuming beach on the coastline of Siesta currently overrun by Sicilians and rioters. Utilize the Command Terminals provided by the city of Siesta and apprehend them posthaste.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_r_04",
+          "levelId": "obt/campaign/level_camp_r_04",
           "hasChallenge": false
         },
         {
@@ -19882,7 +20011,7 @@
           "operation": "Iberia Watery Tidehollow",
           "name": "",
           "description": "As the tides surge, the Seaborn grow restless deep within a vast cavern. With the help of the remaining Iberian machines there, eliminate the Seaborn threat once and for all.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally",
-          "levelId": "Obt/Campaign/level_camp_r_05",
+          "levelId": "obt/campaign/level_camp_r_05",
           "hasChallenge": false
         },
         {
@@ -19890,7 +20019,7 @@
           "operation": "Sargon Long Spring Wastes",
           "name": "",
           "description": "After the 'Watchtower 33' incident, some 'Redmark' mercenaries avoided Rhodes Island's pursuit while controlling the remnant Originiutant mutants. If these organisms are allowed to escape to other areas, the outcome would be disastrous. Please carry out a thorough extermination.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed",
-          "levelId": "Obt/Campaign/level_camp_r_06",
+          "levelId": "obt/campaign/level_camp_r_06",
           "hasChallenge": false
         },
         {
@@ -19898,7 +20027,7 @@
           "operation": "Bolívar Dossoles Water Gate",
           "name": "",
           "description": "Lady Candela recently invested in two Leithanian 'Gramophones.' She hopes that Rhodes Island will participate in a joint exercise with the Dossoles Defense Squad to test out the point-defense capabilities of the 'Gramophones.'\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.\n<@lv.item><'Gramophone'></> Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies.",
-          "levelId": "Obt/Campaign/level_camp_r_07",
+          "levelId": "obt/campaign/level_camp_r_07",
           "hasChallenge": false
         },
         {
@@ -19906,7 +20035,7 @@
           "operation": "Columbia South Prison",
           "name": "",
           "description": "The convict Jesselton, having been transferred from Mansfield State Prison, has incited a prison riot, aided by the local Siracusan gangs who decided to join in. Rhodes Island must intervene immediately and put down the insurrection using the Imprisonment Devices. \n<@lv.rem><Special Conditions></>DP will not regenerate naturally.\n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
-          "levelId": "Obt/Campaign/level_camp_r_08",
+          "levelId": "obt/campaign/level_camp_r_08",
           "hasChallenge": false
         },
         {
@@ -19914,7 +20043,7 @@
           "operation": "Victoria County Hillock Countryside",
           "name": "",
           "description": "After accepting a commission from Victoria, Rhodes Island sets out to deal with Spectre Force active in the County Hillock countryside.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Tattered Pillar> </>Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
-          "levelId": "Obt/Campaign/level_camp_r_09",
+          "levelId": "obt/campaign/level_camp_r_09",
           "hasChallenge": false
         },
         {
@@ -19922,7 +20051,7 @@
           "operation": "Kazimierz Night Champion Show",
           "name": "",
           "description": "A corporation in Kazimierz is planning an unusual game show. Participants must fend off wave after wave of knight attacks in order to claim the grand prize. Rhodes Island has been invited as a contestant. \n<@lv.rem><Special Conditions></> DP will not regenerate naturally. \n<@lv.item><City Neon></> Provides an initial amount of visibility, and can further increase visibility when used",
-          "levelId": "Obt/Campaign/level_camp_r_10",
+          "levelId": "obt/campaign/level_camp_r_10",
           "hasChallenge": false
         },
         {
@@ -19930,7 +20059,7 @@
           "operation": "Yan Lingering Shangshu Trails",
           "name": "",
           "description": "Wares of all shapes and sizes have once again appeared on the twisting mountain paths. Are they seeking the goblet which once granted them sentience, which was subsequently cast from the mountains? The relevant bureaus in Yan have requested Rhodes Island's assistance in this matter.\n<@lv.rem><Special Conditions></>DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_r_11",
+          "levelId": "obt/campaign/level_camp_r_11",
           "hasChallenge": false
         },
         {
@@ -19938,7 +20067,7 @@
           "operation": "Laterano Chocolate Street",
           "name": "",
           "description": "The Summit of Nations is over, and Pathfinders that have not left with the Guide remain in Laterano, trying to restore faith there in their own way. They have caused a disturbance in the commercial area of the Stevonus district, and the Notarial Hall has requested help from Rhodes Island.\n<@lv.rem><Special Condition></>DP will not regenerate naturally.\n<@lv.item><'Gelato Stop'></>Both allied and enemy units will fight for control over this device; When activated, restores SP of surrounding allies",
-          "levelId": "Obt/Campaign/level_camp_r_12",
+          "levelId": "obt/campaign/level_camp_r_12",
           "hasChallenge": false
         },
         {
@@ -19946,7 +20075,7 @@
           "operation": "Iberia Penumbra Shipyards",
           "name": "",
           "description": "The shipyard that built ships such as the Stultifera Navis has become a nest of Sea Terrors. The Inquisition has contracted Rhodes Island to eliminate them in order to salvage a Golden Age ship-of-the line that is still restorable.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Hand of the Saint - Purification Mode></> Bounces a 'Hand of the Saint' in the deployed direction, stunning and dealing damage to enemies it collides with, and clearing Nethersea Brand in its path.",
-          "levelId": "Obt/Campaign/level_camp_r_13",
+          "levelId": "obt/campaign/level_camp_r_13",
           "hasChallenge": false
         },
         {
@@ -19954,7 +20083,7 @@
           "operation": "Columbia Research Base Hanger",
           "name": "",
           "description": "The prototype power armors stored in Test Site 359's hanger have suddenly reactivated during the cleanup work. The Rhodes Island operators present must quickly intervene and bring this incident to a close.\n<@lv.rem><Special Conditions></>DP will not regenerate naturally.\n<@lv.item><R-Series Power Armor></>Absorbs nearby experimental products to recover SP. Activates when SP is full.",
-          "levelId": "Obt/Campaign/level_camp_r_14",
+          "levelId": "obt/campaign/level_camp_r_14",
           "hasChallenge": false
         },
         {
@@ -19962,7 +20091,7 @@
           "operation": "Yan Lungmen Commercial District",
           "name": "",
           "description": "At the behest of the Rat King, the local Siracusan mafia contacted a number of mercenaries, preparing to bring joy to the city during Sauin. But before they do so, they need to rehearse with Rhodes Island's operators to ensure no civilians are harmed. \n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Mobile Tactical Hangar> </>Deploys drones as needed to assist enemy combatants. \n<@lv.rem><Command Terminal> </>Depletes 1 Life Points when destroyed.\n",
-          "levelId": "Obt/Campaign/level_camp_r_15",
+          "levelId": "obt/campaign/level_camp_r_15",
           "hasChallenge": false
         },
         {
@@ -19970,7 +20099,7 @@
           "operation": "Leithanien Rest Avenue",
           "name": "",
           "description": "A renowned musician is holding a charity concert, but intel indicates that troublemakers have infiltrated the audience, disguised as the Witch King's Remains. Operators are to act promptly to ensure that the concert is held smoothly.\n<@lv.rem><Condition> </>DP will not regenerate naturally.\n<@lv.item><Waste Energy Interference> </>Natural SP recovery rate reduced.\n<@lv.item><Realigned Flux> </>Restores natural SP recovery rate of allied Operators within.",
-          "levelId": "Obt/Campaign/level_camp_r_16",
+          "levelId": "obt/campaign/level_camp_r_16",
           "hasChallenge": false
         },
         {
@@ -19978,7 +20107,7 @@
           "operation": "Victoria Ashy Marsh",
           "name": "",
           "description": "With the flame called resentment cast into those overgrown reeds, the ashes quickly make their pursuit of those trekking through their homeland. Having heard their pleas for help, Rhodes Island will not stand idly by.\n<@lv.rem><Special Conditions></>DP will not regenerate naturally.\n<@lv.item><Mire></>Gradually reduces the ASPD of Operators within, and the ASPD and Movement Speed of enemies within.\n<@lv.item><Reeds></>Operators within gain Camouflage.",
-          "levelId": "Obt/Campaign/level_camp_r_17",
+          "levelId": "obt/campaign/level_camp_r_17",
           "hasChallenge": false
         },
         {
@@ -19986,7 +20115,7 @@
           "operation": "Sargon The Special Little Aquapit'",
           "name": "",
           "description": "The Durins who miss 'The Great Aquapit' so much have constructed new aquatic amusement facilities on the surface. All the tribes of Acahualla have received invitations to join the carnival, and crates of alcoholic beverages are being delivered...Rhodes Island, please, lend a hand in maintaining order!\n<@lv.rem><Special Condition></>DP will not regenerate naturally.",
-          "levelId": "Obt/Campaign/level_camp_r_18",
+          "levelId": "obt/campaign/level_camp_r_18",
           "hasChallenge": false
         },
         {
@@ -19994,7 +20123,7 @@
           "operation": "Victoria Decaying Wastes",
           "name": "",
           "description": "The armies of the Nachzehrer ravage the fields, turning fertile farmland to barren wastes. Send a squad to repel them, and give a sliver of hope to the people of Londinium, who have suffered for too long.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Twigs That Crave></> Produces Rot Eaters when destroyed or at the end of the stage.",
-          "levelId": "Obt/Campaign/level_camp_r_19",
+          "levelId": "obt/campaign/level_camp_r_19",
           "hasChallenge": false
         },
         {
@@ -20002,7 +20131,7 @@
           "operation": "Yan Mountain-Ringed Border Town",
           "name": "",
           "description": "Roaming bandits have come together again, planning an attack on a weakly defended mountain pass. \n<@lv.rem><Condition> </>DP will not regenerate naturally.\n<@lv.item><Yumen Catastrophe Defenses> </>Units placed here deal more damage to low ground units and take less damage from low ground units.\n<@lv.item><Defensive Barricade> </>Blocks multiple enemies.",
-          "levelId": "Obt/Campaign/level_camp_r_20",
+          "levelId": "obt/campaign/level_camp_r_20",
           "hasChallenge": false
         },
         {
@@ -20010,7 +20139,7 @@
           "operation": "Siesta New Hotel Avenue",
           "name": "",
           "description": "Tourists never stay here, but they do leave with its song and wine. They even want to take with them those soft and fluffy dreams, but those have already melted away in yesterday's evening breeze. Do you see those fluffy creatures? Let's chase after them together, one more time.\n<@lv.rem><Condition></>DP will not regenerate naturally\n<@lv.item><Decorative Geyser></>Units standing around it are unaffected by vapor, and will produce White Vapor when attacking\n<@lv.item><Steam Soda Bottles></>When defeated, creates Pure White Steam in the surrounding area",
-          "levelId": "Obt/Campaign/level_camp_r_21",
+          "levelId": "obt/campaign/level_camp_r_21",
           "hasChallenge": false
         },
         {
@@ -20018,7 +20147,7 @@
           "operation": "Columbia 'Eccentricity' Laboratory",
           "name": "",
           "description": "Gravity, visibility, trajectory. An arclight builds a bridge at the crossroads of fate, within the erratic everything. Somewhere not far from the land, we shall overcome cowardice and hubris together. We remember, we hold fast, we advance without looking to the past.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally\n<@lv.item><Gravity Switch></> Gravity Switches and Planetary Debris: Moves along a set path, blocking lanes and dealing physical damage to units they touch. Can be moved by your units in adjacent tiles.",
-          "levelId": "Obt/Campaign/level_camp_r_22",
+          "levelId": "obt/campaign/level_camp_r_22",
           "hasChallenge": false
         },
         {
@@ -20026,7 +20155,7 @@
           "operation": "Victoria Burning District",
           "name": "",
           "description": "This is not only their war, but ours too! Taking back Londinium means taking back every room, street, and neighborhood in our memories. Forward, forward!\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Londinium Secondary Defense Artillery> </>Once fully charged, deals area True damage to both allies and enemies, centered on the friendly unit with the highest Block.",
-          "levelId": "Obt/Campaign/level_camp_r_23",
+          "levelId": "obt/campaign/level_camp_r_23",
           "hasChallenge": false
         },
         {
@@ -20034,7 +20163,7 @@
           "operation": "Kjerag Icebound Valley",
           "name": "",
           "description": "Blizzards, heaters, and frost-covered burdenbeasts. Rhodes Island, a delegation, and the snowy valleys of Kjerag. Those who couldn't get their fill of excitement on the frozen lake have gathered in a secluded spot for a fierce showdown. Unfortunately, they've disturbed the peaceful slumber of the burdenbeasts.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Emergency Heater></> Makes surrounding Operators immune to the Frigid environmental effect.",
-          "levelId": "Obt/Campaign/level_camp_r_24",
+          "levelId": "obt/campaign/level_camp_r_24",
           "hasChallenge": false
         },
         {
@@ -20042,7 +20171,7 @@
           "operation": "Columbia Cityway 66",
           "name": "",
           "description": "A cityway that once carried pioneers and hope as it stretched further and further west. Once. Now, the promises of the past have faded. The facilities once full of promise have fallen into disrepair, leaving only an invitation echoing over the airwaves: to clear out enemies.\n<@lv.rem><Special Conditions> </>DP will not regenerate naturally\n<@lv.item><Waste Heat Vent> </>Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
-          "levelId": "Obt/Campaign/level_camp_r_25",
+          "levelId": "obt/campaign/level_camp_r_25",
           "hasChallenge": false
         },
         {
@@ -20050,7 +20179,7 @@
           "operation": "Yan Paddy Field 9-7",
           "name": "",
           "description": "These hundred mu of fragrant fields and paddies are also the hope of farmers who dream of a future without famine. Vermin encroach once more, and blight has begun to pollute the crops. We ask Rhodes Island for aid in protecting the harvests of these hard-working farmers!\n<@lv.rem><Special Condition> DP will not regenerate naturally.</>\n<@lv.item><Farmland> </>Operators on Farmland recover HP or take damage based on Blight level.",
-          "levelId": "Obt/Campaign/level_camp_r_26",
+          "levelId": "obt/campaign/level_camp_r_26",
           "hasChallenge": false
         },
         {
@@ -20058,7 +20187,7 @@
           "operation": "Leithanien Kurfürstenplatz",
           "name": "",
           "description": "The 'Echoes of Herkunftshorn'—they seek to carry on the Witch King's melody. Play now, rescue team from Rhodes Island; drown out the chaotic, resentful, and paranoid notes with your own melody. The Kurfürstenplatz should witness the most beautiful sunset.\n<@lv.rem><Special Condition>DP will not regenerate naturally.</>\n<@lv.item><Tuning Node></>Heals when attacked; when activated during a song variation, changes the variation and briefly applies a buff to friendly units.",
-          "levelId": "Obt/Campaign/level_camp_r_27",
+          "levelId": "obt/campaign/level_camp_r_27",
           "hasChallenge": false
         },
         {
@@ -20066,7 +20195,7 @@
           "operation": "萨尔贡 大巴扎",
           "name": "",
           "description": "一群胆大包天的沙盗闯入了博物馆，他们误触机关，居然使得沉睡的展品们苏醒了过来。城里现在一片混乱，快让街道恢复原本的秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
-          "levelId": "Obt/Campaign/level_camp_r_28",
+          "levelId": "obt/campaign/level_camp_r_28",
           "hasChallenge": false
         },
         {
@@ -20074,7 +20203,7 @@
           "operation": "伊比利亚 鳞骸盐漠 ",
           "name": "",
           "description": "寻找黄金时代遗物的商队误闯了盐鳞的巢穴，凶暴的盐鳞将他们围困在盐漠中，不怀好意的海盗们也正驾驶着盐船逼近。向罗德岛求援的信号不停催促，即刻启航前往吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><盐漠></>经过的敌人移动速度降低，停留一段时间后会摔落至远处直接被击倒\\n<@lv.item><盐坨子炮></>周期性发射炮弹造成物理溅射伤害，可以将周围1名重量小于等于3的地面敌人传送至爆炸中心",
-          "levelId": "Obt/Campaign/level_camp_r_29",
+          "levelId": "obt/campaign/level_camp_r_29",
           "hasChallenge": false
         }
       ]

@@ -25358,7 +25358,7 @@
     "CNDescription": "长夜里在城堡中游荡的管家人偶，擅长为城堡中所有的房间置办柔软轻盈的床上用品，以及痛击进入梦城堡的坏人。",
     "CNAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25366,7 +25366,7 @@
     "JPDescription": "长夜里在城堡中游荡的管家人偶，擅长为城堡中所有的房间置办柔软轻盈的床上用品，以及痛击进入梦城堡的坏人。",
     "JPAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25374,7 +25374,7 @@
     "ENDescription": "长夜里在城堡中游荡的管家人偶，擅长为城堡中所有的房间置办柔软轻盈的床上用品，以及痛击进入梦城堡的坏人。",
     "ENAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25382,7 +25382,7 @@
     "KRDescription": "长夜里在城堡中游荡的管家人偶，擅长为城堡中所有的房间置办柔软轻盈的床上用品，以及痛击进入梦城堡的坏人。",
     "KRAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ]
@@ -25466,7 +25466,7 @@
     "CNDescription": "长夜里在城堡中游荡的总管人偶，随着月光的照耀，它们手中的剪刀也会发生变化，大概是为了剪裁面积更大的布料，应该是吧？",
     "CNAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25474,7 +25474,7 @@
     "JPDescription": "长夜里在城堡中游荡的总管人偶，随着月光的照耀，它们手中的剪刀也会发生变化，大概是为了剪裁面积更大的布料，应该是吧？",
     "JPAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25482,7 +25482,7 @@
     "ENDescription": "长夜里在城堡中游荡的总管人偶，随着月光的照耀，它们手中的剪刀也会发生变化，大概是为了剪裁面积更大的布料，应该是吧？",
     "ENAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ],
@@ -25490,7 +25490,7 @@
     "KRDescription": "长夜里在城堡中游荡的总管人偶，随着月光的照耀，它们手中的剪刀也会发生变化，大概是为了剪裁面积更大的布料，应该是吧？",
     "KRAbilityList": [
       {
-        "text": "在月光下攻击范围和距离逐渐提升，攻击数次后恢复",
+        "text": "在月光下攻击范围和攻击力逐渐提升，攻击数次后恢复",
         "textFormat": "NORMAL"
       }
     ]
@@ -153585,6 +153585,1486 @@
       },
       {
         "text": "生命值越低防御力与攻击力越高",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18001_lhship",
+    "Levels": [
+      {
+        "key": "enemy_18001_lhship",
+        "attributes": {
+          "maxHp": 5500,
+          "atk": 100,
+          "def": 100,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": true,
+        "talentBlackboard": [
+          {
+            "key": "MoveListener.dist_delta",
+            "value": 3
+          },
+          {
+            "key": "MoveListener.value",
+            "value": 2
+          },
+          {
+            "key": "MoveListener.resource_pool",
+            "value": "boat"
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "运输汽艇",
+    "CNDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "CNAbilityList": [
+      {
+        "text": "不可阻挡，会受到敌人攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "运输汽艇",
+    "JPDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "JPAbilityList": [
+      {
+        "text": "不可阻挡，会受到敌人攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "运输汽艇",
+    "ENDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "ENAbilityList": [
+      {
+        "text": "不可阻挡，会受到敌人攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "运输汽艇",
+    "KRDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "KRAbilityList": [
+      {
+        "text": "不可阻挡，会受到敌人攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18002_lhbetl",
+    "Levels": [
+      {
+        "key": "enemy_18002_lhbetl",
+        "attributes": {
+          "maxHp": 3450,
+          "atk": 100,
+          "def": 100,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "DeadBuff.atk",
+            "value": 25
+          },
+          {
+            "key": "DeadBuff.max_stack_cnt",
+            "value": 25
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "小颚虫",
+    "CNDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "CNAbilityList": [
+      {
+        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "小颚虫",
+    "JPDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "JPAbilityList": [
+      {
+        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "小颚虫",
+    "ENDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "ENAbilityList": [
+      {
+        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "小颚虫",
+    "KRDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "KRAbilityList": [
+      {
+        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18003_lhkarb",
+    "Levels": [
+      {
+        "key": "enemy_18003_lhkarb",
+        "attributes": {
+          "maxHp": 9800,
+          "atk": 870,
+          "def": 980,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "Devour",
+            "priority": 0,
+            "cooldown": 5,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_stack_cnt",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "level_capacity",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_hp",
+                "value": 0.3,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 0.3,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 1.2,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "吸气乱动机",
+    "CNDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "CNAbilityList": [
+      {
+        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "吸气乱动机",
+    "JPDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "JPAbilityList": [
+      {
+        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "吸气乱动机",
+    "ENDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "ENAbilityList": [
+      {
+        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "吸气乱动机",
+    "KRDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "KRAbilityList": [
+      {
+        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18004_lhbmom",
+    "Levels": [
+      {
+        "key": "enemy_18004_lhbmom",
+        "attributes": {
+          "maxHp": 23500,
+          "atk": 1250,
+          "def": 1050,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 5.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Aura.def",
+            "value": 1
+          },
+          {
+            "key": "Aura.range_radius",
+            "value": 1.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Summon",
+            "priority": 1,
+            "cooldown": 35,
+            "initCooldown": 15,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_18002_lhbetl"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "巨锹虫",
+    "CNDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "CNAbilityList": [
+      {
+        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤两个<小颚虫>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "巨锹虫",
+    "JPDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "JPAbilityList": [
+      {
+        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤两个<小颚虫>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "巨锹虫",
+    "ENDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "ENAbilityList": [
+      {
+        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤两个<小颚虫>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "巨锹虫",
+    "KRDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "KRAbilityList": [
+      {
+        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤两个<小颚虫>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18005_lhwand",
+    "Levels": [
+      {
+        "key": "enemy_18005_lhwand",
+        "attributes": {
+          "maxHp": 70000,
+          "atk": 750,
+          "def": 2000,
+          "magicResistance": 80,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 3,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "BlockCtrl.def",
+            "value": -0.04
+          },
+          {
+            "key": "BlockCtrl.magic_resistance",
+            "value": -3
+          },
+          {
+            "key": "BlockCtrl.atk",
+            "value": 0.05
+          },
+          {
+            "key": "BlockCtrl.attack_speed",
+            "value": 10
+          },
+          {
+            "key": "BlockCtrl.max_stack_cnt",
+            "value": 25
+          },
+          {
+            "key": "BlockCtrl.interval",
+            "value": 1
+          },
+          {
+            "key": "BlockCtrl.initial_buff_cnt",
+            "value": 1
+          },
+          {
+            "key": "BlockCtrl.mid_stack_cnt",
+            "value": 12
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "StunCombat",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 7,
+            "blackboard": [
+              {
+                "key": "stun",
+                "value": 12,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "enemy_18005_lhwand",
+        "attributes": {
+          "maxHp": 120000,
+          "atk": 900,
+          "def": 2200,
+          "magicResistance": 85,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        },
+        "levelType": "BOSS",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 3,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "BlockCtrl.def",
+            "value": -0.04
+          },
+          {
+            "key": "BlockCtrl.magic_resistance",
+            "value": -3
+          },
+          {
+            "key": "BlockCtrl.atk",
+            "value": 0.05
+          },
+          {
+            "key": "BlockCtrl.attack_speed",
+            "value": 10
+          },
+          {
+            "key": "BlockCtrl.max_stack_cnt",
+            "value": 25
+          },
+          {
+            "key": "BlockCtrl.interval",
+            "value": 1
+          },
+          {
+            "key": "BlockCtrl.initial_buff_cnt",
+            "value": 1
+          },
+          {
+            "key": "BlockCtrl.mid_stack_cnt",
+            "value": 12
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "StunCombat",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 7,
+            "blackboard": [
+              {
+                "key": "stun",
+                "value": 12,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“徘徊者”",
+    "CNDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "CNAbilityList": [
+      {
+        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“徘徊者”",
+    "JPDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "JPAbilityList": [
+      {
+        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“徘徊者”",
+    "ENDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "ENAbilityList": [
+      {
+        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“徘徊者”",
+    "KRDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "KRAbilityList": [
+      {
+        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18006_lhprie",
+    "Levels": [
+      {
+        "key": "enemy_18006_lhprie",
+        "attributes": {
+          "maxHp": 68000,
+          "atk": 750,
+          "def": 400,
+          "magicResistance": 65,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 3
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 3,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "HpAura.max_hp",
+            "value": 1
+          },
+          {
+            "key": "HpAura.range_radius",
+            "value": 1.5
+          },
+          {
+            "key": "Reborn.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "DamageAura.atk_scale",
+            "value": 0.2
+          },
+          {
+            "key": "DamageAura.ep_damage_ratio",
+            "value": 0.3
+          },
+          {
+            "key": "DamageAura.range_radius",
+            "value": 1.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Reborning",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 10,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Heal",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_target",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "恩慈祷者",
+    "CNDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "CNAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "使周围所有敌人最大生命值提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "停止治疗其他敌人",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "恩慈祷者",
+    "JPDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "JPAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "使周围所有敌人最大生命值提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "停止治疗其他敌人",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "恩慈祷者",
+    "ENDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "ENAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "使周围所有敌人最大生命值提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "停止治疗其他敌人",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "恩慈祷者",
+    "KRDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "KRAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "使周围所有敌人最大生命值提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "停止治疗其他敌人",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18007_lhbque",
+    "Levels": [
+      {
+        "key": "enemy_18007_lhbque",
+        "attributes": {
+          "maxHp": 138000,
+          "atk": 950,
+          "def": 0,
+          "magicResistance": 70,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 7.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.2
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 3,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "Reborn.branch_id",
+            "value": "lhbque"
+          },
+          {
+            "key": "Aura.invincible",
+            "value": 10
+          },
+          {
+            "key": "Aura.base_attack_time",
+            "value": -0.5
+          },
+          {
+            "key": "Aura.move_speed",
+            "value": 1.5
+          },
+          {
+            "key": "Aura.atk",
+            "value": 1.5
+          },
+          {
+            "key": "Aura.max_hp",
+            "value": 1.5
+          },
+          {
+            "key": "Explode.value",
+            "value": 800
+          },
+          {
+            "key": "Explode.range_radius",
+            "value": 1.5
+          },
+          {
+            "key": "Resist.damage_resistance",
+            "value": 0.05
+          },
+          {
+            "key": "Resist.max_stack_cnt",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Summon",
+            "priority": 1,
+            "cooldown": 45,
+            "initCooldown": 15,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_18004_lhbmom"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "斑斓虫",
+    "CNDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "CNAbilityList": [
+      {
+        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤一个<巨锹虫>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "使场上其他感染生物最大生命值大幅提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "斑斓虫",
+    "JPDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "JPAbilityList": [
+      {
+        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤一个<巨锹虫>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "使场上其他感染生物最大生命值大幅提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "斑斓虫",
+    "ENDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "ENAbilityList": [
+      {
+        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤一个<巨锹虫>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "使场上其他感染生物最大生命值大幅提高",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "斑斓虫",
+    "KRDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "KRAbilityList": [
+      {
+        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性召唤一个<巨锹虫>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "使场上其他感染生物最大生命值大幅提高",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_18008_lhbbos",
+    "Levels": [
+      {
+        "key": "enemy_18008_lhbbos",
+        "attributes": {
+          "maxHp": 97500,
+          "atk": 1980,
+          "def": 1150,
+          "magicResistance": 85,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 3.5
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 3,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.delay",
+            "value": 0
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "HpLoss.loss_hp_interval",
+            "value": 0.1
+          },
+          {
+            "key": "HpLoss.cnt_factor",
+            "value": -1
+          },
+          {
+            "key": "HpLoss.max_hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "Reborn.predelay",
+            "value": 10
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Spawn",
+            "priority": 0,
+            "cooldown": 5,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "AOEAttack",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0,
+                "valueStr": "1"
+              }
+            ]
+          },
+          {
+            "prefabKey": "Rebuild",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "interval",
+                "value": 0.3,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 12,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“老尖牙”",
+    "CNDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "CNAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“老尖牙”",
+    "JPDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "JPAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“老尖牙”",
+    "ENDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "ENAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“老尖牙”",
+    "KRDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "KRAbilityList": [
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
         "textFormat": "NORMAL"
       }
     ]

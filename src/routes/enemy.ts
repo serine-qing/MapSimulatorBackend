@@ -30,7 +30,6 @@ const getEnemyData  = (enemyRefs:EnemyRef[], lang: "CN" | "JP" | "EN" | "KR"): L
 router.post("/data", (req: any, res: any) => {
   const EnemyRefs: EnemyRef[] = req.body?.enemyRefs;
   const language: "CN" | "JP" | "EN" | "KR" = req.body?.language || "CN";
-  
   const EnemyDatas: LocalEnemyData[] = getEnemyData(EnemyRefs, language);
   res.send({
     data: { EnemyDatas }
