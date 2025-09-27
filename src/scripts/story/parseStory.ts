@@ -224,6 +224,7 @@ const parseInternationalData = async (lang: "JP" | "EN" | "KR") => {
         id = "act3d0";
         break;
     }
+
     const ss = basicInfo[id];
     if(ss){
       let name = ss.name;
