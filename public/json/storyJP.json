@@ -6010,6 +6010,116 @@
           ]
         },
         {
+          "id": "act1bossrush",
+          "episode": "導灯の試練#1",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "無尽の炎と破壊の鋸",
+              "description": "炎に焼かれて灰になるか、チェーンソーで木っ端微塵になるか、選択肢は二つに一つだ。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "捲土重来",
+              "description": "彼らの激しい攻撃だけでなく、その腹の中で煮えたぎる怒りも解消しなければならない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "塵旋風とどろく",
+              "description": "滅多に口撃はしない……あるいはそもそも話すことができない。これが鼠王、凋零騎士、そしてビッグアグリーの共通点だ。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "理念の戦",
+              "description": "駆け引きに一発逆転は付き物だが、信仰のぶつかり合いに和解の道はない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "無尽の炎と破壊の鋸",
+              "description": "炎に焼かれて灰になるか、チェーンソーで木っ端微塵になるか、選択肢は二つに一つだ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "捲土重来",
+              "description": "彼らの激しい攻撃だけでなく、その腹の中で煮えたぎる怒りも解消しなければならない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "塵旋風とどろく",
+              "description": "滅多に口撃はしない……あるいはそもそも話すことができない。これが鼠王、凋零騎士、そしてビッグアグリーの共通点だ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "理念の戦",
+              "description": "駆け引きに一発逆転は付き物だが、信仰のぶつかり合いに和解の道はない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
+              "name": "無尽の炎と破壊の鋸",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<Pompeii>の爆発ダメージが上昇し、ステルスを獲得\n\n<Big Bob>の防御力と最大HPが上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
+              "name": "捲土重来",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<SkullShredder>の攻撃範囲が拡大\n\n<Faust>の特殊攻撃のダメージが上昇\n\n<FrostNova・冬痕>の氷輪の発動間隔が短縮",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
+              "name": "塵旋風とどろく",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<鼠王>のシールド耐久値が上昇\n\n<「ビッグアグリー」>の近接攻撃力が上昇\n\n<腐敗騎士>&<凋零騎士>のどちらか一方が倒れた際の攻撃力強化の効果値が上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
+              "name": "理念の戦",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
+              "name": "理念の戦",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇\n\nすべてのボスの攻撃力、防御力、最大HPが上昇",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act20side",
           "episode": "理想都市-エンドレスカーニバル-",
           "childNodes": [
@@ -6319,116 +6429,6 @@
               "levelId": "activities/act20side/level_act20side_sp02",
               "name": "アルティメットコース",
               "description": "セルカー愛好家たちがこっそり設計したアルティメットコース。ぶつけるためのロボットや人形でコースはほぼ埋め尽くされているが、まだ足りないと思っている人もいる。<@lv.act20side>――強力なギアを付け、セルカーのルートを計画し、より多くの敵にぶつかってハイスコアを狙おう！そうだ、インストラクターに気を付けて！</>",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act1bossrush",
-          "episode": "導灯の試練",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "無尽の炎と破壊の鋸",
-              "description": "炎に焼かれて灰になるか、チェーンソーで木っ端微塵になるか、選択肢は二つに一つだ。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "捲土重来",
-              "description": "彼らの激しい攻撃だけでなく、その腹の中で煮えたぎる怒りも解消しなければならない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "塵旋風とどろく",
-              "description": "滅多に口撃はしない……あるいはそもそも話すことができない。これが鼠王、凋零騎士、そしてビッグアグリーの共通点だ。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念の戦",
-              "description": "駆け引きに一発逆転は付き物だが、信仰のぶつかり合いに和解の道はない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "無尽の炎と破壊の鋸",
-              "description": "炎に焼かれて灰になるか、チェーンソーで木っ端微塵になるか、選択肢は二つに一つだ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "捲土重来",
-              "description": "彼らの激しい攻撃だけでなく、その腹の中で煮えたぎる怒りも解消しなければならない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "塵旋風とどろく",
-              "description": "滅多に口撃はしない……あるいはそもそも話すことができない。これが鼠王、凋零騎士、そしてビッグアグリーの共通点だ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念の戦",
-              "description": "駆け引きに一発逆転は付き物だが、信仰のぶつかり合いに和解の道はない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "無尽の炎と破壊の鋸",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<Pompeii>の爆発ダメージが上昇し、ステルスを獲得\n\n<Big Bob>の防御力と最大HPが上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "捲土重来",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<SkullShredder>の攻撃範囲が拡大\n\n<Faust>の特殊攻撃のダメージが上昇\n\n<FrostNova・冬痕>の氷輪の発動間隔が短縮",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "塵旋風とどろく",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<鼠王>のシールド耐久値が上昇\n\n<「ビッグアグリー」>の近接攻撃力が上昇\n\n<腐敗騎士>&<凋零騎士>のどちらか一方が倒れた際の攻撃力強化の効果値が上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "理念の戦",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "理念の戦",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇\n\nすべてのボスの攻撃力、防御力、最大HPが上昇",
               "hasChallenge": false
             }
           ]
@@ -7169,6 +7169,116 @@
           ]
         },
         {
+          "id": "act2bossrush",
+          "episode": "導灯の試練#2",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "困窮する囚人",
+              "description": "牢獄での日々はあまりにも退屈だ。そして彼らは今ようやく少しの余興を見出した。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "デカとチビ",
+              "description": "正反対の体格には、同じ勝利への決意を秘めている。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "大地割れる一撃",
+              "description": "どんなに強固な大地でも、重力の蹂躙には耐えられない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "燦陽の影",
+              "description": "輝かしさの裏ではいつも、影がひっそりと生まれている。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "困窮する囚人",
+              "description": "牢獄での日々はあまりにも退屈だ。そして彼らは今ようやく少しの余興を見出した。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "デカとチビ",
+              "description": "正反対の体格には、同じ勝利への決意を秘めている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "大地割れる一撃",
+              "description": "どんなに強固な大地でも、重力の蹂躙には耐えられない。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "燦陽の影",
+              "description": "輝かしさの裏ではいつも、影がひっそりと生まれている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
+              "name": "困窮する囚人",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<ジェッセルトン・ウィリアムズ>看守形態が与えるスタンの持続時間が延長\n\n<パンチョ・サラス>の攻撃力と最大HPが上昇\n\n全ての敵の攻撃範囲が拡大",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
+              "name": "デカとチビ",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<サルカズケントゥリオ>の攻撃力が上昇し攻撃範囲が拡大する\n\n<W>のスキル発動頻度が上昇\n\n<「物欲の拮抗者」>のバリア耐久値が上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
+              "name": "大地割れる一撃",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<Mudrock>と<マドロックの巨像>の最大HPが入れ替わり、術耐性が上昇する\n\n<Manfred>第二形態の同時攻撃対象数+1、【軍事訓練】の効果を失ってから復帰するまでの時間が短縮\n\n<最後の蒸気騎士>と<高温蒸気戦車>がステルス状態を獲得し、さらに最大HPと攻撃力が上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
+              "name": "燦陽の影",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
+              "name": "燦陽の影",
+              "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇\n\n全ての敵の攻撃力と最大HPが更に上昇",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act22side",
           "episode": "この炎が照らす先",
           "childNodes": [
@@ -7387,116 +7497,6 @@
               "description": "彼女が自らの運命を直視できるようになるまでは。\n<@lv.item><沼地></>このマスに配置された味方ユニットは攻撃速度が徐々に低下する。また、マス上の敵の攻撃速度と移動速度も徐々に低下する\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n6箇所の<葦の群生>が燃えた状態で開始"
-            }
-          ]
-        },
-        {
-          "id": "act2bossrush",
-          "episode": "導灯の試練",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困窮する囚人",
-              "description": "牢獄での日々はあまりにも退屈だ。そして彼らは今ようやく少しの余興を見出した。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "デカとチビ",
-              "description": "正反対の体格には、同じ勝利への決意を秘めている。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "大地割れる一撃",
-              "description": "どんなに強固な大地でも、重力の蹂躙には耐えられない。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "燦陽の影",
-              "description": "輝かしさの裏ではいつも、影がひっそりと生まれている。\n\n<color=#FFA300><危険区域></color>危険区域に配置されているオペレーターは、次WAVEへ遷移する際自動的に撤退する\n\n<color=#FFA300><実体プログラム></color>クリア済みのWAVEに再挑戦した場合に起動可能。起動するとそのWAVE中にオペレーターが大幅に強化される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困窮する囚人",
-              "description": "牢獄での日々はあまりにも退屈だ。そして彼らは今ようやく少しの余興を見出した。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "デカとチビ",
-              "description": "正反対の体格には、同じ勝利への決意を秘めている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "大地割れる一撃",
-              "description": "どんなに強固な大地でも、重力の蹂躙には耐えられない。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "燦陽の影",
-              "description": "輝かしさの裏ではいつも、影がひっそりと生まれている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "困窮する囚人",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<ジェッセルトン・ウィリアムズ>看守形態が与えるスタンの持続時間が延長\n\n<パンチョ・サラス>の攻撃力と最大HPが上昇\n\n全ての敵の攻撃範囲が拡大",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "デカとチビ",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<サルカズケントゥリオ>の攻撃力が上昇し攻撃範囲が拡大する\n\n<W>のスキル発動頻度が上昇\n\n<「物欲の拮抗者」>のバリア耐久値が上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "大地割れる一撃",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<Mudrock>と<マドロックの巨像>の最大HPが入れ替わり、術耐性が上昇する\n\n<Manfred>第二形態の同時攻撃対象数+1、【軍事訓練】の効果を失ってから復帰するまでの時間が短縮\n\n<最後の蒸気騎士>と<高温蒸気戦車>がステルス状態を獲得し、さらに最大HPと攻撃力が上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "燦陽の影",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "燦陽の影",
-              "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇\n\n全ての敵の攻撃力と最大HPが更に上昇",
-              "hasChallenge": false
             }
           ]
         },
@@ -9150,7 +9150,7 @@
         },
         {
           "id": "act3bossrush",
-          "episode": "導灯の試練",
+          "episode": "導灯の試練#3",
           "childNodes": [
             {
               "id": "TN-1",
@@ -9471,11 +9471,6 @@
               "challenge": "<@lv.fs>制限：</>\n<「クリップ」クリフ>のスキル発動頻度が増加"
             }
           ]
-        },
-        {
-          "id": "act42d0",
-          "episode": "紛争演繹",
-          "childNodes": []
         },
         {
           "id": "act29side",
@@ -10480,7 +10475,7 @@
         },
         {
           "id": "act4bossrush",
-          "episode": "導灯の試練",
+          "episode": "導灯の試練#4",
           "childNodes": [
             {
               "id": "TN-1",
@@ -12918,6 +12913,164 @@
           ]
         },
         {
+          "id": "act18mini",
+          "episode": "また明日",
+          "childNodes": [
+            {
+              "id": "SE-1",
+              "operation": "SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "灼熱の風",
+              "description": "「外にキラキラ光る赤いつむじ風が見えるだろ？あれはとんでもなく熱いんだ。ガラスは割れるし、打ち付けた木の板も燃えちまうし……いったいどこに隠れればいいんだ？」\n<@lv.item><障害物></>敵の進行ルートを遮る\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-1CM",
+              "operation": "強襲SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "灼熱の風",
+              "description": "「外にキラキラ光る赤いつむじ風が見えるだろ？あれはとんでもなく熱いんだ。ガラスは割れるし、打ち付けた木の板も燃えちまうし……いったいどこに隠れればいいんだ？」\n<@lv.item><障害物></>敵の進行ルートを遮る\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n<源石汚染エリア>の位置が変化"
+            },
+            {
+              "id": "SE-2",
+              "operation": "SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "薪に生まれた命",
+              "description": "「行かせてくれ。私が死んだあとも、この体と魂は燃え続ける。ターラーに仇なす敵の一人や二人くらい、道連れにできるさ……」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-2CM",
+              "operation": "強襲SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "薪に生まれた命",
+              "description": "「行かせてくれ。私が死んだあとも、この体と魂は燃え続ける。ターラーに仇なす敵の一人や二人くらい、道連れにできるさ……」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n追加の<ダブリン追炎戦士>が出現"
+            },
+            {
+              "id": "SE-3",
+              "operation": "SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "燃え盛る枯れ草",
+              "description": "「畑仕事は初めてか？大量の枯れ草を片付けるには、火を放ってやるのが一番手っ取り早い。鎌で一本一本刈ってたら、キリがないからな。」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-3CM",
+              "operation": "強襲SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "燃え盛る枯れ草",
+              "description": "「畑仕事は初めてか？大量の枯れ草を片付けるには、火を放ってやるのが一番手っ取り早い。鎌で一本一本刈ってたら、キリがないからな。」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n3箇所の<葦の群生>が燃えた状態で開始"
+            },
+            {
+              "id": "SE-4",
+              "operation": "SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "邪悪なる嘆き",
+              "description": "「冗談はよせ、『胸が張り裂けそうな叫び声』だなんて、まるであの怪物に心でもあるみたいじゃないか。どうせ殺し足りなくて怒ってるだけだろ。」\n<@lv.item><街の緊急用備蓄></>破壊すると一定のコストを獲得し、所持コスト上限増加\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-4CM",
+              "operation": "強襲SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "邪悪なる嘆き",
+              "description": "「冗談はよせ、『胸が張り裂けそうな叫び声』だなんて、まるであの怪物に心でもあるみたいじゃないか。どうせ殺し足りなくて怒ってるだけだろ。」\n<@lv.item><街の緊急用備蓄></>破壊すると一定のコストを獲得し、所持コスト上限増加\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n<大罪のキメラ>が<冒涜のキメラ>に変化"
+            },
+            {
+              "id": "SE-5",
+              "operation": "SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "訪れぬ安息",
+              "description": "「正直、今まで死ぬのはちっとも怖くなかったけど、今は怖ぇんだ。死んでも安らかに眠れず、掘り出されてバケモンのエサにされるんじゃないかってな。」\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-5CM",
+              "operation": "強襲SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "訪れぬ安息",
+              "description": "「正直、今まで死ぬのはちっとも怖くなかったけど、今は怖ぇんだ。死んでも安らかに眠れず、掘り出されてバケモンのエサにされるんじゃないかってな。」\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n戦場に<活性源石の嵐>が出現"
+            },
+            {
+              "id": "SE-6",
+              "operation": "SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "苦難の行軍",
+              "description": "「サルカズはみんな源石に耐性があるとでも思ってたのか？ケッ！活性源石の嵐の中を突き進んでいけるのは、普段の暮らしと同じくらい辛えからだよ。」\n<@lv.item><障害物></>敵の進行ルートを遮る",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-6CM",
+              "operation": "強襲SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "苦難の行軍",
+              "description": "「サルカズはみんな源石に耐性があるとでも思ってたのか？ケッ！活性源石の嵐の中を突き進んでいけるのは、普段の暮らしと同じくらい辛えからだよ。」\n<@lv.item><障害物></>敵の進行ルートを遮る",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n障害物の配置可能数-2"
+            },
+            {
+              "id": "SE-7",
+              "operation": "SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "逆流する鮮血",
+              "description": "「刀も剣も持ってるのに、なんで俺の血を使って俺を殺すんだよ？一体どんな人間なら、そんな残酷な方法を思いつくんだろうな？なあ魔族、そもそもお前は人間なんかじゃないんだろ？」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-7CM",
+              "operation": "強襲SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "逆流する鮮血",
+              "description": "「刀も剣も持ってるのに、なんで俺の血を使って俺を殺すんだよ？一体どんな人間なら、そんな残酷な方法を思いつくんだろうな？なあ魔族、そもそもお前は人間なんかじゃないんだろ？」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\nすべての<サルカズ骨骸衛士>がステルス状態になる"
+            },
+            {
+              "id": "SE-8",
+              "operation": "SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "共鳴せし血河",
+              "description": "「どうしてアタシが戦場の血に触れようとしないか知ってる？戦場の血だまりは、色んな人の血が混ざり合いすぎてるせいで、まったく物語を読み取れないからだよ。」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-8CM",
+              "operation": "強襲SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "共鳴せし血河",
+              "description": "「どうしてアタシが戦場の血に触れようとしないか知ってる？戦場の血だまりは、色んな人の血が混ざり合いすぎてるせいで、まったく物語を読み取れないからだよ。」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>制限：</>\n<サルカズ骨骸衛士>が撃破された際に落とす<血珀>の数+2"
+            },
+            {
+              "id": "SE-S-1",
+              "operation": "SE-S-1",
+              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
+              "name": "軟弱なる金属",
+              "description": "「血が金属を断ち切るのを想像できないって？どうして無意識のうちに、血は脆くて金属は固いって決めつけちゃうの？」",
+              "hasChallenge": false
+            },
+            {
+              "id": "SE-S-2",
+              "operation": "SE-S-2",
+              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
+              "name": "暴走する血肉",
+              "description": "「なんで自分の血肉だからって、必ず自分の言うことを聞いてくれるって思い込んでるの？もしかして、ただそれが『自分のもの』だからってだけの理由？ほら、君の血と肉、捕まえたよ。」",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act40side",
           "episode": "相見歓",
           "childNodes": [
@@ -13211,164 +13364,6 @@
               "levelId": "activities/act40side/level_act40side_mo01",
               "name": "一日三食",
               "description": "他者に見せるために食べるものに求めるのは華やかさのみ。己の腹に入れた食事の味を知るのもまた己だけだ。\n<@lv.item><竈台></>「人間煙火」を召喚し、接触した敵全員に確定ダメージを与える。\n<@lv.item><破棄された竈台></>「飲露餐風」を召喚し、接触した味方全員に確定ダメージを与える。",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act18mini",
-          "episode": "また明日",
-          "childNodes": [
-            {
-              "id": "SE-1",
-              "operation": "SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "灼熱の風",
-              "description": "「外にキラキラ光る赤いつむじ風が見えるだろ？あれはとんでもなく熱いんだ。ガラスは割れるし、打ち付けた木の板も燃えちまうし……いったいどこに隠れればいいんだ？」\n<@lv.item><障害物></>敵の進行ルートを遮る\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-1CM",
-              "operation": "強襲SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "灼熱の風",
-              "description": "「外にキラキラ光る赤いつむじ風が見えるだろ？あれはとんでもなく熱いんだ。ガラスは割れるし、打ち付けた木の板も燃えちまうし……いったいどこに隠れればいいんだ？」\n<@lv.item><障害物></>敵の進行ルートを遮る\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n<源石汚染エリア>の位置が変化"
-            },
-            {
-              "id": "SE-2",
-              "operation": "SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "薪に生まれた命",
-              "description": "「行かせてくれ。私が死んだあとも、この体と魂は燃え続ける。ターラーに仇なす敵の一人や二人くらい、道連れにできるさ……」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-2CM",
-              "operation": "強襲SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "薪に生まれた命",
-              "description": "「行かせてくれ。私が死んだあとも、この体と魂は燃え続ける。ターラーに仇なす敵の一人や二人くらい、道連れにできるさ……」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n追加の<ダブリン追炎戦士>が出現"
-            },
-            {
-              "id": "SE-3",
-              "operation": "SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "燃え盛る枯れ草",
-              "description": "「畑仕事は初めてか？大量の枯れ草を片付けるには、火を放ってやるのが一番手っ取り早い。鎌で一本一本刈ってたら、キリがないからな。」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-3CM",
-              "operation": "強襲SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "燃え盛る枯れ草",
-              "description": "「畑仕事は初めてか？大量の枯れ草を片付けるには、火を放ってやるのが一番手っ取り早い。鎌で一本一本刈ってたら、キリがないからな。」\n<@lv.item><葦の群生></>このマスに配置された味方ユニットは「迷彩」を獲得する",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n3箇所の<葦の群生>が燃えた状態で開始"
-            },
-            {
-              "id": "SE-4",
-              "operation": "SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "邪悪なる嘆き",
-              "description": "「冗談はよせ、『胸が張り裂けそうな叫び声』だなんて、まるであの怪物に心でもあるみたいじゃないか。どうせ殺し足りなくて怒ってるだけだろ。」\n<@lv.item><街の緊急用備蓄></>破壊すると一定のコストを獲得し、所持コスト上限増加\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-4CM",
-              "operation": "強襲SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "邪悪なる嘆き",
-              "description": "「冗談はよせ、『胸が張り裂けそうな叫び声』だなんて、まるであの怪物に心でもあるみたいじゃないか。どうせ殺し足りなくて怒ってるだけだろ。」\n<@lv.item><街の緊急用備蓄></>破壊すると一定のコストを獲得し、所持コスト上限増加\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる\n<@lv.item><活性源石の嵐></>毎秒範囲内のユニットに確定ダメージを与え、SP回復速度を大幅に低下させる",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n<大罪のキメラ>が<冒涜のキメラ>に変化"
-            },
-            {
-              "id": "SE-5",
-              "operation": "SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "訪れぬ安息",
-              "description": "「正直、今まで死ぬのはちっとも怖くなかったけど、今は怖ぇんだ。死んでも安らかに眠れず、掘り出されてバケモンのエサにされるんじゃないかってな。」\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-5CM",
-              "operation": "強襲SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "訪れぬ安息",
-              "description": "「正直、今まで死ぬのはちっとも怖くなかったけど、今は怖ぇんだ。死んでも安らかに眠れず、掘り出されてバケモンのエサにされるんじゃないかってな。」\n<@lv.item><源石汚染エリア></>このエリアにいるユニットに確定ダメージを与え続け、SP回復速度を大幅に低下させる",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n戦場に<活性源石の嵐>が出現"
-            },
-            {
-              "id": "SE-6",
-              "operation": "SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "苦難の行軍",
-              "description": "「サルカズはみんな源石に耐性があるとでも思ってたのか？ケッ！活性源石の嵐の中を突き進んでいけるのは、普段の暮らしと同じくらい辛えからだよ。」\n<@lv.item><障害物></>敵の進行ルートを遮る",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-6CM",
-              "operation": "強襲SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "苦難の行軍",
-              "description": "「サルカズはみんな源石に耐性があるとでも思ってたのか？ケッ！活性源石の嵐の中を突き進んでいけるのは、普段の暮らしと同じくらい辛えからだよ。」\n<@lv.item><障害物></>敵の進行ルートを遮る",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n障害物の配置可能数-2"
-            },
-            {
-              "id": "SE-7",
-              "operation": "SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "逆流する鮮血",
-              "description": "「刀も剣も持ってるのに、なんで俺の血を使って俺を殺すんだよ？一体どんな人間なら、そんな残酷な方法を思いつくんだろうな？なあ魔族、そもそもお前は人間なんかじゃないんだろ？」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-7CM",
-              "operation": "強襲SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "逆流する鮮血",
-              "description": "「刀も剣も持ってるのに、なんで俺の血を使って俺を殺すんだよ？一体どんな人間なら、そんな残酷な方法を思いつくんだろうな？なあ魔族、そもそもお前は人間なんかじゃないんだろ？」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\nすべての<サルカズ骨骸衛士>がステルス状態になる"
-            },
-            {
-              "id": "SE-8",
-              "operation": "SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "共鳴せし血河",
-              "description": "「どうしてアタシが戦場の血に触れようとしないか知ってる？戦場の血だまりは、色んな人の血が混ざり合いすぎてるせいで、まったく物語を読み取れないからだよ。」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-8CM",
-              "operation": "強襲SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "共鳴せし血河",
-              "description": "「どうしてアタシが戦場の血に触れようとしないか知ってる？戦場の血だまりは、色んな人の血が混ざり合いすぎてるせいで、まったく物語を読み取れないからだよ。」\n<@lv.item><血の祭壇></>衝撃波を放ち、範囲内にあるすべての血珀を吸収し、新生の血裔に生まれ変わらせる\n<@lv.item><爆弾積込み地点></>コストを消耗して起動すると、<対巫術軌道式爆弾>を1つ生成する",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>制限：</>\n<サルカズ骨骸衛士>が撃破された際に落とす<血珀>の数+2"
-            },
-            {
-              "id": "SE-S-1",
-              "operation": "SE-S-1",
-              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
-              "name": "軟弱なる金属",
-              "description": "「血が金属を断ち切るのを想像できないって？どうして無意識のうちに、血は脆くて金属は固いって決めつけちゃうの？」",
-              "hasChallenge": false
-            },
-            {
-              "id": "SE-S-2",
-              "operation": "SE-S-2",
-              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
-              "name": "暴走する血肉",
-              "description": "「なんで自分の血肉だからって、必ず自分の言うことを聞いてくれるって思い込んでるの？もしかして、ただそれが『自分のもの』だからってだけの理由？ほら、君の血と肉、捕まえたよ。」",
               "hasChallenge": false
             }
           ]
@@ -14380,7 +14375,7 @@
         },
         {
           "id": "act5bossrush",
-          "episode": "「引航者试炼」#05",
+          "episode": "引航者试炼#5",
           "childNodes": [
             {
               "id": "TN-1",

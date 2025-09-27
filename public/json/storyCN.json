@@ -6010,6 +6010,116 @@
           ]
         },
         {
+          "id": "act1bossrush",
+          "episode": "引航者试炼#1",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "无尽灼烧与强力破坏",
+              "description": "被焚烧成灰烬，被锯碎为尘埃，没有第三种出路。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "卷土重来",
+              "description": "要化解的不仅是他们的攻击，还有他们的愤怒。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "风沙轰隆隆",
+              "description": "人狠话不多......或者压根没法说话，是鼠王、凋零骑士与大丑的最大共同点。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "理念之争",
+              "description": "战术的博弈尚能逆转，信仰的对抗不可调和。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "无尽灼烧与强力破坏",
+              "description": "被焚烧成灰烬，被锯碎为尘埃，没有第三种出路。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "卷土重来",
+              "description": "要化解的不仅是他们的攻击，还有他们的愤怒。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "风沙轰隆隆",
+              "description": "人狠话不多......或者压根没法说话，是鼠王、凋零骑士与大丑的最大共同点。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "理念之争",
+              "description": "战术的博弈尚能逆转，信仰的对抗不可调和。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
+              "name": "无尽灼烧与强力破坏",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<庞贝>爆炸伤害提升并获得隐匿效果\\n\\n<大鲍勃>防御力和最大生命值提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
+              "name": "卷土重来",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<碎骨>攻击范围提升\\n\\n<浮士德>特殊狙击伤害提升\\n\\n<霜星冬痕>冰环释放间隔缩短",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
+              "name": "风沙轰隆隆",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<鼠王>屏障伤害吸收量提升\\n\\n<巨大的丑东西>近战攻击力提升\\n\\n<腐败骑士&凋零骑士>其中一方死亡时，另一方攻击力额外提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
+              "name": "理念之争",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
+              "name": "理念之争",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升\\n\\n所有首领敌人的攻击力、防御力和最大生命值提升",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act20side",
           "episode": "理想城：长夏狂欢季",
           "childNodes": [
@@ -6319,116 +6429,6 @@
               "levelId": "activities/act20side/level_act20side_sp02",
               "name": "终极赛道",
               "description": "自走车爱好者们偷偷设计的终极赛道。可以用来撞的机械和假人几乎把场地塞满了，还有人觉得不够。<@lv.act20side>——装配强力装备、规划自走车路线、撞击更多敌方单位获取高分！对了，小心冲浪教练！</>",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act1bossrush",
-          "episode": "「引航者试炼」#01",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "无尽灼烧与强力破坏",
-              "description": "被焚烧成灰烬，被锯碎为尘埃，没有第三种出路。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "卷土重来",
-              "description": "要化解的不仅是他们的攻击，还有他们的愤怒。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "风沙轰隆隆",
-              "description": "人狠话不多......或者压根没法说话，是鼠王、凋零骑士与大丑的最大共同点。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念之争",
-              "description": "战术的博弈尚能逆转，信仰的对抗不可调和。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "无尽灼烧与强力破坏",
-              "description": "被焚烧成灰烬，被锯碎为尘埃，没有第三种出路。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "卷土重来",
-              "description": "要化解的不仅是他们的攻击，还有他们的愤怒。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "风沙轰隆隆",
-              "description": "人狠话不多......或者压根没法说话，是鼠王、凋零骑士与大丑的最大共同点。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念之争",
-              "description": "战术的博弈尚能逆转，信仰的对抗不可调和。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "无尽灼烧与强力破坏",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<庞贝>爆炸伤害提升并获得隐匿效果\\n\\n<大鲍勃>防御力和最大生命值提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "卷土重来",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<碎骨>攻击范围提升\\n\\n<浮士德>特殊狙击伤害提升\\n\\n<霜星冬痕>冰环释放间隔缩短",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "风沙轰隆隆",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<鼠王>屏障伤害吸收量提升\\n\\n<巨大的丑东西>近战攻击力提升\\n\\n<腐败骑士&凋零骑士>其中一方死亡时，另一方攻击力额外提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "理念之争",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "理念之争",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升\\n\\n所有首领敌人的攻击力、防御力和最大生命值提升",
               "hasChallenge": false
             }
           ]
@@ -7169,6 +7169,116 @@
           ]
         },
         {
+          "id": "act2bossrush",
+          "episode": "引航者试炼#2",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "困顿囚徒",
+              "description": "监狱里的时日过于憋闷，现在他们终于找到点乐子了。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "大块头和小不点",
+              "description": "不同的体格里，藏着同样必胜的决心。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "裂地重击",
+              "description": "就算是坚实的大地，也无法承受重力的践踏。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "骄阳之影",
+              "description": "在一片光明璀璨的背后，往往也有阴影在悄然滋生。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "困顿囚徒",
+              "description": "监狱里的时日过于憋闷，现在他们终于找到点乐子了。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "大块头和小不点",
+              "description": "不同的体格里，藏着同样必胜的决心。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "裂地重击",
+              "description": "就算是坚实的大地，也无法承受重力的践踏。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "骄阳之影",
+              "description": "在一片光明璀璨的背后，往往也有阴影在悄然滋生。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
+              "name": "困顿囚徒",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<杰斯顿·威廉姆斯>狱警形态造成晕眩时间延长\\n\\n<潘乔·萨拉斯>攻击力与生命值提升\\n\\n所有敌人攻击范围提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
+              "name": "大块头和小不点",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<萨卡兹百夫长>攻击力与攻击范围提升\\n\\n<W>技能释放频率提升\\n\\n<物欲拮抗者>屏障可抵挡的伤害提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
+              "name": "裂地重击",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n对换<泥岩>与<泥岩巨像>的生命值，且法术抗性均提升\\n\\n<曼弗雷德>第二形态额外攻击一个目标，【军事训练】效果恢复速度大幅加快\\n\\n<最后的蒸汽骑士>和<极温蒸汽战车>获得隐匿，且生命值和攻击力提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
+              "name": "骄阳之影",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
+              "name": "骄阳之影",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升\\n\\n所有敌人的攻击力和最大生命值进一步提升",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act22side",
           "episode": "照我以火",
           "childNodes": [
@@ -7387,116 +7497,6 @@
               "description": "直到她能够面对自己的命运。\\n<@lv.item><沼泽地段></>置于其中的干员攻击速度逐渐降低，经过的敌人攻击速度和移动速度逐渐降低\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n场上6处芦苇丛初始被点燃"
-            }
-          ]
-        },
-        {
-          "id": "act2bossrush",
-          "episode": "「引航者试炼」#02",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困顿囚徒",
-              "description": "监狱里的时日过于憋闷，现在他们终于找到点乐子了。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "大块头和小不点",
-              "description": "不同的体格里，藏着同样必胜的决心。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "裂地重击",
-              "description": "就算是坚实的大地，也无法承受重力的践踏。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "骄阳之影",
-              "description": "在一片光明璀璨的背后，往往也有阴影在悄然滋生。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困顿囚徒",
-              "description": "监狱里的时日过于憋闷，现在他们终于找到点乐子了。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "大块头和小不点",
-              "description": "不同的体格里，藏着同样必胜的决心。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "裂地重击",
-              "description": "就算是坚实的大地，也无法承受重力的践踏。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "骄阳之影",
-              "description": "在一片光明璀璨的背后，往往也有阴影在悄然滋生。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "困顿囚徒",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<杰斯顿·威廉姆斯>狱警形态造成晕眩时间延长\\n\\n<潘乔·萨拉斯>攻击力与生命值提升\\n\\n所有敌人攻击范围提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "大块头和小不点",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<萨卡兹百夫长>攻击力与攻击范围提升\\n\\n<W>技能释放频率提升\\n\\n<物欲拮抗者>屏障可抵挡的伤害提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "裂地重击",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n对换<泥岩>与<泥岩巨像>的生命值，且法术抗性均提升\\n\\n<曼弗雷德>第二形态额外攻击一个目标，【军事训练】效果恢复速度大幅加快\\n\\n<最后的蒸汽骑士>和<极温蒸汽战车>获得隐匿，且生命值和攻击力提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "骄阳之影",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "骄阳之影",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升\\n\\n所有敌人的攻击力和最大生命值进一步提升",
-              "hasChallenge": false
             }
           ]
         },
@@ -9150,7 +9150,7 @@
         },
         {
           "id": "act3bossrush",
-          "episode": "「引航者试炼」#03",
+          "episode": "引航者试炼#3",
           "childNodes": [
             {
               "id": "TN-1",
@@ -9471,11 +9471,6 @@
               "challenge": "<@lv.fs>附加条件：</>\\n“桥夹”克里夫技能释放频率增加"
             }
           ]
-        },
-        {
-          "id": "act42d0",
-          "episode": "纷争演绎",
-          "childNodes": []
         },
         {
           "id": "act29side",
@@ -10480,7 +10475,7 @@
         },
         {
           "id": "act4bossrush",
-          "episode": "「引航者试炼」#04",
+          "episode": "引航者试炼#4",
           "childNodes": [
             {
               "id": "TN-1",
@@ -12918,6 +12913,164 @@
           ]
         },
         {
+          "id": "act18mini",
+          "episode": "我们明日见",
+          "childNodes": [
+            {
+              "id": "SE-1",
+              "operation": "SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "灼热的风",
+              "description": "“外面那种亮闪闪的、红色的风，它是烫的，玻璃都爆开了，封窗的木头也烧起来了......还能往哪躲？”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-1CM",
+              "operation": "突袭SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "灼热的风",
+              "description": "“外面那种亮闪闪的、红色的风，它是烫的，玻璃都爆开了，封窗的木头也烧起来了......还能往哪躲？”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n<源石污染区>所在地块改变"
+            },
+            {
+              "id": "SE-2",
+              "operation": "SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "生为柴薪",
+              "description": "“让我去，我死了之后，我的身体、我的灵魂都还能烧，总能再多烧死那么一两个人，塔拉的敌人......”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-2CM",
+              "operation": "突袭SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "生为柴薪",
+              "description": "“让我去，我死了之后，我的身体、我的灵魂都还能烧，总能再多烧死那么一两个人，塔拉的敌人......”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的深池逐火战士"
+            },
+            {
+              "id": "SE-3",
+              "operation": "SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "荒草焚荡",
+              "description": "“你是不是没下过地？要收拾这些枯枝荒草，最好就是放一把火全烧了。一刀一刀地割，要割到什么时候？”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-3CM",
+              "operation": "突袭SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "荒草焚荡",
+              "description": "“你是不是没下过地？要收拾这些枯枝荒草，最好就是放一把火全烧了。一刀一刀地割，要割到什么时候？”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n场上3处芦苇丛初始被点燃"
+            },
+            {
+              "id": "SE-4",
+              "operation": "SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "孽物哀鸣",
+              "description": "“算了吧，说什么‘撕心裂肺的惨叫’，说得好像那怪物真有心和肺似的。我看它是杀人还没杀爽，在生气吧。”\\n<@lv.item><街头应急储备></>被摧毁后获得一定费用及费用上限\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-4CM",
+              "operation": "突袭SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "孽物哀鸣",
+              "description": "“算了吧，说什么‘撕心裂肺的惨叫’，说得好像那怪物真有心和肺似的。我看它是杀人还没杀爽，在生气吧。”\\n<@lv.item><街头应急储备></>被摧毁后获得一定费用及费用上限\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n孽罪奇美拉替换为渎罪奇美拉"
+            },
+            {
+              "id": "SE-5",
+              "operation": "SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "不得安眠",
+              "description": "“说实话，俺本来不怕死，可俺现在怕了。俺怕自己死了之后也不得安宁，又被抽出去做什么魔怪的养料。”\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-5CM",
+              "operation": "突袭SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "不得安眠",
+              "description": "“说实话，俺本来不怕死，可俺现在怕了。俺怕自己死了之后也不得安宁，又被抽出去做什么魔怪的养料。”\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n战场中出现<活性源石风暴>"
+            },
+            {
+              "id": "SE-6",
+              "operation": "SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "苦痛行军",
+              "description": "“你以为萨卡兹都对源石免疫？呸！我能忍，只是因为在这源石风暴里面穿行，也没比过日子难受太多。”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-6CM",
+              "operation": "突袭SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "苦痛行军",
+              "description": "“你以为萨卡兹都对源石免疫？呸！我能忍，只是因为在这源石风暴里面穿行，也没比过日子难受太多。”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n可使用障碍物数量减少2"
+            },
+            {
+              "id": "SE-7",
+              "operation": "SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "血流倒涌",
+              "description": "“你有刀有剑，还非要用我自己的血杀我？什么人能想出这种残忍的办法？你从来都不是人，对不对，魔族？”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-7CM",
+              "operation": "突袭SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "血流倒涌",
+              "description": "“你有刀有剑，还非要用我自己的血杀我？什么人能想出这种残忍的办法？你从来都不是人，对不对，魔族？”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n所有萨卡兹骸骨卫士获得隐匿效果"
+            },
+            {
+              "id": "SE-8",
+              "operation": "SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "血河交响",
+              "description": "“你知道为什么我很少触摸战场上的血。每一摊血迹都混杂了不知多少人的血，没人能从中读到任何故事。”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-8CM",
+              "operation": "突袭SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "血河交响",
+              "description": "“你知道为什么我很少触摸战场上的血。每一摊血迹都混杂了不知多少人的血，没人能从中读到任何故事。”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n所有萨卡兹骸骨卫士被击倒时，额外留下2个血珀"
+            },
+            {
+              "id": "SE-S-1",
+              "operation": "SE-S-1",
+              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
+              "name": "金铁失格",
+              "description": "“血流切割金铁，很难想象吗？你为什么会下意识地以为前者柔软，后者坚硬呢？”",
+              "hasChallenge": false
+            },
+            {
+              "id": "SE-S-2",
+              "operation": "SE-S-2",
+              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
+              "name": "血肉失控",
+              "description": "“为什么你的血肉必须听命于你，难道仅凭你宣称它们‘属于你’？看，我牵住它们了哦。”",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act40side",
           "episode": "相见欢",
           "childNodes": [
@@ -13211,164 +13364,6 @@
               "levelId": "activities/act40side/level_act40side_mo01",
               "name": "一日三餐",
               "description": "吃给别人看的饭，只求光鲜。吃进自己肚子里的饭，苦甜自知。\\n<@lv.item><火灶></>召唤“人间烟火”对沿途所有敌方单位造成真实伤害。\\n<@lv.item><废弃火灶></>召唤“饮露餐风”对所有沿途我方单位造成真实伤害。",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act18mini",
-          "episode": "我们明日见",
-          "childNodes": [
-            {
-              "id": "SE-1",
-              "operation": "SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "灼热的风",
-              "description": "“外面那种亮闪闪的、红色的风，它是烫的，玻璃都爆开了，封窗的木头也烧起来了......还能往哪躲？”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-1CM",
-              "operation": "突袭SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "灼热的风",
-              "description": "“外面那种亮闪闪的、红色的风，它是烫的，玻璃都爆开了，封窗的木头也烧起来了......还能往哪躲？”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<源石污染区>所在地块改变"
-            },
-            {
-              "id": "SE-2",
-              "operation": "SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "生为柴薪",
-              "description": "“让我去，我死了之后，我的身体、我的灵魂都还能烧，总能再多烧死那么一两个人，塔拉的敌人......”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-2CM",
-              "operation": "突袭SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "生为柴薪",
-              "description": "“让我去，我死了之后，我的身体、我的灵魂都还能烧，总能再多烧死那么一两个人，塔拉的敌人......”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的深池逐火战士"
-            },
-            {
-              "id": "SE-3",
-              "operation": "SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "荒草焚荡",
-              "description": "“你是不是没下过地？要收拾这些枯枝荒草，最好就是放一把火全烧了。一刀一刀地割，要割到什么时候？”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-3CM",
-              "operation": "突袭SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "荒草焚荡",
-              "description": "“你是不是没下过地？要收拾这些枯枝荒草，最好就是放一把火全烧了。一刀一刀地割，要割到什么时候？”\\n<@lv.item><芦苇丛></>置于其中的干员获得\"迷彩\"",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上3处芦苇丛初始被点燃"
-            },
-            {
-              "id": "SE-4",
-              "operation": "SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "孽物哀鸣",
-              "description": "“算了吧，说什么‘撕心裂肺的惨叫’，说得好像那怪物真有心和肺似的。我看它是杀人还没杀爽，在生气吧。”\\n<@lv.item><街头应急储备></>被摧毁后获得一定费用及费用上限\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-4CM",
-              "operation": "突袭SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "孽物哀鸣",
-              "description": "“算了吧，说什么‘撕心裂肺的惨叫’，说得好像那怪物真有心和肺似的。我看它是杀人还没杀爽，在生气吧。”\\n<@lv.item><街头应急储备></>被摧毁后获得一定费用及费用上限\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低\\n<@lv.item><活性源石风暴></>每秒对范围内的单位造成真实伤害并使其技力回复速度大幅度降低",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n孽罪奇美拉替换为渎罪奇美拉"
-            },
-            {
-              "id": "SE-5",
-              "operation": "SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "不得安眠",
-              "description": "“说实话，俺本来不怕死，可俺现在怕了。俺怕自己死了之后也不得安宁，又被抽出去做什么魔怪的养料。”\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-5CM",
-              "operation": "突袭SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "不得安眠",
-              "description": "“说实话，俺本来不怕死，可俺现在怕了。俺怕自己死了之后也不得安宁，又被抽出去做什么魔怪的养料。”\\n<@lv.item><源石污染区></>使位于其上的单位持续受到真实伤害并且技力回复速度大幅度降低",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n战场中出现<活性源石风暴>"
-            },
-            {
-              "id": "SE-6",
-              "operation": "SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "苦痛行军",
-              "description": "“你以为萨卡兹都对源石免疫？呸！我能忍，只是因为在这源石风暴里面穿行，也没比过日子难受太多。”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-6CM",
-              "operation": "突袭SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "苦痛行军",
-              "description": "“你以为萨卡兹都对源石免疫？呸！我能忍，只是因为在这源石风暴里面穿行，也没比过日子难受太多。”\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n可使用障碍物数量减少2"
-            },
-            {
-              "id": "SE-7",
-              "operation": "SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "血流倒涌",
-              "description": "“你有刀有剑，还非要用我自己的血杀我？什么人能想出这种残忍的办法？你从来都不是人，对不对，魔族？”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-7CM",
-              "operation": "突袭SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "血流倒涌",
-              "description": "“你有刀有剑，还非要用我自己的血杀我？什么人能想出这种残忍的办法？你从来都不是人，对不对，魔族？”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有萨卡兹骸骨卫士获得隐匿效果"
-            },
-            {
-              "id": "SE-8",
-              "operation": "SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "血河交响",
-              "description": "“你知道为什么我很少触摸战场上的血。每一摊血迹都混杂了不知多少人的血，没人能从中读到任何故事。”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-8CM",
-              "operation": "突袭SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "血河交响",
-              "description": "“你知道为什么我很少触摸战场上的血。每一摊血迹都混杂了不知多少人的血，没人能从中读到任何故事。”\\n<@lv.item><唤血祭坛></>发出脉冲吸收范围内所有血珀并将其重生为新生血裔\\n<@lv.item><炸弹载荷点></>消耗一定部署费用可以开启，生成一枚<反巫术变位炸弹>",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有萨卡兹骸骨卫士被击倒时，额外留下2个血珀"
-            },
-            {
-              "id": "SE-S-1",
-              "operation": "SE-S-1",
-              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
-              "name": "金铁失格",
-              "description": "“血流切割金铁，很难想象吗？你为什么会下意识地以为前者柔软，后者坚硬呢？”",
-              "hasChallenge": false
-            },
-            {
-              "id": "SE-S-2",
-              "operation": "SE-S-2",
-              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
-              "name": "血肉失控",
-              "description": "“为什么你的血肉必须听命于你，难道仅凭你宣称它们‘属于你’？看，我牵住它们了哦。”",
               "hasChallenge": false
             }
           ]
@@ -14380,7 +14375,7 @@
         },
         {
           "id": "act5bossrush",
-          "episode": "「引航者试炼」#05",
+          "episode": "引航者试炼#5",
           "childNodes": [
             {
               "id": "TN-1",

@@ -6010,6 +6010,116 @@
           ]
         },
         {
+          "id": "act1bossrush",
+          "episode": "Trials for Navigator#1",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "Burn and Destroy",
+              "description": "Burned to ash, or ground into dust. There is no other way out.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "Comeback",
+              "description": "Defend against not just their attacks, but their fury as well.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "Rolling Sands",
+              "description": "One thing common to the Rat King, Withered Knight, and The Big, Ugly Thing is that they are all strong and silent. If they can speak at all, that is...\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "Clash of Ideologies",
+              "description": "A tactical battle could be reversed, but a clash of ideologies cannot be reconciled.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_01",
+              "name": "Burn and Destroy",
+              "description": "Burned to ash, or ground into dust. There is no other way out.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_02",
+              "name": "Comeback",
+              "description": "Defend against not just their attacks, but their fury as well.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_03",
+              "name": "Rolling Sands",
+              "description": "One thing common to the Rat King, Withered Knight, and The Big, Ugly Thing is that they are all strong and silent. If they can speak at all, that is...\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_04",
+              "name": "Clash of Ideologies",
+              "description": "A tactical battle could be reversed, but a clash of ideologies cannot be reconciled.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
+              "name": "Burn and Destroy",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Pompeii> Explosion damaged increased and is invisible\n\n<Big Bob> DEF and Max HP increased",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
+              "name": "Comeback",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Skullshatterer> Attack Range increased\n\n<Faust> Special snipe damage increased\n\n<FrostNova> Ice Nova cooldown reduced",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
+              "name": "Rolling Sands",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Rat King> Shield absorbs more damage\n\n<The Big Ugly Thing> Melee ATK increased\n\n<Corrupted Knight & Withered Knight> When either dies, the other gains increased ATK",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
+              "name": "Clash of Ideologies",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
+              "name": "Clash of Ideologies",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased\n\nAll boss enemies gain increased ATK, DEF and Max HP",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act20side",
           "episode": "Ideal City: Endless Carnival",
           "childNodes": [
@@ -6319,116 +6429,6 @@
               "levelId": "activities/act20side/level_act20side_sp02",
               "name": "Ultimate Course",
               "description": "The ultimate course, designed by self-driving cart enthusiasts. Filled with machines and dummies to hit, but even this is not enough for some people.<@lv.act20side>——Equip powerful gear, plan your route, and hit more enemies to earn a high score! Beware of the surfing instructors!</>",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act1bossrush",
-          "episode": "Trials for Navigator",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "Burn and Destroy",
-              "description": "Burned to ash, or ground into dust. There is no other way out.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "Comeback",
-              "description": "Defend against not just their attacks, but their fury as well.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "Rolling Sands",
-              "description": "One thing common to the Rat King, Withered Knight, and The Big, Ugly Thing is that they are all strong and silent. If they can speak at all, that is...\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "Clash of Ideologies",
-              "description": "A tactical battle could be reversed, but a clash of ideologies cannot be reconciled.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "Burn and Destroy",
-              "description": "Burned to ash, or ground into dust. There is no other way out.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "Comeback",
-              "description": "Defend against not just their attacks, but their fury as well.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "Rolling Sands",
-              "description": "One thing common to the Rat King, Withered Knight, and The Big, Ugly Thing is that they are all strong and silent. If they can speak at all, that is...\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "Clash of Ideologies",
-              "description": "A tactical battle could be reversed, but a clash of ideologies cannot be reconciled.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "Burn and Destroy",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Pompeii> Explosion damaged increased and is invisible\n\n<Big Bob> DEF and Max HP increased",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "Comeback",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Skullshatterer> Attack Range increased\n\n<Faust> Special snipe damage increased\n\n<FrostNova> Ice Nova cooldown reduced",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "Rolling Sands",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Rat King> Shield absorbs more damage\n\n<The Big Ugly Thing> Melee ATK increased\n\n<Corrupted Knight & Withered Knight> When either dies, the other gains increased ATK",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "Clash of Ideologies",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "Clash of Ideologies",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased\n\nAll boss enemies gain increased ATK, DEF and Max HP",
               "hasChallenge": false
             }
           ]
@@ -7169,6 +7169,116 @@
           ]
         },
         {
+          "id": "act2bossrush",
+          "episode": "Trials for Navigator#2",
+          "childNodes": [
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "Troubled Prisoner",
+              "description": "Bored prisoners have found something fun to do.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "Big and Small",
+              "description": "Different size, same determination.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "Fissure Strike",
+              "description": "Even solid earth is not immune to being trampled by gravity.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "Proud Sun's Shadow",
+              "description": "There is shadow hidden beneath the splendid surface.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_01",
+              "name": "Troubled Prisoner",
+              "description": "Bored prisoners have found something fun to do.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_02",
+              "name": "Big and Small",
+              "description": "Different size, same determination.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_03",
+              "name": "Fissure Strike",
+              "description": "Even solid earth is not immune to being trampled by gravity.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_04",
+              "name": "Proud Sun's Shadow",
+              "description": "There is shadow hidden beneath the splendid surface.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
+              "name": "Troubled Prisoner",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Jesselton Williams> Jailer form Stun duration increased\n\n<Pancho Salas> ATK and HP increased\n\nAll enemies have increased attack range.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
+              "name": "Big and Small",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Sarkaz Centurion> ATK and attack range increased\n\n<W> Skill cast rate increased\n\n<Materialist Antagonizer> Barrier block amount increased",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
+              "name": "Fissure Strike",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Mudrock> and <Mudrock Colossus> HP swapped, and both have increased RES\n\n<Manfred> 2nd form attacks an additional target, [Military Training] recovery rate greatly increased\n\n<The Last Steam Knight> and <Scorching Steam Tank> are Invisible, and HP and ATK increased.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
+              "name": "Proud Sun's Shadow",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased.",
+              "hasChallenge": false
+            },
+            {
+              "id": "TN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
+              "name": "Proud Sun's Shadow",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased\n\nAll enemies have increased ATK and max HP.",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act22side",
           "episode": "What the Firelight Casts",
           "childNodes": [
@@ -7387,116 +7497,6 @@
               "description": "Until she faces her fate.\n<@lv.item><Mire> </>Gradually reduces the ASPD of Operators within, and the ASPD and Movement Speed of enemies within.\n<@lv.item><Reed Beds> </>Operators within gain Camouflage.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition: </>\n6 Reed Beds are ignited at the start of battle."
-            }
-          ]
-        },
-        {
-          "id": "act2bossrush",
-          "episode": "Trials for Navigator",
-          "childNodes": [
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "Troubled Prisoner",
-              "description": "Bored prisoners have found something fun to do.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "Big and Small",
-              "description": "Different size, same determination.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "Fissure Strike",
-              "description": "Even solid earth is not immune to being trampled by gravity.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "Proud Sun's Shadow",
-              "description": "There is shadow hidden beneath the splendid surface.\n\n<color=#FFA300><Danger Zone></color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program></color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "Troubled Prisoner",
-              "description": "Bored prisoners have found something fun to do.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "Big and Small",
-              "description": "Different size, same determination.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "Fissure Strike",
-              "description": "Even solid earth is not immune to being trampled by gravity.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "Proud Sun's Shadow",
-              "description": "There is shadow hidden beneath the splendid surface.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "Troubled Prisoner",
-              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Jesselton Williams> Jailer form Stun duration increased\n\n<Pancho Salas> ATK and HP increased\n\nAll enemies have increased attack range.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "Big and Small",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Sarkaz Centurion> ATK and attack range increased\n\n<W> Skill cast rate increased\n\n<Materialist Antagonizer> Barrier block amount increased",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "Fissure Strike",
-              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Mudrock> and <Mudrock Colossus> HP swapped, and both have increased RES\n\n<Manfred> 2nd form attacks an additional target, [Military Training] recovery rate greatly increased\n\n<The Last Steam Knight> and <Scorching Steam Tank> are Invisible, and HP and ATK increased.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "Proud Sun's Shadow",
-              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "Proud Sun's Shadow",
-              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased\n\nAll enemies have increased ATK and max HP.",
-              "hasChallenge": false
             }
           ]
         },
@@ -9150,7 +9150,7 @@
         },
         {
           "id": "act3bossrush",
-          "episode": "Trials for Navigator",
+          "episode": "Trials for Navigator#3",
           "childNodes": [
             {
               "id": "TN-1",
@@ -9471,11 +9471,6 @@
               "challenge": "<@lv.fs>Condition:</>\n'Clip' Cliff uses skills more frequently."
             }
           ]
-        },
-        {
-          "id": "act42d0",
-          "episode": "Design of Strife",
-          "childNodes": []
         },
         {
           "id": "act29side",
@@ -10480,7 +10475,7 @@
         },
         {
           "id": "act4bossrush",
-          "episode": "Trials for Navigator",
+          "episode": "Trials for Navigator#4",
           "childNodes": [
             {
               "id": "TN-1",
@@ -12918,6 +12913,164 @@
           ]
         },
         {
+          "id": "act18mini",
+          "episode": "See You Soon",
+          "childNodes": [
+            {
+              "id": "SE-1",
+              "operation": "SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "Scorching Wind",
+              "description": "'The bright, red wind outside is scorching hot. It has already shattered the windows and set the window frame alight. Where can we hide now?'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-1CM",
+              "operation": "CM SE-1",
+              "levelId": "activities/act18mini/level_act18mini_01",
+              "name": "Scorching Wind",
+              "description": "'The bright, red wind outside is scorching hot. It has already shattered the windows and set the window frame alight. Where can we hide now?'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\n<Originium Pollution> is on different tiles"
+            },
+            {
+              "id": "SE-2",
+              "operation": "SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "Born as Firewood",
+              "description": "'Let me go. After I die, you can set fire to my body and soul; let me burn one or two of Tara's enemies to death.'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-2CM",
+              "operation": "CM SE-2",
+              "levelId": "activities/act18mini/level_act18mini_02",
+              "name": "Born as Firewood",
+              "description": "'Let me go. After I die, you can set fire to my body and soul; let me burn one or two of Tara's enemies to death.'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\nMore Dublinn Flamechaser Soldiers appear"
+            },
+            {
+              "id": "SE-3",
+              "operation": "SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "Burning Weeds",
+              "description": "'Have you not been to the ground yet? The best way to deal with the dead grass and branches is to burn it all down. If you try to cut them down one by one, it would take forever!'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-3CM",
+              "operation": "CM SE-3",
+              "levelId": "activities/act18mini/level_act18mini_03",
+              "name": "Burning Weeds",
+              "description": "'Have you not been to the ground yet? The best way to deal with the dead grass and branches is to burn it all down. If you try to cut them down one by one, it would take forever!'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition: </>\n3 Reeds are ignited at the start of battle"
+            },
+            {
+              "id": "SE-4",
+              "operation": "SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "The Wail of Evil",
+              "description": "'Come on, 'heart-wrenching screams'? As if a monster even has a heart to scream with. Seems to me it's just pissed because it hasn't killed enough people yet.'\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and Max DP.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-4CM",
+              "operation": "CM SE-4",
+              "levelId": "activities/act18mini/level_act18mini_04",
+              "name": "The Wail of Evil",
+              "description": "'Come on, 'heart-wrenching screams'? As if a monster even has a heart to scream with. Seems to me it's just pissed because it hasn't killed enough people yet.'\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and Max DP.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\nProfane Chimeras will be replaced with Sacrilegious Chimeras"
+            },
+            {
+              "id": "SE-5",
+              "operation": "SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "No Peaceful Slumber",
+              "description": "'In all honesty, I've never been afraid of death before, but I am now. I'm afraid I won't be able to rest in peace after I die. I'm afraid my body will be used as fodder for monsters.'\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-5CM",
+              "operation": "CM SE-5",
+              "levelId": "activities/act18mini/level_act18mini_05",
+              "name": "No Peaceful Slumber",
+              "description": "'In all honesty, I've never been afraid of death before, but I am now. I'm afraid I won't be able to rest in peace after I die. I'm afraid my body will be used as fodder for monsters.'\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\n<Active Originium Storm> appears on the battlefield"
+            },
+            {
+              "id": "SE-6",
+              "operation": "SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "Painful March",
+              "description": "'You think all Sarkaz are immune to Originium? Pah! I ENDURE it—only because walking through this Originium storm isn't much worse than the rest of my life.'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-6CM",
+              "operation": "CM SE-6",
+              "levelId": "activities/act18mini/level_act18mini_06",
+              "name": "Painful March",
+              "description": "'You think all Sarkaz are immune to Originium? Pah! I ENDURE it—only because walking through this Originium storm isn't much worse than the rest of my life.'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\nReduces the number of Roadblocks by 2"
+            },
+            {
+              "id": "SE-7",
+              "operation": "SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "Reversed Bloodflow",
+              "description": "'You have a knife and a sword. Why do you want to kill me with my own blood? What kind of person could even come up with such a thing? You're no person, you're a devil!'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-7CM",
+              "operation": "CM SE-7",
+              "levelId": "activities/act18mini/level_act18mini_07",
+              "name": "Reversed Bloodflow",
+              "description": "'You have a knife and a sword. Why do you want to kill me with my own blood? What kind of person could even come up with such a thing? You're no person, you're a devil!'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\nAll Sarkaz Boneguards are invisible"
+            },
+            {
+              "id": "SE-8",
+              "operation": "SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "Bloody Symphony",
+              "description": "'You know why I rarely touch blood on the battlefield. Every pool is mixed with the blood of countless many. Who could possibly read a story from any of them?'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
+              "hasChallenge": true
+            },
+            {
+              "id": "SE-8CM",
+              "operation": "CM SE-8",
+              "levelId": "activities/act18mini/level_act18mini_08",
+              "name": "Bloody Symphony",
+              "description": "'You know why I rarely touch blood on the battlefield. Every pool is mixed with the blood of countless many. Who could possibly read a story from any of them?'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>Condition:</>\nWhen Sarkaz Boneguards are defeated, 2 extra Blood Ambers are left behind"
+            },
+            {
+              "id": "SE-S-1",
+              "operation": "SE-S-1",
+              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
+              "name": "Disqualified Iron",
+              "description": "'Is it so hard to imagine blood cutting metal? Why do you picture the former soft while the latter hard?'",
+              "hasChallenge": false
+            },
+            {
+              "id": "SE-S-2",
+              "operation": "SE-S-2",
+              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
+              "name": "Out of Control Flesh",
+              "description": "'Why must your flesh and blood obey only you? Merely because you claim them as your own? Look! I've already taken control of them.'",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "act40side",
           "episode": "Such is the Joy of Our Reunion",
           "childNodes": [
@@ -13211,164 +13364,6 @@
               "levelId": "activities/act40side/level_act40side_mo01",
               "name": "Three Meals a Day",
               "description": "Vanity is all that matters when you eat to be seen by others. Only you will ever know what the meal truly tastes like.\n<@lv.item><Stove> </>Summons 'Sapid Auspice' to deal True damage to all enemies in its path.\n<@lv.item><Derelict Stove> </>Summons 'Vapid Blight' to deal True damage to all allied units in its path.",
-              "hasChallenge": false
-            }
-          ]
-        },
-        {
-          "id": "act18mini",
-          "episode": "See You Soon",
-          "childNodes": [
-            {
-              "id": "SE-1",
-              "operation": "SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "Scorching Wind",
-              "description": "'The bright, red wind outside is scorching hot. It has already shattered the windows and set the window frame alight. Where can we hide now?'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-1CM",
-              "operation": "CM SE-1",
-              "levelId": "activities/act18mini/level_act18mini_01",
-              "name": "Scorching Wind",
-              "description": "'The bright, red wind outside is scorching hot. It has already shattered the windows and set the window frame alight. Where can we hide now?'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\n<Originium Pollution> is on different tiles"
-            },
-            {
-              "id": "SE-2",
-              "operation": "SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "Born as Firewood",
-              "description": "'Let me go. After I die, you can set fire to my body and soul; let me burn one or two of Tara's enemies to death.'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-2CM",
-              "operation": "CM SE-2",
-              "levelId": "activities/act18mini/level_act18mini_02",
-              "name": "Born as Firewood",
-              "description": "'Let me go. After I die, you can set fire to my body and soul; let me burn one or two of Tara's enemies to death.'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nMore Dublinn Flamechaser Soldiers appear"
-            },
-            {
-              "id": "SE-3",
-              "operation": "SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "Burning Weeds",
-              "description": "'Have you not been to the ground yet? The best way to deal with the dead grass and branches is to burn it all down. If you try to cut them down one by one, it would take forever!'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-3CM",
-              "operation": "CM SE-3",
-              "levelId": "activities/act18mini/level_act18mini_03",
-              "name": "Burning Weeds",
-              "description": "'Have you not been to the ground yet? The best way to deal with the dead grass and branches is to burn it all down. If you try to cut them down one by one, it would take forever!'\n<@lv.item><Reeds></> Operators within gain Camouflage.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition: </>\n3 Reeds are ignited at the start of battle"
-            },
-            {
-              "id": "SE-4",
-              "operation": "SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "The Wail of Evil",
-              "description": "'Come on, 'heart-wrenching screams'? As if a monster even has a heart to scream with. Seems to me it's just pissed because it hasn't killed enough people yet.'\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and Max DP.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-4CM",
-              "operation": "CM SE-4",
-              "levelId": "activities/act18mini/level_act18mini_04",
-              "name": "The Wail of Evil",
-              "description": "'Come on, 'heart-wrenching screams'? As if a monster even has a heart to scream with. Seems to me it's just pissed because it hasn't killed enough people yet.'\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and Max DP.\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.\n<@lv.item><Active Originium Storm></> Deals True Damage to units in its area every second and greatly reduces their SP recovery.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nProfane Chimeras will be replaced with Sacrilegious Chimeras"
-            },
-            {
-              "id": "SE-5",
-              "operation": "SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "No Peaceful Slumber",
-              "description": "'In all honesty, I've never been afraid of death before, but I am now. I'm afraid I won't be able to rest in peace after I die. I'm afraid my body will be used as fodder for monsters.'\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-5CM",
-              "operation": "CM SE-5",
-              "levelId": "activities/act18mini/level_act18mini_05",
-              "name": "No Peaceful Slumber",
-              "description": "'In all honesty, I've never been afraid of death before, but I am now. I'm afraid I won't be able to rest in peace after I die. I'm afraid my body will be used as fodder for monsters.'\n<@lv.item><Originium Pollution></> Continuously deals True damage to units on it and greatly reduces their SP recovery.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\n<Active Originium Storm> appears on the battlefield"
-            },
-            {
-              "id": "SE-6",
-              "operation": "SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "Painful March",
-              "description": "'You think all Sarkaz are immune to Originium? Pah! I ENDURE it—only because walking through this Originium storm isn't much worse than the rest of my life.'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-6CM",
-              "operation": "CM SE-6",
-              "levelId": "activities/act18mini/level_act18mini_06",
-              "name": "Painful March",
-              "description": "'You think all Sarkaz are immune to Originium? Pah! I ENDURE it—only because walking through this Originium storm isn't much worse than the rest of my life.'\n<@lv.item><Roadblock></> Deploy to block the enemy's route.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nReduces the number of Roadblocks by 2"
-            },
-            {
-              "id": "SE-7",
-              "operation": "SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "Reversed Bloodflow",
-              "description": "'You have a knife and a sword. Why do you want to kill me with my own blood? What kind of person could even come up with such a thing? You're no person, you're a devil!'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-7CM",
-              "operation": "CM SE-7",
-              "levelId": "activities/act18mini/level_act18mini_07",
-              "name": "Reversed Bloodflow",
-              "description": "'You have a knife and a sword. Why do you want to kill me with my own blood? What kind of person could even come up with such a thing? You're no person, you're a devil!'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nAll Sarkaz Boneguards are invisible"
-            },
-            {
-              "id": "SE-8",
-              "operation": "SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "Bloody Symphony",
-              "description": "'You know why I rarely touch blood on the battlefield. Every pool is mixed with the blood of countless many. Who could possibly read a story from any of them?'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
-              "hasChallenge": true
-            },
-            {
-              "id": "SE-8CM",
-              "operation": "CM SE-8",
-              "levelId": "activities/act18mini/level_act18mini_08",
-              "name": "Bloody Symphony",
-              "description": "'You know why I rarely touch blood on the battlefield. Every pool is mixed with the blood of countless many. Who could possibly read a story from any of them?'\n<@lv.item><Bloodcalling Altar></> Releases a Pulse Wave that absorbs all Blood Amber within range and converts them into Bloodborn Spawn.\n<@lv.item><Bomb Loading Point></> Pay a DP cost to activate it, deploying an <Anti-Witchcraft Repositionable Bomb>.",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nWhen Sarkaz Boneguards are defeated, 2 extra Blood Ambers are left behind"
-            },
-            {
-              "id": "SE-S-1",
-              "operation": "SE-S-1",
-              "levelId": "activities/act18mini/level_act18mini_sub-1-1",
-              "name": "Disqualified Iron",
-              "description": "'Is it so hard to imagine blood cutting metal? Why do you picture the former soft while the latter hard?'",
-              "hasChallenge": false
-            },
-            {
-              "id": "SE-S-2",
-              "operation": "SE-S-2",
-              "levelId": "activities/act18mini/level_act18mini_sub-2-1",
-              "name": "Out of Control Flesh",
-              "description": "'Why must your flesh and blood obey only you? Merely because you claim them as your own? Look! I've already taken control of them.'",
               "hasChallenge": false
             }
           ]
@@ -14380,7 +14375,7 @@
         },
         {
           "id": "act5bossrush",
-          "episode": "「引航者试炼」#05",
+          "episode": "引航者试炼#5",
           "childNodes": [
             {
               "id": "TN-1",

@@ -160,13 +160,15 @@ const parseInternationalData = async (lang: "JP" | "EN" | "KR") => {
   })
 }
 
+const outputDir = "src/database/enemyData.json"
+
 const parseData = async() => {
   await parseCNData();
   await parseInternationalData("JP");
   await parseInternationalData("EN");
   await parseInternationalData("KR");
 
-  fs.writeFile(`enemyData.json`, JSON.stringify(parsedEnemies, null, 2), (err: any) => {
+  fs.writeFile(outputDir, JSON.stringify(parsedEnemies, null, 2), (err: any) => {
     if (err) throw err;
     console.log(`JSON文件已保存`);
   });

@@ -148,13 +148,29 @@ const parseBaseData = async () => {
   const {stage_table, basicInfo, zones} = await importJSON("CN");
   //sidestory
   const basicInfoCNArr: any[] = Object.values(basicInfo);
-  ss_info_data.forEach((ss: any) => {
-    const name = ss.episode;
-    let id: string;
-    if(name.includes("引航者试炼")){
-      const num = parseInt(name.match(/\d+/)[0]);
-      id = `act${num}bossrush`;
-    }else{
+  basicInfoCNArr.forEach(event => {
+    let id: string = event.id;
+    let name: string = event.name;
+    const type: string = event.type;
+    //"isReplicate": 是否是复刻 "hasStage": 是否有关卡
+    if( 
+      event.hasStage && !event.isReplicate && 
+      type !== "ENEMY_DUEL" &&
+      type !== "ARCADE" &&
+      type !== "ROGUELIKE" &&
+      id !== "act42d0" &&
+      id !== "act38d1" &&
+      id !== "act5d1" &&
+      !type.includes("MULTIPLAY") &&
+      !type.includes("AUTOCHESS") &&
+      !id.includes("mainss") && 
+      !id.includes("sandbox")
+    ){
+      const bossrushMatch = id.match(/act(\d+)bossrush/);
+      //引航者试炼加上赛季
+      if(bossrushMatch){
+        name = name + "#" + bossrushMatch[1];
+      }
       switch (name) {
         case "骑兵与猎人":
           id = "a001";
@@ -162,14 +178,10 @@ const parseBaseData = async () => {
         case "火蓝之心":
           id = "a003";
           break;
-        default:
-          id = basicInfoCNArr.find((item: any) => item.name === name)?.id;
+        case "次生预案":
+          id = "act1halfidle";
           break;
       }
-      
-    }
-    
-    if(id){
       sideStorys.push({
         id,
         CNName: name,
@@ -181,23 +193,10 @@ const parseBaseData = async () => {
         ENNodes: [],
         KRNodes: [],
       })
-    }else{
-      console.log(`${name}未找到`)
     }
-  });
-
-  //todo 临时措施，需要不基于wiki的json数据就能获取活动时间顺序
-  sideStorys.push({
-    id: 'act1halfidle',
-    CNName: '次生预案',
-    JPName: '',
-    ENName: '',
-    KRName: '',
-    CNNodes: [],
-    JPNodes: [],
-    ENNodes: [],
-    KRNodes: []
   })
+
+  sideStorys.reverse();
 
   parseNodeData(sideStorys, stage_table, "CN");
 
@@ -228,7 +227,12 @@ const parseInternationalData = async (lang: "JP" | "EN" | "KR") => {
 
     const ss = basicInfo[id];
     if(ss){
-      story[`${lang}Name`] = ss.name;
+      let name = ss.name;
+      const bossrushMatch = id.match(/act(\d+)bossrush/);
+      if(bossrushMatch){
+        name = name + "#" + bossrushMatch[1];
+      }
+      story[`${lang}Name`] = name;
     }
   })
   parseNodeData(sideStorys, stage_table, lang);
@@ -269,6 +273,8 @@ const completeInternationalData = (lang: "JP" | "EN" | "KR") => {
     CampStages[lang][i] = CampStages.CN[i];
   }
 }
+
+const outputDir = `public/json/`;
 
 const writeFile = (lang: "CN" | "JP" | "EN" | "KR") => {
   let sideName, mainName, campName;
@@ -334,7 +340,7 @@ const writeFile = (lang: "CN" | "JP" | "EN" | "KR") => {
     return data;
   })
 
-  fs.writeFile(`story${lang}.json`, JSON.stringify(data, null, 2), (err: any) => {
+  fs.writeFile(`${outputDir}story${lang}.json`, JSON.stringify(data, null, 2), (err: any) => {
     if (err) throw err;
     console.log(`${lang} JSON文件已保存`);
   });
