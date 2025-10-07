@@ -6014,7 +6014,7 @@
           "episode": "인도자의 시련#1",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_01",
               "name": "무한 작열과 강력 파괴",
@@ -6022,7 +6022,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_02",
               "name": "권토중래",
@@ -6030,7 +6030,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_03",
               "name": "휘몰아치는 모래폭풍",
@@ -6038,7 +6038,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_04",
               "name": "이념 투쟁",
@@ -6046,74 +6046,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "무한 작열과 강력 파괴",
-              "description": "불에 타 재가 되거나 톱에 잘려 먼지가 되거나, 제3의 선택은 없다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 5명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "권토중래",
-              "description": "풀어야 할 것은 그들의 공세뿐만 아니라, 그들의 분노도 있다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 5명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "휘몰아치는 모래폭풍",
-              "description": "말보다 행동이 우선…… 또는 애초에 말이 통하지 않는다. 이건 래트킹, 쇠퇴한 기사, 거대하고 못생긴 것의 공통점이다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 5명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "이념 투쟁",
-              "description": "전술의 대결은 역전이 가능하지만, 신앙의 대립은 타협이 불가능하다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 5명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "무한 작열과 강력 파괴",
+              "name": "무한 작열과 강력 파괴 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<폼페이> 폭발 위력 상승, 은신 효과 획득\n\n<빅 밥> 방어력 및 최대 HP 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "권토중래",
+              "name": "권토중래 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<스컬슈레더> 공격 범위 확장\n\n<파우스트> 특수 저격 대미지 상승\n\n<프로스트노바-겨울의 상처> 얼음 고리의 쿨타임 감소",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "휘몰아치는 모래폭풍",
+              "name": "휘몰아치는 모래폭풍 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<래트킹> 보호막의 대미지 흡수량 상승\n\n<거대하고 못생긴 것> 근거리 공격력 상승\n\n<부패한 기사&쇠퇴한 기사> 한 명이 사망하면 다른 한 명의 공격력이 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "이념 투쟁",
+              "name": "이념 투쟁 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<크라운슬레이어> 특수능력 쿨타임 감소\n\n<패트리어트> 창 던지기 쿨타임 감소\n\n<메피스토, '노래하는 자'> 독먼지 대미지 상승\n\n<만드라고라> 만드라고라의 주목 대미지 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "이념 투쟁",
+              "name": "이념 투쟁 최종 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<크라운슬레이어> 특수능력 쿨타임 감소\n\n<패트리어트> 창 던지기 쿨타임 감소\n\n<메피스토, '노래하는 자'> 독먼지 대미지 상승\n\n<만드라고라> 만드라고라의 주목 대미지 상승\n\n모든 리더 적의 공격력, 방어력, 최대 HP 상승",
               "hasChallenge": false
             }
@@ -7173,7 +7141,7 @@
           "episode": "인도자의 시련#2",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_01",
               "name": "곤경에 처한 죄수",
@@ -7181,7 +7149,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_02",
               "name": "큰 덩치와 꼬맹이",
@@ -7189,7 +7157,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_03",
               "name": "땅을 가르는 강타",
@@ -7197,7 +7165,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_04",
               "name": "땡볕 그늘",
@@ -7205,74 +7173,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "곤경에 처한 죄수",
-              "description": "감옥에서의 생활이 마침 너무 답답했는데, 드디어 그들은 즐길 거리를 찾았다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "큰 덩치와 꼬맹이",
-              "description": "체구는 다르지만, 필승의 각오는 똑같다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "땅을 가르는 강타",
-              "description": "아무리 튼튼한 대지라도 중력의 짓밟음은 당해낼 수 없다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "땡볕 그늘",
-              "description": "눈 부신 빛의 이면에는 종종 그늘이 서서히 뒤덮인다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "곤경에 처한 죄수",
+              "name": "곤경에 처한 죄수 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<제셀톤 윌리엄스> 교도관 모드일 때 기절시키는 시간 연장\n\n<판초 살라스> 공격력 및 HP 상승\n\n모든 적의 공격 범위 확대",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "큰 덩치와 꼬맹이",
+              "name": "큰 덩치와 꼬맹이 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<살카즈 백부장>의 공격력 상승, 공격 범위 확대\n\n<W> 스킬 사용 빈도 상승\n\n<물욕 대항자>의 보호막 대미지 흡수량 증가",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "땅을 가르는 강타",
+              "name": "땅을 가르는 강타 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<머드락>과 <머드락의 거대 석상>이 서로 HP 교환, 마법 저항 모두 상승\n\n<맨프레드> 제2형태에서 목표 추가로 1명 공격, [군사훈련] 효과의 회복 속도 대폭 증가\n\n<마지막 증기 기사> 및 <극온 증기전차>가 은신 효과 획득, HP 및 공격력 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "땡볕 그늘",
+              "name": "땡볕 그늘 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<'황제의 칼날', 사냥꾼> [국가]의 공격 속도 감소 효과 상승\n\n<'순교자', 안도아인> [빛 받은 고행]의 회피 및 대미지 감소 효과 상승\n\n<'불사의 검은 뱀'> [타들어가는 숨결]의 지속 대미지 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "땡볕 그늘",
+              "name": "땡볕 그늘 최종 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<'황제의 칼날', 사냥꾼> [국가]의 공격 속도 감소 효과 상승\n\n<'순교자', 안도아인> [빛 받은 고행]의 회피와 대미지 감소 효과 상승\n\n<'불사의 검은 뱀'> [타들어가는 숨결]이 주는 지속 대미지 상승\n\n모든 적의 공격력 및 HP 더 많이 상승",
               "hasChallenge": false
             }
@@ -9153,7 +9089,7 @@
           "episode": "인도자의 시련#3",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_01",
               "name": "적자생존",
@@ -9161,7 +9097,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_02",
               "name": "공포와 핏빛",
@@ -9169,7 +9105,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_03",
               "name": "가늠할 수 없는 심연",
@@ -9177,7 +9113,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_04",
               "name": "독실한 신자의 앞길",
@@ -9185,74 +9121,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act3bossrush/level_bossrush3_01",
-              "name": "적자생존",
-              "description": "열대 우림의 법칙은 아주 간단하다. 강자를 이기고 생존하라. 그리고 크게 웃어라!\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act3bossrush/level_bossrush3_02",
-              "name": "공포와 핏빛",
-              "description": "사람은 모두 저마다의 공포를 지니고 있다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act3bossrush/level_bossrush3_03",
-              "name": "가늠할 수 없는 심연",
-              "description": "그들과 눈을 마주치지 말 것…… 그들의 눈동자를 찾을 수 있다면.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act3bossrush/level_bossrush3_04",
-              "name": "독실한 신자의 앞길",
-              "description": "차량에서 틀 음악을 가지고 다투고 있는 그들을 도와 결정을 내려주자.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_ex01",
-              "name": "적자생존",
+              "name": "적자생존 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<판초 살라스> HP 상승, [폭발선 소환] 더 많은 폭발선을 소환 / <잠수부> 공격 범위 확대\n\n<'거대하고 못생긴 것'> [운전자 모드]일 때 능력치 증가, 초당 피격 트루 대미지 감소",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_ex02",
-              "name": "공포와 핏빛",
+              "name": "공포와 핏빛 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<'최후의 케식', 톨라> 공격력 및 HP 상승\n\n<피의 기사 디카이오폴리스>가 더 많은 <피 서린 칼날> 소환, <피 서린 칼날>의 공격력 및 HP 상승\n\n<'다마즈티'> 공격의 침식 손상 증가, 동기화 파편 수량 +1",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_ex03",
-              "name": "가늠할 수 없는 심연",
+              "name": "가늠할 수 없는 심연 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<살비엔토 주교 퀸투스> [붕괴] 사용 확률 증가\n\n<첫 발언자> [침식의 액포] 신경 손상 증가\n\n<신탁 도살자, 위매니의 의지> [포식] 사용 횟수 +1",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_ex04",
-              "name": "독실한 신자의 앞길",
+              "name": "독실한 신자의 앞길 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<아제니르 신부> 공격 딜레이 감소\n\n<'순교자', 안도아인> [빛 받은 고행] 사용 횟수 증가\n\n<자로, '늑대 군주'> 공격력 상승, 제1형태에서 받는 물리/마법 대미지 50% 감소\n\n모든 정예 및 리더 유닛의 HP 상승",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_fin04",
-              "name": "독실한 신자의 앞길",
+              "name": "독실한 신자의 앞길 최종 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<아제니르 신부> 공격 딜레이 감소\n\n<'순교자', 안도아인> [빛 받은 고행] 사용 횟수 증가, [속세의 먼지]의 대미지 대폭 상승\n\n<자로, '늑대 군주'> 공격력 상승, 제1형태에서 받는 물리/마법 대미지 50% 감소, [용혈의 공포] 공격 목표 수 +1\n\n모든 정예 및 리더 유닛의 HP 상승, 모든 적의 공격력 및 최대 HP 더 많이 상승",
               "hasChallenge": false
             }
@@ -10478,7 +10382,7 @@
           "episode": "인도자의 시련#4",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_01",
               "name": "얼음과 전쟁의 불",
@@ -10486,7 +10390,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_02",
               "name": "음률 무관",
@@ -10494,7 +10398,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_03",
               "name": "불타는 더블린",
@@ -10502,7 +10406,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_04",
               "name": "송년",
@@ -10510,74 +10414,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act4bossrush/level_bossrush4_01",
-              "name": "얼음과 전쟁의 불",
-              "description": "검은 소드브레이커가 찬바람을 가르고, 검은 전함이 빗발치는 전화를 뚫고 들어간다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act4bossrush/level_bossrush4_02",
-              "name": "음률 무관",
-              "description": "신구 시에스타에서 만난 두 친구와 회포를 풀기도 전에, 눈가에 산책 중인 한 노인의 모습이 들어왔다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act4bossrush/level_bossrush4_03",
-              "name": "불타는 더블린",
-              "description": "활활 타오른 불길이 언젠가는 더블린을 노리고 있는 사람들의 발등에 떨어질 것이다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act4bossrush/level_bossrush4_04",
-              "name": "송년",
-              "description": "회화, 단잠, 비경…… 고대의 존재가 과거로부터 잘라낸 조각들이 언젠가는 사람들의 넋을 잃게 한다.\n\n<color=#FFA300><중급 시련></color> 편성에 기본 오퍼레이터 3명으로 된 소대 증가",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_ex01",
-              "name": "얼음과 전쟁의 불",
+              "name": "얼음과 전쟁의 불 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<데겐블레허>의 [신속 살해] 발동 딜레이 감소\n\n<'클립' 클리프>가 폐열 분출구로부터 대미지를 받으면 공격력, 방어력 소폭 감소",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_ex02",
-              "name": "음률 무관",
+              "name": "음률 무관 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<돌리, '양의 군주'>의 [즐거운 화염 분출] 발동 딜레이 감소\n\n<'폼페이'>의 공격 범위 확대\n\n<'래트킹'>의 [모래의 노래] 대미지 증가",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_ex03",
-              "name": "불타는 더블린",
+              "name": "불타는 더블린 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<'교관'>의 공격력 대폭 증가, 최대 HP 소폭 증가\n\n<만드라고라>의 [만드라고라의 주목] 대미지 증가\n\n<'리더'>가 소환한 <초토화의 불>의 최대 HP 증가, 더 이상 HP가 감소하지 않음",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_ex04",
-              "name": "송년",
+              "name": "송년 상급 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<쉐이 형상>의 [토고납신] 대미지 증가\n\n<'즈자이'>의 [파질이출] 보호막이 흡수하는 대미지 증가\n\n<'야'>가 소환한 망경의 최대 HP 증가\n\n모든 정예 및 리더 적의 최대 HP 증가",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_fin04",
-              "name": "송년",
+              "name": "송년 최종 시련",
               "description": "<color=#EC1F1FFF>제한 조건:</color>\n\n<쉐이 형상>의 [토고납신] 대미지 증가\n\n<'즈자이'>의 [파질이출] 보호막이 흡수하는 대미지 증가, [경천위지]의 대미지 대폭 증가\n\n<'야'>가 소환한 망경의 최대 HP 증가, '무념의 겨울'이 <산해중 무법자> 소환으로 변경\n\n모든 정예 및 리더 적의 최대 HP 증가, 모든 적의 공격력 및 최대 HP가 추가로 증가",
               "hasChallenge": false
             }
@@ -14378,7 +14250,7 @@
           "episode": "引航者试炼#5",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_01",
               "name": "严寒骤血",
@@ -14386,7 +14258,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_02",
               "name": "无声破裂",
@@ -14394,7 +14266,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_03",
               "name": "幕间重影",
@@ -14402,7 +14274,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_04",
               "name": "沸海遮日",
@@ -14410,74 +14282,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act5bossrush/level_bossrush5_01",
-              "name": "严寒骤血",
-              "description": "刺骨的风雪夹道，为他献上喝彩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act5bossrush/level_bossrush5_02",
-              "name": "无声破裂",
-              "description": "失去声音者抗拒一个结局犹如抗拒死亡本身，但那萦绕不散的歌声依然将她拽向生命的浅滩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act5bossrush/level_bossrush5_03",
-              "name": "幕间重影",
-              "description": "无人报幕，无人攻讦，无人知晓。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act5bossrush/level_bossrush5_04",
-              "name": "沸海遮日",
-              "description": "那从无穷的海中升起的巨影遮尽了光亮，在它背后熊熊燃烧的，究竟是太阳还是海洋？\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_ex01",
-              "name": "严寒骤血",
+              "name": "严寒骤血 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“霜牡”“雪牝”>在彼此死亡后的攻击速度额外提升\\n\\n<卢西恩，“猩红血钻”>未被阻挡时闪避物理与法术攻击的几率提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_ex02",
-              "name": "无声破裂",
+              "name": "无声破裂 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<延命塑路者>塑路者分形获得和本体相同的防御力和法术抗性\\n\\n<接潮主教和接潮斥亡体>接潮斥亡体复活速度提升\\n\\n<“偏执泡影”>攻击力和最大生命值提升，防御力大幅提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_ex03",
-              "name": "幕间重影",
+              "name": "幕间重影 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伤心的大锁>最大生命值大幅提升\\n\\n<“剧团喉舌”>攻击范围增加\\n\\n<“剧作家”>释放法术使干员离场后的再部署时间大幅延长",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_ex04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<最后的骑士>防御力和法术抗性大幅提升\\n\\n<伊莎玛拉，腐化之心><伊莎玛拉之泪>的攻击力和召唤频率提升\\n\\n<伊祖米克，生态泉源>出现更多<伊祖米克的子代>\\n\\n所有领袖敌人最大生命值提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_fin04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伊莎玛拉，腐化之心>攻击力大幅上升的生命值阈值提升\\n\\n<伊祖米克，生态泉源>最大生命值、攻击力、防御力和法术抗性提升，<伊祖米克的子代>的防御力和法术抗性提升\\n\\n所有领袖敌人最大生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }

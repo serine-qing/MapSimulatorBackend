@@ -6014,7 +6014,7 @@
           "episode": "Trials for Navigator#1",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_01",
               "name": "Burn and Destroy",
@@ -6022,7 +6022,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_02",
               "name": "Comeback",
@@ -6030,7 +6030,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_03",
               "name": "Rolling Sands",
@@ -6038,7 +6038,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_04",
               "name": "Clash of Ideologies",
@@ -6046,74 +6046,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "Burn and Destroy",
-              "description": "Burned to ash, or ground into dust. There is no other way out.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "Comeback",
-              "description": "Defend against not just their attacks, but their fury as well.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "Rolling Sands",
-              "description": "One thing common to the Rat King, Withered Knight, and The Big, Ugly Thing is that they are all strong and silent. If they can speak at all, that is...\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "Clash of Ideologies",
-              "description": "A tactical battle could be reversed, but a clash of ideologies cannot be reconciled.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 5 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "Burn and Destroy",
+              "name": "Burn and Destroy Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Pompeii> Explosion damaged increased and is invisible\n\n<Big Bob> DEF and Max HP increased",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "Comeback",
+              "name": "Comeback Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Skullshatterer> Attack Range increased\n\n<Faust> Special snipe damage increased\n\n<FrostNova> Ice Nova cooldown reduced",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "Rolling Sands",
+              "name": "Rolling Sands Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Rat King> Shield absorbs more damage\n\n<The Big Ugly Thing> Melee ATK increased\n\n<Corrupted Knight & Withered Knight> When either dies, the other gains increased ATK",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "Clash of Ideologies",
+              "name": "Clash of Ideologies Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "Clash of Ideologies",
+              "name": "Clash of Ideologies Ultimate Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Crownslayer> Special ability cooldown reduced\n\n<Patriot> Throw spear cooldown reduced\n\n<Mephisto Singer> Toxic dust damage increased\n\n<Mandragora> Mandragora's Gaze damage increased\n\nAll boss enemies gain increased ATK, DEF and Max HP",
               "hasChallenge": false
             }
@@ -7173,7 +7141,7 @@
           "episode": "Trials for Navigator#2",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_01",
               "name": "Troubled Prisoner",
@@ -7181,7 +7149,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_02",
               "name": "Big and Small",
@@ -7189,7 +7157,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_03",
               "name": "Fissure Strike",
@@ -7197,7 +7165,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_04",
               "name": "Proud Sun's Shadow",
@@ -7205,74 +7173,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "Troubled Prisoner",
-              "description": "Bored prisoners have found something fun to do.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "Big and Small",
-              "description": "Different size, same determination.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "Fissure Strike",
-              "description": "Even solid earth is not immune to being trampled by gravity.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "Proud Sun's Shadow",
-              "description": "There is shadow hidden beneath the splendid surface.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "Troubled Prisoner",
+              "name": "Troubled Prisoner Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Jesselton Williams> Jailer form Stun duration increased\n\n<Pancho Salas> ATK and HP increased\n\nAll enemies have increased attack range.",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "Big and Small",
+              "name": "Big and Small Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Sarkaz Centurion> ATK and attack range increased\n\n<W> Skill cast rate increased\n\n<Materialist Antagonizer> Barrier block amount increased",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "Fissure Strike",
+              "name": "Fissure Strike Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Mudrock> and <Mudrock Colossus> HP swapped, and both have increased RES\n\n<Manfred> 2nd form attacks an additional target, [Military Training] recovery rate greatly increased\n\n<The Last Steam Knight> and <Scorching Steam Tank> are Invisible, and HP and ATK increased.",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "Proud Sun's Shadow",
+              "name": "Proud Sun's Shadow Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased.",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "Proud Sun's Shadow",
+              "name": "Proud Sun's Shadow Ultimate Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Emperor's Blade, Pursuer> [Dominion] ASPD reduction increased\n\n<Andoain the Martyr> [Light Unto Sufferers] dodge and damage reduction effect increased \n\n<The Deathless Black Snake> [Burning Breath] damage over time increased\n\nAll enemies have increased ATK and max HP.",
               "hasChallenge": false
             }
@@ -9153,7 +9089,7 @@
           "episode": "Trials for Navigator#3",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_01",
               "name": "Survival of the Fittest",
@@ -9161,7 +9097,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_02",
               "name": "Blood and Terror",
@@ -9169,7 +9105,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_03",
               "name": "Deep in Danger",
@@ -9177,7 +9113,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_04",
               "name": "Path of the Faithful",
@@ -9185,74 +9121,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act3bossrush/level_bossrush3_01",
-              "name": "Survival of the Fittest",
-              "description": "The law of the jungle is simple and straightforward – conquer the strong, stay alive, then laugh out loud!\n\n<color=#FFA300><Orientation Trial> </color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act3bossrush/level_bossrush3_02",
-              "name": "Blood and Terror",
-              "description": "Countless shapes, countless fears.\n\n<color=#FFA300><Orientation Trial> </color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act3bossrush/level_bossrush3_03",
-              "name": "Deep in Danger",
-              "description": "Do not meet their gaze – that is, if you can even find their eyes.\n\n<color=#FFA300><Orientation Trial> </color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act3bossrush/level_bossrush3_04",
-              "name": "Path of the Faithful",
-              "description": "They're arguing over what music to put on in the car. Help them make up their minds.\n\n<color=#FFA300><Orientation Trial> </color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_ex01",
-              "name": "Survival of the Fittest",
+              "name": "Survival of the Fittest Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Pancho Salas> has increased HP and summons more Explosive Boats; <Divers> have increased ATK Range\n\n<'The Big Ugly Thing'> has increased stats while in Piloted Mode, and takes reduced periodic True damage.",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_ex02",
-              "name": "Blood and Terror",
+              "name": "Blood and Terror Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<'The Last Kheshig', Tola> has increased ATK and HP\n\n<The Blood Knight Dikaiopolis> summons more <Bloodblades>, and <Bloodblades> have increased ATK and HP\n\n<'Damazti Cluster'> inflicts more Corrosion damage with its attacks and has +1 Isomorphic Fragment",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_ex03",
-              "name": "Deep in Danger",
+              "name": "Deep in Danger Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Sal Viento Bishop Quintus> releases [Collapse] at an increased rate\n\n<The First To Talk> inflicts increased Nervous Impairment with [Corrosive Vacuoles]\n\n<The Endspeaker, Will of We Many> will use [Consume] one additional time",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_ex04",
-              "name": "Path of the Faithful",
+              "name": "Path of the Faithful Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Father Agenir> has decreased Attack Interval\n\n<Andoain, the 'Martyr'> has increased uses of [Light Unto Sufferers]\n\n<Zaaro, Signore dei Lupi> has increased ATK, and takes 50% Physical and Arts Damage during his first form\n\nAll Elite and Leader enemies have increased HP",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_fin04",
-              "name": "Path of the Faithful",
+              "name": "Path of the Faithful Ultimate Trial",
               "description": "<color=#EC1F1FFF>Condition:</color>\n\n<Father Agenir> has decreased Attack Interval\n\n<Andoain, the 'Martyr'> has increased uses of [Light Unto Sufferers] and deals significantly increased damage with [Ashes to Ashes, Dust to Dust]\n\n<Zaaro, Signore dei Lupi> has increased ATK, takes 50% Physical and Arts Damage during his first form, and [Hemolytic Horror] has +1 target\n\nAll Elite and Leader enemies have increased HP, and all enemies have further increased ATK and HP",
               "hasChallenge": false
             }
@@ -10478,7 +10382,7 @@
           "episode": "Trials for Navigator#4",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_01",
               "name": "Frost and Fire",
@@ -10486,7 +10390,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_02",
               "name": "Out Of Tune",
@@ -10494,7 +10398,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_03",
               "name": "Dublinn Burning",
@@ -10502,7 +10406,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_04",
               "name": "Gone the Ages Past",
@@ -10510,74 +10414,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act4bossrush/level_bossrush4_01",
-              "name": "Frost and Fire",
-              "description": "Through cold winds and a rain of fire goes a black ship.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act4bossrush/level_bossrush4_02",
-              "name": "Out Of Tune",
-              "description": "Before you could 'catch up' with the two friends you met in Siesta, you catch a glimpse of a passing old man.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act4bossrush/level_bossrush4_03",
-              "name": "Dublinn Burning",
-              "description": "Someday, the fire will engulf the one who gazes into the depths of Dublinn.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act4bossrush/level_bossrush4_04",
-              "name": "Gone the Ages Past",
-              "description": "Paintings, dreams, illusions... the fragments that an ancient being extracts from the past are always entrancing.\n\n<color=#FFA300><Orientation Trial></color>Use a pre-picked squad of 3 Operators.",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_ex01",
-              "name": "Frost and Fire",
+              "name": "Frost and Fire Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Degenbrecher> [Swift Slayer] interval reduced.\n\n<'Clip' Cliff> ATK and DEF slightly reduced when taking damage from Waste Heat Vent.",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_ex02",
-              "name": "Out Of Tune",
+              "name": "Out Of Tune Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Dolly, Sovereign of Sheep> [Elated Firebreathing] interval reduced.\n\n<Pompeii> attack range increased.\n\n<Rat King> [Singing Sands] damage increased.",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_ex03",
-              "name": "Dublinn Burning",
+              "name": "Dublinn Burning Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<'The Brigadier'> ATK greatly increased, HP slightly increased.\n\n<Mandragora> [Mandragora's Gaze] damage increased.\n\n<'The Leader'> Summoned <Exhausted Flames> have increased HP and no longer lose HP over time.",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_ex04",
-              "name": "Gone the Ages Past",
+              "name": "Gone the Ages Past Spectacular Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Sui-Xiang> [Omnidirectional Breath] damage increased.\n\n<'Free'> [Break the Chains] barrier damage absorption increased.\n\n<Ya> Summoned Paradise has increased HP.\n\nAll Elites and Bosses have increased HP.",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_fin04",
-              "name": "Gone the Ages Past",
+              "name": "Gone the Ages Past Ultimate Trial",
               "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Sui-Xiang> [Omnidirectional Breath] damage increased\n\n<'Free'> [Break the Chains] barrier damage absorption increased, [Weft and Warp] damage greatly increased.\n\n<Ya> Summoned Paradise has increased HP., and 'Winter's Void' summons <Shanhaizhong Phalanx> instead.\n\nAll Elites and Bosses have increased HP, and all enemies have increased ATK and max HP.",
               "hasChallenge": false
             }
@@ -14378,7 +14250,7 @@
           "episode": "引航者试炼#5",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_01",
               "name": "严寒骤血",
@@ -14386,7 +14258,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_02",
               "name": "无声破裂",
@@ -14394,7 +14266,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_03",
               "name": "幕间重影",
@@ -14402,7 +14274,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_04",
               "name": "沸海遮日",
@@ -14410,74 +14282,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act5bossrush/level_bossrush5_01",
-              "name": "严寒骤血",
-              "description": "刺骨的风雪夹道，为他献上喝彩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act5bossrush/level_bossrush5_02",
-              "name": "无声破裂",
-              "description": "失去声音者抗拒一个结局犹如抗拒死亡本身，但那萦绕不散的歌声依然将她拽向生命的浅滩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act5bossrush/level_bossrush5_03",
-              "name": "幕间重影",
-              "description": "无人报幕，无人攻讦，无人知晓。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act5bossrush/level_bossrush5_04",
-              "name": "沸海遮日",
-              "description": "那从无穷的海中升起的巨影遮尽了光亮，在它背后熊熊燃烧的，究竟是太阳还是海洋？\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_ex01",
-              "name": "严寒骤血",
+              "name": "严寒骤血 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“霜牡”“雪牝”>在彼此死亡后的攻击速度额外提升\\n\\n<卢西恩，“猩红血钻”>未被阻挡时闪避物理与法术攻击的几率提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_ex02",
-              "name": "无声破裂",
+              "name": "无声破裂 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<延命塑路者>塑路者分形获得和本体相同的防御力和法术抗性\\n\\n<接潮主教和接潮斥亡体>接潮斥亡体复活速度提升\\n\\n<“偏执泡影”>攻击力和最大生命值提升，防御力大幅提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_ex03",
-              "name": "幕间重影",
+              "name": "幕间重影 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伤心的大锁>最大生命值大幅提升\\n\\n<“剧团喉舌”>攻击范围增加\\n\\n<“剧作家”>释放法术使干员离场后的再部署时间大幅延长",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_ex04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<最后的骑士>防御力和法术抗性大幅提升\\n\\n<伊莎玛拉，腐化之心><伊莎玛拉之泪>的攻击力和召唤频率提升\\n\\n<伊祖米克，生态泉源>出现更多<伊祖米克的子代>\\n\\n所有领袖敌人最大生命值提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_fin04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伊莎玛拉，腐化之心>攻击力大幅上升的生命值阈值提升\\n\\n<伊祖米克，生态泉源>最大生命值、攻击力、防御力和法术抗性提升，<伊祖米克的子代>的防御力和法术抗性提升\\n\\n所有领袖敌人最大生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }

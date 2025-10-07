@@ -6014,7 +6014,7 @@
           "episode": "引航者试炼#1",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_01",
               "name": "无尽灼烧与强力破坏",
@@ -6022,7 +6022,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_02",
               "name": "卷土重来",
@@ -6030,7 +6030,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_03",
               "name": "风沙轰隆隆",
@@ -6038,7 +6038,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_04",
               "name": "理念之争",
@@ -6046,74 +6046,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "无尽灼烧与强力破坏",
-              "description": "被焚烧成灰烬，被锯碎为尘埃，没有第三种出路。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "卷土重来",
-              "description": "要化解的不仅是他们的攻击，还有他们的愤怒。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "风沙轰隆隆",
-              "description": "人狠话不多......或者压根没法说话，是鼠王、凋零骑士与大丑的最大共同点。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念之争",
-              "description": "战术的博弈尚能逆转，信仰的对抗不可调和。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供5名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "无尽灼烧与强力破坏",
+              "name": "无尽灼烧与强力破坏 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<庞贝>爆炸伤害提升并获得隐匿效果\\n\\n<大鲍勃>防御力和最大生命值提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "卷土重来",
+              "name": "卷土重来 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<碎骨>攻击范围提升\\n\\n<浮士德>特殊狙击伤害提升\\n\\n<霜星冬痕>冰环释放间隔缩短",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "风沙轰隆隆",
+              "name": "风沙轰隆隆 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<鼠王>屏障伤害吸收量提升\\n\\n<巨大的丑东西>近战攻击力提升\\n\\n<腐败骑士&凋零骑士>其中一方死亡时，另一方攻击力额外提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "理念之争",
+              "name": "理念之争 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "理念之争",
+              "name": "理念之争 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<弑君者>特殊能力释放间隔缩短\\n\\n<爱国者>投掷长枪释放间隔缩短\\n\\n<梅菲斯特歌者>毒性粉尘伤害提升\\n\\n<蔓德拉>蔓德拉的注目伤害提升\\n\\n所有首领敌人的攻击力、防御力和最大生命值提升",
               "hasChallenge": false
             }
@@ -7173,7 +7141,7 @@
           "episode": "引航者试炼#2",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_01",
               "name": "困顿囚徒",
@@ -7181,7 +7149,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_02",
               "name": "大块头和小不点",
@@ -7189,7 +7157,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_03",
               "name": "裂地重击",
@@ -7197,7 +7165,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_04",
               "name": "骄阳之影",
@@ -7205,74 +7173,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困顿囚徒",
-              "description": "监狱里的时日过于憋闷，现在他们终于找到点乐子了。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "大块头和小不点",
-              "description": "不同的体格里，藏着同样必胜的决心。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "裂地重击",
-              "description": "就算是坚实的大地，也无法承受重力的践踏。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "骄阳之影",
-              "description": "在一片光明璀璨的背后，往往也有阴影在悄然滋生。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "困顿囚徒",
+              "name": "困顿囚徒 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<杰斯顿·威廉姆斯>狱警形态造成晕眩时间延长\\n\\n<潘乔·萨拉斯>攻击力与生命值提升\\n\\n所有敌人攻击范围提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "大块头和小不点",
+              "name": "大块头和小不点 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<萨卡兹百夫长>攻击力与攻击范围提升\\n\\n<W>技能释放频率提升\\n\\n<物欲拮抗者>屏障可抵挡的伤害提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "裂地重击",
+              "name": "裂地重击 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n对换<泥岩>与<泥岩巨像>的生命值，且法术抗性均提升\\n\\n<曼弗雷德>第二形态额外攻击一个目标，【军事训练】效果恢复速度大幅加快\\n\\n<最后的蒸汽骑士>和<极温蒸汽战车>获得隐匿，且生命值和攻击力提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "骄阳之影",
+              "name": "骄阳之影 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "骄阳之影",
+              "name": "骄阳之影 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“皇帝的利刃”，追猎者>【国度】降低更多攻击速度\\n\\n<<“殉道者”，安多恩>>【光赐于苦】的闪避和伤害减免效果提升\\n\\n<不死的黑蛇>【烈焚灼息】的持续伤害提升\\n\\n所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }
@@ -9153,7 +9089,7 @@
           "episode": "引航者试炼#3",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_01",
               "name": "适者生存",
@@ -9161,7 +9097,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_02",
               "name": "惊惧与血色",
@@ -9169,7 +9105,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_03",
               "name": "不测之渊",
@@ -9177,7 +9113,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_04",
               "name": "虔信者的前路",
@@ -9185,74 +9121,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act3bossrush/level_bossrush3_01",
-              "name": "适者生存",
-              "description": "雨林的法则通俗易懂，战胜强者，活下去，然后放声大笑！\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act3bossrush/level_bossrush3_02",
-              "name": "惊惧与血色",
-              "description": "万千身形，万千畏怖。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act3bossrush/level_bossrush3_03",
-              "name": "不测之渊",
-              "description": "不要对上他们的目光——如果你能找到他们的眼睛。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act3bossrush/level_bossrush3_04",
-              "name": "虔信者的前路",
-              "description": "他们为车载音乐选哪首争吵不休，帮他们做个决定吧。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_ex01",
-              "name": "适者生存",
+              "name": "适者生存 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<潘乔·萨拉斯>生命值提升，【爆破艇召唤】召唤爆破艇数量增加；<潜水员>攻击范围扩大\\n\\n<“巨大的丑东西”>【驾驶员模式】下属性增加提升，每秒受到的真实伤害减少",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_ex02",
-              "name": "惊惧与血色",
+              "name": "惊惧与血色 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“最后的怯薛”，拓拉>攻击力与生命值提升\\n\\n<血骑士狄开俄波利斯>召唤更多<凝血之刃>，<凝血之刃>攻击力与生命值提升\\n\\n<“变形者集群”>攻击造成更多的侵蚀损伤，同构碎片数量+1",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_ex03",
-              "name": "不测之渊",
+              "name": "不测之渊 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<盐风主教昆图斯>【崩坍】释放频率提升\\n\\n<首言者>【侵蚀液泡 】造成更多的神经损伤\\n\\n<屠谕者，大群意志>【捕食】使用次数+1",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_ex04",
-              "name": "虔信者的前路",
+              "name": "虔信者的前路 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<阿格尼尔神父>攻击间隔缩短\\n\\n<<“殉道者”，安多恩>>【光赐于苦】释放次数增加\\n\\n<扎罗，“狼之主”>攻击力提升，第一形态下受到的物理/法术伤害降低50％\\n\\n所有精英敌人及领袖敌人生命值提高",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_fin04",
-              "name": "虔信者的前路",
+              "name": "虔信者的前路 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<阿格尼尔神父>攻击间隔缩短\\n\\n<<“殉道者”，安多恩>>【光赐于苦】释放次数增加，【皆为尘土】造成伤害大幅提升\\n\\n<扎罗，“狼之主”>攻击力提升，第一形态下受到的物理/法术伤害降低50％，【溶血骇惧】目标数+1\\n\\n所有精英敌人及领袖敌人生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }
@@ -10478,7 +10382,7 @@
           "episode": "引航者试炼#4",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_01",
               "name": "冰霜与战火",
@@ -10486,7 +10390,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_02",
               "name": "无关音律",
@@ -10494,7 +10398,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_03",
               "name": "延烧的深池",
@@ -10502,7 +10406,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_04",
               "name": "辞旧岁",
@@ -10510,74 +10414,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act4bossrush/level_bossrush4_01",
-              "name": "冰霜与战火",
-              "description": "黑色的锏划破寒风，黑色的巨舰闯入弹雨。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act4bossrush/level_bossrush4_02",
-              "name": "无关音律",
-              "description": "你还没来得及与在新旧汐斯塔认识的两位朋友好好“叙旧”，余光又瞟到了一位四处遛弯的老人的身影。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act4bossrush/level_bossrush4_03",
-              "name": "延烧的深池",
-              "description": "总有一天，烈火会蔓延到注视深池之人的脚边。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act4bossrush/level_bossrush4_04",
-              "name": "辞旧岁",
-              "description": "画作、酣梦、幻境......古老生命从过往中裁切出的片段，总能让人神摇魂荡。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_ex01",
-              "name": "冰霜与战火",
+              "name": "冰霜与战火 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<锏>释放【速杀】技能的间隔缩短\\n\\n<“桥夹”克里夫>受到来自废热喷口的伤害时，攻击力和防御力小幅降低",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_ex02",
-              "name": "无关音律",
+              "name": "无关音律 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<多利，“羊之主”>【欢快地喷火】技能的间隔缩短\\n\\n<“庞贝”>攻击范围扩大\\n\\n<“鼠王”>【唱沙】伤害提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_ex03",
-              "name": "延烧的深池",
+              "name": "延烧的深池 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“校官”>攻击力大幅提升，血量小幅提升\\n\\n<蔓德拉>【蔓德拉的注目】伤害提升\\n\\n<“领袖”>召唤的<焦竭之火>生命提升并且不再每秒流失生命",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_ex04",
-              "name": "辞旧岁",
+              "name": "辞旧岁 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<岁相>【十方吐纳】伤害增加\\n\\n<“自在”>【破桎而出】屏障吸收伤害量增加\\n\\n<“睚”>召唤的妄境生命提高\\n\\n所有精英敌人及领袖敌人生命值提高",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_fin04",
-              "name": "辞旧岁",
+              "name": "辞旧岁 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<岁相>【十方吐纳】伤害增加\\n\\n<“自在”>【破桎而出】屏障吸收伤害量增加，【纬地经天】伤害大幅提升\\n\\n<“睚”>召唤的妄境生命提高，“无念之冬”改为召唤<山海众连阵者>\\n\\n所有精英敌人及领袖敌人生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }
@@ -14378,7 +14250,7 @@
           "episode": "引航者试炼#5",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_01",
               "name": "严寒骤血",
@@ -14386,7 +14258,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_02",
               "name": "无声破裂",
@@ -14394,7 +14266,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_03",
               "name": "幕间重影",
@@ -14402,7 +14274,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_04",
               "name": "沸海遮日",
@@ -14410,74 +14282,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act5bossrush/level_bossrush5_01",
-              "name": "严寒骤血",
-              "description": "刺骨的风雪夹道，为他献上喝彩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act5bossrush/level_bossrush5_02",
-              "name": "无声破裂",
-              "description": "失去声音者抗拒一个结局犹如抗拒死亡本身，但那萦绕不散的歌声依然将她拽向生命的浅滩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act5bossrush/level_bossrush5_03",
-              "name": "幕间重影",
-              "description": "无人报幕，无人攻讦，无人知晓。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act5bossrush/level_bossrush5_04",
-              "name": "沸海遮日",
-              "description": "那从无穷的海中升起的巨影遮尽了光亮，在它背后熊熊燃烧的，究竟是太阳还是海洋？\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_ex01",
-              "name": "严寒骤血",
+              "name": "严寒骤血 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“霜牡”“雪牝”>在彼此死亡后的攻击速度额外提升\\n\\n<卢西恩，“猩红血钻”>未被阻挡时闪避物理与法术攻击的几率提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_ex02",
-              "name": "无声破裂",
+              "name": "无声破裂 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<延命塑路者>塑路者分形获得和本体相同的防御力和法术抗性\\n\\n<接潮主教和接潮斥亡体>接潮斥亡体复活速度提升\\n\\n<“偏执泡影”>攻击力和最大生命值提升，防御力大幅提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_ex03",
-              "name": "幕间重影",
+              "name": "幕间重影 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伤心的大锁>最大生命值大幅提升\\n\\n<“剧团喉舌”>攻击范围增加\\n\\n<“剧作家”>释放法术使干员离场后的再部署时间大幅延长",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_ex04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<最后的骑士>防御力和法术抗性大幅提升\\n\\n<伊莎玛拉，腐化之心><伊莎玛拉之泪>的攻击力和召唤频率提升\\n\\n<伊祖米克，生态泉源>出现更多<伊祖米克的子代>\\n\\n所有领袖敌人最大生命值提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_fin04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伊莎玛拉，腐化之心>攻击力大幅上升的生命值阈值提升\\n\\n<伊祖米克，生态泉源>最大生命值、攻击力、防御力和法术抗性提升，<伊祖米克的子代>的防御力和法术抗性提升\\n\\n所有领袖敌人最大生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }

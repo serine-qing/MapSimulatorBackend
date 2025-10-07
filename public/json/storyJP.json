@@ -6014,7 +6014,7 @@
           "episode": "導灯の試練#1",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_01",
               "name": "無尽の炎と破壊の鋸",
@@ -6022,7 +6022,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_02",
               "name": "捲土重来",
@@ -6030,7 +6030,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_03",
               "name": "塵旋風とどろく",
@@ -6038,7 +6038,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_04",
               "name": "理念の戦",
@@ -6046,74 +6046,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act1bossrush/level_bossrush1_01",
-              "name": "無尽の炎と破壊の鋸",
-              "description": "炎に焼かれて灰になるか、チェーンソーで木っ端微塵になるか、選択肢は二つに一つだ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act1bossrush/level_bossrush1_02",
-              "name": "捲土重来",
-              "description": "彼らの激しい攻撃だけでなく、その腹の中で煮えたぎる怒りも解消しなければならない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act1bossrush/level_bossrush1_03",
-              "name": "塵旋風とどろく",
-              "description": "滅多に口撃はしない……あるいはそもそも話すことができない。これが鼠王、凋零騎士、そしてビッグアグリーの共通点だ。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act1bossrush/level_bossrush1_04",
-              "name": "理念の戦",
-              "description": "駆け引きに一発逆転は付き物だが、信仰のぶつかり合いに和解の道はない。\n\n<color=#FFA300><指定試練></color>5名の指定オペレーターが編成済みの小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act1bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act1bossrush/level_bossrush1_ex01",
-              "name": "無尽の炎と破壊の鋸",
+              "name": "無尽の炎と破壊の鋸 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<Pompeii>の爆発ダメージが上昇し、ステルスを獲得\n\n<Big Bob>の防御力と最大HPが上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act1bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act1bossrush/level_bossrush1_ex02",
-              "name": "捲土重来",
+              "name": "捲土重来 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<SkullShredder>の攻撃範囲が拡大\n\n<Faust>の特殊攻撃のダメージが上昇\n\n<FrostNova・冬痕>の氷輪の発動間隔が短縮",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act1bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act1bossrush/level_bossrush1_ex03",
-              "name": "塵旋風とどろく",
+              "name": "塵旋風とどろく 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<鼠王>のシールド耐久値が上昇\n\n<「ビッグアグリー」>の近接攻撃力が上昇\n\n<腐敗騎士>&<凋零騎士>のどちらか一方が倒れた際の攻撃力強化の効果値が上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_ex04",
-              "name": "理念の戦",
+              "name": "理念の戦 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act1bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act1bossrush/level_bossrush1_fin04",
-              "name": "理念の戦",
+              "name": "理念の戦 最終試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<CrownSlayer>の特殊能力の発動間隔が短縮\n\n<Patriot>の槍投げの発動間隔が短縮\n\n<Mephisto・歌う者>の毒性粉塵による【猛毒】の与ダメージが上昇\n\n<Mandragora>の【目の敵】の与ダメージが上昇\n\nすべてのボスの攻撃力、防御力、最大HPが上昇",
               "hasChallenge": false
             }
@@ -7173,7 +7141,7 @@
           "episode": "導灯の試練#2",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_01",
               "name": "困窮する囚人",
@@ -7181,7 +7149,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_02",
               "name": "デカとチビ",
@@ -7189,7 +7157,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_03",
               "name": "大地割れる一撃",
@@ -7197,7 +7165,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_04",
               "name": "燦陽の影",
@@ -7205,74 +7173,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act2bossrush/level_bossrush2_01",
-              "name": "困窮する囚人",
-              "description": "牢獄での日々はあまりにも退屈だ。そして彼らは今ようやく少しの余興を見出した。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act2bossrush/level_bossrush2_02",
-              "name": "デカとチビ",
-              "description": "正反対の体格には、同じ勝利への決意を秘めている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act2bossrush/level_bossrush2_03",
-              "name": "大地割れる一撃",
-              "description": "どんなに強固な大地でも、重力の蹂躙には耐えられない。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act2bossrush/level_bossrush2_04",
-              "name": "燦陽の影",
-              "description": "輝かしさの裏ではいつも、影がひっそりと生まれている。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act2bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act2bossrush/level_bossrush2_ex01",
-              "name": "困窮する囚人",
+              "name": "困窮する囚人 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<ジェッセルトン・ウィリアムズ>看守形態が与えるスタンの持続時間が延長\n\n<パンチョ・サラス>の攻撃力と最大HPが上昇\n\n全ての敵の攻撃範囲が拡大",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act2bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act2bossrush/level_bossrush2_ex02",
-              "name": "デカとチビ",
+              "name": "デカとチビ 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<サルカズケントゥリオ>の攻撃力が上昇し攻撃範囲が拡大する\n\n<W>のスキル発動頻度が上昇\n\n<「物欲の拮抗者」>のバリア耐久値が上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act2bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act2bossrush/level_bossrush2_ex03",
-              "name": "大地割れる一撃",
+              "name": "大地割れる一撃 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<Mudrock>と<マドロックの巨像>の最大HPが入れ替わり、術耐性が上昇する\n\n<Manfred>第二形態の同時攻撃対象数+1、【軍事訓練】の効果を失ってから復帰するまでの時間が短縮\n\n<最後の蒸気騎士>と<高温蒸気戦車>がステルス状態を獲得し、さらに最大HPと攻撃力が上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_ex04",
-              "name": "燦陽の影",
+              "name": "燦陽の影 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act2bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act2bossrush/level_bossrush2_fin04",
-              "name": "燦陽の影",
+              "name": "燦陽の影 最終試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「皇帝の利刃」、追跡者>の【国土】の攻撃速度低下効果値が上昇\n\n<「殉教者」アンドアイン>の【苦難に光を】の回避確率と被ダメージ減少効果値が上昇\n\n<「不死の黒蛇」>の【灼熱の息吹】の持続ダメージが上昇\n\n全ての敵の攻撃力と最大HPが更に上昇",
               "hasChallenge": false
             }
@@ -9153,7 +9089,7 @@
           "episode": "導灯の試練#3",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_01",
               "name": "適者生存",
@@ -9161,7 +9097,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_02",
               "name": "恐怖と血色",
@@ -9169,7 +9105,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_03",
               "name": "不測の淵",
@@ -9177,7 +9113,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_04",
               "name": "信ずる者の行方",
@@ -9185,74 +9121,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act3bossrush/level_bossrush3_01",
-              "name": "適者生存",
-              "description": "ジャングルの掟は単純明快そのもの、強者に勝って生き残り、声をあげて笑うだけだ！\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act3bossrush/level_bossrush3_02",
-              "name": "恐怖と血色",
-              "description": "奇々怪々の姿かたち、数え切れないほどの恐怖。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act3bossrush/level_bossrush3_03",
-              "name": "不測の淵",
-              "description": "それらと目を合せてはならない。だが、それも目を見つけることができたらの話である。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act3bossrush/level_bossrush3_04",
-              "name": "信ずる者の行方",
-              "description": "彼らは車で流す音楽について言い争いをしている。ここは代わりに決めてあげよう。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act3bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act3bossrush/level_bossrush3_ex01",
-              "name": "適者生存",
+              "name": "適者生存 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<パンチョ・サラス>の最大HP上昇、【爆弾ボート召喚】で召喚する爆弾ボートの数が増加。<潜水隊長>の攻撃範囲拡大。\n\n<「ビッグ・アグリー」>の【パイロットモード】下でのステータス上昇量が増加、毎秒ごとに受ける確定ダメージが低下。",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act3bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_ex02",
-              "name": "恐怖と血色",
+              "name": "恐怖と血色 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「最後のケシク」トゥーラ>の攻撃力と最大HPが上昇。\n\n<「血騎士」ディカイオポリス>が召喚する<ブラッディブレード>の数が増加。<ブラッディブレード>の攻撃力と最大HPが上昇。\n\n<「変形者」>が攻撃時に与える侵蝕損傷が上昇、同形の欠片の数+1",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act3bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act3bossrush/level_bossrush3_ex03",
-              "name": "不測の淵",
+              "name": "不測の淵 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「潮風の司教」クイントゥス>の【崩壊】の発動頻度が増加。\n\n<ファースト・トーカー>が【侵蝕液胞】で与える神経損傷が上昇。\n\n<「ディヴィニティエンド」、大群の意思>の【捕食】の使用回数+1",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_ex04",
-              "name": "信ずる者の行方",
+              "name": "信ずる者の行方 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<アグニル神父>の攻撃間隔短縮。\n\n<「殉教者」アンドアイン>の【苦難に光を】の発動回数が増加。\n\n<「狼主」ザーロ>の攻撃力が上昇、第一形態時に受ける物理・術ダメージ-50%。\n\n全ての敵【エリート】と【ボス】の最大HPが上昇。",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act3bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act3bossrush/level_bossrush3_fin04",
-              "name": "信ずる者の行方",
+              "name": "信ずる者の行方 最終試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<アグニル神父>の攻撃間隔短縮。\n\n<「殉教者」アンドアイン>の【苦難に光を】の発動回数が増加、【灰燼に帰す】で与えるダメージが大幅に上昇。\n\n<「狼主」ザーロ>の攻撃力が上昇、第一形態時に受ける物理・術ダメージ-50%、【溶血の恐怖】の攻撃対象数+1\n\n全ての敵【エリート】と【ボス】の最大HPが上昇。全ての敵の攻撃力と最大HPがさらに上昇。",
               "hasChallenge": false
             }
@@ -10478,7 +10382,7 @@
           "episode": "導灯の試練#4",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_01",
               "name": "氷霜と戦火",
@@ -10486,7 +10390,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_02",
               "name": "アウトオブチューン",
@@ -10494,7 +10398,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_03",
               "name": "延焼する葦沼",
@@ -10502,7 +10406,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_04",
               "name": "昔歳を送る",
@@ -10510,74 +10414,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act4bossrush/level_bossrush4_01",
-              "name": "氷霜と戦火",
-              "description": "黒の鐧（カン）が冷たい風を切り裂けば、漆黒の巨艦が降り注ぐ砲弾の雨へと突き進んでいった。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act4bossrush/level_bossrush4_02",
-              "name": "アウトオブチューン",
-              "description": "新旧シエスタで知り合った2人の友人と「昔話に花を咲かせる」暇もなく、視界の端にあてもなく彷徨い歩く老人の姿が映り込んだ。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act4bossrush/level_bossrush4_03",
-              "name": "延焼する葦沼",
-              "description": "烈火はいずれ、深い池を覗き込む者の足元まで蔓延することだろう。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act4bossrush/level_bossrush4_04",
-              "name": "昔歳を送る",
-              "description": "絵、夢、幻……古の時を生きた生命によって切り取られた過去の断片は、人の心を強く揺さぶる力を持っていた。\n\n<color=#FFA300><指定試練></color>3名の指定オペレーターが編成された小隊が用意される。",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act4bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act4bossrush/level_bossrush4_ex01",
-              "name": "氷霜と戦火",
+              "name": "氷霜と戦火 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<Degenbrecher>のスキル【速殺】の発動間隔が短縮。\n\n<「クリップ」クリフ>が廃熱噴出口によるダメージを受けた際の、攻撃力と防御力の低下量がわずかになる。",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act4bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act4bossrush/level_bossrush4_ex02",
-              "name": "アウトオブチューン",
+              "name": "アウトオブチューン 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「羊主」ドリー>のスキル【ハッピーイラプション】の発動間隔が短縮。\n\n<Pompeii>の攻撃範囲が拡大。\n\n<「鼠王」>のスキル【歌砂】の与ダメージが上昇。",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act4bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act4bossrush/level_bossrush4_ex03",
-              "name": "延焼する葦沼",
+              "name": "延焼する葦沼 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<「将校」>の攻撃力が大幅に上昇。最大HPがわずかに上昇。\n\n<Mandragora>のスキル【目の敵】の与ダメージが上昇。\n\n<「リーダー」>が召喚した<焦渇の炎>の最大HPが上昇し、HPが自然減少しなくなる。",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_ex04",
-              "name": "昔歳を送る",
+              "name": "昔歳を送る 恢弘試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<歳相>のスキル【十方吐納】の与ダメージが上昇。\n\n<「ジザイ」>のスキル【桎梏打破】によるバリアの被ダメージ吸収量が上昇。\n\n<「睚」>が召喚した<妄境>の最大HPが上昇。\n\n全ての敵【エリート】・【ボス】の最大HPが上昇。",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act4bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act4bossrush/level_bossrush4_fin04",
-              "name": "昔歳を送る",
+              "name": "昔歳を送る 最終試練",
               "description": "<color=#EC1F1FFF>制限：</color>\n\n<歳相>のスキル【十方吐納】の与ダメージが上昇。\n\n<「ジザイ」>のスキル【桎梏打破】によるバリアのダメージ吸収量が上昇。【緯地経天】のダメージが大幅に上昇。\n\n<「睚」>が召喚した<妄境>の最大HPが上昇。「無我の冬」の召喚対象が<山海衆連陣守護者>に変更。\n\n全ての敵【エリート】・【ボス】の最大HPが上昇。全ての敵の攻撃力と最大HPがさらに上昇。",
               "hasChallenge": false
             }
@@ -14378,7 +14250,7 @@
           "episode": "引航者试炼#5",
           "childNodes": [
             {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_01",
               "name": "严寒骤血",
@@ -14386,7 +14258,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_02",
               "name": "无声破裂",
@@ -14394,7 +14266,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_03",
               "name": "幕间重影",
@@ -14402,7 +14274,7 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_04",
               "name": "沸海遮日",
@@ -14410,74 +14282,42 @@
               "hasChallenge": false
             },
             {
-              "id": "TN-1",
-              "operation": "TN-1",
-              "levelId": "activities/act5bossrush/level_bossrush5_01",
-              "name": "严寒骤血",
-              "description": "刺骨的风雪夹道，为他献上喝彩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-2",
-              "operation": "TN-2",
-              "levelId": "activities/act5bossrush/level_bossrush5_02",
-              "name": "无声破裂",
-              "description": "失去声音者抗拒一个结局犹如抗拒死亡本身，但那萦绕不散的歌声依然将她拽向生命的浅滩。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-3",
-              "operation": "TN-3",
-              "levelId": "activities/act5bossrush/level_bossrush5_03",
-              "name": "幕间重影",
-              "description": "无人报幕，无人攻讦，无人知晓。\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-4",
-              "operation": "TN-4",
-              "levelId": "activities/act5bossrush/level_bossrush5_04",
-              "name": "沸海遮日",
-              "description": "那从无穷的海中升起的巨影遮尽了光亮，在它背后熊熊燃烧的，究竟是太阳还是海洋？\\n\\n<color=#FFA300><定向试炼></color>定向试炼提供3名预选干员组成的小队",
-              "hasChallenge": false
-            },
-            {
-              "id": "TN-1",
+              "id": "act5bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_ex01",
-              "name": "严寒骤血",
+              "name": "严寒骤血 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“霜牡”“雪牝”>在彼此死亡后的攻击速度额外提升\\n\\n<卢西恩，“猩红血钻”>未被阻挡时闪避物理与法术攻击的几率提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-2",
+              "id": "act5bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_ex02",
-              "name": "无声破裂",
+              "name": "无声破裂 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<延命塑路者>塑路者分形获得和本体相同的防御力和法术抗性\\n\\n<接潮主教和接潮斥亡体>接潮斥亡体复活速度提升\\n\\n<“偏执泡影”>攻击力和最大生命值提升，防御力大幅提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-3",
+              "id": "act5bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_ex03",
-              "name": "幕间重影",
+              "name": "幕间重影 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伤心的大锁>最大生命值大幅提升\\n\\n<“剧团喉舌”>攻击范围增加\\n\\n<“剧作家”>释放法术使干员离场后的再部署时间大幅延长",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_ex04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 恢弘试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<最后的骑士>防御力和法术抗性大幅提升\\n\\n<伊莎玛拉，腐化之心><伊莎玛拉之泪>的攻击力和召唤频率提升\\n\\n<伊祖米克，生态泉源>出现更多<伊祖米克的子代>\\n\\n所有领袖敌人最大生命值提升",
               "hasChallenge": false
             },
             {
-              "id": "TN-4",
+              "id": "act5bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_fin04",
-              "name": "沸海遮日",
+              "name": "沸海遮日 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伊莎玛拉，腐化之心>攻击力大幅上升的生命值阈值提升\\n\\n<伊祖米克，生态泉源>最大生命值、攻击力、防御力和法术抗性提升，<伊祖米克的子代>的防御力和法术抗性提升\\n\\n所有领袖敌人最大生命值提升，所有敌人的攻击力和最大生命值进一步提升",
               "hasChallenge": false
             }
