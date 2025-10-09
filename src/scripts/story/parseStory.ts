@@ -333,6 +333,7 @@ const writeFile = (lang: "CN" | "JP" | "EN" | "KR") => {
 
   mainData.childNodes = mainStorys.map(ss => {
     const data = {
+      id: ss.id,
       episode: ss[`${lang}Name`],
       childNodes: ss[`${lang}Nodes`],
     };

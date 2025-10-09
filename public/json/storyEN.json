@@ -15141,6 +15141,7 @@
       "type": "Main Stories",
       "childNodes": [
         {
+          "id": "main_00",
           "episode": "Evil Time Part 1",
           "childNodes": [
             {
@@ -15333,6 +15334,7 @@
           ]
         },
         {
+          "id": "main_01",
           "episode": "Evil Time Part 2",
           "childNodes": [
             {
@@ -15524,6 +15526,7 @@
           ]
         },
         {
+          "id": "main_02",
           "episode": "Separated Hearts",
           "childNodes": [
             {
@@ -15699,6 +15702,7 @@
           ]
         },
         {
+          "id": "main_03",
           "episode": "Stinging Shock",
           "childNodes": [
             {
@@ -15840,6 +15844,7 @@
           ]
         },
         {
+          "id": "main_04",
           "episode": "Burning Run",
           "childNodes": [
             {
@@ -16015,6 +16020,7 @@
           ]
         },
         {
+          "id": "main_05",
           "episode": "Necessary Solutions",
           "childNodes": [
             {
@@ -16222,6 +16228,7 @@
           ]
         },
         {
+          "id": "main_06",
           "episode": "Partial Necrosis",
           "childNodes": [
             {
@@ -16496,6 +16503,7 @@
           ]
         },
         {
+          "id": "main_07",
           "episode": "The Birth of Tragedy",
           "childNodes": [
             {
@@ -16805,6 +16813,7 @@
           ]
         },
         {
+          "id": "main_08",
           "episode": "Roaring Flare",
           "childNodes": [
             {
@@ -17122,6 +17131,7 @@
           ]
         },
         {
+          "id": "main_09",
           "episode": "Stormwatch",
           "childNodes": [
             {
@@ -17464,6 +17474,7 @@
           ]
         },
         {
+          "id": "main_10",
           "episode": "Shatterpoint",
           "childNodes": [
             {
@@ -17733,6 +17744,7 @@
           ]
         },
         {
+          "id": "main_11",
           "episode": "Return To Mist",
           "childNodes": [
             {
@@ -18042,6 +18054,7 @@
           ]
         },
         {
+          "id": "main_12",
           "episode": "All Quiet Under the Thunder",
           "childNodes": [
             {
@@ -18359,6 +18372,7 @@
           ]
         },
         {
+          "id": "main_13",
           "episode": "The Whirlpool that is Passion",
           "childNodes": [
             {
@@ -18700,6 +18714,7 @@
           ]
         },
         {
+          "id": "main_14",
           "episode": "Absolved Will Be the Seekers",
           "childNodes": [
             {
@@ -19041,6 +19056,7 @@
           ]
         },
         {
+          "id": "main_15",
           "episode": "离解复合",
           "childNodes": [
             {
@@ -19697,6 +19713,598 @@
               "levelId": "obt/hard/level_hard_15-04",
               "name": "机密预案-4",
               "description": "“只有在身躯归还于大地后，才能真正地起舞。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
+          "id": "main_16",
+          "episode": "反常光谱",
+          "childNodes": [
+            {
+              "id": "16-2",
+              "operation": "16-2",
+              "levelId": "obt/main/level_main_16-01",
+              "name": "晨曦遥远",
+              "description": "此处无光可作见证。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-2CM",
+              "operation": "险地16-2",
+              "levelId": "obt/main/level_main_16-01",
+              "name": "晨曦遥远",
+              "description": "此处无光可作见证。\\n<@lv.fs>附加条件：</>\\n矿工游击队的生命值下降",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-01_1a",
+                  "runeDesc": "感染者纠察官和感染者高级纠察官生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-01_1b",
+                  "runeDesc": "感染者纠察官和感染者高级纠察官攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-01_2a",
+                  "runeDesc": "可同时部署单位数-2",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-01_2b",
+                  "runeDesc": "所有我方单位阻挡数-1",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-3",
+              "operation": "16-3",
+              "levelId": "obt/main/level_main_16-02",
+              "name": "道路以目",
+              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-3CM",
+              "operation": "险地16-3",
+              "levelId": "obt/main/level_main_16-02",
+              "name": "道路以目",
+              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位再部署时间大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-02_1a",
+                  "runeDesc": "乌萨斯突袭弩手攻击力提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-02_1b",
+                  "runeDesc": "集团军潜行兵生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-02_2a",
+                  "runeDesc": "乌萨斯突袭弩手攻击范围提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-02_2b",
+                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-4",
+              "operation": "16-4",
+              "levelId": "obt/main/level_main_16-03",
+              "name": "友人成众",
+              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-4CM",
+              "operation": "险地16-4",
+              "levelId": "obt/main/level_main_16-03",
+              "name": "友人成众",
+              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n远程干员部署费用提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-03_1a",
+                  "runeDesc": "集团军机动弩手攻击速度提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-03_1b",
+                  "runeDesc": "集团军机动弩手攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-03_2a",
+                  "runeDesc": "我方单位攻击速度下降",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-03_2b",
+                  "runeDesc": "我方单位攻击力下降",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-5",
+              "operation": "16-5",
+              "levelId": "obt/main/level_main_16-04",
+              "name": "分水岭线",
+              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-5CM",
+              "operation": "险地16-5",
+              "levelId": "obt/main/level_main_16-04",
+              "name": "分水岭线",
+              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位最大生命值降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-04_1a",
+                  "runeDesc": "所有我方单位部署费用+3",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-04_1b",
+                  "runeDesc": "我方单位再部署时间大幅增加",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-04_2a",
+                  "runeDesc": "集团军轻型火炮攻击速度提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-04_2b",
+                  "runeDesc": "集团军轻型火炮生命值大幅提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-6",
+              "operation": "16-6",
+              "levelId": "obt/main/level_main_16-05",
+              "name": "痛觉明灭",
+              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-6CM",
+              "operation": "险地16-6",
+              "levelId": "obt/main/level_main_16-05",
+              "name": "痛觉明灭",
+              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方干员的防御力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-05_1a",
+                  "runeDesc": "费用自然回复速度下降",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-05_1b",
+                  "runeDesc": "出现额外破城者",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-05_2a",
+                  "runeDesc": "重装干员的部署费用变为3倍",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-05_2b",
+                  "runeDesc": "破城者会更频繁施放技能",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-7",
+              "operation": "16-7",
+              "levelId": "obt/main/level_main_16-06",
+              "name": "最后欢愉",
+              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-7CM",
+              "operation": "险地16-7",
+              "levelId": "obt/main/level_main_16-06",
+              "name": "最后欢愉",
+              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n集团军前线指挥员的生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-06_1a",
+                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-06_1b",
+                  "runeDesc": "出现额外集团军轻型火炮",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-06_2a",
+                  "runeDesc": "战场左侧4个地面位置变为不可部署",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-06_2b",
+                  "runeDesc": "战场中央4个地面位置变为不可部署",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-8",
+              "operation": "16-8",
+              "levelId": "obt/main/level_main_16-07",
+              "name": "无处可寻",
+              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-8CM",
+              "operation": "险地16-8",
+              "levelId": "obt/main/level_main_16-07",
+              "name": "无处可寻",
+              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n异质源石虫的屏障量大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-07_1a",
+                  "runeDesc": "初始在场地中的异质源石虫会更早行动",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-07_1b",
+                  "runeDesc": "异质源石虫生命值大幅提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-07_2a",
+                  "runeDesc": "我方单位最大生命值下降",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-07_2b",
+                  "runeDesc": "战场中2个地面位置变为不可部署",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-9",
+              "operation": "16-9",
+              "levelId": "obt/main/level_main_16-08",
+              "name": "疯人的辩护",
+              "description": "谎言，就是你正坚信的事实。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-10",
+              "operation": "16-10",
+              "levelId": "obt/main/level_main_16-09",
+              "name": "哭声渐息",
+              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-10CM",
+              "operation": "险地16-10",
+              "levelId": "obt/main/level_main_16-09",
+              "name": "哭声渐息",
+              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n可部署单位上限-2",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-09_1a",
+                  "runeDesc": "异质源石虫的外壳需要矿工游击队更多次的攻击破除",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-09_1b",
+                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-09_2a",
+                  "runeDesc": "异质裂兽的外壳需要矿工游击队更多次的攻击破除",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-09_2b",
+                  "runeDesc": "集团军幽灵兵变为可以阻挡2名矿工游击队",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-11",
+              "operation": "16-11",
+              "levelId": "obt/main/level_main_16-10",
+              "name": "来到坟茔",
+              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-11CM",
+              "operation": "险地16-11",
+              "levelId": "obt/main/level_main_16-10",
+              "name": "来到坟茔",
+              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.fs>附加条件：</>\\n出现额外敌人",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-10_1a",
+                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-10_1b",
+                  "runeDesc": "异质裂兽的外壳额外减少物理与法术伤害",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-10_2a",
+                  "runeDesc": "战场中3个地面位置变为不可部署",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-10_2b",
+                  "runeDesc": "我方单位攻击力下降",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-12",
+              "operation": "16-12",
+              "levelId": "obt/main/level_main_16-11",
+              "name": "深埋地底",
+              "description": "从前，你我创造；而今，你我毁灭。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-12CM",
+              "operation": "险地16-12",
+              "levelId": "obt/main/level_main_16-11",
+              "name": "深埋地底",
+              "description": "从前，你我创造；而今，你我毁灭。\\n<@lv.fs>附加条件：</>\\n狂躁异质裂兽的生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-11_1a",
+                  "runeDesc": "狂躁异质裂兽攻击力提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-11_1b",
+                  "runeDesc": "狂躁异质裂兽首次逃跑时会强制保留更多比例生命值",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-11_2a",
+                  "runeDesc": "无法部署狙击和术师干员",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-11_2b",
+                  "runeDesc": "无法部署重装和医疗干员",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-13",
+              "operation": "16-13",
+              "levelId": "obt/main/level_main_16-12",
+              "name": "不曾遗忘",
+              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-13CM",
+              "operation": "险地16-13",
+              "levelId": "obt/main/level_main_16-12",
+              "name": "不曾遗忘",
+              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n严重污染设施的生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-12_1a",
+                  "runeDesc": "出现额外集团军盾卫",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-12_1b",
+                  "runeDesc": "可同时部署单位数-2",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-12_2a",
+                  "runeDesc": "出现额外严重污染设施",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-12_2b",
+                  "runeDesc": "“惘核”攻击力大幅提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-14",
+              "operation": "16-14",
+              "levelId": "obt/main/level_main_16-13",
+              "name": "唯有坦途",
+              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-14CM",
+              "operation": "险地16-14",
+              "levelId": "obt/main/level_main_16-13",
+              "name": "唯有坦途",
+              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n出现额外集团军中坚盾卫",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-13_1a",
+                  "runeDesc": "集团军幽灵兵生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-13_1b",
+                  "runeDesc": "集团军中坚盾卫生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-13_2a",
+                  "runeDesc": "战场右侧2个高台位置变为不可部署",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-13_2b",
+                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-15",
+              "operation": "16-15",
+              "levelId": "obt/main/level_main_16-14",
+              "name": "旷野轰鸣",
+              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-15CM",
+              "operation": "险地16-15",
+              "levelId": "obt/main/level_main_16-14",
+              "name": "旷野轰鸣",
+              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n出现额外集团军重型火炮",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-14_1a",
+                  "runeDesc": "费用自然回复速率降低",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-14_1b",
+                  "runeDesc": "战场中3个位置变为不可部署",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-14_2a",
+                  "runeDesc": "集团军重型火炮攻击速度提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-14_2b",
+                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-16",
+              "operation": "16-16",
+              "levelId": "obt/main/level_main_16-15",
+              "name": "示我以真",
+              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-16CM",
+              "operation": "险地16-16",
+              "levelId": "obt/main/level_main_16-15",
+              "name": "示我以真",
+              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n“惘核”获得隐匿",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-15_1a",
+                  "runeDesc": "狙击、辅助干员部署费用提升至3倍",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-15_1b",
+                  "runeDesc": "特种、术师干员部署费用提升至3倍",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-15_2a",
+                  "runeDesc": "圣愚生命值提升和攻击速度提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-15_2b",
+                  "runeDesc": "出现额外破城者·Ⅱ型",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-17",
+              "operation": "16-17",
+              "levelId": "obt/main/level_main_16-16",
+              "name": "力竭声嘶",
+              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-17CM",
+              "operation": "险地16-17",
+              "levelId": "obt/main/level_main_16-16",
+              "name": "力竭声嘶",
+              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n费用不再自然回复，但初始费用提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_16-16_1a",
+                  "runeDesc": "阻道岩壁生命值大幅提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_16-16_1b",
+                  "runeDesc": "战场中8个地面位置变为不可部署",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_16-16_2a",
+                  "runeDesc": "所有敌人生命值提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_16-16_2b",
+                  "runeDesc": "帝国炮火中枢先兆者等待时间减少",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "16-18",
+              "operation": "16-18",
+              "levelId": "obt/main/level_main_16-17",
+              "name": "红日留驻",
+              "description": "即使那太阳与月亮皆可停留，这愤怒......永不止息。\\n一枚未爆的■■：\\n<@lv.sp>反抗</>了它的使用者。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
               "hasChallenge": false
             }
           ]
