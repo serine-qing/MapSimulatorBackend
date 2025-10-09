@@ -28,7 +28,8 @@ interface LocalEnemyData extends EnemyData{
 }
 
 interface ParsedEnemy{
-  Key: string,
+  key?: string,
+  Key?: string,
   Levels: EnemyData[],
   CNName: string,
   CNDescription: string,

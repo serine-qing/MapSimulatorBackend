@@ -26,15 +26,18 @@ const parseCNData = async () => {
   const enemy_database = await import(`@/database/cn/enemy_database.json`);
   const enemies = (enemy_database as any).enemies;
   const {enemyHandbook} = await importJSON("CN");
-
+  
   enemies.forEach((enemy: any) => {
-    const Levels: EnemyData[] = [];
-    const sourceData = enemy.Value[0].enemyData;
-    const talentBlackboard = getTalents(sourceData.talentBlackboard)
+    const key = enemy.Key ? enemy.Key : enemy.key;
+    const value = enemy.Value ? enemy.Value : enemy.value;
 
+    const Levels: EnemyData[] = [];
+    const sourceData = value[0].enemyData;
+    const talentBlackboard = getTalents(sourceData.talentBlackboard)
+    
     let hugeEnemy = false;
     let unMoveable = false;
-    if(isHugeEnemy(enemy.Key)){
+    if(isHugeEnemy(key)){
       hugeEnemy = true;
       unMoveable = true;
     }
@@ -44,10 +47,10 @@ const parseCNData = async () => {
     }
     
     const parsedData: EnemyData= {
-      key: enemy.Key,
+      key,
       attributes: sourceData.attributes,
       levelType:sourceData.levelType.m_value,
-      level: enemy.Value[0].level,
+      level: value[0].level,
       applyWay: sourceData.applyWay.m_value,
       rangeRadius: sourceData.rangeRadius.m_value,  
       motion: sourceData.motion.m_value, 
@@ -64,15 +67,15 @@ const parseCNData = async () => {
 
     Levels.push(parsedData);
 
-    if(enemy.Value.length > 1){
-      for(let i = 1; i < enemy.Value.length; i++){
-        let overwriteData = enemy.Value[i].enemyData;
+    if(value.length > 1){
+      for(let i = 1; i < value.length; i++){
+        let overwriteData = value[i].enemyData;
         let data = {...parsedData};
         data.attributes = {...parsedData.attributes};
         if(parsedData.skills) data.skills = [...parsedData.skills];
         if(parsedData.talentBlackboard) data.talentBlackboard = [...parsedData.talentBlackboard];
 
-        data.level = enemy.Value[i].level;
+        data.level = value[i].level;
 
         Object.keys(overwriteData).forEach(key => {
           const attr = overwriteData[key];
@@ -123,10 +126,10 @@ const parseCNData = async () => {
       }
     }
 
-    const findHandbook: any = enemyHandbook.find((handbook: any) => handbook.enemyId === enemy.Key);
-    if(!findHandbook) console.error(`CN ${enemy.Key}没有获取到Handbook！`)
+    const findHandbook: any = enemyHandbook.find((handbook: any) => handbook.enemyId === key);
+    if(!findHandbook) console.error(`CN ${key}没有获取到Handbook！`)
     parsedEnemies.push({
-      Key: enemy.Key,
+      Key: key,
       Levels,
       CNName: findHandbook?.name,
       CNDescription: findHandbook?.description,
@@ -147,7 +150,8 @@ const parseCNData = async () => {
 const parseInternationalData = async (lang: "JP" | "EN" | "KR") => {
   const {enemyHandbook} = await importJSON(lang);
   parsedEnemies.forEach(enemy => {
-    const findHandbook: any = enemyHandbook.find((handbook: any) => handbook.enemyId === enemy.Key);
+    const key = enemy.Key ? enemy.Key : enemy.key;
+    const findHandbook: any = enemyHandbook.find((handbook: any) => handbook.enemyId === key);
     if(findHandbook){
       enemy[`${lang}Name`] = findHandbook.name;
       enemy[`${lang}Description`] = findHandbook.description;

@@ -19700,6 +19700,147 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "episode": "反常广谱(待更新)",
+          "childNodes": [
+            {
+              "id": "16-1",
+              "operation": "16-1",
+              "levelId": "obt/main/level_main_16-01",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-2",
+              "operation": "16-2",
+              "levelId": "obt/main/level_main_16-02",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-3",
+              "operation": "16-3",
+              "levelId": "obt/main/level_main_16-03",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-4",
+              "operation": "16-4",
+              "levelId": "obt/main/level_main_16-04",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-5",
+              "operation": "16-5",
+              "levelId": "obt/main/level_main_16-05",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-6",
+              "operation": "16-6",
+              "levelId": "obt/main/level_main_16-06",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-7",
+              "operation": "16-7",
+              "levelId": "obt/main/level_main_16-07",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-8",
+              "operation": "16-8",
+              "levelId": "obt/main/level_main_16-08",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-9",
+              "operation": "16-9",
+              "levelId": "obt/main/level_main_16-09",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-10",
+              "operation": "16-10",
+              "levelId": "obt/main/level_main_16-10",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-11",
+              "operation": "16-11",
+              "levelId": "obt/main/level_main_16-11",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-12",
+              "operation": "16-12",
+              "levelId": "obt/main/level_main_16-12",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-13",
+              "operation": "16-13",
+              "levelId": "obt/main/level_main_16-13",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-14",
+              "operation": "16-14",
+              "levelId": "obt/main/level_main_16-14",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-15",
+              "operation": "16-15",
+              "levelId": "obt/main/level_main_16-15",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-16",
+              "operation": "16-16",
+              "levelId": "obt/main/level_main_16-16",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "16-17",
+              "operation": "16-17",
+              "levelId": "obt/main/level_main_16-17",
+              "name": "",
+              "description": "",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
