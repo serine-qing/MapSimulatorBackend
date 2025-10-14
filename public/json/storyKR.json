@@ -15547,6 +15547,14 @@
               "challenge": "<@lv.fs>제한 조건:</>\n캐스터 오퍼레이터 사용 금지"
             },
             {
+              "id": "S2-1",
+              "operation": "S2-1",
+              "levelId": "obt/main/level_sub_02-01",
+              "name": "지연-1",
+              "description": "방어력이 높은 적에 주의를 기울여 대처하라.",
+              "hasChallenge": false
+            },
+            {
               "id": "2-2",
               "operation": "2-2",
               "levelId": "obt/main/level_main_02-02",
@@ -15562,6 +15570,30 @@
               "description": "전장 중심부에 방어력이 높은 적이 대량으로 나타났다. 서포터 오퍼레이터와 캐스터 오퍼레이터를 활용하여 적의 전투력을 효율적으로 봉쇄하라.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n서포터 오퍼레이터 사용 금지"
+            },
+            {
+              "id": "S2-2",
+              "operation": "S2-2",
+              "levelId": "obt/main/level_sub_02-02",
+              "name": "지연-2",
+              "description": "위아래로 날아오는 적에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-3",
+              "operation": "S2-3",
+              "levelId": "obt/main/level_sub_02-03",
+              "name": "봉쇄-1",
+              "description": "장애물을 이용하여 양쪽에서 진격해오는 적을 저지하라.\n<@lv.item><장애물></> 배치 시 적의 진격로 차단",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-4",
+              "operation": "S2-4",
+              "levelId": "obt/main/level_sub_02-04",
+              "name": "봉쇄-2",
+              "description": "전장이 더욱 복잡해지고 있다. 적절한 위치에 장애물을 배치하라.\n<@lv.item><장애물></> 배치 시 적의 진격로 차단",
+              "hasChallenge": false
             },
             {
               "id": "2-3",
@@ -15596,6 +15628,30 @@
               "description": "적의 정예 캐스터 부대의 존재를 확인했다. 높은 공격력을 자랑하는 적의 캐스터 오퍼레이터를 경계하며 아군 오퍼레이터를 산개 배치하라.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n적 생명력 대폭 상승"
+            },
+            {
+              "id": "S2-5",
+              "operation": "S2-5",
+              "levelId": "obt/main/level_sub_02-05",
+              "name": "캐스터-1",
+              "description": "적의 정예 캐스터 부대가 이전보다 넓은 범위에 퍼져 있다. 스나이퍼 오퍼레이터를 활용하여 각개격파하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-6",
+              "operation": "S2-6",
+              "levelId": "obt/main/level_sub_02-06",
+              "name": "캐스터-2",
+              "description": "적의 정예 캐스터 부대는 여전히 아군의 최대 위협 요소이다. 아군을 효율적으로 산개 배치하여 적의 화력을 경감시켜라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-7",
+              "operation": "S2-7",
+              "levelId": "obt/main/level_sub_02-07",
+              "name": "캐스터-3",
+              "description": "적의 대규모 정예 캐스터 부대가 이쪽을 향해 진격하고 있다. 아군을 배치할 위치를 심사숙고하여 효과적으로 저지하라.",
+              "hasChallenge": false
             },
             {
               "id": "2-5",
@@ -15649,6 +15705,22 @@
               "challenge": "<@lv.fs>제한 조건:</>\n적 원거리 공격 오퍼레이터의 사거리 대폭 상승"
             },
             {
+              "id": "S2-8",
+              "operation": "S2-8",
+              "levelId": "obt/main/level_sub_02-08",
+              "name": "함정-1",
+              "description": "옥상이 개방된 빌딩이 많이 있다. 아군 배치에 효과적으로 활용하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-9",
+              "operation": "S2-9",
+              "levelId": "obt/main/level_sub_02-09",
+              "name": "함정-2",
+              "description": "적의 레벨이 한층 더 높아졌다. 지형의 이점을 살려 적의 진격을 저지하라.",
+              "hasChallenge": false
+            },
+            {
               "id": "2-8",
               "operation": "2-8",
               "levelId": "obt/main/level_main_02-08",
@@ -15681,6 +15753,30 @@
               "description": "이번 전장은 좁다. 근거리 공격 오퍼레이터를 다수 배치하여 적을 저지하라.\n<@lv.item><방공 룬></> 배치된 오퍼레이터의 공격 속도가 약간 감소, 단 공격력이 대폭 증가",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n적 생명력 대폭 상승"
+            },
+            {
+              "id": "S2-10",
+              "operation": "S2-10",
+              "levelId": "obt/main/level_sub_02-10",
+              "name": "질식-1",
+              "description": "아래쪽에서 갑자기 습격해 오는 적에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-11",
+              "operation": "S2-11",
+              "levelId": "obt/main/level_sub_02-11",
+              "name": "질식-2",
+              "description": "또 한 번 전장이 둘로 나뉘었다. 양쪽에서 몰려오는 적을 저지하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-12",
+              "operation": "S2-12",
+              "levelId": "obt/main/level_sub_02-12",
+              "name": "질식-3",
+              "description": "좌우에서 돌격하는 적의 비행 오퍼레이터에 주의하라.",
+              "hasChallenge": false
             },
             {
               "id": "2-10",
@@ -15840,6 +15936,62 @@
               "description": "스컬슈레더가 다시 대군을 이끌고 진격하고 있다. 이번에는 더 위험한 예감이 든다……\n<@lv.item><방어 룬></> 배치된 아군 오퍼레이터의 방어력 증가",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n적 생명력 대폭 상승"
+            },
+            {
+              "id": "S3-1",
+              "operation": "S3-1",
+              "levelId": "obt/main/level_sub_03-1-1",
+              "name": "잠복-1",
+              "description": "은신 유닛과 캐스터의 연합 공격에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-2",
+              "operation": "S3-2",
+              "levelId": "obt/main/level_sub_03-1-2",
+              "name": "잠복-2",
+              "description": "적의 주요 진격로는 한 곳뿐이다. 아무래도 후방 수비에 집중하는 전략이 바람직할 것이다.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-3",
+              "operation": "S3-3",
+              "levelId": "obt/main/level_sub_03-2-1",
+              "name": "정찰-1",
+              "description": "작전의 성공 여부는 수풀과 탐지기를 어떻게 활용하느냐에 달려있다.\n<@lv.item><수풀></> 배치된 오퍼레이터는 적의 원거리 공격 대상이 되지 않음\n<@lv.item><탐지기></> 작동시키면 주변 적의 은신 효과를 일정 시간 무효화",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-4",
+              "operation": "S3-4",
+              "levelId": "obt/main/level_sub_03-2-2",
+              "name": "정찰-2",
+              "description": "적이 다양한 루트로 진격해 온다. 근거리 공격 오퍼레이터를 다수 투입하라.\n<@lv.item><수풀></> 배치된 오퍼레이터는 적의 원거리 공격 대상이 되지 않음",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-5",
+              "operation": "S3-5",
+              "levelId": "obt/main/level_sub_03-2-3",
+              "name": "정찰-3",
+              "description": "이번에는 비교적 간단한 작전이다. 실력을 점검해보자.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-6",
+              "operation": "S3-6",
+              "levelId": "obt/main/level_sub_03-3-1",
+              "name": "화력 집중-1",
+              "description": "화력을 집중하여, 벌 떼처럼 몰려드는 적을 상대하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-7",
+              "operation": "S3-7",
+              "levelId": "obt/main/level_sub_03-3-2",
+              "name": "은닉-1",
+              "description": "대량의 은신 유닛이 전장을 포위하고 있다. 견고한 진영과 넓은 시야의 정찰로 대응해라.",
+              "hasChallenge": false
             }
           ]
         },
@@ -16016,6 +16168,86 @@
               "description": "프로스트노바가 이끄는 정예 부대가 이 구역을 완전히 포위했다. 우리에게 남은 길은 맞서 싸우는 것뿐. 무슨 일이 있어도 방어선을 지켜내라.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n프로스트노바의 공격 및 스킬 범위 대폭 상승"
+            },
+            {
+              "id": "S4-1",
+              "operation": "S4-1",
+              "levelId": "obt/main/level_sub_04-1-1",
+              "name": "결정-1",
+              "description": "전장 중앙의 활성 오리지늄을 활용하여 더 좋은 성과를 노려보자.\n<@lv.item><활성 오리지늄></> 배치된 아군 오퍼레이터 및 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-2",
+              "operation": "S4-2",
+              "levelId": "obt/main/level_sub_04-1-2",
+              "name": "결정-2",
+              "description": "적의 진격로가 더욱 다양해졌다. 활성 오리지늄을 중심으로 방어 라인을 갖춰라.\n<@lv.item><활성 오리지늄></> 배치된 아군 오퍼레이터 및 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-3",
+              "operation": "S4-3",
+              "levelId": "obt/main/level_sub_04-1-3",
+              "name": "결정-3",
+              "description": "두 갈래로 나뉜 이민족 대군의 체력을 줄이고자 한다면, 활성 오리지늄 또한 나쁘지 않은 선택이다.\n<@lv.item><활성 오리지늄></> 배치된 아군 오퍼레이터 및 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-4",
+              "operation": "S4-4",
+              "levelId": "obt/main/level_sub_04-2-1",
+              "name": "다지류-1",
+              "description": "위아래에서 공격해 오는 원석충에 진형이 무너지지 않도록 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-5",
+              "operation": "S4-5",
+              "levelId": "obt/main/level_sub_04-2-2",
+              "name": "다지류-2",
+              "description": "좁은 지형의 전장이다. 신중하게 오퍼레이터를 배치하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-6",
+              "operation": "S4-6",
+              "levelId": "obt/main/level_sub_04-2-3",
+              "name": "다지류-3",
+              "description": "전장이 더욱더 좁아졌다. 오퍼레이터의 레벨을 고려하여 난관을 극복하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-7",
+              "operation": "S4-7",
+              "levelId": "obt/main/level_sub_04-3-1",
+              "name": "분노-1",
+              "description": "원석충과 이민족 정예 캐스터의 연합 공격에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-8",
+              "operation": "S4-8",
+              "levelId": "obt/main/level_sub_04-3-2",
+              "name": "분노-2",
+              "description": "인원을 분산시키고, 원거리 유닛으로 원석충을 처리하는 것이 바람직하다.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-9",
+              "operation": "S4-9",
+              "levelId": "obt/main/level_sub_04-3-3",
+              "name": "분노-3",
+              "description": "근거리 공격 오퍼레이터를 배치할 수 있는 곳이 매우 제한되어 있다. 스페셜리스트 오퍼레이터를 활용해 왼쪽의 강적을 쓰러뜨리는 방안을 고려해 보자.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-10",
+              "operation": "S4-10",
+              "levelId": "obt/main/level_sub_04-4-1",
+              "name": "견고한 수비-1",
+              "description": "대량의 정예 적군이 출현하니, 각별히 주의하라.",
+              "hasChallenge": false
             }
           ]
         },
@@ -16192,6 +16424,78 @@
               "description": "적진 깊숙한 곳까지 들어간 첸 일행. 이제 더 이상 물러날 길은 없다. 당신의 전술을 활용하여, 메피스토와 파우스트를 저지하라! \n<@lv.item><발리스타></> 주기적으로 아군에 화살을 발사하여 물리 대미지를 입힘",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n메피스토의 HP와 방어력이 초대폭 상승"
+            },
+            {
+              "id": "S5-1",
+              "operation": "S5-1",
+              "levelId": "obt/main/level_sub_05-1-1",
+              "name": "웅거-1",
+              "description": "적이 계속 대량의 부대를 투입하여 돌격하고 있다. 위쪽에서 몰래 다가오는 유령에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-2",
+              "operation": "S5-2",
+              "levelId": "obt/main/level_sub_05-1-2",
+              "name": "웅거-2",
+              "description": "전장의 환경이 점차 복잡해지고 있으니, 근거리 오퍼레이터를 배치하여 몰려오는 진형파괴병을 막아라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-3",
+              "operation": "S5-3",
+              "levelId": "obt/main/level_sub_05-2-1",
+              "name": "오한-1",
+              "description": "드론 '프로스트'는 막강한 방해 능력과 비교적 높은 방어력을 갖고 있으니, 캐스터를 배치하여 상대해라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-4",
+              "operation": "S5-4",
+              "levelId": "obt/main/level_sub_05-2-2",
+              "name": "오한-2",
+              "description": "아츠 마스터와 프로스트의 혼합부대는 더욱 상대하기가 까다로우니, 더 많은 스나이퍼와 캐스터를 배치하고, 적시에 방해장치를 사용하라! \n<@lv.item><방해장치></>배치 후 주변의 적 드론이 공격 불가, 이동 속도 대폭 감소, 특수 능력 사용 불가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-5",
+              "operation": "S5-5",
+              "levelId": "obt/main/level_sub_05-3-1",
+              "name": "공황-1",
+              "description": "숙주 병사 리더는 더 높은 HP 회복 속도를 갖고 있어 까다로우니, 우선적으로 처리할 수 있도록 하자.\n<@lv.item><발리스타></> 주기적으로 아군에 화살을 발사하여 물리 대미지를 입힘",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-6",
+              "operation": "S5-6",
+              "levelId": "obt/main/level_sub_05-3-2",
+              "name": "공황-2",
+              "description": "분쇄돌격병은 적의 정예 유닛으로서 막강한 방어력을 갖고 있으며, 아군을 기절시킬 수 있지만, 이동 속도가 느리다는 점을 참고하라.\n<@lv.item><발리스타></> 주기적으로 아군에 화살을 발사하여 물리 대미지를 입힘",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-7",
+              "operation": "S5-7",
+              "levelId": "obt/main/level_sub_05-4-1",
+              "name": "선회-1",
+              "description": "대량의 드론 부대가 출현하니, 대공 방어에 주의하라.\n<@lv.item><방해장치></> 배치 후 주변의 적 드론이 공격 불가, 이동 속도 대폭 감소, 특수 능력 사용 불가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-8",
+              "operation": "S5-8",
+              "levelId": "obt/main/level_sub_05-4-2",
+              "name": "선회-2",
+              "description": "대량의 정예 캐스터가 여러 군데에서 진격해오니, 각별히 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-9",
+              "operation": "S5-9",
+              "levelId": "obt/main/level_sub_05-4-3",
+              "name": "이상 징후-1",
+              "description": "본 작전에는 대량의 숙주 부대가 출현하니, 방어에 각별히 주의하라.",
+              "hasChallenge": false
             },
             {
               "id": "H5-1",
@@ -16466,6 +16770,38 @@
               "levelId": "obt/main/level_main_06-15",
               "name": "겨울이 지다",
               "description": "우리는 마지막까지 싸우기로 결정했다. 그리고, 그녀도 같은 결정을 내렸다.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-1",
+              "operation": "S6-1",
+              "levelId": "obt/main/level_sub_06-1-1",
+              "name": "응결-1",
+              "description": "빙폭 원석충과 눈의 악마 소대가 진격을 시작했다. 원석충이 주는 디버프에 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-2",
+              "operation": "S6-2",
+              "levelId": "obt/main/level_sub_06-1-2",
+              "name": "응결-2",
+              "description": "빙폭 원석충과 쇄빙자의 조합. 아군에게 막대한 피해를 줄 수 있으니 조심하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-3",
+              "operation": "S6-3",
+              "levelId": "obt/main/level_sub_06-2-1",
+              "name": "냉각-1",
+              "description": "대량의 빙폭 원석충과 쇄빙자는 견고하지 않은 방어선을 궤멸시킬 정도의 위력을 갖고 있으니, 각별히 주의하라.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-4",
+              "operation": "S6-4",
+              "levelId": "obt/main/level_sub_06-2-2",
+              "name": "냉각-2",
+              "description": "열악한 환경, 특수한 오리지늄 설비, 강력한 쇄빙자…… 이런 공격은 과연 어떻게 견뎌내야 할까?\n<@lv.item><오리지늄 얼음 결정></> 주기적으로 아군 유닛에게 [냉기] 효과를 부여하는 한기를 내뿜음",
               "hasChallenge": false
             },
             {
@@ -16777,6 +17113,22 @@
               "description": "감염자 유격대 '방패'의 지휘관. 살카즈 용사들의 오래된 지극의 혈통. 우르수스에서 가장 용감한 전쟁의 화신. 리유니온의 척추이자…… 옐레나의 아버지.\n<@lv.item><오리지늄 제단></> 주기적으로 주변에 충격파를 발생시켜 아군과 적군에게 대미지를 입힘\n<@lv.item><방해지뢰></> 폭발 시 주변의 모든 적에게 대량의 대미지 및 15초간 받는 대미지 증가",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n스테이지 내 인원을 배치할 수 없는 구역이 6칸 생성"
+            },
+            {
+              "id": "S7-1",
+              "operation": "S7-1",
+              "levelId": "obt/main/level_sub_07-1-1",
+              "name": "매복-1",
+              "description": "신경성 방해장치를 합리적으로 활용하여 평범한 수단으론 피해를 줄 수 없는 유격대의 전사들을 처리하라.\n<@lv.item><방해지뢰></> 폭발 시 주변의 모든 적에게 대량의 대미지를 입히고, 15초간 상대가 받는 대미지 증가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S7-2",
+              "operation": "S7-2",
+              "levelId": "obt/main/level_sub_07-1-2",
+              "name": "매복-2",
+              "description": "방해지뢰를 활용하고, 방어선을 구축하여, 전세를 뒤집고 전략 목표를 달성하라.\n<@lv.item><방해지뢰></> 폭발 시 주변의 모든 적에게 대량의 대미지 및 15초간 받는 대미지 증가",
+              "hasChallenge": false
             },
             {
               "id": "H7-1",
@@ -17422,6 +17774,46 @@
               "description": "만드라고라를 이길 수 없는 게 아니지만, 우리의 목표는 결코 그녀 하나만을 쓰러뜨리는 게 아니다. 먹구름은 서서히 태양을 가리고 있고, 다가오는 밤은 더욱 어둡고 길 것이다. 다행히도, 여전히 희망을 전하는 사람이 존재한다.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성\n<@lv.item><폭파 장치></> 전방 한 칸의 망가진 기둥 파괴",
               "hasChallenge": true,
               "challenge": "<@lv.fs>제한 조건:</>\n만드라고라의 스킬 대미지 대폭 상승"
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_easy_sub_09-1-1",
+              "name": "폐허에서의 사수",
+              "description": "끊임없는 교전으로 거리가 파괴되었지만, 우리는 어떻게든 적을 막아야 한다.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성\n<@lv.ez>환경 조건:</>\n아군 유닛의 HP와 공격력 대폭 증가, 재배치 시간 감소, 초기 배치 코스트 증가",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_sub_09-1-1",
+              "name": "폐허에서의 사수",
+              "description": "끊임없는 교전으로 거리가 파괴되었지만, 우리는 어떻게든 적을 막아야 한다.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-2",
+              "operation": "S9-2",
+              "levelId": "obt/main/level_sub_09-1-2",
+              "name": "불꽃을 등지고",
+              "description": "터전을 지키는 사람들은 포위당해 곤경에 처했지만, 도시도 나름대로 적에 대처하는 법을 알고 있다.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-3",
+              "operation": "S9-3",
+              "levelId": "obt/main/level_sub_09-1-3",
+              "name": "잿더미 아래",
+              "description": "적은 이곳을 깨끗이 태워버릴 수 있다고 믿고 있다. 하지만 벽과 기둥이 무너져도 우리는 그 잿더미 속에서 일어나리라.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-4",
+              "operation": "S9-4",
+              "levelId": "obt/main/level_sub_09-1-4",
+              "name": "배수의 진",
+              "description": "무너진 벽과 폐허 속에서, 양측 모두 물러설 길이 없다.\n<@lv.item><망가진 기둥></> 인접한 오퍼레이터가 무너뜨릴 수 있으며, 무너진 방향의 2칸 범위에 트루 대미지를 입히고 적의 진격로를 차단하는 폐허 생성",
+              "hasChallenge": false
             },
             {
               "id": "H9-1",

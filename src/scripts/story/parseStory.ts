@@ -103,8 +103,8 @@ const CampStages: {[key: string]: Stage[]} = {
   CN: [], JP: [], EN: [], KR: []
 };
 
-const ss_info: any = require("./ss_info.json");
-const ss_info_data = ss_info.find((c: any) => c.story === "活动关卡").childNodes;
+// const ss_info: any = require("./ss_info.json");
+// const ss_info_data = ss_info.find((c: any) => c.story === "活动关卡").childNodes;
 
 const parseNodeData = (storys: Story[], stage_table: any, lang: "CN" | "JP" | "EN" | "KR") => {
   storys.forEach(story => {

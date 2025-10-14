@@ -47,10 +47,12 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
   keys.forEach(key => {
     let HStage;      //H关
     let toughStage;  //磨难
+    let SubStage;      //主线S(材料)关
     if(isBossrush && key.includes("bossrush_tm")) return;  //定向试炼
     if(episode.includes("main")){
       //主线
       HStage = episode.replace("main", "hard");
+      SubStage = episode.replace("main", "sub");
       switch (episode) {
         case "main_10":
         case "main_11":
@@ -64,7 +66,8 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
     if((
         key.includes(episode) || 
         toughStage && key.includes(toughStage) || 
-        HStage && key.includes(HStage)
+        HStage && key.includes(HStage) ||
+        SubStage && key.includes(SubStage)
       ) && 
       !key.includes("#f#")
     ){

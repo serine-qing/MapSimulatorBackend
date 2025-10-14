@@ -15547,6 +15547,14 @@
               "challenge": "<@lv.fs>Condition:</>\nCaster Operators cannot be deployed."
             },
             {
+              "id": "S2-1",
+              "operation": "S2-1",
+              "levelId": "obt/main/level_sub_02-01",
+              "name": "Slow-1",
+              "description": "Please pay attention to the enemy's shielded soldiers, who have high defense.",
+              "hasChallenge": false
+            },
+            {
               "id": "2-2",
               "operation": "2-2",
               "levelId": "obt/main/level_main_02-02",
@@ -15562,6 +15570,30 @@
               "description": "More enemies with high defense have appeared in the center of the battlefield. Supporter and Caster Operators can reduce their combat power significantly.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nSupporter Operators cannot be deployed."
+            },
+            {
+              "id": "S2-2",
+              "operation": "S2-2",
+              "levelId": "obt/main/level_sub_02-02",
+              "name": "Slow-2",
+              "description": "Please pay attention to the aerial units to the north and south.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-3",
+              "operation": "S2-3",
+              "levelId": "obt/main/level_sub_02-03",
+              "name": "Blockade-1",
+              "description": "Deploy Roadblocks in the right places to stop enemies advancing from two directions.\n<@lv.item><Roadblock></> Deploy it to block the enemy's advance",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-4",
+              "operation": "S2-4",
+              "levelId": "obt/main/level_sub_02-04",
+              "name": "Blockade-2",
+              "description": "The battlefield is even more complicated now. Think carefully before deploying the Roadblocks.\n<@lv.item><Roadblock></> Deploy it to block the enemy's advance",
+              "hasChallenge": false
             },
             {
               "id": "2-3",
@@ -15596,6 +15628,30 @@
               "description": "Enemy Elite Casters confirmed.\nThis type of enemy can pose a huge threat to your Operators. Scatter them.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nThe HP of enemy units is increased significantly."
+            },
+            {
+              "id": "S2-5",
+              "operation": "S2-5",
+              "levelId": "obt/main/level_sub_02-05",
+              "name": "Caster-1",
+              "description": "The enemy's Elite Casters have scattered. Protocol advises taking them out one by one with Sniper Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-6",
+              "operation": "S2-6",
+              "levelId": "obt/main/level_sub_02-06",
+              "name": "Caster-2",
+              "description": "The enemy's Elite Casters remain the biggest threat. Scatter your Operators to reduce damage taken.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-7",
+              "operation": "S2-7",
+              "levelId": "obt/main/level_sub_02-07",
+              "name": "Caster-3",
+              "description": "The enemy has sent even more Elite Casters. Scatter the Operators as previous.",
+              "hasChallenge": false
             },
             {
               "id": "2-5",
@@ -15649,6 +15705,22 @@
               "challenge": "<@lv.fs>Condition:</>\nThe range of enemy's ranged units is increased significantly."
             },
             {
+              "id": "S2-8",
+              "operation": "S2-8",
+              "levelId": "obt/main/level_sub_02-08",
+              "name": "Trap-1",
+              "description": "The roof is not surrounded by railings. Make good use of that and things will be much easier.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-9",
+              "operation": "S2-9",
+              "levelId": "obt/main/level_sub_02-09",
+              "name": "Trap-2",
+              "description": "Enemies have become stronger. Using the terrain is still the key to victory.",
+              "hasChallenge": false
+            },
+            {
               "id": "2-8",
               "operation": "2-8",
               "levelId": "obt/main/level_main_02-08",
@@ -15681,6 +15753,30 @@
               "description": "The battlefield is narrow this time. Please make sure you have enough melee Operators to stop enemies.\n<@lv.item><Anti-Air Rune></> Operators deployed on it will attack a bit more slowly but their ATK against aerial units will be increased significantly",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nThe HP of enemy units is increased significantly."
+            },
+            {
+              "id": "S2-10",
+              "operation": "S2-10",
+              "levelId": "obt/main/level_sub_02-10",
+              "name": "Suffocation-1",
+              "description": "Please pay attention to the surprise attack from the south.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-11",
+              "operation": "S2-11",
+              "levelId": "obt/main/level_sub_02-11",
+              "name": "Suffocation-2",
+              "description": "The battlefield is completely divided again. Try to defend against enemies from both directions.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-12",
+              "operation": "S2-12",
+              "levelId": "obt/main/level_sub_02-12",
+              "name": "Suffocation-3",
+              "description": "Please pay attention to the surprise attack launched by enemy aerial units from the east and west.",
+              "hasChallenge": false
             },
             {
               "id": "2-10",
@@ -15840,6 +15936,62 @@
               "description": "Skullshatterer is coming at us with her troops again, only more dangerous...\n<@lv.item><Defensive Rune></> Operators deployed on it will have higher DEF",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nThe HP of enemy units is increased significantly."
+            },
+            {
+              "id": "S3-1",
+              "operation": "S3-1",
+              "levelId": "obt/main/level_sub_03-1-1",
+              "name": "Lurking-1",
+              "description": "Please pay attention to the joint attack of enemy's invisible units and Casters.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-2",
+              "operation": "S3-2",
+              "levelId": "obt/main/level_sub_03-1-2",
+              "name": "Lurking-2",
+              "description": "Enemy only focuses their attack on one spot, but still it's recommended to deploy Operators in the rear.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-3",
+              "operation": "S3-3",
+              "levelId": "obt/main/level_sub_03-2-1",
+              "name": "Recon-1",
+              "description": "Making good use of the Bushes and the Detector is the key to victory.\n<@lv.item><Bush></> Operators deployed on it will not be targeted by enemy's ranged attack\n<@lv.item><Detector></> Once activated, it will disable the invisibility of nearby enemies for a certain period",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-4",
+              "operation": "S3-4",
+              "levelId": "obt/main/level_sub_03-2-2",
+              "name": "Recon-2",
+              "description": "Enemies are attacking from different routes this time. Please make sure you have enough melee Operators to stop them.\n<@lv.item><Bush></> Operators deployed on it will not be targeted by enemy's ranged attack",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-5",
+              "operation": "S3-5",
+              "levelId": "obt/main/level_sub_03-2-3",
+              "name": "Recon-3",
+              "description": "The route is simple this time. It will be a test for your Operators' strength.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-6",
+              "operation": "S3-6",
+              "levelId": "obt/main/level_sub_03-3-1",
+              "name": "Ignition-1",
+              "description": "This battle requires us to concentrate our firepower upon swarms of enemies.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-7",
+              "operation": "S3-7",
+              "levelId": "obt/main/level_sub_03-3-2",
+              "name": "Concealed-1",
+              "description": "A large number of invisible enemies have surrounded the battlefield. Prepare to face them with a solid frontline and far-sighted scouts.",
+              "hasChallenge": false
             }
           ]
         },
@@ -16016,6 +16168,86 @@
               "description": "FrostNova and her elite team have the area completely surrounded.\nAll we can do now is to engage and hold them at our perimeter.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nThe ATK and Skill range of FrostNova are increased significantly."
+            },
+            {
+              "id": "S4-1",
+              "operation": "S4-1",
+              "levelId": "obt/main/level_sub_04-1-1",
+              "name": "Cluster-1",
+              "description": "Make good use of the Active Originium in the middle of the battlefield and things will be much easier.\n<@lv.item><Active Originium></>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and Attack Speed will be increased significantly",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-2",
+              "operation": "S4-2",
+              "levelId": "obt/main/level_sub_04-1-2",
+              "name": "Cluster-2",
+              "description": "Enemies are coming from more directions. Still it's recommended to build your defense around the Active Originium.\n<@lv.item><Active Originium></>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and Attack Speed will be increased significantly",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-3",
+              "operation": "S4-3",
+              "levelId": "obt/main/level_sub_04-1-3",
+              "name": "Cluster-3",
+              "description": "The alien force has split into two. It may be a good choice to consume their HP by the Active Originium.\n<@lv.item><Active Originium></>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and Attack Speed will be increased significantly",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-4",
+              "operation": "S4-4",
+              "levelId": "obt/main/level_sub_04-2-1",
+              "name": "Myriapoda-1",
+              "description": "Please be careful of the Originium Slugs in the south and the north and don't let them go through our defense.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-5",
+              "operation": "S4-5",
+              "levelId": "obt/main/level_sub_04-2-2",
+              "name": "Myriapoda-2",
+              "description": "The battlefield is narrow this time. Please think carefully about where to deploy Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-6",
+              "operation": "S4-6",
+              "levelId": "obt/main/level_sub_04-2-3",
+              "name": "Myriapoda-3",
+              "description": "The battlefield is even narrower. It's recommended to upgrade Operators to get through it.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-7",
+              "operation": "S4-7",
+              "levelId": "obt/main/level_sub_04-3-1",
+              "name": "Rage-1",
+              "description": "Please pay attention to the joint attack of enemy's Originium Slugs and alien elite Casters.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-8",
+              "operation": "S4-8",
+              "levelId": "obt/main/level_sub_04-3-2",
+              "name": "Rage-2",
+              "description": "Scatter the Operators and use ranged Operators to take out the Originium Slugs from afar.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-9",
+              "operation": "S4-9",
+              "levelId": "obt/main/level_sub_04-3-3",
+              "name": "Rage-3",
+              "description": "There is not much space for melee Operators this time. Try using Specialist Operators to cope with the tough enemies on the left.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-10",
+              "operation": "S4-10",
+              "levelId": "obt/main/level_sub_04-4-1",
+              "name": "Stand Firm-1",
+              "description": "A large number of elite enemies have appeared. Please be careful.",
+              "hasChallenge": false
             }
           ]
         },
@@ -16192,6 +16424,78 @@
               "description": "We are now deep behind enemy lines and there is no going back. Use your tactical expertise and find a way through the crossfire between Mephisto and Faust! \n<@lv.item><Turrets></> periodically fire bolts, dealing Physical damage to our units.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nMephisto's HP and DEF are greatly increased."
+            },
+            {
+              "id": "S5-1",
+              "operation": "S5-1",
+              "levelId": "obt/main/level_sub_05-1-1",
+              "name": "Entrenched-1",
+              "description": "The enemies continue their massed assault. Beware of the Wraiths sneaking in from above.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-2",
+              "operation": "S5-2",
+              "levelId": "obt/main/level_sub_05-1-2",
+              "name": "Entrenched-2",
+              "description": "The situation in the field is getting more complicated. Carefully deploy melee Operators to stop the swarm of enemy Breakers.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-3",
+              "operation": "S5-3",
+              "levelId": "obt/main/level_sub_05-2-1",
+              "name": "Biting Cold-1",
+              "description": "Well armored Frost Drones are causing havoc with our forces. Counter them with Caster Operators.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-4",
+              "operation": "S5-4",
+              "levelId": "obt/main/level_sub_05-2-2",
+              "name": "Biting Cold-2",
+              "description": "The enemy force is a mix of Arts Masters and Frost Drones making it increasingly difficult to handle. Make use of Sniper and Caster Operators and don't forget our Jammers! \n<@lv.item><Jammer></> can stop nearby enemy drones from firing, greatly reduce their speed, and prevent them from activating special abilities after being deployed.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-5",
+              "operation": "S5-5",
+              "levelId": "obt/main/level_sub_05-3-1",
+              "name": "Panic-1",
+              "description": "Possessed Soldier Leaders can regenerate faster and pose a serious threat. Take them out first. \n<@lv.item><Turrets></> periodically fire bolts, dealing Physical damage to our units.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-6",
+              "operation": "S5-6",
+              "levelId": "obt/main/level_sub_05-3-2",
+              "name": "Panic-2",
+              "description": "Defense Crushers are enemy elite units specialized in defense. Their attacks can also stun our melee units. Take advantage of their slow moving speed to counter them. \n<@lv.item><Turrets></> periodically fire bolts, dealing Physical damage to our units.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-7",
+              "operation": "S5-7",
+              "levelId": "obt/main/level_sub_05-4-1",
+              "name": "Hover-1",
+              "description": "A large number of unmanned enemy drones have appeared on this operation. Please take charge of the anti-air defense.\n<@lv.item><Jammer></> Stops nearby enemy drones from firing, greatly reduces their speed, and prevents them from activating special abilities.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-8",
+              "operation": "S5-8",
+              "levelId": "obt/main/level_sub_05-4-2",
+              "name": "Hover-2",
+              "description": "Enemies attack from different directions in this battle. Be careful of the large number of Casters that are approaching.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-9",
+              "operation": "S5-9",
+              "levelId": "obt/main/level_sub_05-4-3",
+              "name": "Abnormality-1",
+              "description": "A number of possessed enemies have appeared during this battle. Please make sure to fortify your defenses.",
+              "hasChallenge": false
             },
             {
               "id": "H5-1",
@@ -16466,6 +16770,38 @@
               "levelId": "obt/main/level_main_06-15",
               "name": "Winter's End",
               "description": "We chose to fight to the bitter end. She did as well.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-1",
+              "operation": "S6-1",
+              "levelId": "obt/main/level_sub_06-1-1",
+              "name": "Condensation-1",
+              "description": "The Yeti Squadron is utilizing Infused Glacial Originium Slugs in their assault upon us. Please be careful of these aberrant creatures.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-2",
+              "operation": "S6-2",
+              "levelId": "obt/main/level_sub_06-1-2",
+              "name": "Condensation-2",
+              "description": "A failure to handle the synergy between Infused Glacial Originium Slugs and Icecleavers will result in massive losses.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-3",
+              "operation": "S6-3",
+              "levelId": "obt/main/level_sub_06-2-1",
+              "name": "Hoarfrost-1",
+              "description": "An attack from a large number of Infused Glacial Originium Slugs, followed by a wave of Icecleavers, will inflict catastrophic damage to insufficiently prepared squads.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-4",
+              "operation": "S6-4",
+              "levelId": "obt/main/level_sub_06-2-2",
+              "name": "Hoarfrost-2",
+              "description": "Surrounded by a harsh environment filled with Originium Ice Crystals and powerful Icecleavers, how are we to mount a response to this attack? \n<@lv.item><Originium Ice Crystal></>Periodically releases a frigid wave that will inflict Cold to affected allied units.",
               "hasChallenge": false
             },
             {
@@ -16777,6 +17113,22 @@
               "description": "They are commanded by the 'Aegis' of the Infected. The most ancient bloodline among the warriors of Sarkaz. Ursus's indomitable incarnation of war. The backbone of the Reunion Movement. Yelena's father.\n<@lv.item><Originium Altar></> Periodically emits Pulse Waves to the surrounding tiles, damaging both allied and enemy units.\n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\n6 tiles on the battlefield are no longer available for deployment."
+            },
+            {
+              "id": "S7-1",
+              "operation": "S7-1",
+              "levelId": "obt/main/level_sub_07-1-1",
+              "name": "Ambush-1",
+              "description": "Make good use of neural interference landmines to deal with guerillas that are difficult to injure through normal means.\n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S7-2",
+              "operation": "S7-2",
+              "levelId": "obt/main/level_sub_07-1-2",
+              "name": "Ambush-2",
+              "description": "Use interference mines to establish a defensive line, expand our advantages, and accomplish our strategic goals.\n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.",
+              "hasChallenge": false
             },
             {
               "id": "H7-1",
@@ -17422,6 +17774,46 @@
               "description": "Mandragora is in no way impossible to overcome, but our objective is not to defeat her alone. The dark clouds conceal the sun, and the night that follows will be interminably long, but it is fortunate that there remain those who pass on hope.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nThe damage of Mandragora's skills is significantly increased."
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_easy_sub_09-1-1",
+              "name": "Holding Ruins",
+              "description": "The unrelenting firefight has destroyed the streets, but we still must come up with every way to stop the enemy. \n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes. \n<@lv.ez>Environmental Conditions: </>\nFriendly units' HP and ATK are significantly increased, Redeployment Time is reduced, and Starting DP is increased.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_sub_09-1-1",
+              "name": "Holding Ruins",
+              "description": "The unrelenting firefight has destroyed the streets, but we still must come up with every way to stop the enemy.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-2",
+              "operation": "S9-2",
+              "levelId": "obt/main/level_sub_09-1-2",
+              "name": "Back to the Flames",
+              "description": "Those holding their homeland fast have found themselves encircled, but the city has its own ways when it comes to handling enemies.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-3",
+              "operation": "S9-3",
+              "levelId": "obt/main/level_sub_09-1-3",
+              "name": "Beneath the Ash",
+              "description": "The enemy believes they can burn this place to the ground. But we will rise from the ashes.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-4",
+              "operation": "S9-4",
+              "levelId": "obt/main/level_sub_09-1-4",
+              "name": "No Retreat",
+              "description": "Amidst brick and rubble, there is no retreat for either side.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+              "hasChallenge": false
             },
             {
               "id": "H9-1",

@@ -15546,6 +15546,14 @@
               "challenge": "<@lv.fs>附加条件：</>\\n禁止使用术师干员"
             },
             {
+              "id": "S2-1",
+              "operation": "S2-1",
+              "levelId": "obt/main/level_sub_02-01",
+              "name": "迟缓-1",
+              "description": "请注意警惕敌方的高防御盾兵。",
+              "hasChallenge": false
+            },
+            {
               "id": "2-2",
               "operation": "2-2",
               "levelId": "obt/main/level_main_02-02",
@@ -15561,6 +15569,30 @@
               "description": "战场中心出现了更多的高防御敌人，使用辅助和术师干员能够大幅度削减其战斗力。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n禁止使用辅助干员"
+            },
+            {
+              "id": "S2-2",
+              "operation": "S2-2",
+              "levelId": "obt/main/level_sub_02-02",
+              "name": "迟缓-2",
+              "description": "请注意敌方从上下两方飞过的飞行单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-3",
+              "operation": "S2-3",
+              "levelId": "obt/main/level_sub_02-03",
+              "name": "封锁-1",
+              "description": "请合理布置障碍物，防守对称的战场中两方攻来的敌方大军。\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-4",
+              "operation": "S2-4",
+              "levelId": "obt/main/level_sub_02-04",
+              "name": "封锁-2",
+              "description": "战场比之前更加复杂，需要更加小心地配置障碍物的位置。\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": false
             },
             {
               "id": "2-3",
@@ -15595,6 +15627,30 @@
               "description": "已在战场上确认敌方精英术师部队。\\n该敌人威胁较高，建议分散我方干员的部署位置。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n敌方单位的生命值大幅度提升"
+            },
+            {
+              "id": "S2-5",
+              "operation": "S2-5",
+              "levelId": "obt/main/level_sub_02-05",
+              "name": "术师-1",
+              "description": "敌方精英术师的位置更加地分散，建议使用狙击干员进行逐步清除。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-6",
+              "operation": "S2-6",
+              "levelId": "obt/main/level_sub_02-06",
+              "name": "术师-2",
+              "description": "敌人的精英术师依然是我方最大的威胁，合理地分散站位能有效降低其输出。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-7",
+              "operation": "S2-7",
+              "levelId": "obt/main/level_sub_02-07",
+              "name": "术师-3",
+              "description": "敌人派出了更多的精英术师，依旧需要我方良好的部署位置来应对。",
+              "hasChallenge": false
             },
             {
               "id": "2-5",
@@ -15648,6 +15704,22 @@
               "challenge": "<@lv.fs>附加条件：</>\\n敌方远程单位的射程大幅度提升"
             },
             {
+              "id": "S2-8",
+              "operation": "S2-8",
+              "levelId": "obt/main/level_sub_02-08",
+              "name": "陷阱-1",
+              "description": "屋顶有许多没有遮拦的地形，好好利用的话可以达到事半功倍的效果。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-9",
+              "operation": "S2-9",
+              "levelId": "obt/main/level_sub_02-09",
+              "name": "陷阱-2",
+              "description": "敌人的质量更高了，好好利用地形依然是战略的关键。",
+              "hasChallenge": false
+            },
+            {
               "id": "2-8",
               "operation": "2-8",
               "levelId": "obt/main/level_main_02-08",
@@ -15680,6 +15752,30 @@
               "description": "本次的战场十分狭小，请确保有足够多的近战干员阻拦敌军。\\n<@lv.item><防空符文></>置于其中的干员会略微减慢攻速，但大幅度提升对空攻击力",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n敌方单位的生命值大幅度提升"
+            },
+            {
+              "id": "S2-10",
+              "operation": "S2-10",
+              "levelId": "obt/main/level_sub_02-10",
+              "name": "窒息-1",
+              "description": "请注意下方可能会进行偷袭的敌人。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-11",
+              "operation": "S2-11",
+              "levelId": "obt/main/level_sub_02-11",
+              "name": "窒息-2",
+              "description": "战场再度被完全分割，需要尽力防守敌方两路的兵力。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-12",
+              "operation": "S2-12",
+              "levelId": "obt/main/level_sub_02-12",
+              "name": "窒息-3",
+              "description": "请注意从左右两方偷袭而来的敌方飞行单位。",
+              "hasChallenge": false
             },
             {
               "id": "2-10",
@@ -15839,6 +15935,62 @@
               "description": "碎骨再次带着大军攻向我方，并且这次的气息更加危险……\\n<@lv.item><防御符文></>部署于其上的我方干员获得防御力提升",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n敌方单位的生命值大幅度提升"
+            },
+            {
+              "id": "S3-1",
+              "operation": "S3-1",
+              "levelId": "obt/main/level_sub_03-1-1",
+              "name": "潜伏-1",
+              "description": "请注意敌方隐匿单位和术师的联合进攻。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-2",
+              "operation": "S3-2",
+              "levelId": "obt/main/level_sub_03-1-2",
+              "name": "潜伏-2",
+              "description": "敌方的主要进攻点虽然只有一处，仍建议在后方进行布防。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-3",
+              "operation": "S3-3",
+              "levelId": "obt/main/level_sub_03-2-1",
+              "name": "侦察-1",
+              "description": "合理利用草丛和侦查塔是本次作战成功的关键。\\n<@lv.item><草丛></>部署于其上的干员不会成为敌方远程攻击的目标\\n<@lv.item><侦测器></>开启后一段时间内周围敌军的隐匿效果失效",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-4",
+              "operation": "S3-4",
+              "levelId": "obt/main/level_sub_03-2-2",
+              "name": "侦察-2",
+              "description": "本次战场敌人进攻路线较多，请确保有足够多的近战干员参与作战。\\n<@lv.item><草丛></>部署于其上的干员不会成为敌方远程攻击的目标",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-5",
+              "operation": "S3-5",
+              "levelId": "obt/main/level_sub_03-2-3",
+              "name": "侦察-3",
+              "description": "本次作战路线较为简单，是一场对硬实力的考验。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-6",
+              "operation": "S3-6",
+              "levelId": "obt/main/level_sub_03-3-1",
+              "name": "集火-1",
+              "description": "本次作战需要集中火力，对抗蜂拥而至的敌人。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-7",
+              "operation": "S3-7",
+              "levelId": "obt/main/level_sub_03-3-2",
+              "name": "隐匿-1",
+              "description": "大量的隐匿单位包围了战场，请做好准备，以坚实的阵线和有远见的侦察应对他们。",
+              "hasChallenge": false
             }
           ]
         },
@@ -16015,6 +16167,86 @@
               "description": "霜星及其精英部队已经完全包围了这片区域。\\n我们现在能做的唯有迎击，不让其跨过防线一步。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n霜星的攻击和技能范围大幅度提升"
+            },
+            {
+              "id": "S4-1",
+              "operation": "S4-1",
+              "levelId": "obt/main/level_sub_04-1-1",
+              "name": "晶簇-1",
+              "description": "合理利用战场中央的活性源石能够事半功倍。\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-2",
+              "operation": "S4-2",
+              "levelId": "obt/main/level_sub_04-1-2",
+              "name": "晶簇-2",
+              "description": "敌人的进攻路线更多了，建议依旧以活性源石为中心建立防线。\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-3",
+              "operation": "S4-3",
+              "levelId": "obt/main/level_sub_04-1-3",
+              "name": "晶簇-3",
+              "description": "异族大军兵分两路进攻，利用活性源石消耗敌方血量似乎也是一个不错的选择。\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-4",
+              "operation": "S4-4",
+              "levelId": "obt/main/level_sub_04-2-1",
+              "name": "多足-1",
+              "description": "请注意不要被上下方的源石虫冲破了阵型。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-5",
+              "operation": "S4-5",
+              "levelId": "obt/main/level_sub_04-2-2",
+              "name": "多足-2",
+              "description": "本战场地形狭小，请仔细考虑干员的部署位置。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-6",
+              "operation": "S4-6",
+              "levelId": "obt/main/level_sub_04-2-3",
+              "name": "多足-3",
+              "description": "战场地形变得更为狭窄，请考虑提升干员的硬实力应对难关。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-7",
+              "operation": "S4-7",
+              "levelId": "obt/main/level_sub_04-3-1",
+              "name": "狂怒-1",
+              "description": "请注意敌方源石虫和异族精英术师的配合进攻。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-8",
+              "operation": "S4-8",
+              "levelId": "obt/main/level_sub_04-3-2",
+              "name": "狂怒-2",
+              "description": "请注意分散占位，建议使用远程干员在远处解决源石虫。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-9",
+              "operation": "S4-9",
+              "levelId": "obt/main/level_sub_04-3-3",
+              "name": "狂怒-3",
+              "description": "战场中的近战干员位置变得稀少，考虑使用特种干员解决左方的棘手敌人。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-10",
+              "operation": "S4-10",
+              "levelId": "obt/main/level_sub_04-4-1",
+              "name": "坚守-1",
+              "description": "本次作战中出现大量精英敌人。请小心应对。",
+              "hasChallenge": false
             }
           ]
         },
@@ -16191,6 +16423,78 @@
               "description": "我们已深入敌方的阵地，已经没有退路。运用你的战术头脑，从梅菲斯特和浮士德的交叉火力中杀出一条血路！\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n梅菲斯特的生命值和防御力极大幅度提升"
+            },
+            {
+              "id": "S5-1",
+              "operation": "S5-1",
+              "levelId": "obt/main/level_sub_05-1-1",
+              "name": "盘踞-1",
+              "description": "敌方继续在派遣大量部队在进行突袭，请特别注意上方偷袭而来的幽灵。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-2",
+              "operation": "S5-2",
+              "levelId": "obt/main/level_sub_05-1-2",
+              "name": "盘踞-2",
+              "description": "战场环境变得复杂，需要考虑部署近战干员的位置来阻挡敌方蜂拥而来的破阵者。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-3",
+              "operation": "S5-3",
+              "levelId": "obt/main/level_sub_05-2-1",
+              "name": "恶寒-1",
+              "description": "无人机寒霜对我方的干扰能力极强且拥有较高护甲，考虑使用术师干员对其进行针对。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-4",
+              "operation": "S5-4",
+              "levelId": "obt/main/level_sub_05-2-2",
+              "name": "恶寒-2",
+              "description": "法术大师和寒霜的混合部队更加难以对付了，请派遣更多的狙击和术师干员，并合理利用无人机干扰器！\\n<@lv.item><干扰装置></>部署后能够使周围的敌方无人机无法攻击、速度大幅度减缓，且无法使用特殊能力",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-5",
+              "operation": "S5-5",
+              "levelId": "obt/main/level_sub_05-3-1",
+              "name": "恐慌-1",
+              "description": "宿主士兵组长相当难缠，拥有更高的生命回复速度，请依旧考虑优先对其进行击杀。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-6",
+              "operation": "S5-6",
+              "levelId": "obt/main/level_sub_05-3-2",
+              "name": "恐慌-2",
+              "description": "粉碎攻坚手是敌方的精英单位，拥有极高防御，并且能够晕眩我方近战单位。请利用其移速慢的弱点进行牵制。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-7",
+              "operation": "S5-7",
+              "levelId": "obt/main/level_sub_05-4-1",
+              "name": "盘旋-1",
+              "description": "本次作战中出现大量无人机部队，请进行对空防御指挥。\\n<@lv.item><干扰装置></>部署后能够使周围的敌方无人机无法攻击、速度大幅度减缓，且无法使用特殊能力",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-8",
+              "operation": "S5-8",
+              "levelId": "obt/main/level_sub_05-4-2",
+              "name": "盘旋-2",
+              "description": "本次作战中敌人将从多个方位发起攻击。大量精英术师敌人靠近中，请小心应对！",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-9",
+              "operation": "S5-9",
+              "levelId": "obt/main/level_sub_05-4-3",
+              "name": "异状-1",
+              "description": "本次作战中出现了大量的宿主部队，一定要注意防守。",
+              "hasChallenge": false
             },
             {
               "id": "H5-1",
@@ -16465,6 +16769,38 @@
               "levelId": "obt/main/level_main_06-15",
               "name": "冬逝",
               "description": "我们选择战斗到最后。她也是。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-1",
+              "operation": "S6-1",
+              "levelId": "obt/main/level_sub_06-1-1",
+              "name": "凝结-1",
+              "description": "混杂了冰爆源石虫的雪怪小队部队发起了进攻，请小心这些异常的源石虫。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-2",
+              "operation": "S6-2",
+              "levelId": "obt/main/level_sub_06-1-2",
+              "name": "凝结-2",
+              "description": "冰爆源石虫与破冰者的组合，处理不当，将会造成很大的损失。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-3",
+              "operation": "S6-3",
+              "levelId": "obt/main/level_sub_06-2-1",
+              "name": "霜冻-1",
+              "description": "大量的冰爆源石虫与有编制的破冰者，将会对不够坚实的防线造成毁灭性的打击。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-4",
+              "operation": "S6-4",
+              "levelId": "obt/main/level_sub_06-2-2",
+              "name": "霜冻-2",
+              "description": "恶劣的环境，特殊的源石设施，强大的破冰者，这样的攻击，我们该如何应对？\\n<@lv.item><源石冰晶></>周期性地释放对我方单位施加【寒冷】的范围性寒流",
               "hasChallenge": false
             },
             {
@@ -16776,6 +17112,22 @@
               "description": "感染者游击队“盾”的指挥官。萨卡兹勇士中古老至极的血脉。乌萨斯最壮毅的战争化身。整合运动的脊骨。叶莲娜之父。 \\n<@lv.item><源石祭坛></>周期性向四周释放气体，对我军与敌军造成伤害\\n<@lv.item><干扰地雷></>爆炸时可使四周的所有敌人造成大量伤害并使其15秒内受到的伤害增加",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n战场中的6个位置无法部署我方单位"
+            },
+            {
+              "id": "S7-1",
+              "operation": "S7-1",
+              "levelId": "obt/main/level_sub_07-1-1",
+              "name": "埋伏-1",
+              "description": "合理运用神经性干扰地雷，处理难以被普通手段伤害的游击队战士。\\n<@lv.item><干扰地雷></>爆炸时可使四周的所有敌人造成大量伤害并使其15秒内受到的伤害增加",
+              "hasChallenge": false
+            },
+            {
+              "id": "S7-2",
+              "operation": "S7-2",
+              "levelId": "obt/main/level_sub_07-1-2",
+              "name": "埋伏-2",
+              "description": "运用干扰地雷，建立防线，扩大优势，达成战略目标。\\n<@lv.item><干扰地雷></>爆炸时可使四周的所有敌人造成大量伤害并使其15秒内受到的伤害增加",
+              "hasChallenge": false
             },
             {
               "id": "H7-1",
@@ -17421,6 +17773,46 @@
               "description": "蔓德拉并非不可战胜，但我们的目标绝不是击败她一人。阴云正在遮蔽太阳，随之而来的黑夜会很漫长，幸好，仍有人在传递希望。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟\\n<@lv.item><爆破装置></>直接击倒前方一格的破碎支柱",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n蔓德拉的技能伤害大幅提升"
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_easy_sub_09-1-1",
+              "name": "废墟坚守",
+              "description": "无休止的交火摧毁了街道，但我们依然要想尽办法阻止敌人。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟\\n<@lv.ez>环境条件：</>\\n我方单位生命和攻击大幅增加，再部署时间缩短，初始费用增加",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_sub_09-1-1",
+              "name": "废墟坚守",
+              "description": "无休止的交火摧毁了街道，但我们依然要想尽办法阻止敌人。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-2",
+              "operation": "S9-2",
+              "levelId": "obt/main/level_sub_09-1-2",
+              "name": "背向火灼",
+              "description": "固守家园的人们陷入被包围的困境，但对待敌人，城市也有它自己的方法。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-3",
+              "operation": "S9-3",
+              "levelId": "obt/main/level_sub_09-1-3",
+              "name": "灰烬之下",
+              "description": "敌人自认为能将这里烧个干净，但是，墙塌柱倒时，我们会从灰烬中站起。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-4",
+              "operation": "S9-4",
+              "levelId": "obt/main/level_sub_09-1-4",
+              "name": "退无可退",
+              "description": "断壁残垣间，双方都已没了退路。\\n<@lv.item><破碎支柱></>可以被相邻干员击倒，对倒下方向的两格造成真实伤害并生成阻挡路线的废墟",
+              "hasChallenge": false
             },
             {
               "id": "H9-1",

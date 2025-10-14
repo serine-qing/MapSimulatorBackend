@@ -15547,6 +15547,14 @@
               "challenge": "<@lv.fs>制限：</>\n【術師】使用禁止"
             },
             {
+              "id": "S2-1",
+              "operation": "S2-1",
+              "levelId": "obt/main/level_sub_02-01",
+              "name": "緩慢-1",
+              "description": "高防御力の重装兵に警戒せよ。",
+              "hasChallenge": false
+            },
+            {
               "id": "2-2",
               "operation": "2-2",
               "levelId": "obt/main/level_main_02-02",
@@ -15562,6 +15570,30 @@
               "description": "下部ルートから更に多くの重装兵が進攻してくる。補助オペレーターと術師オペレーターを活用し、敵の戦力を削げ。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n【補助】使用禁止"
+            },
+            {
+              "id": "S2-2",
+              "operation": "S2-2",
+              "levelId": "obt/main/level_sub_02-02",
+              "name": "緩慢-2",
+              "description": "上下から飛来する敵に警戒せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-3",
+              "operation": "S2-3",
+              "levelId": "obt/main/level_sub_02-03",
+              "name": "封鎖-1",
+              "description": "障害物をうまく配置し、両側から進攻してくる敵の大軍を食い止めろ。\n<@lv.item><障害物></>敵の進攻ルートを遮る。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-4",
+              "operation": "S2-4",
+              "levelId": "obt/main/level_sub_02-04",
+              "name": "封鎖-2",
+              "description": "更に複雑な戦場での交戦だ。障害物の配置場所は慎重に選べ。\n<@lv.item><障害物></>敵の進攻ルートを遮る。",
+              "hasChallenge": false
             },
             {
               "id": "2-3",
@@ -15596,6 +15628,30 @@
               "description": "範囲攻撃を使う術師部隊を確認。\nオペレーターを分散して配置し、被害を減らしつつ迎撃せよ。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n全ての敵の最大HPが大幅に上昇"
+            },
+            {
+              "id": "S2-5",
+              "operation": "S2-5",
+              "levelId": "obt/main/level_sub_02-05",
+              "name": "術師-1",
+              "description": "更に広い範囲に敵の精鋭術師を確認。狙撃オペレーターで逐次撃破せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-6",
+              "operation": "S2-6",
+              "levelId": "obt/main/level_sub_02-06",
+              "name": "術師-2",
+              "description": "敵の精鋭術師は依然としてこの戦場の最大の脅威だ。合理的に味方を分散させ、敵の攻撃を凌ぎつつ戦え。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-7",
+              "operation": "S2-7",
+              "levelId": "obt/main/level_sub_02-07",
+              "name": "術師-3",
+              "description": "これまで以上の数の精鋭術師が確認された。オペレーターの配置位置を慎重に考えつつ迎撃せよ。",
+              "hasChallenge": false
             },
             {
               "id": "2-5",
@@ -15649,6 +15705,22 @@
               "challenge": "<@lv.fs>制限：</>\n全ての敵遠距離ユニットの攻撃範囲が大幅に拡大"
             },
             {
+              "id": "S2-8",
+              "operation": "S2-8",
+              "levelId": "obt/main/level_sub_02-08",
+              "name": "罠-1",
+              "description": "ビルの屋上にはフェンスが設置されていない場所も多い。うまく活用すれば効率的に立ち回れるはずだ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-9",
+              "operation": "S2-9",
+              "levelId": "obt/main/level_sub_02-09",
+              "name": "罠-2",
+              "description": "敵が強くなってきている。地形をうまく利用することが勝利のカギだ。",
+              "hasChallenge": false
+            },
+            {
               "id": "2-8",
               "operation": "2-8",
               "levelId": "obt/main/level_main_02-08",
@@ -15681,6 +15753,30 @@
               "description": "今回の戦場は非常に狭い、十分な数の近距離オペレーターを配置し敵の進攻を阻止せよ。\n<@lv.item><対空エリア></>配置したオペレーターの攻撃速度がやや下がる代わりに対空攻撃力が大幅に上昇。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n全ての敵の最大HPが大幅に上昇"
+            },
+            {
+              "id": "S2-10",
+              "operation": "S2-10",
+              "levelId": "obt/main/level_sub_02-10",
+              "name": "窒息-1",
+              "description": "下方から奇襲を仕掛けてくる敵に警戒せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-11",
+              "operation": "S2-11",
+              "levelId": "obt/main/level_sub_02-11",
+              "name": "窒息-2",
+              "description": "戦場が二つに分断されていた。どちらのルートも守り抜け。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S2-12",
+              "operation": "S2-12",
+              "levelId": "obt/main/level_sub_02-12",
+              "name": "窒息-3",
+              "description": "左右から襲ってくる敵ドローンに警戒せよ。",
+              "hasChallenge": false
             },
             {
               "id": "2-10",
@@ -15840,6 +15936,62 @@
               "description": "スカルシュレッダーが大軍を率いて進攻してきた。今回は更に危険な空気をまとって……。\n<@lv.item><防護エリア></>配置した味方の防御力が上昇する。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n全ての敵の最大HPが大幅に上昇"
+            },
+            {
+              "id": "S3-1",
+              "operation": "S3-1",
+              "levelId": "obt/main/level_sub_03-1-1",
+              "name": "潜伏-1",
+              "description": "ステルスを駆使する敵と術師の連携攻撃に警戒せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-2",
+              "operation": "S3-2",
+              "levelId": "obt/main/level_sub_03-1-2",
+              "name": "潜伏-2",
+              "description": "敵が進行してくる箇所は一箇所に見えるが、後方に布陣を敷くことを提案しておく。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-3",
+              "operation": "S3-3",
+              "levelId": "obt/main/level_sub_03-2-1",
+              "name": "偵察-1",
+              "description": "草むらと探知機をうまく利用することがこの作戦のカギになりそうだ。\n<@lv.item><草むら></>配置した味方は敵遠距離攻撃の対象にならない\n<@lv.item><探知機></>起動後一定時間周囲の敵のステルス状態を無効化する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-4",
+              "operation": "S3-4",
+              "levelId": "obt/main/level_sub_03-2-2",
+              "name": "偵察-2",
+              "description": "敵がいくつもの箇所から攻めてくる。十分な数の近距離オペレーターを作戦に投入せよ。\n<@lv.item><草むら></>配置した味方は敵遠距離攻撃の対象にならない。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-5",
+              "operation": "S3-5",
+              "levelId": "obt/main/level_sub_03-2-3",
+              "name": "偵察-3",
+              "description": "本作戦の敵の進行ルートは非常にわかりやすい。真の実力が試される。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-6",
+              "operation": "S3-6",
+              "levelId": "obt/main/level_sub_03-3-1",
+              "name": "集火-1",
+              "description": "火力を集中させ、次々に押し寄せてくる敵を退けろ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S3-7",
+              "operation": "S3-7",
+              "levelId": "obt/main/level_sub_03-3-2",
+              "name": "隠匿-1",
+              "description": "大量のステルスを駆使する敵に戦場を囲まれてしまった。万全な準備を行い、堅実な戦線と先見ある偵察で対応しよう。",
+              "hasChallenge": false
             }
           ]
         },
@@ -16016,6 +16168,86 @@
               "description": "フロストノヴァ及びその精鋭部隊が当エリアを包囲した。\n生き延びる方法は彼女らを撃退する以外にない。敵に一歩たりともこちらの防衛線を跨がせるな。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n<FrostNova>の攻撃範囲とスキル効果範囲が大幅に拡大"
+            },
+            {
+              "id": "S4-1",
+              "operation": "S4-1",
+              "levelId": "obt/main/level_sub_04-1-1",
+              "name": "結晶-1",
+              "description": "戦場中央の活性源石を活用し更なる成果を得よ。\n<@lv.item><活性源石></>に配置した味方及び通過した敵は継続してダメージを受けるが攻撃力と攻撃速度が大幅に上昇する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-2",
+              "operation": "S4-2",
+              "levelId": "obt/main/level_sub_04-1-2",
+              "name": "結晶-2",
+              "description": "敵の進行ルートが更に増えた。活性源石を中心に防衛線を張れ。\n<@lv.item><活性源石></>配置した味方及び通過した敵は継続してダメージを受けるが攻撃力と攻撃速度が大幅に上昇する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-3",
+              "operation": "S4-3",
+              "levelId": "obt/main/level_sub_04-1-3",
+              "name": "結晶-3",
+              "description": "敵の大軍が二か所から進行してくる。活性源石を利用して敵の体力を減らす戦術も悪くなさそうだ。\n<@lv.item><活性源石></>配置した味方及び通過した敵は継続してダメージを受けるが攻撃力と攻撃速度が大幅に上昇する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-4",
+              "operation": "S4-4",
+              "levelId": "obt/main/level_sub_04-2-1",
+              "name": "多足類-1",
+              "description": "上下から自陣に迫るオリジムシを警戒せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-5",
+              "operation": "S4-5",
+              "levelId": "obt/main/level_sub_04-2-2",
+              "name": "多足類-2",
+              "description": "非常に狭い戦場での交戦だ。オペレーターの配置位置は慎重に選べ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-6",
+              "operation": "S4-6",
+              "levelId": "obt/main/level_sub_04-2-3",
+              "name": "多足類-3",
+              "description": "更に配置できる場所が少なくなった。十分な実力を持ったオペレーターたちでこの難関を突破せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-7",
+              "operation": "S4-7",
+              "levelId": "obt/main/level_sub_04-3-1",
+              "name": "激昂-1",
+              "description": "オリジムシと異族の精鋭術師の連携攻撃を打ち破れ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-8",
+              "operation": "S4-8",
+              "levelId": "obt/main/level_sub_04-3-2",
+              "name": "激昂-2",
+              "description": "オペレーターを分散させ配置すると共に、遠距離オペレーターでオリジムシを遠方から攻撃するのが得策だ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-9",
+              "operation": "S4-9",
+              "levelId": "obt/main/level_sub_04-3-3",
+              "name": "激昂-3",
+              "description": "近距離オペレーターを配置できる場所は限られている。左のルートから進行してくる強敵は特殊オペレーターで穴に落とすのも手だ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S4-10",
+              "operation": "S4-10",
+              "levelId": "obt/main/level_sub_04-4-1",
+              "name": "堅守-1",
+              "description": "大量の精鋭たちが攻め込んでくる。警戒を怠るな。",
+              "hasChallenge": false
             }
           ]
         },
@@ -16192,6 +16424,78 @@
               "description": "敵陣の最深部にたどり着いた。もう逃げ場はない。メフィストとファウストの連携攻撃をかいくぐり、死中に活路を見い出せ。\n<@lv.item><バリスタ></>一定時間ごとに矢を放ち物理ダメージを与える。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n<Mephisto>の最大HPと防御力が超大幅に上昇。"
+            },
+            {
+              "id": "S5-1",
+              "operation": "S5-1",
+              "levelId": "obt/main/level_sub_05-1-1",
+              "name": "不動-1",
+              "description": "更に多くの部隊が進攻してくる。上方から奇襲を目論むゴーストには特に警戒せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-2",
+              "operation": "S5-2",
+              "levelId": "obt/main/level_sub_05-1-2",
+              "name": "不動-2",
+              "description": "複雑な地形の戦場だ。近距離オペレーターをうまく配置し、大勢で押し寄せる敵の切り込み兵を迎撃せよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-3",
+              "operation": "S5-3",
+              "levelId": "obt/main/level_sub_05-2-1",
+              "name": "悪寒-1",
+              "description": "冷却装置を搭載したドローン「コキュートス」は妨害に長けており、厄介なことに厚い装甲まで備えている。術師オペレーターで優先して撃墜するのも手だ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-4",
+              "operation": "S5-4",
+              "levelId": "obt/main/level_sub_05-2-2",
+              "name": "悪寒-2",
+              "description": "「アーツバード」と「コキュートス」の混成部隊はこれまで以上に厄介だ。狙撃、術師オペレーターを複数配置した上で、妨害装置を活用せよ。\n<@lv.item><妨害装置></>配置すると、範囲内の敵ドローンに攻撃不可、移動速度減少、特殊能力使用不可を付与。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-5",
+              "operation": "S5-5",
+              "levelId": "obt/main/level_sub_05-3-1",
+              "name": "恐慌-1",
+              "description": "敵の寄生隊長はかなり早い自己再生能力を備えており相当厄介だ。やはり優先して対処すべきだろう。\n<@lv.item><バリスタ></>一定時間ごとに矢を放ち物理ダメージを与える。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-6",
+              "operation": "S5-6",
+              "levelId": "obt/main/level_sub_05-3-2",
+              "name": "恐慌-2",
+              "description": "クラッシャーは高い防御力を誇る精鋭で、スタン効果のある攻撃を仕掛けてくる。動きが遅いという弱点を突いて撃破せよ。\n<@lv.item><バリスタ></>一定時間ごとに矢を放ち物理ダメージを与える。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-7",
+              "operation": "S5-7",
+              "levelId": "obt/main/level_sub_05-4-1",
+              "name": "旋回-1",
+              "description": "大量のドローン部隊が攻め込んでくる。対空防衛を意識した指揮を執れ。\n<@lv.item><妨害装置></>範囲内のドローンに攻撃不可、移動速度減少、特殊能力使用不可を付与。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-8",
+              "operation": "S5-8",
+              "levelId": "obt/main/level_sub_05-4-2",
+              "name": "旋回-2",
+              "description": "敵が多方向より攻めて来る。更には大量の精鋭術師も戦場に現れた。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S5-9",
+              "operation": "S5-9",
+              "levelId": "obt/main/level_sub_05-4-3",
+              "name": "奇形-1",
+              "description": "本作戦には寄生部隊が大量に現れた。防御に万全な注意を払うべきだ。",
+              "hasChallenge": false
             },
             {
               "id": "H5-1",
@@ -16466,6 +16770,38 @@
               "levelId": "obt/main/level_main_06-15",
               "name": "冬逝",
               "description": "我々も、彼女も、最後まで戦い抜くことを選んだ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-1",
+              "operation": "S6-1",
+              "levelId": "obt/main/level_sub_06-1-1",
+              "name": "凝結-1",
+              "description": "ヒョウバクムシを用いて進攻するスノーデビル小隊を退けよ。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-2",
+              "operation": "S6-2",
+              "levelId": "obt/main/level_sub_06-1-2",
+              "name": "凝結-2",
+              "description": "ヒョウバクムシとアイスピッカーの複合部隊だ。対応を誤れば、大きなダメージを受けることになるだろう。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-3",
+              "operation": "S6-3",
+              "levelId": "obt/main/level_sub_06-2-1",
+              "name": "氷霜-1",
+              "description": "大量のヒョウバクムシとアイスピッカーが緩んだ防衛線に壊滅的な攻撃を仕掛けてくる。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S6-4",
+              "operation": "S6-4",
+              "levelId": "obt/main/level_sub_06-2-2",
+              "name": "氷霜-2",
+              "description": "劣悪な環境、特殊な源石装置、強大なアイスピッカー、この恐ろしい戦場を、如何にして戦い抜く？\n<@lv.item><源石氷晶></>一定時間ごとに周囲を\n【寒冷】状態にする衝撃波を放出。",
               "hasChallenge": false
             },
             {
@@ -16777,6 +17113,22 @@
               "description": "感染者遊撃隊「盾」の指揮官。サルカズ勇士最古の血脈。ウルサスで最も頑強な戦争の化身。レユニオンの背骨。エレーナの父。\n<@lv.item><源石祭壇></>一定周期で周囲にエネルギー波を放ち、敵味方にダメージを与える\n<@lv.item><妨害地雷></>爆発時に周囲の敵全員に大ダメージを与え、さらに15秒間被ダメージ量が上昇する効果を与える",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\nマップ上の6つのマスが配置不可に"
+            },
+            {
+              "id": "S7-1",
+              "operation": "S7-1",
+              "levelId": "obt/main/level_sub_07-1-1",
+              "name": "潜伏-1",
+              "description": "神経性の妨害地雷を上手く利用し、通常の攻撃では歯が立たない遊撃隊の戦士たちを各個撃破せよ。\n<@lv.item><妨害地雷></>爆発時に周囲の敵全員に大ダメージを与え、さらに15秒間被ダメージ量が上昇する効果を与える",
+              "hasChallenge": false
+            },
+            {
+              "id": "S7-2",
+              "operation": "S7-2",
+              "levelId": "obt/main/level_sub_07-1-2",
+              "name": "潜伏-2",
+              "description": "妨害地雷を利用し防衛線を敷き、優位性を確保することで戦略目標を達成せよ。\n<@lv.item><妨害地雷></>爆発時に周囲の敵全員に大ダメージを与え、さらに15秒間被ダメージ量が上昇する効果を与える",
+              "hasChallenge": false
             },
             {
               "id": "H7-1",
@@ -17422,6 +17774,46 @@
               "description": "マンドラゴラとの戦いでは勝機を見出したが、彼女を打ち倒してもこの戦いは終わらないだろう。しかし、陽光を遮る暗雲がもたらす夜が明けずとも、希望を伝える者が残っている。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する。\n<@lv.item><爆破装置></>前方1マスの脆い石柱を破壊する。",
               "hasChallenge": true,
               "challenge": "<@lv.fs>制限：</>\n<Mandragora>のスキルの与ダメージが大幅に上昇"
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_easy_sub_09-1-1",
+              "name": "廃墟防戦",
+              "description": "止まない戦火が街を廃墟と化しても、我々はここで敵の侵攻を阻止せねばならない。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する。\n<@lv.ez>環境要素：</>\n全ての味方ユニットの最大HPと攻撃力が大幅に上昇、再配置時間が短縮、初期所持コストが増加",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-1",
+              "operation": "S9-1",
+              "levelId": "obt/main/level_sub_09-1-1",
+              "name": "廃墟防戦",
+              "description": "止まない戦火が街を廃墟と化しても、我々はここで敵の侵攻を阻止せねばならない。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-2",
+              "operation": "S9-2",
+              "levelId": "obt/main/level_sub_09-1-2",
+              "name": "火焔に背を向けて",
+              "description": "故郷を守る者たちが包囲され苦境に立たされている。だが都市にも敵への独自の対処法があるのだ。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する。",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-3",
+              "operation": "S9-3",
+              "levelId": "obt/main/level_sub_09-1-3",
+              "name": "燃え殻の下",
+              "description": "敵はここのすべてを焼き尽くせると思い込んでいるが、壁が崩れ柱が倒れる時、我々は燃え殻の中より立ち上がるだろう。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する",
+              "hasChallenge": false
+            },
+            {
+              "id": "S9-4",
+              "operation": "S9-4",
+              "levelId": "obt/main/level_sub_09-1-4",
+              "name": "退く道はなし",
+              "description": "瓦礫の中、双方ともに退路はない。\n<@lv.item><脆い石柱></>隣接する味方ユニットの攻撃で倒壊させることができる。倒壊した方向2マスの対象に確定ダメージを与え、敵の進行を阻む瓦礫を生成する",
+              "hasChallenge": false
             },
             {
               "id": "H9-1",
