@@ -10937,7 +10937,7 @@
               "name": "Simulated Assassination-2",
               "description": "Map system online. Loading test combat environment...\n<@lv.item><Transverse Plate> </>Deploying Operators requires the assistance of nearby Operators.\n<@lv.rem>Condition: </>Monster and Ergate Leaders have greatly increased HP.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition: </>\n6 tiles on the battlefield are no longer available for deployment."
+              "challenge": "<@lv.fs>Condition:</>\n6 tiles on the battlefield are no longer available for deployment."
             },
             {
               "id": "BB-S-3",
@@ -10971,7 +10971,7 @@
               "name": "Simulated Assassination-4",
               "description": "Simulation building complete. We will stop the assassins in the city this time.\n<@lv.item><Transverse Plate> </>Deploying Operators requires the assistance of nearby Operators.\n<@lv.item><Witchcraft Ballista> </>Periodically fires missiles that deal Arts damage to your units while healing enemy units. Can be destroyed.\n<@lv.rem>Condition: </>All enemies have increased Movement Speed.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition: </>\n5 tiles on the battlefield are no longer available for deployment."
+              "challenge": "<@lv.fs>Condition:</>\n5 tiles on the battlefield are no longer available for deployment."
             },
             {
               "id": "BB-MO-1",
@@ -11900,7 +11900,6 @@
               "operation": "VEC-03",
               "levelId": "activities/act1vecb/level_act1vecb_03",
               "name": "Burdened",
-              "description": null,
               "hasChallenge": false
             },
             {
@@ -13456,316 +13455,316 @@
         },
         {
           "id": "act42side",
-          "episode": "众生行记",
+          "episode": "The Masses' Travels",
           "childNodes": [
             {
               "id": "MT-1",
               "operation": "MT-1",
               "levelId": "activities/act42side/level_act42side_01",
-              "name": "圣秩",
-              "description": "当此前被无视的主张突然得到响应，你会感喟理想终于实现，还是一切如此......不真实？",
+              "name": "Order",
+              "description": "When your calls, ignored for so long, suddenly receive a response, will you shudder with relief as your dreams are realized, or will everything feel... unreal?",
               "hasChallenge": false
             },
             {
               "id": "MT-TR-1",
               "operation": "MT-TR-1",
               "levelId": "activities/act42side/level_act42side_tr01",
-              "name": "圣城的异常",
-              "description": "若你习惯圣城永远洁白，又怎能发现天空投影在其中的变化？\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "Strange Days in the Holy City",
+              "description": "If you are so used to the Holy City being an eternal, spotless white, then how would you ever notice the changes the sky casts onto it?\n<@lv.item><Dream Tiles></> Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer></> After awakening, helps out in battle by various means",
               "hasChallenge": false
             },
             {
               "id": "MT-2",
               "operation": "MT-2",
               "levelId": "activities/act42side/level_act42side_02",
-              "name": "祈祷",
-              "description": "当所有人都笃信最极端的梦境也能被塑造为现实，奇迹便可降临大地。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Prayer",
+              "description": "A miracle will befall this land when everyone believes that even the most fantastical dream can become reality.\n<@lv.item><Dream Tiles></> Operators deployed within will be pulled into the dream",
               "hasChallenge": false
             },
             {
               "id": "MT-3",
               "operation": "MT-3",
               "levelId": "activities/act42side/level_act42side_03",
-              "name": "礼拜",
-              "description": "梦改变了我们的日常，也将辨识它的线索藏于其中。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Worship",
+              "description": "The dream has transformed our lives, and there are clues hidden within that allow us to recognize it.\n<@lv.item><Dream Tiles></> Operators deployed within will be pulled into the dream",
               "hasChallenge": false
             },
             {
               "id": "MT-4",
               "operation": "MT-4",
               "levelId": "activities/act42side/level_act42side_04",
-              "name": "求道",
-              "description": "寻路之人遗忘了来路，却仍坚信他此刻所站立的地方，是应当抵达的终点。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Wayfinder",
+              "description": "The one finding a path forgot the road he walked in on, but he still believes the place he stands is his destined endpoint.\n<@lv.item><Dream Tiles></> Operators deployed within will be pulled into the dream",
               "hasChallenge": false
             },
             {
               "id": "MT-5",
               "operation": "MT-5",
               "levelId": "activities/act42side/level_act42side_05",
-              "name": "共融",
-              "description": "愿光环可以分享，愿主将属灵的恩典赐予每一人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "Communion",
+              "description": "May our halos be shared. May our Lord share the blessings with all.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Saint Statue Cosplayer> </>After awakening, provides DP and Deployment Limit",
               "hasChallenge": false
             },
             {
               "id": "MT-6",
               "operation": "MT-6",
               "levelId": "activities/act42side/level_act42side_06",
-              "name": "告解",
-              "description": "沉入梦境之人回归现实，离群的天使重返故乡。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Confess",
+              "description": "Those deep in dream return to reality, while errant angels return to their homeland.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": false
             },
             {
               "id": "MT-7",
               "operation": "MT-7",
               "levelId": "activities/act42side/level_act42side_07",
-              "name": "丧礼",
-              "description": "万物都会在既定的旅程中走向终结，意义的延续因此显得难能可贵。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Funeral",
+              "description": "All walk toward the inevitable end. That is why the continuity of meaning is so precious.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": false
             },
             {
               "id": "MT-8",
               "operation": "MT-8",
               "levelId": "activities/act42side/level_act42side_08",
-              "name": "朝圣",
-              "description": "最初的圣徒重临圣城。“萨科塔”，将被重新定义。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Pilgrimage",
+              "description": "The first Saint returns to the Holy City. The term 'Sankta' is redefined.\n<@lv.item><Dream Tiles></> Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer></> After awakening, joins battle as an ally",
               "hasChallenge": false
             },
             {
               "id": "MT-9",
               "operation": "MT-9",
               "levelId": "activities/act42side/level_act42side_09",
-              "name": "解经",
-              "description": "“律法”的真实面目，从来都不似祂的信仰者、守护者、质疑者所想。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "Interpretation",
+              "description": "The true face of the Law was nothing like what His faithful, His guardians, or His questioners imagined.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Nurturer Cosplayer> </>After awakening, speeds up Operator awakening and replenishes SP and ammo",
               "hasChallenge": false
             },
             {
               "id": "MT-10",
               "operation": "MT-10",
               "levelId": "activities/act42side/level_act42side_10",
-              "name": "降生",
-              "description": "婴孩切断了与神相连的脐带，决心以丑陋的、短暂的、痛苦的——人的模样——降生于世。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "Birth",
+              "description": "The infant severs the umbilical cord connecting it to God, determined to be born as a human—with all the ugliness, transience, and suffering that entails.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer> </>After awakening, helps out in battle by various means",
               "hasChallenge": false
             },
             {
               "id": "MT-EX-1",
               "operation": "MT-EX-1",
               "levelId": "activities/act42side/level_act42side_ex01",
-              "name": "萨科塔生态园",
-              "description": "育婴圣堂下层的生态园，此处的万千生灵来自沙原、密林、汪洋或高山，但它们都将成为萨科塔。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Garden of the Sankta",
+              "description": "An ecological park on the lower levels of the Shrine of Nurtury. The myriad creatures here hail from deserts, jungles, seas, and mountains, but they have all become Sankta.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-1CM",
-              "operation": "突袭MT-EX-1",
+              "operation": "CM MT-EX-1",
               "levelId": "activities/act42side/level_act42side_ex01",
-              "name": "萨科塔生态园",
-              "description": "育婴圣堂下层的生态园，此处的万千生灵来自沙原、密林、汪洋或高山，但它们都将成为萨科塔。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Garden of the Sankta",
+              "description": "An ecological park on the lower levels of the Shrine of Nurtury. The myriad creatures here hail from deserts, jungles, seas, and mountains, but they have all become Sankta.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有敌人法术抗性提升"
+              "challenge": "<@lv.fs>Condition:</>\nAll enemies have increased RES"
             },
             {
               "id": "MT-EX-2",
               "operation": "MT-EX-2",
               "levelId": "activities/act42side/level_act42side_ex02",
-              "name": "甜梦大会堂",
-              "description": "育婴圣堂下层的育婴室，每夜，百十万孩童于此入梦，他们共同的梦境融化在空气之中，足以迷醉任何清醒之人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "Hall of Sweet Dreams",
+              "description": "A nursery on the lower levels of the Shrine of Nurtury. Every night, ten million children fall into dream here. Their shared dream melds together in the air, enough to ensnare anyone awake.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer> </>After awakening, helps out in battle by various means",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-2CM",
-              "operation": "突袭MT-EX-2",
+              "operation": "CM MT-EX-2",
               "levelId": "activities/act42side/level_act42side_ex02",
-              "name": "甜梦大会堂",
-              "description": "育婴圣堂下层的育婴室，每夜，百十万孩童于此入梦，他们共同的梦境融化在空气之中，足以迷醉任何清醒之人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "Hall of Sweet Dreams",
+              "description": "A nursery on the lower levels of the Shrine of Nurtury. Every night, ten million children fall into dream here. Their shared dream melds together in the air, enough to ensnare anyone awake.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer> </>After awakening, helps out in battle by various means",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<“萨科塔昂首”>生命值提升"
+              "challenge": "<@lv.fs>Condition:</>\n<'Pride of the Sankta'> HP increased"
             },
             {
               "id": "MT-EX-3",
               "operation": "MT-EX-3",
               "levelId": "activities/act42side/level_act42side_ex03",
-              "name": "万众圣餐厅",
-              "description": "育婴圣堂下层的餐厅，由于餐食送到上层要花费数个小时，圣堂厨师研发出了大地上最先进的保鲜技术。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Dining Hall of the Saints",
+              "description": "A dining hall on the lower levels of the Shrine of Nurtury. As it takes several hours for the food to reach the upper levels, the Shrine's chefs have developed the most advanced techniques on Terra to keep food fresh.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-3CM",
-              "operation": "突袭MT-EX-3",
+              "operation": "CM MT-EX-3",
               "levelId": "activities/act42side/level_act42side_ex03",
-              "name": "万众圣餐厅",
-              "description": "育婴圣堂下层的餐厅，由于餐食送到上层要花费数个小时，圣堂厨师研发出了大地上最先进的保鲜技术。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Dining Hall of the Saints",
+              "description": "A dining hall on the lower levels of the Shrine of Nurtury. As it takes several hours for the food to reach the upper levels, the Shrine's chefs have developed the most advanced techniques on Terra to keep food fresh.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<圣堂射手扮演者>不再出现"
+              "challenge": "<@lv.fs>Condition:</>\n<Shrine Marksman Cosplayers> will no longer appear"
             },
             {
               "id": "MT-EX-4",
               "operation": "MT-EX-4",
               "levelId": "activities/act42side/level_act42side_ex04",
-              "name": "羽兽栖脚台",
-              "description": "育婴圣堂中层的露台，于云海之上供迁徙途中的羽兽落脚。它们到来时羽色暗淡，离去时头顶光环。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Fowlbeasts' Perch",
+              "description": "A balcony on the middle levels of the Shrine of Nurtury. Above the sea of clouds, it provides migratory fowlbeasts a place to rest on their journey. They arrive with drab feathers, and leave with halos of light.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-4CM",
-              "operation": "突袭MT-EX-4",
+              "operation": "CM MT-EX-4",
               "levelId": "activities/act42side/level_act42side_ex04",
-              "name": "羽兽栖脚台",
-              "description": "育婴圣堂中层的露台，于云海之上供迁徙途中的羽兽落脚。它们到来时羽色暗淡，离去时头顶光环。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Fowlbeasts' Perch",
+              "description": "A balcony on the middle levels of the Shrine of Nurtury. Above the sea of clouds, it provides migratory fowlbeasts a place to rest on their journey. They arrive with drab feathers, and leave with halos of light.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上三个位置不可部署"
+              "challenge": "<@lv.fs>Condition:</>\n3 tiles on the battlefield are no longer available for deployment"
             },
             {
               "id": "MT-EX-5",
               "operation": "MT-EX-5",
               "levelId": "activities/act42side/level_act42side_ex05",
-              "name": "圣徒祈祷区",
-              "description": "育婴圣堂中层的区域，牧首于此冥思。拉特兰有史以来所有圣徒的雕像都陈列于此，它们垂首——向“牧首”祈祷。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Saint's Prayer Room",
+              "description": "A region on the middle levels of the Shrine of Nurtury, where the Matriarch contemplates. Here, statues of every Saint in the history of Laterano stand. They hang their heads towards the 'Matriarch' in prayer.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-5CM",
-              "operation": "突袭MT-EX-5",
+              "operation": "CM MT-EX-5",
               "levelId": "activities/act42side/level_act42side_ex05",
-              "name": "圣徒祈祷区",
-              "description": "育婴圣堂中层的区域，牧首于此冥思。拉特兰有史以来所有圣徒的雕像都陈列于此，它们垂首——向“牧首”祈祷。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Saint's Prayer Room",
+              "description": "A region on the middle levels of the Shrine of Nurtury, where the Matriarch contemplates. Here, statues of every Saint in the history of Laterano stand. They hang their heads towards the 'Matriarch' in prayer.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<圣徒祈祷像>和<“牧首”>提供屏障的速率提升"
+              "challenge": "<@lv.fs>Condition:</>\n<Praying Saint Statue> and <'Matriarch'> provide Barriers faster"
             },
             {
               "id": "MT-EX-6",
               "operation": "MT-EX-6",
               "levelId": "activities/act42side/level_act42side_ex06",
-              "name": "信仰蒸馏房",
-              "description": "育婴圣堂上层的功能结构，圣城每日聆听的万千祷告都汇聚于此，在错综复杂的管道中，被蒸馏成一片虚假的天空。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Distillery of Faith",
+              "description": "A functional structure on the upper levels of the Shrine of Nurtury. The countless prayers the Holy City hears every day converge here, and after flowing through the tangle of piping, they are distilled into a false sky.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-6CM",
-              "operation": "突袭MT-EX-6",
+              "operation": "CM MT-EX-6",
               "levelId": "activities/act42side/level_act42side_ex06",
-              "name": "信仰蒸馏房",
-              "description": "育婴圣堂上层的功能结构，圣城每日聆听的万千祷告都汇聚于此，在错综复杂的管道中，被蒸馏成一片虚假的天空。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Distillery of Faith",
+              "description": "A functional structure on the upper levels of the Shrine of Nurtury. The countless prayers the Holy City hears every day converge here, and after flowing through the tangle of piping, they are distilled into a false sky.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<资深圣堂布道员>技能持续时间提升"
+              "challenge": "<@lv.fs>Condition:</>\n<Veteran Shrine Preacher> skill duration increased"
             },
             {
               "id": "MT-EX-7",
               "operation": "MT-EX-7",
               "levelId": "activities/act42side/level_act42side_ex07",
-              "name": "原初育婴室",
-              "description": "育婴圣堂上层的功能结构，原是这里建造的第一间育婴室。宏伟如育婴圣堂，也不过始于一个念想、一间小屋。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "The First Nursery",
+              "description": "A functional structure on the upper levels of the Shrine of Nurtury, the very first nursery built here. The Shrine, grand as it is, began as a thought, a simple cottage.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Nurturer Cosplayer> </>After awakening, speeds up Operator awakening and replenishes SP and ammo",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-7CM",
-              "operation": "突袭MT-EX-7",
+              "operation": "CM MT-EX-7",
               "levelId": "activities/act42side/level_act42side_ex07",
-              "name": "原初育婴室",
-              "description": "育婴圣堂上层的功能结构，原是这里建造的第一间育婴室。宏伟如育婴圣堂，也不过始于一个念想、一间小屋。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "The First Nursery",
+              "description": "A functional structure on the upper levels of the Shrine of Nurtury, the very first nursery built here. The Shrine, grand as it is, began as a thought, a simple cottage.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Nurturer Cosplayer> </>After awakening, speeds up Operator awakening and replenishes SP and ammo",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n可同时部署干员单位数-2"
+              "challenge": "<@lv.fs>Condition:</>\nDeployment Limit -2"
             },
             {
               "id": "MT-EX-8",
               "operation": "MT-EX-8",
               "levelId": "activities/act42side/level_act42side_ex08",
-              "name": "“拉特兰拼图”",
-              "description": "从圣堂之顶透过云层俯瞰，拉特兰城就像一幅小小的拼图。“牧首”只需动动手指，便可改变整座城市的样貌。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "'Puzzle of Laterano'",
+              "description": "Looking down from the Shrine's peak up above the clouds, the city of Laterano looks like a miniature jigsaw puzzle. The 'Matriarch' need only move her finger, and the appearance of the entire city will change.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer> </>After awakening, helps out in battle by various means",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-8CM",
-              "operation": "突袭MT-EX-8",
+              "operation": "CM MT-EX-8",
               "levelId": "activities/act42side/level_act42side_ex08",
-              "name": "“拉特兰拼图”",
-              "description": "从圣堂之顶透过云层俯瞰，拉特兰城就像一幅小小的拼图。“牧首”只需动动手指，便可改变整座城市的样貌。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "'Puzzle of Laterano'",
+              "description": "Looking down from the Shrine's peak up above the clouds, the city of Laterano looks like a miniature jigsaw puzzle. The 'Matriarch' need only move her finger, and the appearance of the entire city will change.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Cosplayer> </>After awakening, helps out in battle by various means",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n术师、医疗干员部署费用变为2倍"
+              "challenge": "<@lv.fs>Condition:</>\nThe DP Cost of Caster and Medic Operators is doubled"
             },
             {
               "id": "MT-S-1",
               "operation": "MT-S-1",
               "levelId": "activities/act42side/level_act42side_sub-1-1",
-              "name": "甜品展会",
-              "description": "拉特兰人热情、爱意与创造力的结晶——不计其数的创新甜品——在一年一度的甜品展会得到了爆发式的呈现。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><“冰淇淋机”></>我方与敌方可夺取控制权，激活后回复周围友方单位技力",
+              "name": "Dessert Expo",
+              "description": "The fruits of Lateran passion, adoration, and ingenuity—an immense spread of innovative desserts—are displayed at the annual dessert expo in explosive fashion.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><'Gelato Stop'> </>Both allied and enemy units will fight for control over this device; When activated, restores SP of surrounding allies",
               "hasChallenge": true
             },
             {
               "id": "MT-S-1CM",
-              "operation": "突袭MT-S-1",
+              "operation": "CM MT-S-1",
               "levelId": "activities/act42side/level_act42side_sub-1-1",
-              "name": "甜品展会",
-              "description": "拉特兰人热情、爱意与创造力的结晶——不计其数的创新甜品——在一年一度的甜品展会得到了爆发式的呈现。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><“冰淇淋机”></>我方与敌方可夺取控制权，激活后回复周围友方单位技力",
+              "name": "Dessert Expo",
+              "description": "The fruits of Lateran passion, adoration, and ingenuity—an immense spread of innovative desserts—are displayed at the annual dessert expo in explosive fashion.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><'Gelato Stop'> </>Both allied and enemy units will fight for control over this device; When activated, restores SP of surrounding allies",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且部分<冰淇淋机>初始阵营改变"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear and the starting alignment of some of the 'Gelato Stops' is changed"
             },
             {
               "id": "MT-S-2",
               "operation": "MT-S-2",
               "levelId": "activities/act42side/level_act42side_sub-1-2",
-              "name": "布道演习",
-              "description": "对不信者的布道注定不会在舒适的教堂中展开，教皇厅举办布道演习，正是为了让布道者学会在极端条件下布道。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "Preaching Practice",
+              "description": "Sermons directed at the unfaithful are never going to be put to use in a cozy church. The Curia conducts preaching training sessions so that the preachers will learn how to work their craft even in the most extreme environments.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Saint Statue Cosplayer> </>After awakening, provides DP and Deployment Limit",
               "hasChallenge": true
             },
             {
               "id": "MT-S-2CM",
-              "operation": "突袭MT-S-2",
+              "operation": "CM MT-S-2",
               "levelId": "activities/act42side/level_act42side_sub-1-2",
-              "name": "布道演习",
-              "description": "对不信者的布道注定不会在舒适的教堂中展开，教皇厅举办布道演习，正是为了让布道者学会在极端条件下布道。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "Preaching Practice",
+              "description": "Sermons directed at the unfaithful are never going to be put to use in a cozy church. The Curia conducts preaching training sessions so that the preachers will learn how to work their craft even in the most extreme environments.\n<@lv.rem><Condition></> DP will not regenerate naturally.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Saint Statue Cosplayer> </>After awakening, provides DP and Deployment Limit",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且<荒原窃盗者精英>获得隐匿"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear and Elite Wasteland Robbers are invisible"
             },
             {
               "id": "MT-S-3",
               "operation": "MT-S-3",
               "levelId": "activities/act42side/level_act42side_sub-1-3",
-              "name": "全民阅兵",
-              "description": "这一日，每位萨科塔都会骄傲地拿起守护铳走上街头。他们只管走入阅兵的队伍，共感自会协调他们的步伐。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Nationwide Parade",
+              "description": "Today, every Sankta will pick up their patron firearms with pride and walk along the streets. Their minds are fixed on joining the parade, where empathy ensures they will march in sync.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true
             },
             {
               "id": "MT-S-3CM",
-              "operation": "突袭MT-S-3",
+              "operation": "CM MT-S-3",
               "levelId": "activities/act42side/level_act42side_sub-1-3",
-              "name": "全民阅兵",
-              "description": "这一日，每位萨科塔都会骄傲地拿起守护铳走上街头。他们只管走入阅兵的队伍，共感自会协调他们的步伐。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "Nationwide Parade",
+              "description": "Today, every Sankta will pick up their patron firearms with pride and walk along the streets. Their minds are fixed on joining the parade, where empathy ensures they will march in sync.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且<资深圣堂保育员>生命值提升"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear and Veteran Shrine Nurturers have increased HP"
             },
             {
               "id": "MT-S-4",
               "operation": "MT-S-4",
               "levelId": "activities/act42side/level_act42side_sub-1-4",
-              "name": "万国峰会",
-              "description": "曾耻笑万国峰会配不上“万国”之名的傲慢者，如今只后悔没有赎罪的途径。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Summit of Nations",
+              "description": "The arrogant who once sneered at the Summit of Nations for being unworthy of the name now regret not having a way to atone.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true
             },
             {
               "id": "MT-S-4CM",
-              "operation": "突袭MT-S-4",
+              "operation": "CM MT-S-4",
               "levelId": "activities/act42side/level_act42side_sub-1-4",
-              "name": "万国峰会",
-              "description": "曾耻笑万国峰会配不上“万国”之名的傲慢者，如今只后悔没有赎罪的途径。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "Summit of Nations",
+              "description": "The arrogant who once sneered at the Summit of Nations for being unworthy of the name now regret not having a way to atone.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Shrine Marksman Cosplayer> </>After awakening, joins battle as an ally",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<腐败萃聚使徒>位置和路线变化"
+              "challenge": "<@lv.fs>Condition:</>\nDecaying Collector Disciple position and route changes"
             },
             {
               "id": "MT-S-5",
               "operation": "MT-S-5",
               "levelId": "activities/act42side/level_act42side_sub-1-5",
-              "name": "授律圣事",
-              "description": "拉特兰最初的圣徒不由任何仪式产生，但拉特兰一切仪式的神圣性都由其赋予。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "Sacrament of the Law",
+              "description": "The first Saint of Laterano did not arise from any ceremony, but it is she who bestows divinity onto every Lateran rite.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Saint Statue Cosplayer> </>After awakening, provides DP and Deployment Limit",
               "hasChallenge": true
             },
             {
               "id": "MT-S-5CM",
-              "operation": "突袭MT-S-5",
+              "operation": "CM MT-S-5",
               "levelId": "activities/act42side/level_act42side_sub-1-5",
-              "name": "授律圣事",
-              "description": "拉特兰最初的圣徒不由任何仪式产生，但拉特兰一切仪式的神圣性都由其赋予。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "Sacrament of the Law",
+              "description": "The first Saint of Laterano did not arise from any ceremony, but it is she who bestows divinity onto every Lateran rite.\n<@lv.item><Dream Tiles> </>Operators deployed within will be pulled into the dream\n<@lv.item><Saint Statue Cosplayer> </>After awakening, provides DP and Deployment Limit",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<“圣徒”>额外进行一次<寻根圣事>"
+              "challenge": "<@lv.fs>Condition:</>\nThe Saint will perform <Sacrament of Genesis> an additional time"
             }
           ]
         },
@@ -19449,50 +19448,50 @@
         },
         {
           "id": "main_15",
-          "episode": "离解复合",
+          "episode": "Dissociative Recombination",
           "childNodes": [
             {
               "id": "15-2",
               "operation": "15-2",
               "levelId": "obt/main/level_main_15-01",
-              "name": "执此剑者",
-              "description": "“......死亡也无法统治一切。”",
+              "name": "Bearer of the Sword",
+              "description": "'...And death shall have no dominion.'",
               "hasChallenge": false
             },
             {
               "id": "15-3",
               "operation": "15-3",
               "levelId": "obt/main/level_main_15-02",
-              "name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
+              "name": "In the Name of a Miracle",
+              "description": "'Shall sleep in the light of a wondrous day, Where hell and heaven shall leave thee free, To the universe of destiny.'",
               "hasChallenge": false
             },
             {
               "id": "15-3CM",
-              "operation": "险地15-3",
+              "operation": "CM 15-3",
               "levelId": "obt/main/level_main_15-02",
-              "name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "In the Name of a Miracle",
+              "description": "'Shall sleep in the light of a wondrous day, Where hell and heaven shall leave thee free, To the universe of destiny.'\n<@lv.fs>Condition: </>\nEnemies have increased Movement Speed.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-02_1a",
-                  "runeDesc": "冰镇饮料机的攻击速度大幅提升",
+                  "runeDesc": "Cold Drink Machine ASPD significantly increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-02_1b",
-                  "runeDesc": "冰镇饮料机的生命值大幅提升",
+                  "runeDesc": "Cold Drink Machine HP significantly increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-02_2a",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-02_2b",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "4 tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19501,36 +19500,36 @@
               "id": "15-4",
               "operation": "15-4",
               "levelId": "obt/main/level_main_15-03",
-              "name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
+              "name": "Brink of the Abyss",
+              "description": "'How do you measure the depth of an abyss? The answer, and your own life, hang upon the same thread.'",
               "hasChallenge": false
             },
             {
               "id": "15-4CM",
-              "operation": "险地15-4",
+              "operation": "CM 15-4",
               "levelId": "obt/main/level_main_15-03",
-              "name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "Brink of the Abyss",
+              "description": "'How do you measure the depth of an abyss? The answer, and your own life, hang upon the same thread.'\n<@lv.fs>Condition: </>\nEnemies have increased Movement Speed.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-03_1a",
-                  "runeDesc": "无忧货运帮手的生命值大幅提升",
+                  "runeDesc": "Worry-Free Cargo Helper HP significantly increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-03_1b",
-                  "runeDesc": "无忧货运帮手的攻击力大幅提升",
+                  "runeDesc": "Worry-Free Cargo Helper ATK significantly increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-03_2a",
-                  "runeDesc": "部分地块会长出源石晶簇造成范围伤害",
+                  "runeDesc": "Some tiles have Originium formations that deal AoE damage",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-03_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19539,36 +19538,36 @@
               "id": "15-5",
               "operation": "15-5",
               "levelId": "obt/main/level_main_15-04",
-              "name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Origin of Conflict",
+              "description": "'All are but fragments written down in that endless book of cacophonies.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-5CM",
-              "operation": "险地15-5",
+              "operation": "CM 15-5",
               "levelId": "obt/main/level_main_15-04",
-              "name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "Origin of Conflict",
+              "description": "'All are but fragments written down in that endless book of cacophonies.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition: </>\nDifferent enemies will appear.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-04_1a",
-                  "runeDesc": "禁止使用狙击和近卫干员",
+                  "runeDesc": "Sniper and Guard Operators cannot be deployed",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-04_1b",
-                  "runeDesc": "禁止使用术师和特种干员",
+                  "runeDesc": "Caster and Specialist Operators cannot be deployed",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-04_2a",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "4 tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-04_2b",
-                  "runeDesc": "可部署干员数量减少2",
+                  "runeDesc": "Operator deployment limit reduced by 2",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19577,36 +19576,36 @@
               "id": "15-6",
               "operation": "15-6",
               "levelId": "obt/main/level_main_15-05",
-              "name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "Etched Bone-Deep",
+              "description": "'Humanity guards itself against everything: Fire, storm, cold—anything it can predict. But there is no way for humanity to guard against itself.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.",
               "hasChallenge": false
             },
             {
               "id": "15-6CM",
-              "operation": "险地15-6",
+              "operation": "CM 15-6",
               "levelId": "obt/main/level_main_15-05",
-              "name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "name": "Etched Bone-Deep",
+              "description": "'Humanity guards itself against everything: Fire, storm, cold—anything it can predict. But there is no way for humanity to guard against itself.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.fs>Condition: </>\nMockup Auto Meal Distributor summon skill cooldown reduced.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-05_1a",
-                  "runeDesc": "可部署干员数量减少2",
+                  "runeDesc": "Operator deployment limit reduced by 2",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-05_1b",
-                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeDesc": "Allied units have -1 Block",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-05_2a",
-                  "runeDesc": "内测版自助出餐终端召唤技能冷却时间进一步减少",
+                  "runeDesc": "Mockup Auto Meal Distributor summon skill cooldown further reduced",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-05_2b",
-                  "runeDesc": "内测版自助出餐终端和迷茫的修理小助手获得<隐匿>效果",
+                  "runeDesc": "Mockup Auto Meal Distributor and Confused Maintenance Helper gain <Invisibility>",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19615,36 +19614,36 @@
               "id": "15-7",
               "operation": "15-7",
               "levelId": "obt/main/level_main_15-06",
-              "name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "name": "Moment of Truth",
+              "description": "'The only way of discovering the limits of the possible is to venture a little way past them into the impossible.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.item><Active Originium> </>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and ASPD will be increased significantly.",
               "hasChallenge": false
             },
             {
               "id": "15-7CM",
-              "operation": "险地15-7",
+              "operation": "CM 15-7",
               "levelId": "obt/main/level_main_15-06",
-              "name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "name": "Moment of Truth",
+              "description": "'The only way of discovering the limits of the possible is to venture a little way past them into the impossible.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.item><Active Originium> </>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and ASPD will be increased significantly.\n<@lv.fs>Condition: </>\nMockup Auto Meal Distributor summon skill cooldown reduced.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-06_1a",
-                  "runeDesc": "活性源石提高攻击力的效果翻倍",
+                  "runeDesc": "Active Originium increases ATK by twice as much",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-06_1b",
-                  "runeDesc": "先锋干员、重装干员、近卫干员和特种干员的再部署时间大幅增加",
+                  "runeDesc": "Vanguard, Defender, Guard, and Specialist Operator Redeployment Time significantly increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-06_2a",
-                  "runeDesc": "我方单位生命值在50%以下时受到的伤害增加",
+                  "runeDesc": "Allied units take more damage when HP falls below 50%",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-06_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19653,36 +19652,36 @@
               "id": "15-8",
               "operation": "15-8",
               "levelId": "obt/main/level_main_15-07",
-              "name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Broken Echoes",
+              "description": "'If this treachery is a decision of conscious participation, what has caused you to fall into the abyss? What elusive hope has led you on the path of your own destruction?'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-8CM",
-              "operation": "险地15-8",
+              "operation": "CM 15-8",
               "levelId": "obt/main/level_main_15-07",
-              "name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n稳定态萨卡兹术师结晶的防御力大幅提升",
+              "name": "Broken Echoes",
+              "description": "'If this treachery is a decision of conscious participation, what has caused you to fall into the abyss? What elusive hope has led you on the path of your own destruction?'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition: </>\nStable Sarkaz Caster Crystal DEF significantly increased.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-07_1a",
-                  "runeDesc": "部分敌人有所不同",
+                  "runeDesc": "Different enemies will appear",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-07_1b",
-                  "runeDesc": "冰镇饮料机的攻击范围扩大",
+                  "runeDesc": "Cold Drink Machine Attack Range increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-07_2a",
-                  "runeDesc": "我方单位的部署费用+3",
+                  "runeDesc": "Allied unit have +3 DP Cost",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-07_2b",
-                  "runeDesc": "我方单位的再部署时间大幅增加",
+                  "runeDesc": "Allied units have significantly increased Redeployment Time",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19691,36 +19690,36 @@
               "id": "15-9",
               "operation": "15-9",
               "levelId": "obt/main/level_main_15-08",
-              "name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "Decompression Syndrome",
+              "description": "'I wake to sleep again, and delay my awakening. I touch fate on what I cannot fear. I learn through the journey I must set out on.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.",
               "hasChallenge": false
             },
             {
               "id": "15-9CM",
-              "operation": "险地15-9",
+              "operation": "CM 15-9",
               "levelId": "obt/main/level_main_15-08",
-              "name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n战场中有4个位置无法部署我方单位",
+              "name": "Decompression Syndrome",
+              "description": "'I wake to sleep again, and delay my awakening. I touch fate on what I cannot fear. I learn through the journey I must set out on.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.fs>Condition: </>\n4 tiles on the battlefield are no longer available for deployment.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-08_1a",
-                  "runeDesc": "失控的修理小助手移动速度增加",
+                  "runeDesc": "Rampaging Maintenance Helper Movement Speed increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-08_1b",
-                  "runeDesc": "失控的修理小助手防御力增加",
+                  "runeDesc": "Rampaging Maintenance Helper DEF increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-08_2a",
-                  "runeDesc": "狙击干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Sniper Operators is doubled",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-08_2b",
-                  "runeDesc": "术师干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Caster Operators is doubled",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19729,36 +19728,36 @@
               "id": "15-10",
               "operation": "15-10",
               "levelId": "obt/main/level_main_15-09",
-              "name": "隔离净空",
-              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Dissociated Space",
+              "description": "'Experience, theory, phenomena.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-10CM",
-              "operation": "险地15-10",
+              "operation": "CM 15-10",
               "levelId": "obt/main/level_main_15-09",
-              "name": "隔离净空",
-              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的防御力大幅提升",
+              "name": "Dissociated Space",
+              "description": "'Experience, theory, phenomena.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition: </>\nEnemies have greatly increased DEF.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-09_1a",
-                  "runeDesc": "禁止使用近卫干员",
+                  "runeDesc": "Guard Operators cannot be deployed",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-09_1b",
-                  "runeDesc": "PRTS将部署额外的弱化节点",
+                  "runeDesc": "PRTS deploys additional Weakening Nodes",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-09_2a",
-                  "runeDesc": "稳定态萨卡兹术师结晶周围没有其他敌人时攻击力提升",
+                  "runeDesc": "Stable Sarkaz Caster Crystals gain increased ATK when there are no other enemies around",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-09_2b",
-                  "runeDesc": "稳定态萨卡兹术师结晶封锁费用回复的时间增加",
+                  "runeDesc": "Stable Sarkaz Caster Crystal DP seal recovery time increased",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19767,36 +19766,36 @@
               "id": "15-11",
               "operation": "15-11",
               "levelId": "obt/main/level_main_15-10",
-              "name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Wake From a Long Dream",
+              "description": "'Henceforth all will be me, and no one will be me. I will be you, and you will not know it. Your dream shall be my awakening.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-11CM",
-              "operation": "险地15-11",
+              "operation": "CM 15-11",
               "levelId": "obt/main/level_main_15-10",
-              "name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部署费用的回复速度降低",
+              "name": "Wake From a Long Dream",
+              "description": "'Henceforth all will be me, and no one will be me. I will be you, and you will not know it. Your dream shall be my awakening.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition: </>\nDP regeneration rate is decreased.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-10_1a",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "4 tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-10_1b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-10_2a",
-                  "runeDesc": "近卫和重装干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Guard and Defender Operators is doubled",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-10_2b",
-                  "runeDesc": "狙击和术师干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Sniper and Caster Operators is doubled",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19805,36 +19804,36 @@
               "id": "15-12",
               "operation": "15-12",
               "levelId": "obt/main/level_main_15-11",
-              "name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Bear Witness, the Death of the Gods",
+              "description": "'An instant later, the constituent matter will still exist, but the intrinsic nature of truth shall die, drowned in the madness of darkness. Countless civilizations have vanished, and the ripples they leave behind continue to fall, crushing, burying, and destroying everything.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-12CM",
-              "operation": "险地15-12",
+              "operation": "CM 15-12",
               "levelId": "obt/main/level_main_15-11",
-              "name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "Bear Witness, the Death of the Gods",
+              "description": "'An instant later, the constituent matter will still exist, but the intrinsic nature of truth shall die, drowned in the madness of darkness. Countless civilizations have vanished, and the ripples they leave behind continue to fall, crushing, burying, and destroying everything.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition:</>\nDifferent enemies will appear.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-11_1a",
-                  "runeDesc": "禁止使用狙击干员",
+                  "runeDesc": "Sniper Operators cannot be deployed",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-11_1b",
-                  "runeDesc": "“寒灾回响”的攻击范围扩大",
+                  "runeDesc": "'Frozen Monstrosity's Echo' Attack Range increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-11_2a",
-                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeDesc": "Allied units have -1 Block",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-11_2b",
-                  "runeDesc": "“寒灾回响”获得缓慢回复生命效果",
+                  "runeDesc": "'Frozen Monstrosity's Echo' regenerates HP slowly",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19843,36 +19842,36 @@
               "id": "15-13",
               "operation": "15-13",
               "levelId": "obt/main/level_main_15-12",
-              "name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "I Shall Be Your Eyes",
+              "description": "'...Like a feather on the back of my hand. Dust in sunlight and memory in corners...'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-13CM",
-              "operation": "险地15-13",
+              "operation": "CM 15-13",
               "levelId": "obt/main/level_main_15-12",
-              "name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的攻击力降低",
+              "name": "I Shall Be Your Eyes",
+              "description": "'...Like a feather on the back of my hand. Dust in sunlight and memory in corners...'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition:</>\nAllied units have decreased ATK.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-12_1a",
-                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeDesc": "2 low-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-12_1b",
-                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeDesc": "2 high-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-12_2a",
-                  "runeDesc": "固化源石巨像的生命值提升",
+                  "runeDesc": "Solidified Originium Colossus HP increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-12_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19881,36 +19880,36 @@
               "id": "15-14",
               "operation": "15-14",
               "levelId": "obt/main/level_main_15-13",
-              "name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "In Dust or Blood",
+              "description": "'Even if we knew everything, it doesn't necessarily mean we would be able to change everything...'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-14CM",
-              "operation": "险地15-14",
+              "operation": "CM 15-14",
               "levelId": "obt/main/level_main_15-13",
-              "name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分地块会长出源石晶簇造成范围伤害",
+              "name": "In Dust or Blood",
+              "description": "'Even if we knew everything, it doesn't necessarily mean we would be able to change everything...'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition: </>\nSome tiles have Originium formations that deal AoE damage.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-13_1a",
-                  "runeDesc": "源石晶簇长出的间隔时间缩短",
+                  "runeDesc": "Originium formations appear at shorter intervals",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-13_1b",
-                  "runeDesc": "源石晶簇爆炸造成的伤害增加",
+                  "runeDesc": "Originium formations deal more damage when they explode",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-13_2a",
-                  "runeDesc": "“寒灾回响”的攻击速度提升",
+                  "runeDesc": "'Frozen Monstrosity's Echo' ASPD increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-13_2b",
-                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeDesc": "Enemies gain increased ATK when there are no other enemies around",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19919,36 +19918,36 @@
               "id": "15-15",
               "operation": "15-15",
               "levelId": "obt/main/level_main_15-14",
-              "name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "Rejection of Mourning",
+              "description": "'Even if no one understands, we must continue to walk this path.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.",
               "hasChallenge": false
             },
             {
               "id": "15-15CM",
-              "operation": "险地15-15",
+              "operation": "CM 15-15",
               "levelId": "obt/main/level_main_15-14",
-              "name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "Rejection of Mourning",
+              "description": "'Even if no one understands, we must continue to walk this path.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.fs>Condition:</>\nDifferent enemies will appear.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-14_1a",
-                  "runeDesc": "转译基底·β变形需要的攻击次数增加",
+                  "runeDesc": "Number of attacks required for Decode Basis β to transform increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-14_1b",
-                  "runeDesc": "转译基底·β变形后的攻击速度提升",
+                  "runeDesc": "Decode Basis β ASPD increased after transformation",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-14_2a",
-                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeDesc": "2 low-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-14_2b",
-                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeDesc": "2 high-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19957,36 +19956,36 @@
               "id": "15-17",
               "operation": "15-17",
               "levelId": "obt/main/level_main_15-15",
-              "name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
+              "name": "'Her'",
+              "description": "'Whoever has no house now will build no more. Whoever is alone now will remain long alone.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces and RES after activation.\n<@lv.rem>No melee/ranged deployment restrictions.</>",
               "hasChallenge": false
             },
             {
               "id": "15-17CM",
-              "operation": "险地15-17",
+              "operation": "CM 15-17",
               "levelId": "obt/main/level_main_15-15",
-              "name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>\\n<@lv.fs>附加条件：</>\\n敌人的攻击力大幅提升",
+              "name": "'Her'",
+              "description": "'Whoever has no house now will build no more. Whoever is alone now will remain long alone.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces and RES after activation.\n<@lv.rem>No melee/ranged deployment restrictions.</>\n<@lv.fs>Condition:</>\nEnemies have greatly increased ATK.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-15_1a",
-                  "runeDesc": "部署费用的回复速度降低",
+                  "runeDesc": "DP regeneration rate is decreased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-15_1b",
-                  "runeDesc": "可部署干员数量减少3",
+                  "runeDesc": "Operator deployment limit reduced by 3",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-15_2a",
-                  "runeDesc": "PRTS部署的“寒灾回响”位置改变",
+                  "runeDesc": "'Frozen Monstrosity's Echo' deployed by PRTS appears at a different location",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-15_2b",
-                  "runeDesc": "转译基底·β攻击生命值低于50%的目标时伤害提升",
+                  "runeDesc": "Decode Basis β deals more damage when attacking targets with less than 50% HP",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19995,36 +19994,36 @@
               "id": "15-18",
               "operation": "15-18",
               "levelId": "obt/main/level_main_15-16",
-              "name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Never Doubted, Never Far",
+              "description": "'You know how to wait. In the long years you wait for a single flower to blossom.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-18CM",
-              "operation": "险地15-18",
+              "operation": "CM 15-18",
               "levelId": "obt/main/level_main_15-16",
-              "name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的防御力降低",
+              "name": "Never Doubted, Never Far",
+              "description": "'You know how to wait. In the long years you wait for a single flower to blossom.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition:</>\nAllied units have decreased DEF.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-16_1a",
-                  "runeDesc": "转译基底·β的移动速度提升",
+                  "runeDesc": "Decode Basis β Movement Speed increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-16_1b",
-                  "runeDesc": "转译基底·β的生命值提升",
+                  "runeDesc": "Decode Basis β HP increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-16_2a",
-                  "runeDesc": "部署费用的回复速度降低",
+                  "runeDesc": "DP regeneration rate is decreased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-16_2b",
-                  "runeDesc": "禁止使用辅助和术师干员",
+                  "runeDesc": "Supporter and Caster Operators cannot be deployed",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -20033,44 +20032,44 @@
               "id": "15-19",
               "operation": "15-19",
               "levelId": "obt/main/level_main_15-17",
-              "name": "直至，此刻",
-              "description": "“准备战斗。只有战斗能决定结果。”",
+              "name": "Until, Now",
+              "description": "'Prepare for battle. It all comes down to battle now.'",
               "hasChallenge": false
             },
             {
               "id": "15-20",
               "operation": "15-20",
               "levelId": "obt/main/level_main_15-18",
-              "name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Return to Beginnings",
+              "description": "'It is time that the calcite took the trouble to bloom, that unrest's heart started to beat. It's time for it to be time. It is time.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "15-20CM",
-              "operation": "险地15-20",
+              "operation": "CM 15-20",
               "levelId": "obt/main/level_main_15-18",
-              "name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "Return to Beginnings",
+              "description": "'It is time that the calcite took the trouble to bloom, that unrest's heart started to beat. It's time for it to be time. It is time.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.\n<@lv.fs>Condition:</>\nEnemies have increased Movement Speed.",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-18_1a",
-                  "runeDesc": "狙击和近卫干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Sniper and Guard Operators is doubled",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-18_1b",
-                  "runeDesc": "术师和特种干员的部署费用提升至2倍",
+                  "runeDesc": "The DP Cost of Caster and Specialist Operators is doubled",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-18_2a",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "New enemies appear",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-18_2b",
-                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeDesc": "Enemies gain increased ATK when there are no other enemies around",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -20079,32 +20078,32 @@
               "id": "H15-1",
               "operation": "H15-1",
               "levelId": "obt/hard/level_hard_15-01",
-              "name": "机密预案-1",
-              "description": "“只因生与死本是一体，如同江河与海。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Confidential Contingency - 1",
+              "description": "'For life and death are one, even as the river and the sea are one.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "H15-2",
               "operation": "H15-2",
               "levelId": "obt/hard/level_hard_15-02",
-              "name": "机密预案-2",
-              "description": "“只有在饮下缄默河水之后，才能开口歌唱。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Confidential Contingency - 2",
+              "description": "'Only when you drink from the river of silence shall you indeed sing.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             },
             {
               "id": "H15-3",
               "operation": "H15-3",
               "levelId": "obt/hard/level_hard_15-03",
-              "name": "机密预案-3",
-              "description": "“只有在抵达山峰之巅以后，才能开始攀登。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "Confidential Contingency - 3",
+              "description": "'And when you have reached the mountain top, then you shall begin to climb.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.",
               "hasChallenge": false
             },
             {
               "id": "H15-4",
               "operation": "H15-4",
               "levelId": "obt/hard/level_hard_15-04",
-              "name": "机密预案-4",
-              "description": "“只有在身躯归还于大地后，才能真正地起舞。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "Confidential Contingency - 4",
+              "description": "'And when the earth shall claim your limbs, then shall you truly dance.'\n<@lv.item><Intrusive Call> </>PRTS deploys enemies and Weakening Nodes, and activates Weakening Nodes.\n<@lv.item><Weakening Node> </>Reduces opposing forces' DEF and RES after activation.",
               "hasChallenge": false
             }
           ]

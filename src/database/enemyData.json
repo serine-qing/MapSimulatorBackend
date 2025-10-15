@@ -1597,7 +1597,7 @@
     "KRDescription": "한가로운 묵량, 이름은 화가가 직접 지은 것이다. 먹물임에도 불구하고 몸에서 특이한 술 향기가 난다. 아마도 먹에 술을 탔을 거라고 어느 애주가가 농담 삼아 말했다.",
     "KRAbilityList": [
       {
-        "text": "자신 주변을 지나는 지상의 비 리더 적의 공격 속도 및 이동 속도 증가, 받는 물리 및 마법 대미지 감소",
+        "text": "자신 주변을 지나는 지상의 비리더 적의 공격 속도 및 이동 속도 증가, 받는 물리 및 마법 대미지 감소",
         "textFormat": "NORMAL"
       },
       {
@@ -1725,7 +1725,7 @@
     "KRDescription": "한가로운 묵량, 이름은 화가가 직접 지은 것이다. 녀석의 곁에 있으면 저도 모르게 노래를 부르고 글씨를 쓰고 싶어진다. 어느 애주가의 영향을 받은 게 틀림없다.",
     "KRAbilityList": [
       {
-        "text": "자신 주변을 지나는 지상의 비 리더 적의 공격 속도 및 이동 속도 증가, 받는 물리 및 마법 대미지 감소",
+        "text": "자신 주변을 지나는 지상의 비리더 적의 공격 속도 및 이동 속도 증가, 받는 물리 및 마법 대미지 감소",
         "textFormat": "NORMAL"
       },
       {
@@ -2204,13 +2204,13 @@
     "CNAbilityList": [],
     "JPName": "猟犬",
     "JPDescription": "レユニオンの技術偵察部隊が操っている生物。獲物を逃がさぬよう、身体に監視装置がつけられている。その機動力を生かしてたやすく防御を突破し、大きな被害へ繋げてくるため注意が必要。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Hound",
     "ENDescription": "A creature controlled by a Reunion recon squad. Monitoring equipment is strapped to its body. Due to their speed and evasiveness, they can easily slip through enemy defenses and cause heavy damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "사냥개",
     "KRDescription": "리유니온의 기술정찰부대가 조종하는 생물. 몸에는 모 브랜드의 감시제어설비가 장착되어 있다. 우수한 은폐성과 행동속도는 아군의 방어를 쉽게 뚫어 막대한 피해를 입힐 수 있으니 주의해야 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1000_gopro_2",
@@ -2312,13 +2312,13 @@
     "CNAbilityList": [],
     "JPName": "上級猟犬",
     "JPDescription": "レユニオンの技術偵察部隊が操っている生物。猟犬よりも優れた戦闘能力を誇る。獲物を逃がさぬよう、身体に監視装置がつけられている。その機動力を生かしてたやすく防御を突破し、大きな被害へ繋げてくるため注意が必要。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Hound Pro",
     "ENDescription": "A creature controlled by a Reunion recon squad that is more dangerous than a normal Hound. Monitoring equipment is strapped to its body. Due to their speed and evasiveness, they can easily slip through enemy defenses and cause heavy damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "사냥개 Pro",
     "KRDescription": "리유니온의 기술정찰부대가 조종하는 생물. 일반적인 사냥개보다 작전 능력이 뛰어나다. 몸에는 모 브랜드의 감시제어설비가 장착되어 있다. 우수한 은폐성과 행동속도는 아군의 방어를 쉽게 뚫어 막대한 피해를 입힐 수 있으니 주의해야 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1000_gopro_3",
@@ -2375,13 +2375,13 @@
     "CNAbilityList": [],
     "JPName": "凶暴猟犬",
     "JPDescription": "レユニオンの技術偵察部隊が操っている生物。上級猟犬よりも優れた戦闘能力を誇る。獲物を逃がさぬよう、身体に監視装置がつけられている。その機動力を生かしてたやすく防御を突破し、大きな被害へ繋げてくるため注意が必要。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Rabid Hound Pro",
     "ENDescription": "A creature controlled by a Reunion recon squad that is more dangerous than a Hound Pro. Monitoring equipment is strapped to its body. Due to their speed and evasiveness, they can easily slip through enemy defenses and cause heavy damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "흉폭한 사냥개 Pro",
     "KRDescription": "리유니온의 기술정찰부대가 조종하는 생물. 사냥개 Pro보다 작전 능력이 뛰어나다. 몸에는 모 브랜드의 감시제어설비가 장착되어 있다. 우수한 은폐성과 행동속도는 아군의 방어를 쉽게 뚫어 막대한 피해를 입힐 수 있으니 주의해야 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10010_sgnja",
@@ -2614,13 +2614,13 @@
     "CNAbilityList": [],
     "JPName": "市場の狩人",
     "JPDescription": "サルゴンの町でよく見かける狩人。名目上、「荒野で狩りをするため」の弓を所持しており、「問題解決」が必要となる様々な場面に現れる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Street Hunter",
     "ENDescription": "Hunters often seen in Sargonian towns. Their bows are used for hunting in the wilderness, as well as for 'solving problems.'",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "바자르 사냥꾼",
     "KRDescription": "사르곤에서 흔히 볼 수 있는 사냥꾼. 이들은 황무지 사냥을 명목으로 활을 들고 다니며, 각종 '문제 해결'이 필요한 장소에 나타난다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10011_sgshot_2",
@@ -2677,13 +2677,13 @@
     "CNAbilityList": [],
     "JPName": "放浪する市場の狩人",
     "JPDescription": "サルゴンの都市を渡り歩いてきた狩人。実力はピンキリであり、「腕のいい」一部の狩人は当然各都市へと招かれ、雇い主のために「問題解決」をしている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Roaming Street Hunter",
     "ENDescription": "Hunters often found roaming between Sargonian cities. Hunters who excel at 'solving problems' naturally find their services in great demand across cities.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "바자르 떠돌이 사냥꾼",
     "KRDescription": "사르곤 여러 도시를 전전하는 사냥꾼. 사냥꾼들 사이의 수준에도 차이가 있는데, 일부 '실적이 좋은' 사냥꾼은 자연스레 각 도시의 고용주로부터 '문제 해결'을 위해 초대받는다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10012_sgbtle",
@@ -4562,13 +4562,13 @@
     "CNAbilityList": [],
     "JPName": "Big Bob",
     "JPDescription": "レユニオンの幹部。対爆スーツを着用し、チェーンソーで戦う。目立たない地域での作戦に人知れず参加していたようで、豊富な戦闘経験と指揮経験を持っている。その攻撃は非常に破壊力が高く、また装備の防御性能も高いため、万全の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Big Bob",
     "ENDescription": "One of Reunion's squad leaders. He wears a heavy blast suit and attacks with an electric chainsaw. He has been spotted leading peripheral operations in some remote areas, and is known to be a seasoned combatant and commander. Due to his devastating attacks and extreme survivability, proceed with utmost caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "빅 밥",
     "KRDescription": "풍부한 작전 경험과 지휘 경험을 갖고 있는 리유니온의 간부. 무거운 방폭 방어구를 입고 있으며, 전기톱을 사용하여 공격한다. 눈에 띄지 않는 작전 지역에 출현하여 주변의 작전에 몰래 참여했던 것으로 보인다. 막강한 파괴력을 갖추고 있으며 쓰러뜨리기도 상당히 어려우니, 각별히 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1001_bigbo_2",
@@ -4625,13 +4625,13 @@
     "CNAbilityList": [],
     "JPName": "Big Adam",
     "JPDescription": "レユニオンの幹部。対爆スーツを着用し、チェーンソーで戦う。見た目はビッグボブとほとんど変わらないが、恐らく同一人物ではなく、彼らの関係性については誰も知らない。限られた資料から推測される危険度はビッグボブを凌駕する。その攻撃は非常に破壊力が高く、また装備の防御性能も高いため、万全の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Big Adam",
     "ENDescription": "One of Reunion's squad leaders. He wears a heavy blast suit and attacks with an electric chainsaw. Bears a remarkable similarity to Big Bob, but does not appear to be the same person. It is unknown whether there is any relationship between the two of them. Data suggests that he may be even more dangerous than Big Bob. Due to his devastating attacks and extreme survivability, proceed with utmost caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "빅 아담",
     "KRDescription": "리유니온의 간부. 막강한 파괴력을 갖추고 있으며 쓰러뜨리기도 상당히 어렵다. 무거운 방폭 방어구를 입고 있으며, 겉보기로는 빅 밥과 매우 유사한 장비를 착용하고 있는 것 같이 보이지만, 빅 아담은 한 사람이 아닐 수도 있다. 그들의 관계에 대해서는 제대로 알려진 바 없으나, 일부 자료에 따르면 그 위험성은 빅 밥보다 더 클 가능성도 있다고 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10020_sgcat",
@@ -6768,13 +6768,13 @@
     "CNAbilityList": [],
     "JPName": "兵士",
     "JPDescription": "レユニオンの近距離戦闘員。略奪や非合法ルートで入手した武器を手に、同じ仮面と服装で素性を隠して行動する。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Soldier",
     "ENDescription": "One of Reunion's basic melee soldiers. Equipped with illegally obtained weapons and armor, they wear masks to conceal their identities during operations.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "병사",
     "KRDescription": "리유니온의 초급 근거리 전투원. 노획하거나 불법 루트를 통해 입수한 복장과 무기를 장비하고 있으며, 자신의 신분과 행동이 노출되지 않도록 통일된 복장과 가면을 착용하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10030_vtwand",
@@ -9264,13 +9264,13 @@
     "CNAbilityList": [],
     "JPName": "射撃兵",
     "JPDescription": "レユニオンの遠距離戦闘員。略奪や非合法ルートで入手した武器を手に、同じ仮面と服装で素性を隠して行動する。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Crossbowman",
     "ENDescription": "One of Reunion's basic ranged soldiers. Equipped with illegally obtained weapons and armor, they wear masks to conceal their identities during operations.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "석궁병",
     "KRDescription": "리유니온의 초급 원거리 전투원. 노획하거나 불법 루트를 통해 입수한 복장과 무기를 장비하고 있으며, 자신의 신분과 행동이 노출되지 않도록 통일된 복장과 가면을 착용하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1003_ncbow_2",
@@ -9372,13 +9372,13 @@
     "CNAbilityList": [],
     "JPName": "射撃隊長",
     "JPDescription": "レユニオンのベテラン遠距離戦闘員。射撃兵よりも手強い。奪った武器や非合法ルートで入手した武器を手に、同じ仮面と服装で素性を隠して行動する。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Crossbowman Leader",
     "ENDescription": "One of Reunion's senior ranged soldiers, more powerful than a normal Crossbowman. Equipped with illegally obtained weapons and armor, they wear masks to conceal their identities during operations.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "석궁병 리더",
     "KRDescription": "리유니온의 고급 원거리 전투원. 일반적인 석궁병보다 작전 능력이 뛰어나다. 노획하거나 불법 루트를 통해 입수한 복장과 무기를 장비하고 있으며, 자신의 신분과 행동이 노출되지 않도록 통일된 복장과 가면을 착용하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10040_cnvbln",
@@ -16171,13 +16171,13 @@
     "CNAbilityList": [],
     "JPName": "重装兵",
     "JPDescription": "レユニオンの近距離戦闘員。十分な実力があり、正式な訓練を受けているものと思われる。重装備で完全武装しているため、攻撃が通りにくい。細心の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Heavy Defender",
     "ENDescription": "One of Reunion's melee soldiers. Equipped with a full set of heavy armor, they have ample combat experience and are extremely hard to defeat. As they may have had formal training, proceed with caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "중기갑병",
     "KRDescription": "리유니온의 근거리 전투원. 무거운 전신 방어구를 장비하였고, 숙련된 전투 능력을 갖추고 있어 쓰러뜨리기가 매우 어렵다. 과거 정규 훈련을 받았던 전투원으로 추측되니 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1006_shield_2",
@@ -16279,13 +16279,13 @@
     "CNAbilityList": [],
     "JPName": "重装隊長",
     "JPDescription": "レユニオンの近距離戦闘員。重装兵よりも手強い。十分な実力があり、正式な訓練を受けているものと思われる。重装備で完全武装しているため、攻撃が通りにくい。細心の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Heavy Defender Leader",
     "ENDescription": "One of Reunion's melee soldiers, more dangerous than a normal Heavy Defender. Equipped with a full set of heavy armor, they have ample combat experience and are extremely hard to defeat. As they may have had formal training, proceed with caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "중기갑병 리더",
     "KRDescription": "리유니온의 근거리 전투원. 일반적인 중기갑병보다 작전 능력이 뛰어나다. 무거운 전신 방어구를 장비하였고, 숙련된 전투 능력을 갖추고 있어 쓰러뜨리기가 매우 어렵다. 과거 정규 훈련을 받았던 전투원으로 추측되니 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1006_shield_3",
@@ -16387,13 +16387,13 @@
     "CNAbilityList": [],
     "JPName": "重装連隊長",
     "JPDescription": "レユニオンの近距離戦闘員。重装兵たちを率いる連隊長。重装備で完全武装している。大量の敵を引き連れ一斉攻撃を仕掛けてくるため、非常に厄介。万全の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Heavy Defender Lieutenant",
     "ENDescription": "One of Reunion's melee soldiers, more dangerous than a Heavy Defender Leader. Equipped with a full set of heavy armor, they usually appear alongside a large number of troops and are extremely hard to defeat. Proceed with caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "중기갑병 캡틴",
     "KRDescription": "리유니온의 근거리 전투원. 일반적인 중기갑병보다 작전 능력이 뛰어나다. 무거운 전신 방어구를 장비하였고, 일반적으로 많은 인원 수의 적들을 몰고 다녀 쓰러뜨리기가 매우 어렵다. 상대 시엔 각별히 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10070_ftkbtt",
@@ -16863,15 +16863,15 @@
     "CNName": "侵入式调用",
     "CNDescription": "“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸......你说看不见是什么意思？”",
     "CNAbilityList": [],
-    "JPName": "侵入式调用",
-    "JPDescription": "“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸......你说看不见是什么意思？”",
-    "JPAbilityList": [],
-    "ENName": "侵入式调用",
-    "ENDescription": "“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸......你说看不见是什么意思？”",
-    "ENAbilityList": [],
-    "KRName": "侵入式调用",
-    "KRDescription": "“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸......你说看不见是什么意思？”",
-    "KRAbilityList": []
+    "JPName": "侵入式コールコマンド",
+    "JPDescription": "「PRTSが未知の要因による干渉を受けて、再起動プロセスを開始したのを確認したよ。それに正体不明の危険なコールコマンドも頻繁に検出されてるんだ。ほら、あのマーク、さっきからずっとあそこにあるでしょ？えっ……見えないってどういうこと？」",
+    "JPAbilityList": {},
+    "ENName": "Intrusive Call",
+    "ENDescription": "'We've confirmed that PRTS has initiated an emergency reset triggered by unknown interference. We're also detecting a dangerous, unidentified instruction looping within the system. Look, see that mark that's been here all this time? ...What do you mean you can't see it?'",
+    "ENAbilityList": {},
+    "KRName": "침입식 호출",
+    "KRDescription": "“우리는 이미 PRTS가 알 수 없는 요소의 간섭을 받아 프로세스 초기화 작업을 시작했다는 것과, 식별할 수 없는 위험한 호출 명령이 빈번하게 감지된 것을 확인했어. 봐, 저 표식은 항상 여기 있잖아? 안 보인다니……? 그게 무슨 소리야?”",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10073_mpcar",
@@ -16926,15 +16926,15 @@
     "CNName": "迷茫的修理小助手",
     "CNDescription": "被源石干扰了寻路模块的修理小助手，连工程部干员特意添加的送餐功能都很难实现了。“你说维护功能？我们的工程师够多了。至于华法琳提出的食品安全警告，我们正在努力改进。”",
     "CNAbilityList": [],
-    "JPName": "迷茫的修理小助手",
-    "JPDescription": "被源石干扰了寻路模块的修理小助手，连工程部干员特意添加的送餐功能都很难实现了。“你说维护功能？我们的工程师够多了。至于华法琳提出的食品安全警告，我们正在努力改进。”",
-    "JPAbilityList": [],
-    "ENName": "迷茫的修理小助手",
-    "ENDescription": "被源石干扰了寻路模块的修理小助手，连工程部干员特意添加的送餐功能都很难实现了。“你说维护功能？我们的工程师够多了。至于华法琳提出的食品安全警告，我们正在努力改进。”",
-    "ENAbilityList": [],
-    "KRName": "迷茫的修理小助手",
-    "KRDescription": "被源石干扰了寻路模块的修理小助手，连工程部干员特意添加的送餐功能都很难实现了。“你说维护功能？我们的工程师够多了。至于华法琳提出的食品安全警告，我们正在努力改进。”",
-    "KRAbilityList": []
+    "JPName": "混乱する修理ロボット",
+    "JPDescription": "経路検索モジュールが源石の干渉を受けている修理用アシスタントロボット。エンジニア部がわざわざ追加した食事配膳機能すらまともに動作しなくなっている。「セルフメンテナンス機能？エンジニアならうちにたくさんいるし、そんなのいらないでしょ。ワルファリンが言ってた食品の安全問題に関しては、いま改善に努めてるところだよ。」",
+    "JPAbilityList": {},
+    "ENName": "Confused Maintenance Helper",
+    "ENDescription": "Maintenance Helper whose pathfinding module has been disrupted by Originium. The meal delivery function added by the Engineering Department no longer works. 'You want a repair function? Look, we've already got plenty of engineers. As for Warfarin's food safety warning, we're working on it.'",
+    "ENAbilityList": {},
+    "KRName": "방황하는 수리 보조",
+    "KRDescription": "오리지늄 간섭으로 길찾기 모듈이 이상해진 수리 보조. 심지어 엔지니어링부에서 특별히 추가한 음식 배달 기능조차 실행되지 않는다. “유지보수? 우리 엔지니어로도 충분해. 그리고 와파린이 제안한 식품 안전 경고라면, 우리도 개선 중이야.”",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10073_mpcar_2",
@@ -16989,15 +16989,15 @@
     "CNName": "失控的修理小助手",
     "CNDescription": "被源石干扰了威胁识别模块的修理小助手，连工程部干员精心设计的小功率带安全离合的钻头都变得更危险了。“你说功率？比起复杂作业，显然是确保干员工作环境的安全性并为其提供足够的情绪支持更加重要！”",
     "CNAbilityList": [],
-    "JPName": "失控的修理小助手",
-    "JPDescription": "被源石干扰了威胁识别模块的修理小助手，连工程部干员精心设计的小功率带安全离合的钻头都变得更危险了。“你说功率？比起复杂作业，显然是确保干员工作环境的安全性并为其提供足够的情绪支持更加重要！”",
-    "JPAbilityList": [],
-    "ENName": "失控的修理小助手",
-    "ENDescription": "被源石干扰了威胁识别模块的修理小助手，连工程部干员精心设计的小功率带安全离合的钻头都变得更危险了。“你说功率？比起复杂作业，显然是确保干员工作环境的安全性并为其提供足够的情绪支持更加重要！”",
-    "ENAbilityList": [],
-    "KRName": "失控的修理小助手",
-    "KRDescription": "被源石干扰了威胁识别模块的修理小助手，连工程部干员精心设计的小功率带安全离合的钻头都变得更危险了。“你说功率？比起复杂作业，显然是确保干员工作环境的安全性并为其提供足够的情绪支持更加重要！”",
-    "KRAbilityList": []
+    "JPName": "暴走する修理ロボット",
+    "JPDescription": "脅威識別モジュールが源石の干渉を受けている修理用アシスタントロボット。エンジニア部が入念に設計した安全クラッチ付き低出力ドリルすらも、その危険性を増している。「出力は上げられないのかって？作業の多様化よりも、まずはオペレーターの労働環境の安全性を確保して、精神面のサポートを十分提供してあげることのほうが大事でしょ！」",
+    "JPAbilityList": {},
+    "ENName": "Rampaging Maintenance Helper",
+    "ENDescription": "Maintenance Helper whose IFF module has been disrupted by Originium. The drill carefully added by the Engineering Department with a safety clutch is now much more dangerous. 'Power output? Look, our priorities are providing our operators with a safe working environment and sufficient moral support, not making this thing do complex work.'",
+    "ENAbilityList": {},
+    "KRName": "통제 불능 수리 보조",
+    "KRDescription": "오리지늄 간섭으로 위협 식별 모듈이 이상해진 수리 보조. 심지어 엔지니어링부에서 정성껏 설계한 소출력 안전 클러치 드릴도 이젠 위험하게 변했다. “출력? 복잡한 작업보다 오퍼레이터 업무 환경의 안전성을 확보하고 충분한 정서적 지원을 해주는 게 더 중요하잖아!”",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10074_mpcata",
@@ -17052,15 +17052,15 @@
     "CNName": "冰镇饮料机",
     "CNDescription": "被源石干扰了轨道模拟模块的冰镇饮料机，会不受控制地向根本不渴的干员投射过度冷冻的易拉罐。工程部“第十届胡闹大赛”头等奖，毕竟没人能拒绝一个全自动投放美味饮品到工位上的贴心小冰箱（除了对接你体检的医疗部干员）。",
     "CNAbilityList": [],
-    "JPName": "冰镇饮料机",
-    "JPDescription": "被源石干扰了轨道模拟模块的冰镇饮料机，会不受控制地向根本不渴的干员投射过度冷冻的易拉罐。工程部“第十届胡闹大赛”头等奖，毕竟没人能拒绝一个全自动投放美味饮品到工位上的贴心小冰箱（除了对接你体检的医疗部干员）。",
-    "JPAbilityList": [],
-    "ENName": "冰镇饮料机",
-    "ENDescription": "被源石干扰了轨道模拟模块的冰镇饮料机，会不受控制地向根本不渴的干员投射过度冷冻的易拉罐。工程部“第十届胡闹大赛”头等奖，毕竟没人能拒绝一个全自动投放美味饮品到工位上的贴心小冰箱（除了对接你体检的医疗部干员）。",
-    "ENAbilityList": [],
-    "KRName": "冰镇饮料机",
-    "KRDescription": "被源石干扰了轨道模拟模块的冰镇饮料机，会不受控制地向根本不渴的干员投射过度冷冻的易拉罐。工程部“第十届胡闹大赛”头等奖，毕竟没人能拒绝一个全自动投放美味饮品到工位上的贴心小冰箱（除了对接你体检的医疗部干员）。",
-    "KRAbilityList": []
+    "JPName": "アイスドリンクマシン",
+    "JPDescription": "軌道シミュレートモジュールが源石の干渉を受けているアイスドリンクマシン。喉も渇いていないオペレーターたちに、過剰に冷えた缶飲料を発射してくる。エンジニア部で実施された「第十回おふざけコンテスト」では、おいしいドリンクを全自動でデスクまで届けてくれる親切な小型冷蔵庫を拒める者などいない（メディカルチェック担当の医療部オペレーターを除く）ということで、これが優勝作品となった。",
+    "JPAbilityList": {},
+    "ENName": "Cold Drink Machine",
+    "ENDescription": "Cold drink machine that has had its trajectory computing module disrupted by Originium. It uncontrollably launches frozen beverage cans at operators who aren't even thirsty at all. Prize winner of the Engineering Department's 10th Ignoble Prize awards. No one can refuse a thoughtful fridge that automatically launches refreshing drinks at you while you work, after all. Just don't think too much about what the medics would say at your next checkup.",
+    "ENAbilityList": {},
+    "KRName": "음료 냉각기",
+    "KRDescription": "오리지늄 간섭으로 궤도 모듈이 이상해진 음료 냉각기. 멋대로 목이 마르지도 않는 오퍼레이터에게 차가운 캔을 마구 던진다. 엔지니어링부 '제10회 장난 대회'의 1등 상. 업무 중에 시원한 음료를 자동으로 가져다주는 미니 냉장고를 마다할 사람은 없을 것이다. (오퍼레이터의 건강에 예민한 의료부를 제외하면)",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10074_mpcata_2",
@@ -17115,15 +17115,15 @@
     "CNName": "加热饮料机",
     "CNDescription": "被源石干扰了温度控制模块的冰镇饮料机，美味饮品在过度加热后会给干员们带来生理和心理的双重冲击。工程部“第十届胡闹大赛”头等奖，不过现在恐怕会收到大量的投诉。",
     "CNAbilityList": [],
-    "JPName": "加热饮料机",
-    "JPDescription": "被源石干扰了温度控制模块的冰镇饮料机，美味饮品在过度加热后会给干员们带来生理和心理的双重冲击。工程部“第十届胡闹大赛”头等奖，不过现在恐怕会收到大量的投诉。",
-    "JPAbilityList": [],
-    "ENName": "加热饮料机",
-    "ENDescription": "被源石干扰了温度控制模块的冰镇饮料机，美味饮品在过度加热后会给干员们带来生理和心理的双重冲击。工程部“第十届胡闹大赛”头等奖，不过现在恐怕会收到大量的投诉。",
-    "ENAbilityList": [],
-    "KRName": "加热饮料机",
-    "KRDescription": "被源石干扰了温度控制模块的冰镇饮料机，美味饮品在过度加热后会给干员们带来生理和心理的双重冲击。工程部“第十届胡闹大赛”头等奖，不过现在恐怕会收到大量的投诉。",
-    "KRAbilityList": []
+    "JPName": "ホットドリンクマシン",
+    "JPDescription": "温度制御モジュールが源石の干渉を受けているアイスドリンクマシン。おいしいドリンクが過剰に加熱されていることで、オペレーターたちに肉体面と精神面で二重のダメージを与える代物となった。エンジニア部で実施された「第十回おふざけコンテスト」の優勝作品だが、今となっては大量のクレームが殺到していることだろう。",
+    "JPAbilityList": {},
+    "ENName": "Hot Drink Machine",
+    "ENDescription": "Hot drink machine that has had its temperature control module disrupted by Originium. The super-heated drinks it delivers bring physical and psychological trauma. Prize winner of the Engineering Department's 10th Ignoble Prize awards, though it will not be long before the complaints overflow the department's inbox.",
+    "ENAbilityList": {},
+    "KRName": "음료 가열기",
+    "KRDescription": "오리지늄 간섭으로 온도 모듈이 이상해진 음료 냉각기. 맛있는 음료를 과도하게 가열하여 오퍼레이터에게 생리적 및 심리적인 충격을 이중으로 안겨준다. 엔지니어링부 '제10회 장난 대회'의 1등 상. 하지만 지금쯤 아마도 수많은 불만이 접수되었을 것이다.",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10075_mpwrj",
@@ -17196,40 +17196,40 @@
         "textFormat": 2
       }
     ],
-    "JPName": "无忧货运帮手",
-    "JPDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。至于货物本身是否危险，无忧货运帮手从来不会忧心。",
+    "JPName": "安心輸送ヘルパー",
+    "JPDescription": "貨物を決して落とすことなく、艦内に警報が鳴り響く中でも平然と混乱を切り抜け、目的地まできちんと届けてくれる輸送ドローン。貨物そのものの危険性については、輸送ヘルパー自身もきっと問題ないだろうと安心しきっているようだ。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "周囲に味方ユニットが存在する場合、即座に自爆し周囲の味方ユニット全員に高い術ダメージを与える",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "无忧货运帮手",
-    "ENDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。至于货物本身是否危险，无忧货运帮手从来不会忧心。",
+    "ENName": "Worry-Free Cargo Helper",
+    "ENDescription": "It will brave the chaos and deliver the goods safely to their destination, even when all hell is breaking loose on Rhodes Island. Whether the goods themselves are dangerous is none of its concern.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "Self-destructs immediately when there is an Operator nearby, dealing a large amount of Arts damage to surrounding units",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "无忧货运帮手",
-    "KRDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。至于货物本身是否危险，无忧货运帮手从来不会忧心。",
+    "KRName": "무사고 수송 보조",
+    "KRDescription": "화물 수송에 실수가 없다. 심지어 본함의 경보가 울리는 순간에도 혼란을 뚫고 안전하게 목적지까지 수송한다. 다만, 화물 자체의 위험 여부에 대해서는 딱히 신경 쓰지 않는다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "주변에 오퍼레이터가 존재할 시 자폭하여 대량의 마법 대미지를 입힘",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17304,40 +17304,40 @@
         "textFormat": 2
       }
     ],
-    "JPName": "防爆货运帮手",
-    "JPDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。本就为搬运高危货物而生，防爆货运帮手更不会在意货物本身的危险性。",
+    "JPName": "防爆輸送ヘルパー",
+    "JPDescription": "貨物を決して落とすことなく、艦内に警報が鳴り響く中でも平然と混乱を切り抜け、目的地まできちんと届けてくれる輸送ドローン。元々危険性の高い貨物の輸送用に作られているため、輸送ヘルパー自身も貨物の危険性など気にしない。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "周囲に味方ユニットが存在する場合、即座に自爆し周囲の味方ユニット全員に高い術ダメージを与える",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "防爆货运帮手",
-    "ENDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。本就为搬运高危货物而生，防爆货运帮手更不会在意货物本身的危险性。",
+    "ENName": "Blast-Proof Cargo Helper",
+    "ENDescription": "It will brave the chaos and deliver the goods safely to their destination, even when all hell is breaking loose on Rhodes Island. Designed to transport dangerous cargo to begin with, it certainly could not care less whether they are dangerous.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "Self-destructs immediately when there is an Operator nearby, dealing a large amount of Arts damage to surrounding units",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "防爆货运帮手",
-    "KRDescription": "货无失手，哪怕是在本舰警报大作的时刻也能安然穿越混乱，确保货物抵达目的地。本就为搬运高危货物而生，防爆货运帮手更不会在意货物本身的危险性。",
+    "KRName": "방폭 수송 보조",
+    "KRDescription": "화물 수송에 실수가 없다. 심지어 본함의 경보가 울리는 순간에도 혼란을 뚫고 안전하게 목적지까지 수송한다. 어차피 위험물을 운반하기 위해 만들어졌기에, 화물 자체의 위험 여부는 신경도 쓰지 않는다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "周围存在干员时立即自爆，对周围造成大量法术伤害",
-        "textFormat": 2
+        "text": "주변에 오퍼레이터가 존재할 시 자폭하여 대량의 마법 대미지를 입힘",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17399,28 +17399,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "“寒灾回响”",
-    "JPDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。她警惕此地是诅咒的又一个幻境，也疑惑自己下一刻的命运。",
+    "JPName": "「寒災の残響」",
+    "JPDescription": "アーカイブに情報が記録されている敵。かつては故郷を守っていた先駆者だった。源石は彼女が崩壊する直前の最後の理性を記録しており、それをここに再現している。彼女は目の前の現状を呪いがもたらす幻の一つだろうと警戒しており、次に訪れる自身の運命に疑念を抱いている。",
     "JPAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "撃破されると、足元のマスを封印し配置不可にする",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "“寒灾回响”",
-    "ENDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。她警惕此地是诅咒的又一个幻境，也疑惑自己下一刻的命运。",
+    "ENName": "'Frozen Monstrosity's Echo'",
+    "ENDescription": "Originating from an archived enemy who was once a staunch defender of hearth and home. Originium has recorded and recreated her last waking moment before collapse. She suspects this place of being yet another illusion of the curse, and of her future fate.",
     "ENAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "When defeated, the tile underneath becomes unavailable for deployment",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "“寒灾回响”",
-    "KRDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。她警惕此地是诅咒的又一个幻境，也疑惑自己下一刻的命运。",
+    "KRName": "'프로스트 디재스터의 울림'",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 한때 터전을 지키던 선구자였으며, 오리지늄은 그녀가 붕괴하기 직전의 마지막 의지를 기록했고, 재현해냈다. 그녀는 이곳이 저주의 또 다른 비경이 아닐까 경계하고 있지만, 자신에게 닥칠 다음 운명에 의문을 품고 있다.",
     "KRAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "처치당한 후 해당 칸 봉인, 배치 불가로 변경",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17482,28 +17482,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "“风雪中的影子”",
-    "JPDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。“卜问天地通万灵，寻求我去路。”",
+    "JPName": "「風雪の中の影」",
+    "JPDescription": "アーカイブに情報が記録されている敵。かつては故郷を守っていた先駆者。源石は彼女が崩壊する直前の最後の理性を記録しており、それをここに再現している。「天地を占い万霊に通じ、己が往く道を求めん。」",
     "JPAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "撃破されると、足元のマスを封印し配置不可にする",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "“风雪中的影子”",
-    "ENDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。“卜问天地通万灵，寻求我去路。”",
+    "ENName": "'Shadow in the Snow'",
+    "ENDescription": "Originating from an archived enemy who was once a staunch defender of hearth and home. Originium has recorded and recreated her last waking moment before collapse. 'Espy the realm, every life seen; seek your sojourn path.'",
     "ENAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "When defeated, the tile underneath becomes unavailable for deployment",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "“风雪中的影子”",
-    "KRDescription": "可溯源到记录在档案库中的敌人，曾是保卫家园的先驱。源石记录了她坍缩前最后的清醒意志并将其重现。“卜问天地通万灵，寻求我去路。”",
+    "KRName": "'눈보라 속의 그림자'",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 한때 터전을 지키던 선구자였으며, 오리지늄은 그녀가 붕괴하기 직전의 마지막 의지를 기록했고, 재현해냈다. “하늘과 땅에게 묻고, 만물을 통해 나의 길을 찾을 것이다.”",
     "KRAbilityList": [
       {
-        "text": "被击倒后封锁脚下的地块，使其变为不可部署",
-        "textFormat": 2
+        "text": "처치당한 후 해당 칸 봉인, 배치 불가로 변경",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17580,28 +17580,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "内测版自助出餐终端",
-    "JPDescription": "仍在测试的食堂自助出餐终端。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜这次测试的时机不对，本是图个方便却造成了更多的麻烦。",
+    "JPName": "セルフ配膳端末ベータ版",
+    "JPDescription": "まだ試験運用段階にある食堂のセルフ配膳端末。宿舎から食堂までの移動の手間を省くため、時間にうるさい某オペレーターのひらめきによって、配膳用の修理ロボットが搭載されている。しかし残念ながら今回の試験運用はタイミングが悪く、利便性を求めたはずがかえって混乱を招いてしまっている。",
     "JPAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<迷茫的修理小助手>",
-        "textFormat": 2
+        "text": "一定時間ごとに、<混乱する修理ロボット>を1体召喚する",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "内测版自助出餐终端",
-    "ENDescription": "仍在测试的食堂自助出餐终端。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜这次测试的时机不对，本是图个方便却造成了更多的麻烦。",
+    "ENName": "Mockup Auto Meal Distributor",
+    "ENDescription": "Cafeteria meal distributor that is still in beta testing. A busy operator had the bright idea to attach a maintenance helper to it—to save the effort of walking from the dorms to the cafeteria—but the timing of the test was unfortunate to say the least.",
     "ENAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<迷茫的修理小助手>",
-        "textFormat": 2
+        "text": "Periodically summons 1 <Confused Maintenance Helper>",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "内测版自助出餐终端",
-    "KRDescription": "仍在测试的食堂自助出餐终端。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜这次测试的时机不对，本是图个方便却造成了更多的麻烦。",
+    "KRName": "자동 배식기 베타 버전",
+    "KRDescription": "아직 테스트 중인 구내식당의 자동 배식기. 숙소에서 식당까지 가야 하는 번거로움을 덜기 위해, 촌각을 다투는 한 오퍼레이터가 번뜩이는 아이디어로 수리 보조를 탑재했다. 그러나 테스트 타이밍이 좋지 않았고, 편리함을 추구하려다 더 많은 문제를 일으키고 말았다.",
     "KRAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<迷茫的修理小助手>",
-        "textFormat": 2
+        "text": "일정 시간마다 <방황하는 수리 보조> 1개 소환",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17678,28 +17678,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "自助出餐终端原型机",
-    "JPDescription": "食堂自助出餐终端原型机。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜大部分设计都用力过猛，本是图个方便却造成了更多的麻烦。",
+    "JPName": "セルフ配膳端末プロトタイプ",
+    "JPDescription": "食堂のセルフ配膳端末のプロトタイプ。宿舎から食堂までの移動の手間を省くため、時間にうるさい某オペレーターのひらめきによって、配膳用の修理ロボットが搭載されている。しかし残念ながらやりすぎな部分が多く、利便性を求めたはずがかえって混乱を招いてしまっている。",
     "JPAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<失控的修理小助手>",
-        "textFormat": 2
+        "text": "一定時間ごとに、<暴走する修理ロボット>を1体召喚する",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "自助出餐终端原型机",
-    "ENDescription": "食堂自助出餐终端原型机。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜大部分设计都用力过猛，本是图个方便却造成了更多的麻烦。",
+    "ENName": "Prototype Auto Meal Distributor",
+    "ENDescription": "Prototype of a cafeteria meal distributor. A busy operator had the bright idea to attach a maintenance helper to it—to save the effort of walking from the dorms to the cafeteria—but the design was overzealous and caused even more trouble.",
     "ENAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<失控的修理小助手>",
-        "textFormat": 2
+        "text": "Periodically summons 1 <Rampaging Maintenance Helper>",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "自助出餐终端原型机",
-    "KRDescription": "食堂自助出餐终端原型机。为了免去从宿舍走到食堂的麻烦，某位分秒必争的干员灵光一现，特意接入了修理小助手。可惜大部分设计都用力过猛，本是图个方便却造成了更多的麻烦。",
+    "KRName": "자동 배식기 프로토타입",
+    "KRDescription": "구내식당의 자동 배식기 프로토타입. 숙소에서 식당까지 가야 하는 번거로움을 덜기 위해, 촌각을 다투는 한 오퍼레이터가 번뜩이는 아이디어로 수리 보조를 탑재했다. 그러나 설계 정도가 너무 지나쳤고, 편리함을 추구하려다 더 많은 문제를 일으키고 말았다.",
     "KRAbilityList": [
       {
-        "text": "每隔一段时间召唤1个<失控的修理小助手>",
-        "textFormat": 2
+        "text": "일정 시간마다 <통제 불능 수리 보조> 1개 소환",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -17761,28 +17761,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "固化源石巨像",
-    "JPDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以固化源石构成的新姿态出现在“罗德岛”号上。",
+    "JPName": "固体化源石巨像",
+    "JPDescription": "アーカイブに情報が記録されている敵。元は高塔の術師が作ったよく迷子になる実験品の巨像だったが、固体化源石によって新たな姿を得て、「ロドス・アイランド」号に現れた。",
     "JPAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "範囲攻撃を行う",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "固化源石巨像",
-    "ENDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以固化源石构成的新姿态出现在“罗德岛”号上。",
+    "ENName": "Solidified Originium Colossus",
+    "ENDescription": "Originating from an archived enemy—an experimental colossus created by spire casters, prone to getting lost. It has appeared in Rhodes Island in a form recreated by solidified Originium.",
     "ENAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "Attacks deal splash damage",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "固化源石巨像",
-    "KRDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以固化源石构成的新姿态出现在“罗德岛”号上。",
+    "KRName": "경화 오리지늄 거대 석상",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적, 고탑 캐스터가 만들어낸 길을 잘 잃는 실험용 거대 석상이다. 지금은 경화 오리지늄 형태로 '로도스 아일랜드'호에 나타났다.",
     "KRAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "공격이 스플래시 대미지를 입힘",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -17845,27 +17845,27 @@
       }
     ],
     "JPName": "活性源石巨像",
-    "JPDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以极其危险的活性源石构成的新姿态出现在“罗德岛”号上。",
+    "JPDescription": "アーカイブに情報が記録されている敵。元は高塔の術師が作ったよく迷子になる実験品の巨像だったが、極めて危険な活性源石によって新たな姿を得て、「ロドス・アイランド」号に現れた。",
     "JPAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "範囲攻撃を行う",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "活性源石巨像",
-    "ENDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以极其危险的活性源石构成的新姿态出现在“罗德岛”号上。",
+    "ENName": "Active Originium Colossus",
+    "ENDescription": "Originating from an archived enemy—an experimental colossus created by spire casters, prone to getting lost. It has appeared in Rhodes Island in a form recreated by dangerous active Originium.",
     "ENAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "Attacks deal splash damage",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "活性源石巨像",
-    "KRDescription": "可溯源到记录在档案库中的敌人。高塔术师创造的容易迷路的实验巨像，如今却以极其危险的活性源石构成的新姿态出现在“罗德岛”号上。",
+    "KRName": "활성 오리지늄 거대 석상",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적, 고탑 캐스터가 만들어낸 길을 잘 잃는 실험용 거대 석상이다. 지금은 극도로 위험한 활성 오리지늄 형태로 '로도스 아일랜드'호에 나타났다.",
     "KRAbilityList": [
       {
-        "text": "攻击造成溅射伤害",
-        "textFormat": 0
+        "text": "공격이 스플래시 대미지를 입힘",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -17947,28 +17947,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "稳定态萨卡兹术师结晶",
-    "JPDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用的法术都发生了某种未知变化，会给我们的阵线带来一定的压力。",
+    "JPName": "定常状態サルカズ術師結晶",
+    "JPDescription": "アーカイブに情報が記録されている敵。源石の肉体を得たことでサルカズ術師の使用するアーツには未知の変化が生じており、戦線をある程度圧迫してくる。",
     "JPAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "出現から一定時間後、所持コストの自然回復を一定時間停止させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "稳定态萨卡兹术师结晶",
-    "ENDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用的法术都发生了某种未知变化，会给我们的阵线带来一定的压力。",
+    "ENName": "Stable Sarkaz Caster Crystal",
+    "ENDescription": "Originating from an archived enemy. The Originium body of these Sarkaz casters has induced unknown changes to the Arts they use, which may pressure our defenses.",
     "ENAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "Temporarily halts your DP regeneration shortly after it enters the battlefield",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "稳定态萨卡兹术师结晶",
-    "KRDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用的法术都发生了某种未知变化，会给我们的阵线带来一定的压力。",
+    "KRName": "안정 상태의 살카즈 캐스터 결정",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 오리지늄 신체를 가진 살카즈 캐스터, 이젠 아츠에게 알 수 없는 변화가 생겼고, 우리 전선에 압박을 가한다.",
     "KRAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "등장 일정 시간 후 아군 배치 코스트의 자연 회복을 봉인, 일정 시간 지속",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -18050,28 +18050,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "活性态萨卡兹术师结晶",
-    "JPDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用某种无法识别的激进法术干扰我们的部署，会给我们的阵线带来极大的压力。",
+    "JPName": "活性状態サルカズ術師結晶",
+    "JPDescription": "アーカイブに情報が記録されている敵。源石の肉体を得たことでサルカズ術師の使用するアーツは識別不能で過激なものとなっており、それを用いてこちらの配置を妨害し、戦線に極めて強い圧力をかけてくる。",
     "JPAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "出現から一定時間後、所持コストの自然回復を一定時間停止させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "活性态萨卡兹术师结晶",
-    "ENDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用某种无法识别的激进法术干扰我们的部署，会给我们的阵线带来极大的压力。",
+    "ENName": "Active Sarkaz Caster Crystal",
+    "ENDescription": "Originating from an archived enemy. The Originium body of these Sarkaz casters allows them to use previously unknown forms of Arts to interfere with our deployment, significantly pressuring our defenses.",
     "ENAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "Temporarily halts your DP regeneration shortly after it enters the battlefield",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "活性态萨卡兹术师结晶",
-    "KRDescription": "可溯源到记录在档案库中的敌人。拥有了源石身躯的萨卡兹术师如今在使用某种无法识别的激进法术干扰我们的部署，会给我们的阵线带来极大的压力。",
+    "KRName": "활성 상태의 살카즈 캐스터 결정",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 오리지늄 신체를 가진 살카즈 캐스터, 이젠 알 수 없는 급진적인 변화가 생긴 아츠로 오퍼레이터 배치에 혼란을 줘, 우리 전선에 거센 압박을 가한다.",
     "KRAbilityList": [
       {
-        "text": "出场一段时间后，封锁我方部署费用的自然回复，持续一定时间",
-        "textFormat": 2
+        "text": "등장 일정 시간 후 아군 배치 코스트의 자연 회복을 봉인, 일정 시간 지속",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -18175,13 +18175,13 @@
     "CNAbilityList": [],
     "JPName": "オリジムシ",
     "JPDescription": "野生の感染生物。こうした知能の低い生物は敵の術師に操られている可能性があり、人工施設に侵入し群れで攻撃してくる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Originium Slug",
     "ENDescription": "An infected wild creature. Due to their low intelligence, they are easily controlled by enemy casters for use as cannon fodder during invasions.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "원석충",
     "KRDescription": "야생의 감염 생물. 이런 저지능 생물은 적의 캐스터에게 조종당할 가능성이 있으며, 인공설비에 침입하여 무리지어 공격한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1007_slime_2",
@@ -18283,13 +18283,13 @@
     "CNAbilityList": [],
     "JPName": "オリジムシα",
     "JPDescription": "野生の感染生物。オリジムシよりも危険度が高い。こうした知能の低い生物は敵の術師に操られている可能性があり、人工施設に侵入し群れで攻撃してくる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Originium Slug α",
     "ENDescription": "An infected wild creature that is more dangerous than a normal Originium Slug. Due to their low intelligence, they are easily controlled by enemy casters for use as cannon fodder during invasions.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "원석충 α",
     "KRDescription": "야생의 감염 생물. 일반 원석충보다 위험도가 높은 종이다. 이런 저지능 생물은 적의 캐스터에게 조종당할 가능성이 있으며, 인공설비에 침입하여 무리지어 공격한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1007_slime_3",
@@ -18346,13 +18346,13 @@
     "CNAbilityList": [],
     "JPName": "オリジムシβ",
     "JPDescription": "野生の感染生物。オリジムシαよりも危険度が高い。こうした知能の低い生物は敵の術師に操られている可能性があり、人工施設に侵入し群れで攻撃してくる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Originium Slug β",
     "ENDescription": "An infected wild creature that is more dangerous than an Originium Slug α. Due to their low intelligence, they are easily controlled by enemy casters for use as cannon fodder during invasions.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "원석충 β",
     "KRDescription": "야생의 감염 생물. 원석충 α보다 위험도가 더 높은 종이다. 이런 저지능 생물은 적의 캐스터에게 조종당할 가능성이 있으며, 인공설비에 침입하여 무리지어 공격한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10080_mpiced",
@@ -18436,40 +18436,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "静滞虚幻·α",
-    "JPDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，原理不明。",
+    "JPName": "テイシバチα",
+    "JPDescription": "アーカイブに情報が記録されている敵。あまり特徴のない見た目だが、オペレーターが動く前に機先を制してくる。原理は不明。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "出現から一定時間後、爆弾を投げつけ配置待機エリアの配置コストが最も高いオペレーター1名を封印し、一定時間配置不能にする",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "静滞虚幻·α",
-    "ENDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，原理不明。",
+    "ENName": "Static Oneiros α",
+    "ENDescription": "Originating from an archived enemy. It seems unremarkable, but is able to strike before our operators take action. The mechanism by which it does so is unknown.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "Shortly after it enters the battle, throws a bomb to temporarily disable the Operator with the highest DP cost in your Deployment Waiting Zone",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "静滞虚幻·α",
-    "KRDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，原理不明。",
+    "KRName": "정체화된 환상 α",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 볼품없어 보이지만, 오퍼레이터가 행동하기도 전에 선제공격을 한다. 원리는 알 수 없다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "등장 일정 시간 후 폭탄을 투척해 아군의 배치 구역 내 배치 코스트가 가장 높은 오퍼레이터를 봉인, 일정 시간 지속",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -18555,40 +18555,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "静滞虚幻·β",
-    "JPDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，目前已确认是源石赋予了它这一能力。",
+    "JPName": "テイシバチβ",
+    "JPDescription": "アーカイブに情報が記録されている敵。あまり特徴のない見た目だが、オペレーターが動く前に機先を制してくる。現在確認されている限り、どうやらそれは源石によって得た能力のようだ。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "出現から一定時間後、爆弾を投げつけ配置待機エリアの配置コストが最も高いオペレーター1名を封印し、一定時間配置不能にする",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "静滞虚幻·β",
-    "ENDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，目前已确认是源石赋予了它这一能力。",
+    "ENName": "Static Oneiros β",
+    "ENDescription": "Originating from an archived enemy. It seems unremarkable, but is able to strike before our operators take action. The mechanism by which it does so is associated with Originium.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "Shortly after it enters the battle, throws a bomb to temporarily disable the Operator with the highest DP cost in your Deployment Waiting Zone",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "静滞虚幻·β",
-    "KRDescription": "可溯源到记录在档案库中的敌人。其貌不扬的它可以在干员采取行动前就先发制人，目前已确认是源石赋予了它这一能力。",
+    "KRName": "정체화된 환상 β",
+    "KRDescription": "기록 보관서의 자료에서나 찾아볼 수 있는 적. 볼품없어 보이지만, 오퍼레이터가 행동하기도 전에 선제공격을 한다. 현재는 오리지늄 때문에 이 능력이 생긴 것으로 확인되었다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "出场一段时间后，投掷炸弹封锁我方待部署区部署费用最高的干员，持续一定时间",
-        "textFormat": 0
+        "text": "등장 일정 시간 후 폭탄을 투척해 아군의 배치 구역 내 배치 코스트가 가장 높은 오퍼레이터를 봉인, 일정 시간 지속",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -18776,40 +18776,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "转译基底·α",
-    "JPDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在学习我们的行动模式？",
+    "JPName": "変換基底α",
+    "JPDescription": "未知のエリア「Abyss」で生まれた未知の個体。特定のダメージを受けない限り、侵略的な行動は見せない。しかしこの個体は……こちらの行動パターンを学習しているのだろうか？",
     "JPAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "登場時は攻撃を行わず、特定の条件を満たすと形態を変化させる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "物理攻撃を4回受けた場合、または術攻撃を4回受けた場合、あるいはブロックされた場合に、それぞれ異なる形態に変化する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "转译基底·α",
-    "ENDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在学习我们的行动模式？",
+    "ENName": "Decode Basis α",
+    "ENDescription": "Unknown entity born in the Abyss. It is passive if not attacked, but appears to be studying our movements.",
     "ENAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "Does not initially attack; transforms into different forms when certain conditions are met",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "Transforms into different forms once it has taken 4 Physical attacks, 4 Arts attacks, or if it is blocked",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "转译基底·α",
-    "KRDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在学习我们的行动模式？",
+    "KRName": "변형의 베이스 α",
+    "KRDescription": "미지의 영역 어비스에서 탄생한 정체불명의 개체. 특정 대미지를 입지 않는 한 어떠한 공격도 하지 않는다. 그런데…… 우리의 공격 패턴을 따라 하고 있는 것 같은데?",
     "KRAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "초기에 공격하지 않으며, 특정 조건 만족 시 형태가 변화",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "물리 공격 또는 마법 공격에 누적 4회 피격되거나, 또는 저지당할 때 각각 다른 형태로 변화",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -18997,40 +18997,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "转译基底·β",
-    "JPDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在化解我们的进攻？",
+    "JPName": "変換基底β",
+    "JPDescription": "未知のエリア「Abyss」で生まれた未知の個体。特定のダメージを受けない限り、侵略的な行動は見せない。しかしこの個体は……こちらの攻撃を無効化しているのだろうか？",
     "JPAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "登場時は攻撃を行わず、特定の条件を満たすと形態を変化させる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "物理攻撃を4回受けた場合、または術攻撃を4回受けた場合、あるいはブロックされた場合に、それぞれ異なる形態に変化する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "转译基底·β",
-    "ENDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在化解我们的进攻？",
+    "ENName": "Decode Basis β",
+    "ENDescription": "Unknown entity born in the Abyss. It is passive if not attacked, but appears to be nullifying our attacks.",
     "ENAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "Does not initially attack; transforms into different forms when certain conditions are met",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "Transforms into different forms once it has taken 4 Physical attacks, 4 Arts attacks, or if it is blocked",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "转译基底·β",
-    "KRDescription": "在未知区域Abyss中诞生的未知个体，未受到特定伤害的情况下不会展现出任何侵略行为。但它......好像在化解我们的进攻？",
+    "KRName": "변형의 베이스 β",
+    "KRDescription": "미지의 영역 어비스에서 탄생한 정체불명의 개체. 특정 대미지를 입지 않는 한 어떠한 공격도 하지 않는다. 그런데…… 우리의 공격을 무력화시키는 것 같은데?",
     "KRAbilityList": [
       {
-        "text": "初始不进行攻击，满足特定条件时会变化形态",
-        "textFormat": 0
+        "text": "초기에 공격하지 않으며, 특정 조건 만족 시 형태가 변화",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "累计受到4次物理攻击后、累计受到4次法术攻击后，或在被阻挡时，会分别变化为不同的形态",
-        "textFormat": 0
+        "text": "물리 공격 또는 마법 공격에 누적 4회 피격되거나, 또는 저지당할 때 각각 다른 형태로 변화",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -19087,15 +19087,15 @@
     "CNName": "弱化节点",
     "CNDescription": "-",
     "CNAbilityList": [],
-    "JPName": "弱化节点",
+    "JPName": "弱体化ノード",
     "JPDescription": "-",
-    "JPAbilityList": [],
-    "ENName": "弱化节点",
+    "JPAbilityList": {},
+    "ENName": "Weakening Node",
     "ENDescription": "-",
-    "ENAbilityList": [],
-    "KRName": "弱化节点",
+    "ENAbilityList": {},
+    "KRName": "약화 패널",
     "KRDescription": "-",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10083_hlbird",
@@ -19172,40 +19172,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔之翼”",
-    "JPDescription": "长出光环的羽兽，被“律法”判定为萨科塔。它们还不适应“太阳”和自己的脑袋挨得这么近，为了甩开“太阳”，它们四散惊飞。",
+    "JPName": "「サンクタの翼」",
+    "JPDescription": "光輪を授かった羽獣。「法」にサンクタと判定されている。「太陽」が頭に近すぎることにまだ慣れておらず、「太陽」を振り払うために辺りを飛び回っている。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔之翼”",
-    "ENDescription": "长出光环的羽兽，被“律法”判定为萨科塔。它们还不适应“太阳”和自己的脑袋挨得这么近，为了甩开“太阳”，它们四散惊飞。",
+    "ENName": "'Wings of the Sankta'",
+    "ENDescription": "Haloed fowlbeast that the Law has determined to be Sankta. They have not yet gotten used to the 'sun' being so close to their heads, so they scatter and flutter in an attempt to shake it off.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔之翼”",
-    "KRDescription": "长出光环的羽兽，被“律法”判定为萨科塔。它们还不适应“太阳”和自己的脑袋挨得这么近，为了甩开“太阳”，它们四散惊飞。",
+    "KRName": "'산크타의 날개'",
+    "KRDescription": "광륜이 자라난 파울비스트, '율법'의 인정을 받은 산크타. '태양'이 자기 머리와 이렇게 가까워졌다는 것에 적응 못 한 이들은 '태양'을 뿌리치기 위해 사방으로 흩어지며 날아간다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -19284,40 +19284,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔展翅”",
-    "JPDescription": "长出光环的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们已经适应“太阳”和自己的脑袋挨得这么近，它们是信仰向天空的延伸。",
+    "JPName": "「サンクタの羽ばたき」",
+    "JPDescription": "光輪を授かった羽獣。「法」にサンクタと判定され、すでに祈ることを覚えている。「太陽」が頭に近すぎることにも慣れ、このものたちは空へと延びる信仰そのものとなった。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔展翅”",
-    "ENDescription": "长出光环的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们已经适应“太阳”和自己的脑袋挨得这么近，它们是信仰向天空的延伸。",
+    "ENName": "'Flight of the Sankta'",
+    "ENDescription": "Haloed fowlbeast that the Law has determined to be Sankta. They have learned to pray, and gotten used to the 'sun' being so close to their heads. They are the aerial extension of faith.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔展翅”",
-    "KRDescription": "长出光环的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们已经适应“太阳”和自己的脑袋挨得这么近，它们是信仰向天空的延伸。",
+    "KRName": "'산크타의 날갯짓'",
+    "KRDescription": "광륜이 자라난 파울비스트, '율법'의 인정을 받은 산크타, 이미 기도하는 법을 배웠다. '태양'이 자기 머리와 이렇게 가까워졌다는 것을 받아들인 이들은 자신이 하늘로 향하는 신앙 그 자체라고 믿고 있다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -19404,52 +19404,52 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔之眼”",
-    "JPDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔。它们多数时间都茫然地栖息在大教堂的屋顶，不知道自己该看向何处。",
+    "JPName": "「サンクタの眼」",
+    "JPDescription": "光輪を授かった異形の羽獣。「法」にサンクタと判定されている。ほとんどの時間を大聖堂の屋根でぼんやりと過ごし、どこを向けばいいかわからずにいる。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "攻撃力が高く、攻撃時に対象が弾薬スキル発動中の場合、ダメージを与える代わりに弾薬を1発奪う",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔之眼”",
-    "ENDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔。它们多数时间都茫然地栖息在大教堂的屋顶，不知道自己该看向何处。",
+    "ENName": "'Eyes of the Sankta'",
+    "ENDescription": "Mutated haloed fowlbeast that the Law has determined to be Sankta. They spend most of their time perched atop the Basilica in bewilderment, unsure which way to look.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "Attempts to steal 1 Ammo from the target when attacking, and deals heavy Physical damage if attempt is unsuccessful",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔之眼”",
-    "KRDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔。它们多数时间都茫然地栖息在大教堂的屋顶，不知道自己该看向何处。",
+    "KRName": "'산크타의 눈'",
+    "KRDescription": "광륜이 자라난 뉴턴트 파울비스트, '율법'의 인정을 받은 산크타. 대부분의 시간을 대성당 지붕 위에서 멍하니 머무르며, 자신이 어디를 봐야 하는지조차 알지 못한다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "공격 시 목표의 탄약 1발 탈취, 탈취할 수 없을 경우 대량의 물리 대미지를 입힘",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -19536,52 +19536,52 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔见证”",
-    "JPDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们在圣城大街小巷的上空飞翔，它们是圣城对自身的观照。",
+    "JPName": "「サンクタの目配り」",
+    "JPDescription": "光輪を授かった異形の羽獣。「法」にサンクタと判定され、すでに祈ることを覚えている。聖都が己を俯瞰しているかのように、街中の空を飛び回っている。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "攻撃力が高く、攻撃時に対象が弾薬スキル発動中の場合、ダメージを与える代わりに弾薬を1発奪う",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔见证”",
-    "ENDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们在圣城大街小巷的上空飞翔，它们是圣城对自身的观照。",
+    "ENName": "'Witness of the Sankta'",
+    "ENDescription": "Mutated haloed fowlbeast that the Law has determined to be Sankta. They have learned to pray and circle above the streets and alleys of the Holy City. They are the Holy City's perception of itself.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "Attempts to steal 1 Ammo from the target when attacking, and deals heavy Physical damage if attempt is unsuccessful",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔见证”",
-    "KRDescription": "长出光环并畸变的羽兽，被“律法”判定为萨科塔，已学会祈祷。它们在圣城大街小巷的上空飞翔，它们是圣城对自身的观照。",
+    "KRName": "'산크타의 증인'",
+    "KRDescription": "광륜이 자라난 뉴턴트 파울비스트, '율법'의 인정을 받은 산크타, 이미 기도하는 법을 배웠다. 신성한 도시의 거리와 골목 위를 날아다니는 이들은 신성한 도시를 비추는 거울과 같다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击时尝试夺走目标1发弹药，若无法夺走弹药则造成高额物理伤害",
-        "textFormat": 0
+        "text": "공격 시 목표의 탄약 1발 탈취, 탈취할 수 없을 경우 대량의 물리 대미지를 입힘",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -19684,52 +19684,52 @@
         "textFormat": 2
       }
     ],
-    "JPName": "“萨科塔之鳍”",
-    "JPDescription": "长出光环的水栖生物，被“律法”判定为萨科塔。它们热爱甜品，会在饱餐后闭眼拍打肚皮，那姿势像极了祈祷。",
+    "JPName": "「サンクタのひれ」",
+    "JPDescription": "光輪を授かった水生生物。「法」にサンクタと判定されている。甘いものを特に好み、満腹になるとお腹を叩く。その様子はまるで祈りのようだ。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "【祈祷の誘い】：全ての味方ユニットの攻撃速度を一定時間低下させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "“萨科塔之鳍”",
-    "ENDescription": "长出光环的水栖生物，被“律法”判定为萨科塔。它们热爱甜品，会在饱餐后闭眼拍打肚皮，那姿势像极了祈祷。",
+    "ENName": "'Flippers of the Sankta'",
+    "ENDescription": "Haloed aquatic creature that the Law has determined to be Sankta. They love desserts, and the way they slap their bellies after a full meal looks like they are praying.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "[Invitation to Prayer] Temporarily reduces all your units' ASPD",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "“萨科塔之鳍”",
-    "KRDescription": "长出光环的水栖生物，被“律法”判定为萨科塔。它们热爱甜品，会在饱餐后闭眼拍打肚皮，那姿势像极了祈祷。",
+    "KRName": "'산크타의 지느러미'",
+    "KRDescription": "광륜이 자라난 수생 생물, '율법'의 인정을 받은 산크타. 디저트를 아주 좋아하며, 배불리 먹은 후에 눈을 감고 배를 두드리는 모습은 마치 기도하는 것 같다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "[기도 요청] 모든 아군 유닛의 공격 속도 감소, 일정 시간 지속",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -19832,52 +19832,52 @@
         "textFormat": 2
       }
     ],
-    "JPName": "“萨科塔昂首”",
-    "JPDescription": "长出光环的水栖生物，被“律法”判定为萨科塔，已学会祈祷。它们会拦住每一个懒散的人，邀请对方与自己共同祈祷，如果被拒绝——它们不会允许你拒绝。",
+    "JPName": "「サンクタの仰け反り」",
+    "JPDescription": "光輪を授かった水生生物。「法」にサンクタと判定され、すでに祈ることを覚えている。怠惰な者の行く手を遮り、共に祈るよう誘ってくる。もし拒否された場合は――このものたちは拒否することを許さない。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "飛行ユニット",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "【祈祷の誘い】：全ての味方ユニットの攻撃速度を一定時間低下させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "“萨科塔昂首”",
-    "ENDescription": "长出光环的水栖生物，被“律法”判定为萨科塔，已学会祈祷。它们会拦住每一个懒散的人，邀请对方与自己共同祈祷，如果被拒绝——它们不会允许你拒绝。",
+    "ENName": "'Pride of the Sankta'",
+    "ENDescription": "Haloed aquatic creature that the Law has determined to be Sankta. They have learned to pray, and they invite the slothful to pray with them. They will not take 'no' for an answer.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "Flying unit.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "[Invitation to Prayer] Temporarily reduces all your units' ASPD",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "“萨科塔昂首”",
-    "KRDescription": "长出光环的水栖生物，被“律法”判定为萨科塔，已学会祈祷。它们会拦住每一个懒散的人，邀请对方与自己共同祈祷，如果被拒绝——它们不会允许你拒绝。",
+    "KRName": "'산크타의 긍지'",
+    "KRDescription": "광륜이 자라난 수생 생물, '율법'의 인정을 받은 산크타, 이미 기도하는 법을 배웠다. 이들은 게으른 자들을 막아 자신과 함께 기도할 것을 권유한다. 만약 거절한다면…… 아니, 거절을 허용하지 않는다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
-        "textFormat": 0
+        "text": "비행 유닛",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【祈祷邀约】降低全场我方单位的攻击速度，持续一定时间",
-        "textFormat": 2
+        "text": "[기도 요청] 모든 아군 유닛의 공격 속도 감소, 일정 시간 지속",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -19952,28 +19952,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔之爪”",
-    "JPDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔。共感让这群不会说话的家伙知晓了信仰的存在，但它们并不理解，时常像雕塑般呆立在街道上。",
+    "JPName": "「サンクタの爪」",
+    "JPDescription": "光輪を授かった陸生動物。「法」にサンクタと判定されている。言葉を発することはできないが、共感により信仰の存在を知った。しかしそれが何かは理解できず、よく彫像のように路上で立ち尽くしている。",
     "JPAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔之爪”",
-    "ENDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔。共感让这群不会说话的家伙知晓了信仰的存在，但它们并不理解，时常像雕塑般呆立在街道上。",
+    "ENName": "'Claws of the Sankta'",
+    "ENDescription": "Haloed terrestrial creature that the Law has determined to be Sankta. Empathy has taught these mute creatures the existence of faith, but they do not yet understand it, and often stand still on the street like statues.",
     "ENAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔之爪”",
-    "KRDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔。共感让这群不会说话的家伙知晓了信仰的存在，但它们并不理解，时常像雕塑般呆立在街道上。",
+    "KRName": "'산크타의 발톱'",
+    "KRDescription": "광륜이 자라난 육상 생물, '율법'의 인정을 받은 산크타. 교감은 이 말 못하는 녀석들에게 신앙의 존재를 알려줬으나, 이들은 이해하지 못하고 그냥 조각상처럼 거리에 멍하니 서 있을 뿐이다.",
     "KRAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20048,28 +20048,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“萨科塔匍匐”",
-    "JPDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔，已学会祈祷。共感让这群不会说话的家伙知晓了信仰的存在，它们想要知晓更多，这座城市到处都是它们追着告解车狂奔的身影。",
+    "JPName": "「サンクタの這いずり」",
+    "JPDescription": "光輪を授かった陸生動物。「法」にサンクタと判定され、すでに祈ることを覚えている。言葉を発することはできないが、共感により信仰の存在を知った。より多くの物事を知りたいと考え、都市の至る所で告解ロボットを追い回している。",
     "JPAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HPが半分以下になったときに一度だけ、数秒間<$ba.fear>恐怖</>状態になる",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“萨科塔匍匐”",
-    "ENDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔，已学会祈祷。共感让这群不会说话的家伙知晓了信仰的存在，它们想要知晓更多，这座城市到处都是它们追着告解车狂奔的身影。",
+    "ENName": "'Crawl of the Sankta'",
+    "ENDescription": "Haloed terrestrial creature that the Law has determined to be Sankta. Empathy has taught these mute creatures the existence of faith. They have learned to pray and they want to know more. They can often be spotted chasing after confessionals in the city.",
     "ENAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "Gains <$ba.fear>Fear</> for several seconds when its HP drops below 50% for the first time",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“萨科塔匍匐”",
-    "KRDescription": "长出光环的陆栖生物，被“律法”判定为萨科塔，已学会祈祷。共感让这群不会说话的家伙知晓了信仰的存在，它们想要知晓更多，这座城市到处都是它们追着告解车狂奔的身影。",
+    "KRName": "'산크타의 포복'",
+    "KRDescription": "광륜이 자라난 육상 생물, '율법'의 인정을 받은 산크타, 이미 기도하는 법을 배웠다. 교감은 이 말 못하는 녀석들에게도 신앙의 존재를 알려줬고, 이제 이들은 더 많은 것을 알고 싶어한다. 도시 곳곳에서 이들이 고해 차량을 쫓는 모습을 볼 수 있다.",
     "KRAbilityList": [
       {
-        "text": "生命值首次降至一半以下时，在数秒内陷入<$ba.fear>恐惧</>",
-        "textFormat": 0
+        "text": "HP가 최초로 50% 이하로 감소할 시 몇 초간 <$ba.fear>공포</> 상태에 빠짐",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20168,28 +20168,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "圣堂剑士",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验不算丰富，经常被保育员叫去帮忙清洁巨型奶瓶。",
+    "JPName": "聖堂剣士",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の巡回員。通常の地上パトロール業務を担当している。戦闘経験が豊富とは言えず、よく巨大哺乳瓶の洗浄のために保育士に手伝いを要請されている。",
     "JPAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：5",
-        "textFormat": 0
+        "text": "弾薬を消費して自身の移動速度と攻撃力を永続的に上昇させる。弾薬の上限数：5",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣堂剑士",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验不算丰富，经常被保育员叫去帮忙清洁巨型奶瓶。",
+    "ENName": "Shrine Swordsman",
+    "ENDescription": "Selected to patrol the Shrine of Nurtury and ensure that the Nativity goes smoothly. Responsible for routine ground patrols. Their combat experience is limited and they are often called upon to clean the shrine's massive milk bottles.",
     "ENAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：5",
-        "textFormat": 0
+        "text": "Expends Ammo to permanently increase Movement Speed and ATK. Ammo capacity: 5",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣堂剑士",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验不算丰富，经常被保育员叫去帮忙清洁巨型奶瓶。",
+    "KRName": "성당 검사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 순찰대, 일반적인 지상 순찰 업무를 담당한다. 전투 경험은 풍부하지 않으며, 종종 보육사에게 불려 가 거대 젖병의 청소를 돕는다.",
     "KRAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：5",
-        "textFormat": 0
+        "text": "탄약을 소모해 자신의 이동 속도와 공격력을 영구적으로 증가. 최대 탄약: 5",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20288,28 +20288,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "精锐圣堂剑士",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验丰富，有时会协助教导新长出光环的动物。",
+    "JPName": "精鋭聖堂剣士",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の巡回員。通常の地上パトロール業務を担当している。戦闘経験が豊富であり、新たに光輪を授かった動物の指導を手伝うこともある。",
     "JPAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：7",
-        "textFormat": 0
+        "text": "弾薬を消費して自身の移動速度と攻撃力を永続的に上昇させる。弾薬の上限数：7",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "精锐圣堂剑士",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验丰富，有时会协助教导新长出光环的动物。",
+    "ENName": "Elite Shrine Swordsman",
+    "ENDescription": "Selected to patrol the Shrine of Nurtury and ensure that the Nativity goes smoothly. Responsible for routine ground patrols. Their combat experience is considerable and they sometimes help instruct animals that have grown halos.",
     "ENAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：7",
-        "textFormat": 0
+        "text": "Expends Ammo to permanently increase Movement Speed and ATK. Ammo capacity: 7",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "精锐圣堂剑士",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂巡卫，负责常规的地面巡逻工作。他们战斗经验丰富，有时会协助教导新长出光环的动物。",
+    "KRName": "정예 성당 검사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 순찰대, 일반적인 지상 순찰 업무를 담당한다. 전투 경험이 풍부하며, 가끔은 광륜이 막 자라난 동물의 교육을 돕는다.",
     "KRAbilityList": [
       {
-        "text": "消耗弹药使自身的移动速度和攻击力永久提升；弹药上限：7",
-        "textFormat": 0
+        "text": "탄약을 소모해 자신의 이동 속도와 공격력을 영구적으로 증가. 최대 탄약: 7",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20414,40 +20414,40 @@
         "textFormat": 2
       }
     ],
-    "JPName": "圣堂射手",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们还不熟悉手中的狙击铳，经常误伤到街道上的圣徒像。",
+    "JPName": "聖堂狙撃手",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の警備員。重要な場所の警備を担当する。まだ狙撃銃に慣れておらず、よく街の聖徒像を誤射してしまう。",
     "JPAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "弾薬を消費して超遠距離攻撃を行う。弾薬の上限数：1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "弾薬を所持していない場合、その場で装填を行う",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "圣堂射手",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们还不熟悉手中的狙击铳，经常误伤到街道上的圣徒像。",
+    "ENName": "Shrine Marksman",
+    "ENDescription": "Selected to guard key areas of the Shrine of Nurtury and ensure that the Nativity goes smoothly. They are still unfamiliar with the sniper rifles in their hands, and often accidentally damage the statues of saints on the streets.",
     "ENAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "Performs extremely long-ranged attacks while holding Ammo. Ammo capacity: 1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "Stops and reloads if out of Ammo",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "圣堂射手",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们还不熟悉手中的狙击铳，经常误伤到街道上的圣徒像。",
+    "KRName": "성당 저격수",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 보안 요원, 중요한 위치의 경비 업무를 담당한다. 아직 저격총에 익숙하지 않은 이들은 종종 실수로 거리의 성도 조각상을 손상시킨다.",
     "KRAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "탄약 소지 시 초원거리 공격 가능. 최대 탄약: 1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "탄약이 없을 시 그 자리에서 장전",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -20552,40 +20552,40 @@
         "textFormat": 2
       }
     ],
-    "JPName": "精锐圣堂射手",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们反应极快，移动狙击镜的速度能跟上那些长出光环的羽兽俯冲的速度。",
+    "JPName": "精鋭聖堂狙撃手",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の警備員。重要な場所の警備を担当する。反応が極めて早く、スコープを動かす速度は光輪を授かった羽獣が急降下する速度にも追従できる。",
     "JPAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "弾薬を消費して超遠距離攻撃を行う。弾薬の上限数：1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "弾薬を所持していない場合、その場で装填を行う",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "精锐圣堂射手",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们反应极快，移动狙击镜的速度能跟上那些长出光环的羽兽俯冲的速度。",
+    "ENName": "Elite Shrine Marksman",
+    "ENDescription": "Selected to guard key areas of the Shrine of Nurtury and ensure that the Nativity goes smoothly. They have lightning-fast reflexes and are able to track diving haloed fowlbeasts with their scopes.",
     "ENAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "Performs extremely long-ranged attacks while holding Ammo. Ammo capacity: 1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "Stops and reloads if out of Ammo",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "精锐圣堂射手",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂安防人员，负责重要位置的守卫工作。他们反应极快，移动狙击镜的速度能跟上那些长出光环的羽兽俯冲的速度。",
+    "KRName": "정예 성당 저격수",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 보안 요원, 중요한 위치의 경비 업무를 담당한다. 반응이 굉장히 빨라 조준 속도가 광륜이 자라난 파울비스트가 급강하하는 속도를 따라잡을 수 있다.",
     "KRAbilityList": [
       {
-        "text": "携带弹药时进行超远距离攻击；弹药上限：1",
-        "textFormat": 0
+        "text": "탄약 소지 시 초원거리 공격 가능. 최대 탄약: 1",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "未携带弹药时原地装弹",
-        "textFormat": 2
+        "text": "탄약이 없을 시 그 자리에서 장전",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -20677,28 +20677,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "圣堂保育员",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们明显还没适应这份工作，经常弄丢蒙恩的奶嘴，或者将人类婴孩与动物幼崽的房间弄混。",
+    "JPName": "聖堂保育士",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の保育士。明らかにまだこの仕事に慣れておらず、よく祝福されたおしゃぶりをなくしたり、人間の赤ちゃんの部屋と動物の赤ちゃんの部屋を混同したりする。",
     "JPAbilityList": [
       {
-        "text": "周期性为自身周围3名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "周期的に自身の周囲の敵3体のHPを一定量回復し、対象の弾薬を1発補充する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣堂保育员",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们明显还没适应这份工作，经常弄丢蒙恩的奶嘴，或者将人类婴孩与动物幼崽的房间弄混。",
+    "ENName": "Shrine Nurturer",
+    "ENDescription": "Nurturers of the Shrine of Nurtury selected to ensure that the Nativity goes smoothly. They are still unfamiliar with their jobs and often lose Enlightened Pacifiers, or mix up the nurseries of newborn humans and animals.",
     "ENAbilityList": [
       {
-        "text": "周期性为自身周围3名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "Periodically restores HP and reloads 1 ammo for 3 nearby enemies",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣堂保育员",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们明显还没适应这份工作，经常弄丢蒙恩的奶嘴，或者将人类婴孩与动物幼崽的房间弄混。",
+    "KRName": "성당 보육사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 보육사. 아직은 이 일에 익숙하지 않은지, 자주 은총의 쪽쪽이를 잃어버리거나, 인간 아기와 동물 새끼의 방을 헷갈리곤 한다.",
     "KRAbilityList": [
       {
-        "text": "周期性为自身周围3名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "주기적으로 주변에 있는 적 3명의 HP를 일정량 회복하며, 탄약 1발 보충",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20790,28 +20790,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "资深圣堂保育员",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们聆听怀孕母亲的心声，他们安抚新诞婴孩的情绪，他们会哀悼每一次死亡，也愿为拉特兰的新生付出一切。",
+    "JPName": "ベテラン聖堂保育士",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の保育士。妊娠した母親の心の声に耳を傾け、新生児の感情をなだめ、あらゆる死を悼み、ラテラーノの新たな命のために全てを捧げる。",
     "JPAbilityList": [
       {
-        "text": "周期性为自身周围5名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "周期的に自身の周囲の敵5体のHPを一定量回復し、対象の弾薬を1発補充する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "资深圣堂保育员",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们聆听怀孕母亲的心声，他们安抚新诞婴孩的情绪，他们会哀悼每一次死亡，也愿为拉特兰的新生付出一切。",
+    "ENName": "Veteran Shrine Nurturer",
+    "ENDescription": "Nurturers of the Shrine of Nurtury selected to ensure that the Nativity goes smoothly. They listen to the hearts of pregnant mothers and comfort newly born infants. They mourn every death and give everything for the newborns of Laterano.",
     "ENAbilityList": [
       {
-        "text": "周期性为自身周围5名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "Periodically restores HP and reloads 1 ammo for 5 nearby enemies",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "资深圣堂保育员",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂保育人员。他们聆听怀孕母亲的心声，他们安抚新诞婴孩的情绪，他们会哀悼每一次死亡，也愿为拉特兰的新生付出一切。",
+    "KRName": "베테랑 성당 보육사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 보육사. 이들은 임신한 어머니의 마음에 귀를 기울이고, 갓 태어난 아기의 감정을 달래며, 모든 죽음에 애도하면서 라테라노의 신생을 위해 모든 것을 바치고자 한다.",
     "KRAbilityList": [
       {
-        "text": "周期性为自身周围5名敌人回复一定生命值并补充1发弹药",
-        "textFormat": 0
+        "text": "주기적으로 주변에 있는 적 5명의 HP를 일정량 회복하며, 탄약 1발 보충",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -20981,28 +20981,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "圣堂布道员",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。他们坚信一句拉特兰谚语：“对甜品的审美和对祈祷的坚持都必须从娃娃抓起！”",
+    "JPName": "聖堂宣教師",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の宣教師。彼らは、「スイーツのセンスと祈りへの信念は幼い頃から学ばせるべし」というラテラーノのことわざを固く信じている。",
     "JPAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "味方ユニット1体に狙いを定め、継続的に術ダメージを与える。甘美な夢に囚われたユニットが対象の場合は、覚醒レベルを継続的に低下させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "圣堂布道员",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。他们坚信一句拉特兰谚语：“对甜品的审美和对祈祷的坚持都必须从娃娃抓起！”",
+    "ENName": "Shrine Preacher",
+    "ENDescription": "Preachers of the Shrine of Nurtury selected to ensure that the Nativity goes smoothly. They are firm believers in the Lateran proverb that a good taste for desserts and a full commitment to prayer both start from the cradle.",
     "ENAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "Locks onto one of your units, continuously dealing Arts damage; continuously reduces the Wakefulness of units that are dreaming",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "圣堂布道员",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。他们坚信一句拉特兰谚语：“对甜品的审美和对祈祷的坚持都必须从娃娃抓起！”",
+    "KRName": "성당 선교사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 선교사. 이들은 라테라노의 이 속담을 굳게 믿고 있다. “디저트에 대한 미적 감각과 기도에 대한 꾸준함은 아기 때부터 길러야 한다!”",
     "KRAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "아군 유닛을 지정하고, 지속적으로 아츠를 사용해 마법 대미지를 입힘, 꿈에 빠진 유닛 지정 시 상대의 각성도가 지속해서 감소",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -21089,28 +21089,28 @@
         "textFormat": 2
       }
     ],
-    "JPName": "资深圣堂布道员",
-    "JPDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。除了降生仪式，他们还知晓育婴圣堂外拉特兰的一切，他们需要确定，每一个人都能接受“萨科塔”被重新定义。",
+    "JPName": "ベテラン聖堂宣教師",
+    "JPDescription": "降誕の儀式が滞りなく進むよう選抜された育児聖堂の宣教師。降誕の儀式だけでなく、育児聖堂外のラテラーノの全てを知っている。彼らには、誰もが「サンクタ」の再定義を受け入れられることを確かめる責務がある。",
     "JPAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "味方ユニット1体に狙いを定め、継続的に術ダメージを与える。甘美な夢に囚われたユニットが対象の場合は、覚醒レベルを継続的に低下させる",
+        "textFormat": "SILENCE"
       }
     ],
-    "ENName": "资深圣堂布道员",
-    "ENDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。除了降生仪式，他们还知晓育婴圣堂外拉特兰的一切，他们需要确定，每一个人都能接受“萨科塔”被重新定义。",
+    "ENName": "Veteran Shrine Preacher",
+    "ENDescription": "Preachers of the Shrine of Nurtury selected to ensure that the Nativity goes smoothly. In addition to the Nativity, they also know everything there is to know about the Laterano outside the shrine. They ensure that everyone accepts the redefinition of Sankta.",
     "ENAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "Locks onto one of your units, continuously dealing Arts damage; continuously reduces the Wakefulness of units that are dreaming",
+        "textFormat": "SILENCE"
       }
     ],
-    "KRName": "资深圣堂布道员",
-    "KRDescription": "为确保降生仪式顺利进行而遴选的育婴圣堂布道人员。除了降生仪式，他们还知晓育婴圣堂外拉特兰的一切，他们需要确定，每一个人都能接受“萨科塔”被重新定义。",
+    "KRName": "베테랑 성당 선교사",
+    "KRDescription": "탄생 의식의 순조로운 진행을 위해 선발된 양육 신전의 선교사. 이들은 탄생 의식 외에도 양육 신전 밖 라테라노의 모든 것을 알고 있다. 이들은 모두가 새롭게 정의된 '산크타'를 받아들일 수 있는지 확인하고자 한다.",
     "KRAbilityList": [
       {
-        "text": "锁定我方单位持续施法造成法术伤害；锁定美梦中的单位时持续降低清醒度",
-        "textFormat": 2
+        "text": "아군 유닛을 지정하고, 지속적으로 아츠를 사용해 마법 대미지를 입힘, 꿈에 빠진 유닛 지정 시 상대의 각성도가 지속해서 감소",
+        "textFormat": "SILENCE"
       }
     ]
   },
@@ -21189,28 +21189,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "圣徒像",
-    "JPDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。它们承担起了公证所执行者的部分职能，只不过，它们不会在开火前向你宣读相关条律。",
+    "JPName": "聖徒像",
+    "JPDescription": "育児聖堂の近くに設置された聖徒像。降誕の儀式が滞りなく進むよう改造されている。公証人役場の一部役割を担っているが、発砲前に関連規律を読み上げてはくれない。",
     "JPAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "一定範囲内の敵に、1秒ごとに最大HPに比例するバリアを付与し続ける（上限あり）",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣徒像",
-    "ENDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。它们承担起了公证所执行者的部分职能，只不过，它们不会在开火前向你宣读相关条律。",
+    "ENName": "Saint Statue",
+    "ENDescription": "A saint's statue near the Shrine of Nurtury, modified to ensure that the Nativity goes smoothly. They have taken over some of the roles held by the executors of the Notarial Hall, but they do not read you the tenets before they shoot you.",
     "ENAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "Enemies within range gain a Barrier proportionate to their Max HP every second (capped)",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣徒像",
-    "KRDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。它们承担起了公证所执行者的部分职能，只不过，它们不会在开火前向你宣读相关条律。",
+    "KRName": "성도 조각상",
+    "KRDescription": "양육 신전 근처에 있는 탄생 의식의 순조로운 진행을 위해 개조된 성도 조각상. 공증소 집행자의 일부 기능도 맡고 있긴 하지만, 발포하기 전에 관련 법률을 읽어주면서 경고하진 않는다.",
     "KRAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "범위 내 적이 초당 최대 HP에 비례하는 보호막 획득 (제한 있음)",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -21289,28 +21289,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "圣徒祈祷像",
-    "JPDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。“律法同在，惩戒随行。”",
+    "JPName": "聖徒祈祷像",
+    "JPDescription": "育児聖堂の近くに設置された聖徒像。降誕の儀式が滞りなく進むよう改造された。「法が共にあり、懲戒が並び立つ。」",
     "JPAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "一定範囲内の敵に、1秒ごとに最大HPに比例するバリアを付与し続ける（上限あり）",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣徒祈祷像",
-    "ENDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。“律法同在，惩戒随行。”",
+    "ENName": "Praying Saint Statue",
+    "ENDescription": "A saint's statue near the Shrine of Nurtury, modified to ensure that the Nativity goes smoothly. 'May the Law and punishment be with you.'",
     "ENAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "Enemies within range gain a Barrier proportionate to their Max HP every second (capped)",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣徒祈祷像",
-    "KRDescription": "育婴圣堂附近的圣徒像，为确保降生仪式顺利进行经过了改造。“律法同在，惩戒随行。”",
+    "KRName": "성도 기도상",
+    "KRDescription": "양육 신전 근처에 있는 탄생 의식의 순조로운 진행을 위해 개조된 성도 조각상. “율법이 있는 곳에, 징벌이 따른다.”",
     "KRAbilityList": [
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有上限）",
-        "textFormat": 0
+        "text": "범위 내 적이 초당 최대 HP에 비례하는 보호막 획득 (제한 있음)",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -21397,40 +21397,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“牧首”",
-    "JPDescription": "育婴圣堂的负责人，“圣徒”在梦境中的化身。她为一只心跳渐停的木攀兽幼崽赋予光环，见证了生命的奇迹在拉特兰出现。她说：“这是律法给予拉特兰应对灾异的启示”。",
+    "JPName": "「総主教」",
+    "JPDescription": "育児聖堂の責任者。「聖徒」の夢の中における化身。彼女は心臓の鼓動が次第に弱まる木攀獣（もくはんじゅう）の赤ん坊に光輪を授け、生命の奇跡がラテラーノに顕現するのを見届けた。「これは災いに対応するため法がラテラーノに与えた啓示です」。",
     "JPAbilityList": [
       {
-        "text": "同时攻击3个目标",
-        "textFormat": 0
+        "text": "最大3体のユニットを同時に攻撃できる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有较高上限）",
-        "textFormat": 0
+        "text": "一定範囲内の敵に、1秒ごとに最大HPに比例するバリアを付与し続ける（比較的高い上限あり）",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“牧首”",
-    "ENDescription": "育婴圣堂的负责人，“圣徒”在梦境中的化身。她为一只心跳渐停的木攀兽幼崽赋予光环，见证了生命的奇迹在拉特兰出现。她说：“这是律法给予拉特兰应对灾异的启示”。",
+    "ENName": "'Matriarch'",
+    "ENDescription": "The head of the Shrine of Nurtury, the manifestation of the First Saint in the dream. She has bestowed a halo upon a dying arborbeast fledgling, and borne witness to the miracle of life in Laterano. She said this was the revelation from the Law, showing Laterano how to deal with the calamity.",
     "ENAbilityList": [
       {
-        "text": "同时攻击3个目标",
-        "textFormat": 0
+        "text": "Attacks 3 enemies simultaneously",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有较高上限）",
-        "textFormat": 0
+        "text": "Enemies within range gain a Barrier proportionate to their Max HP every second (capped with a higher limit)",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“牧首”",
-    "KRDescription": "育婴圣堂的负责人，“圣徒”在梦境中的化身。她为一只心跳渐停的木攀兽幼崽赋予光环，见证了生命的奇迹在拉特兰出现。她说：“这是律法给予拉特兰应对灾异的启示”。",
+    "KRName": "'대주교'",
+    "KRDescription": "양육 신전의 책임자, '성도'의 꿈속 화신. 그녀는 심장이 멎어가던 한 아버비스트 새끼에게 광륜을 부여해, 라테라노에서 생명의 기적이 일어나는 것을 지켜보았다. 그리고 그녀는 이렇게 말했다. “이것은 율법이 라테라노에게 내린 재이를 위한 계시입니다.”",
     "KRAbilityList": [
       {
-        "text": "同时攻击3个目标",
-        "textFormat": 0
+        "text": "동시에 3개의 목표 공격",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "范围内的敌人每秒获得正比于最大生命值的屏障（有较高上限）",
-        "textFormat": 0
+        "text": "범위 내 적이 초당 최대 HP에 비례하는 보호막 획득 (제한 있음, 비교적 높음)",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -25907,13 +25907,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ大剣士",
     "JPDescription": "サルカズの傭兵。体内の源石によって身体能力がさらに強化されており、より大きな武器を軽々と扱うことができる。打たれ強い難敵。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Greatswordsman",
     "ENDescription": "A mercenary from Sarkaz. The Originium inside them has boosted their physical abilities, allowing them to wield larger weapons with ease and withstand more damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 대검사",
     "KRDescription": "살카즈의 용병. 체내의 오리지늄으로 인해 신체 능력이 강화되었을 가능성이 있다. 이 때문에 더 큰 무기를 사용할 수 있게 되었고, 그만큼 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1010_demon_2",
@@ -25970,13 +25970,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ大剣隊長",
     "JPDescription": "サルカズの傭兵。サルカズ大剣士よりも手強い。体内の源石によって身体能力がさらに強化されており、より大きな武器を軽々と扱うことができる。打たれ強い難敵。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Greatswordsman Leader",
     "ENDescription": "A mercenary from Sarkaz, more dangerous than a normal Sarkaz Swordsman. The Originium inside them has boosted their physical abilities, allowing them to wield larger weapons with ease and withstand more damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 대검사 리더",
     "KRDescription": "살카즈의 용병. 살카즈 대검사보다 작전 능력이 뛰어나다. 체내의 오리지늄으로 인해 신체 능력이 강화되었을 가능성이 있다. 이로 인해 더 큰 무기를 사용할 수 있게 되었고, 그만큼 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10110_mjcsdw",
@@ -28268,13 +28268,13 @@
     "CNAbilityList": [],
     "JPName": "術師",
     "JPDescription": "レユニオンの術師。感染者であるため、身体に巣食う源石を媒介に、アーツユニットなしでアーツを操ってくる。攻撃の予測は難しく、武装解除も不可能。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Caster",
     "ENDescription": "One of Reunion's basic casters. These Infected casters tend to use their own Originium to power their Arts. Because they don't rely on staves, their attacks are more unpredictable and they cannot simply be disarmed.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "캐스터",
     "KRDescription": "리유니온의 초급 캐스터. 감염자인 관계로, 자신의 몸의 오리지늄을 활용하여 아츠를 쓰는 경향이 있다. 통상 작전 시에는 지팡이를 쓰지 않기 때문에 공격의 예측이 어려우며, 무장해제 또한 할 수 없다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1011_wizard_2",
@@ -28421,13 +28421,13 @@
     "CNAbilityList": [],
     "JPName": "術師隊長",
     "JPDescription": "レユニオンのベテラン術師。術師よりも手強い。感染者であるため、身体に巣食う源石を媒介に、アーツユニットなしでアーツを操ってくる。攻撃の予測は難しく、武装解除も不可能。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Caster Leader",
     "ENDescription": "One of Reunion's senior Casters, more powerful than a normal Caster. These Infected casters tend to use their own Originium to power their Arts. Because they don't rely on staves, their attacks are more unpredictable and they cannot simply be disarmed.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "캐스터 리더",
     "KRDescription": "리유니온의 고급 캐스터. 일반적인 캐스터보다 작전 능력이 뛰어나다. 감염자인 관계로, 자신의 몸의 오리지늄을 활용하여 아츠를 쓰는 경향이 있다. 통상 작전 시에는 지팡이를 쓰지 않기 때문에 공격의 예측이 어려우며, 무장해제 또한 할 수 없다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_10120_uaghst",
@@ -30685,13 +30685,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ狙撃兵",
     "JPDescription": "サルカズの傭兵。強靭な身体を生かし、強力な遠距離武器を扱うことができる。その巨体は一見不器用そうに見えるが、射撃能力に悪影響はない。打たれ強い難敵。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Crossbowman",
     "ENDescription": "A mercenary from Sarkaz. Their towering physique has not hampered their marksmanship. On the contrary, it allows them to use larger ranged weapons with ease and withstand more damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 스나이퍼",
     "KRDescription": "살카즈의 용병. 거대한 몸집은 사격 능력에 전혀 영향을 주지 않았다. 오히려 다른 사람들보다 강한 육체를 활용하여, 더 막강한 위력의 원거리 무기를 사용할 수 운용할 수 있게 되었고, 그만큼 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1012_dcross_2",
@@ -30748,13 +30748,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ狙撃隊長",
     "JPDescription": "サルカズの傭兵。サルカズ狙撃兵よりも手強い。強靭な身体を生かし、強力な遠距離武器を扱うことができる。その巨体は一見不器用そうに見えるが、射撃能力に悪影響はない。打たれ強い難敵。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Crossbowman Leader",
     "ENDescription": "A mercenary from Sarkaz, more dangerous than a normal Sarkaz Sniper. Their towering physique has not hampered their marksmanship. On the contrary, it allows them to use larger ranged weapons with ease and withstand more damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 스나이퍼 리더",
     "KRDescription": "살카즈의 용병. 살카즈 스나이퍼보다 작전 능력이 뛰어나다. 거대한 몸집은 사격 능력에 전혀 영향을 주지 않았다. 오히려 다른 사람들 보다 강한 육체를 활용하여, 더 막강한 위력의 원거리 무기를 사용할 수 운용할 수 있게 되었고, 그만큼 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1013_airdrp",
@@ -31112,13 +31112,13 @@
     "CNAbilityList": [],
     "JPName": "双剣士",
     "JPDescription": "レユニオンの近距離戦闘員。二刀流の訓練経験があるらしく、恐らくは裏切った元憲兵隊と思われる。実力者である彼らには、通常の対処では通用しないかもしれない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Dual Swordsman",
     "ENDescription": "One of Reunion's melee soldiers. Trained in dual-wielding, it is likely that these fighters once served in the military. Their combat expertise makes them harder to deal with than the average rioter.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "쌍검사",
     "KRDescription": "리유니온의 근거리 전투원. 양손 무기 사용을 훈련한 것으로 미뤄보아, 과거 헌병이었을 가능성이 있다. 숙련된 공격 방식으로 인해, 파괴만을 일삼는 일반적인 전투원에 비해 대처하기가 더 어렵다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1014_rogue_2",
@@ -31220,13 +31220,13 @@
     "CNAbilityList": [],
     "JPName": "双剣隊長",
     "JPDescription": "レユニオンの近距離戦闘員。双剣士よりも手強い。二刀流の訓練経験があるらしく、恐らくは裏切った元憲兵隊と思われる。実力者である彼らには、通常の対処では通用しないかもしれない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Dual Swordsman Leader",
     "ENDescription": "One of Reunion's melee soldiers, more dangerous than a normal Dual-bladed Swordsman. Trained in dual-wielding, it is likely that these fighters once served in the military. Their combat expertise makes them harder to deal with than the average rioter.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "쌍검사 리더",
     "KRDescription": "리유니온의 근거리 전투원. 일반적인 쌍검사보다 작전 능력이 뛰어나다. 양손 무기 사용을 훈련한 것으로 미뤄보아, 과거 헌병이었을 가능성이 있다. 숙련된 공격 방식으로 인해, 파괴만을 일삼는 일반적인 전투원에 비해 대처하기가 더 어렵다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1015_litamr",
@@ -31283,13 +31283,13 @@
     "CNAbilityList": [],
     "JPName": "軽装兵",
     "JPDescription": "レユニオンの近距離戦闘員。略奪や非合法ルートで武器と防具を手に入れ、装備一式を揃えている。実力は訓練された軍人に等しく、並の戦術では通用しない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Light-Armored Soldier",
     "ENDescription": "One of Reunion's melee soldiers. Equipped with illegally obtained weapons and armor, they are better equipped and trained, and cannot be taken down with conventional strategies.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "경기갑병",
     "KRDescription": "리유니온의 근거리 전투원. 노획하거나 불법 루트를 통해 입수한 방어구과 무기를 장비하고 있어 장비가 더욱 완전해졌고, 정식 훈련을 받은 전투원에 가까운 실력을 갖고 있어, 평범한 전술로는 상대하기가 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1015_litamr_2",
@@ -31346,13 +31346,13 @@
     "CNAbilityList": [],
     "JPName": "軽装隊長",
     "JPDescription": "レユニオンの近距離戦闘員。軽装兵よりも手強い。略奪や非合法ルートで武器と防具を手に入れ、装備一式を揃えている。実力は訓練された軍人に等しく、並の戦術では通用しない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Light-Armored Soldier Leader",
     "ENDescription": "One of Reunion's melee soldiers, more dangerous than a normal Armored Soldier. Equipped with illegally obtained weapons and armor, they are better equipped and trained, and cannot be taken down with conventional strategies.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "경기갑병 리더",
     "KRDescription": "리유니온의 근거리 전투원. 일반적인 경기갑병보다 작전 능력이 뛰어나다. 노획하거나 불법 루트를 통해 입수한 방어구과 무기를 장비하고 있어 장비가 더욱 완전해졌고, 정식 훈련을 받은 전투원에 가까운 실력을 갖고 있어, 평범한 전술로는 상대하기가 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1016_diaman",
@@ -31454,13 +31454,13 @@
     "CNAbilityList": [],
     "JPName": "ハガネガニ",
     "JPDescription": "野生の感染生物。硬い金属に守られており、普通の武器では攻撃がほとんど通らないが、見た目に反して重量が軽く、動きも緩慢。こうした知能の低い生物は敵の術師に操られている可能性があり、人工施設に侵入し群れで攻撃してくる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Metal Crab",
     "ENDescription": "An infected wild creature, completely covered in metal. Though most conventional weapons are not very effective against them, they aren't as heavy as they seem, and also move slowly. Due to their low intelligence, they are easily controlled by enemy casters for use as cannon fodder during invasions.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "메탈 크랩",
     "KRDescription": "야생의 감염 생물. 단단한 금속이 몸을 감싸고 있어 대다수의 일반 무기로는 피해를 입히기가 어렵다. 하지만 생각만큼 무게가 무겁진 않으며, 행동 또한 느린 편이다. 이런 저지능 생물은 적의 캐스터에게 조종당할 가능성이 있으며, 인공설비에 침입하여 무리지어 공격한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1017_defdrn",
@@ -33284,13 +33284,13 @@
     "CNAbilityList": [],
     "JPName": "暴徒",
     "JPDescription": "来歴不明の戦闘員。紛争地域でしばしば見かけることがある。簡易的なマスクで素性を隠し、粗雑な作りの武器で攻撃してくる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Rioter",
     "ENDescription": "An enemy combatant of unknown identity. They are often found wherever there is turmoil and unrest. They wear a face mask to conceal their identity and use haphazardly-made weapons to engage in melee combat.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "폭도",
     "KRDescription": "어디서 왔는지 밝혀지지 않은 전투원. 분쟁 지역에 자주 출몰한다. 간단히 마스크를 둘러 자신의 신분을 감추고 있으며, 사제 무기를 사용하여 근접 공격을 진행한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1027_mob_2",
@@ -33347,13 +33347,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪暴徒",
     "JPDescription": "来歴不明の戦闘員。暴徒よりも過激。紛争地域でしばしば見かけることがある。簡易的なマスクで素性を隠し、粗雑な作りの武器で攻撃してくる。その粗末な武器は、ある意味暴動の深刻さを象徴するものだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Rioter Leader",
     "ENDescription": "An enemy combatant of unknown identity, more dangerous than a normal Thug. They are often found wherever there is turmoil and unrest. They wear a face mask to conceal their identity and use haphazardly-made weapons to engage in melee combat. These weapons are usually associated with riots.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "폭도 리더",
     "KRDescription": "어디서 왔는지 밝혀지지 않은 전투원. 일반적인 폭도보다 작전 능력이 뛰어나며, 분쟁 지역에 자주 출몰한다. 간단히 마스크를 둘러 자신의 신분을 감추고 있으며, 사제 무기를 사용하여 근접 공격을 진행한다. 보잘것없는 무기지만, 분쟁 지역에서는 오히려 폭동의 상징으로 받아들여지고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1028_mocock",
@@ -33410,13 +33410,13 @@
     "CNAbilityList": [],
     "JPName": "火炎瓶暴徒",
     "JPDescription": "来歴不明の戦闘員。紛争地域でしばしば見かけることがある。簡易的なマスクで素性を隠し、火炎瓶で破壊活動を行う。その粗末な武器は、ある意味暴動の深刻さを象徴するものだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Cocktail Thrower",
     "ENDescription": "An enemy combatant of unknown identity. They wear a face mask to conceal their identity, and use Molotov cocktails to deal damage within a range. These weapons are usually associated with riots.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "화염병 투척병",
     "KRDescription": "어디서 왔는지 밝혀지지 않은 전투원. 간단히 마스크를 둘러 자신의 신분을 감추고 있으며, 휴대한 사제 화염병을 사용하여 범위 내의 목표에게 대미지를 준다. 보잘 것 없는 무기지만, 분쟁 지역에서는 오히려 폭동의 상징으로 받아들여지고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1028_mocock_2",
@@ -33473,13 +33473,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪火炎瓶暴徒",
     "JPDescription": "来歴不明の戦闘員。火炎瓶暴徒よりも過激。紛争地域でしばしば見かけることがある。簡易的なマスクで素性を隠し、火炎瓶で破壊活動を行う。その粗末な武器は、ある意味暴動の深刻さを象徴するものだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Firebomb Thrower",
     "ENDescription": "An enemy combatant of unknown identity, more dangerous than a normal Cocktail Thrower. They wear a face mask to conceal their identity, and use Molotov cocktails to deal damage within a range.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "화염병 투척병 리더",
     "KRDescription": "어디서 왔는지 밝혀지지 않은 전투원. 화염병 투척병보다 작전 능력이 뛰어나다. 간단히 마스크를 둘러 자신의 신분을 감추고 있으며, 휴대한 사제 화염병을 사용하여 범위 내의 목표에게 대미지를 준다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1029_shdsbr",
@@ -33536,13 +33536,13 @@
     "CNAbilityList": [],
     "JPName": "機動盾兵",
     "JPDescription": "レユニオンの近距離戦闘員。略奪や非合法ルートで手に入れた武器と防具を装備しており、その中には制式装備の盾も含まれている。レユニオンの一般兵士よりも撃破が困難。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shielded Soldier",
     "ENDescription": "One of Reunion's melee soldiers. Equipped with illegally obtained weapons and armor, they additionally bear a shield. They are slightly harder to take down than a regular Reunion foot soldier.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "기동방패병",
     "KRDescription": "리유니온의 근거리 전투원. 노획하거나 불법 루트를 통해 입수한 복장과 무기, 그리고 군에서 쓰던 방패를 장비하고 있다. 일반적인 리유니온 병사보다 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1029_shdsbr_2",
@@ -33599,13 +33599,13 @@
     "CNAbilityList": [],
     "JPName": "機動盾隊長",
     "JPDescription": "レユニオンの近距離戦闘員。機動盾兵よりも手強い。略奪や非合法ルートで手に入れた武器と防具を装備しており、その中には制式装備の盾も含まれている。レユニオンの一般兵士よりも撃破が困難。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shielded Soldier Leader",
     "ENDescription": "One of Reunion's melee soldiers, more dangerous than a normal Shielded Soldier. Equipped with illegally obtained weapons and armor, they additionally bear a shield. They are slightly harder to take down than a regular Reunion foot soldier.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "기동방패병 리더",
     "KRDescription": "리유니온의 근거리 전투원. 기동방패병보다 작전 능력이 뛰어나다. 노획하거나 불법 루트를 통해 입수한 복장과 무기, 그리고 군에서 쓰던 방패를 장비하고 있다. 일반적인 리유니온 병사보다 쓰러뜨리기가 더욱 어려워졌다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1030_wteeth",
@@ -33662,13 +33662,13 @@
     "CNAbilityList": [],
     "JPName": "流れ者",
     "JPDescription": "身なりが悪く、ぼろぼろの服をまとった戦闘員。貧民を装って傭兵であることを隠している者もいるらしい。経歴は不明だが、かなり攻撃的。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Junkman",
     "ENDescription": "A ragged-looking enemy combatant. According to intel, they disguise themselves as drifters to conceal the fact that they are mercenaries. Though their background is unknown, their fierce attacks require them to be dealt with cautiously.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "부랑자",
     "KRDescription": "정돈되지 않은 외모와 남루한 옷을 입고 있는 전투원. 누군가가 일부러 빈민으로 위장하여 용병의 신분을 숨기고자 한 것이라고 한다. 어디서 왔는지는 밝혀지지 않았지만, 강력한 공격의사를 내비치고 있으니 방어에 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1030_wteeth_2",
@@ -33725,13 +33725,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪流れ者",
     "JPDescription": "身なりが悪く、ぼろぼろの服をまとった戦闘員。身体に刻まれた傷から、流れ者よりも多くの戦いを生き延びてきたことがうかがえる。貧民を装って傭兵であることを隠している者もいるらしい。経歴は不明だが、かなり攻撃的。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Veteran Junkman",
     "ENDescription": "A ragged-looking enemy combatant with scars across their body, likely boasting more combat experience than a normal Junkman. According to intel, they disguise themselves as drifters to conceal the fact that they are mercenaries. Though their background is unknown, their fierce attacks require them to be dealt with cautiously.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "방랑자",
     "KRDescription": "정돈되지 않은 외모와 남루한 옷을 입고 있는 전투원. 몸에 난 많은 상처들로 미뤄보아, 일반적인 방랑자보다 교전 경험이 많은 것으로 유추된다. 누군가가 일부러 빈민으로 위장하여 용병의 신분을 숨기고자 한 것이라고 한다. 어디서 왔는지는 밝혀지지 않았지만, 강력한 공격의사를 내비치고 있으니 방어에 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1031_mrogue",
@@ -33788,13 +33788,13 @@
     "CNAbilityList": [],
     "JPName": "術剣士",
     "JPDescription": "アーツによる戦闘訓練を受けた近距離戦闘員。自身のアーツを付与した近接武器で攻撃してくる。彼らが前線に加わったことで、レユニオンの正面突破力は侮れぬものとなった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Arts Guard",
     "ENDescription": "One of Reunion's melee soldiers who has also been trained in using Originium Arts. They are able to enhance their melee attacks with armor-ignoring Arts damage. Reunion's frontline squads have become a lot more devastating since the inclusion of these soldiers.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "아츠 가드",
     "KRDescription": "아츠 전투 훈련을 받았던 리유니온의 근거리 전투원. 근접 무기로 공격할 때 자신의 오리지늄 아츠를 이용하여 목표에 마법 대미지를 준다. 이 작전 유닛의 가담으로 인해 리유니온은 얕볼 수 없는 정면돌파력을 갖게 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1031_mrogue_2",
@@ -33851,13 +33851,13 @@
     "CNAbilityList": [],
     "JPName": "術剣隊長",
     "JPDescription": "アーツによる戦闘訓練を受けた近距離戦闘員。術剣士よりも手強い。自身のアーツを付与した近接武器で攻撃してくる。彼らが前線に加わったことで、レユニオンの正面突破力は侮れぬものとなった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Arts Guard Leader",
     "ENDescription": "One of Reunion's melee soldiers who also has been trained in using Originium Arts, more dangerous than a normal Arts Guard. They are able to enhance their melee attacks with armor-ignoring Arts damage. Reunion's frontline squads have become a lot more devastating since the inclusion of these soldiers.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "아츠 가드 리더",
     "KRDescription": "아츠 전투 훈련을 받았던 리유니온의 근거리 전투원. 일반적인 아츠 가드보다 작전 능력이 뛰어나다. 근접 무기로 공격할 때 자신의 오리지늄 아츠를 이용하여 목표에 마법 대미지를 준다. 이 작전 유닛의 가담으로 인해 리유니온은 얕볼 수 없는 정면돌파력을 갖게 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1032_katar",
@@ -33914,13 +33914,13 @@
     "CNAbilityList": [],
     "JPName": "拳刃兵",
     "JPDescription": "伝統的な戦闘訓練を受けたレユニオンの近距離戦闘員。改造ジャマダハルを巧みに操る。彼らの猛攻は手数が多く、前線に甚大な被害をもたらす。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Bladed Fighter",
     "ENDescription": "One of Reunion's melee soldiers who has been trained in traditional martial arts. Equipped with refitted fist weapons, they are capable of inflicting massive damage with their rapid strikes.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "카타르 무사",
     "KRDescription": "전통 전투 훈련을 받았던 리유니온의 근거리 전투원. 개조된 카타르로 공격한다. 공격 빈도가 높아 아군의 일반적인 오퍼레이터에게 큰 대미지를 입힐 수 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1032_katar_2",
@@ -33977,13 +33977,13 @@
     "CNAbilityList": [],
     "JPName": "拳刃隊長",
     "JPDescription": "伝統的な戦闘訓練を受けたレユニオンの近距離戦闘員。拳刃兵よりも手強い。改造ジャマダハルを巧みに操る。彼らの猛攻は手数が多く、前線に甚大な被害をもたらす。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Bladed Fighter Leader",
     "ENDescription": "One of Reunion's melee soldiers who has been trained in traditional martial arts and is more dangerous than a normal Bladed Fighter. Equipped with refitted fist weapons, they are capable of inflicting massive damage with their rapid strikes.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "카타르 무사 리더",
     "KRDescription": "전통 전투 훈련을 받았던 리유니온의 근거리 전투원. 일반적인 카타르 무사보다 작전 능력이 뛰어나다. 개조된 카타르로 공격해오며, 공격 빈도가 높아 아군의 일반적인 오퍼레이터에게 큰 대미지를 입힐 수 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1033_handax",
@@ -34040,13 +34040,13 @@
     "CNAbilityList": [],
     "JPName": "伐採者",
     "JPDescription": "林業用の作業服に身を包み、伐採用の工具で襲い掛かってくる、経歴不明の人物。扱う武器と外見から、「伐採者」と呼ばれている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Logger",
     "ENDescription": "An enemy of unknown identity who wears logging equipment and attacks with lumbering tools. Because of their attire, weapon, and machine-like behavior, they are often called 'Log Splitters.'",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "벌목기",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 간편한 벌목복을 걸치고 있다. 전투 시엔 휴대하고 있는 벌목 도구로 공격해오는데, 무기와 복장, 그리고 기계같은 행동으로 인해 사람들에게는 벌목기라 불리고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1033_handax_2",
@@ -34103,13 +34103,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪伐採者",
     "JPDescription": "林業用の作業服に身を包み、伐採用の工具で襲い掛かってくる、経歴不明の人物。相手を威圧するためか、衣服を赤く染めた姿は返り血を浴びたかのように見える。その何とも恐ろしい容姿から、彼らを「凶悪伐採者」と呼ぶ者もいる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Veteran Logger",
     "ENDescription": "An enemy of unknown identity who wears logging equipment and attacks with lumbering tools. They dye their clothes red to make it easier to identify them, but are also harder to deal with. Their nickname is a bit more human-sounding than 'Log Splitter,' but humans are more terrifying than any machine.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "벌목꾼",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 간편한 벌목복을 걸치고 있다. 전투 시엔 휴대하고 있는 벌목 도구로 공격해오는데, 옷을 빨갛게 물들여 더욱 눈에 띄는 모습을 하고 있지만, 상대하기에는 다른 적보다 더욱 까다롭다. 별명이 벌목기보다는 좀 더 인간다워졌지만, 인간은 가끔 기계보다 더 무서워지기도 하지 않던가.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1034_laxe",
@@ -34166,13 +34166,13 @@
     "CNAbilityList": [],
     "JPName": "ブッチャー",
     "JPDescription": "白い作業服に身を包み、巨大な鈍器で襲い掛かってくる、経歴不明の人物。ホラー映画を彷彿とさせる容姿と戦闘スタイルから、「ブッチャー」と呼ばれている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Butcher",
     "ENDescription": "An enemy of unknown identity who wears white industrial overalls and attacks with a massive blunt object. Their appearances and combat style readily reminds people of those serial killers from movies, hence their nickname - Butcher.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "도축자",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 흰색 작업복을 걸치고 있다. 전투 시엔 거대한 둔기로 공격해오는데, 이러한 외모와 전투 스타일은 사람들로 하여금 공포영화의 이미지를 각인시키기에 충분했다. 도축자라는 별명은, 그렇게 탄생했다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1034_laxe_2",
@@ -34229,13 +34229,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪ブッチャー",
     "JPDescription": "白い作業服に身を包み、巨大な鈍器で襲い掛かってくる、経歴不明の人物。赤く染まった仮面は組織内での権力と強さの象徴らしく、これを被る者は「凶悪ブッチャー」と呼ばれている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Veteran Butcher",
     "ENDescription": "An enemy of unknown identity who wears white industrial overalls and attacks with a massive blunt object. Their hoods have been dyed red to symbolize greater strength and power compared to the rest of their ranks. It is only fitting that their nickname also reflects this.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "도축전문가",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 흰색 작업복을 걸치고 있다. 전투 시엔 거대한 둔기로 공격해오는데, 이때 쓰고 있는 붉은 특제 스카프는 그들의 단체 내에서 힘과 권력의 상징이 되었다. 도축자보다 이미지가 더 살벌하다보니, 별명도 자연스레 더 살벌한 이름이 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1035_haxe",
@@ -34292,13 +34292,13 @@
     "CNAbilityList": [],
     "JPName": "武装戦闘員",
     "JPDescription": "複雑な防具に身を包み、謎のボンベとガスマスクを装備した、来歴不明の人物。巨大な鈍器で襲い掛かってくる。一言で言い表しがたいその装いから、単に武装戦闘員と呼ぶほかない。動きは遅いが、その攻撃は重く、食らえばひとたまりもないだろう。慎重に対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Armed Militant",
     "ENDescription": "An enemy of unknown identity. Equipped with a complex array of armor, a gas mask, and tanks of unidentifiable substances, they attack using giant blunt instruments. Due to their logic-defying equipment, they are simply called 'Armed Militants.' Though their movement is slow, even a single swing of their weapon is sure to inflict massive damage. Proceed with caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "무장병력",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 복잡한 방어구와 방독면을 착용하고 있다. 전투 시엔 거대한 둔기로 공격해 오는데, 이런 터무니 없는 장비는 무장병력이라 불리는 사람만이 사용할 수 있을 것이다. 이동속도가 느리지만, 무기 공격은 일반적인 오퍼레이터에겐 치명적인 일격이 될 수 있으니 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1035_haxe_2",
@@ -34355,13 +34355,13 @@
     "CNAbilityList": [],
     "JPName": "上級武装戦闘員",
     "JPDescription": "複雑な防具に身を包み、謎のボンベとガスマスクを装備した、来歴不明の人物。巨大な鈍器で襲い掛かってくる。彼らの装備は武装戦闘員の物に比べ、改造や強化を施した痕跡がある。動きは遅いが、その攻撃は重く、食らえばひとたまりもないだろう。慎重に対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Senior Armed Militant",
     "ENDescription": "An enemy of unknown identity. Equipped with a complex array of armor, a gas mask, and tanks of unidentifiable substances, they attack using giant blunt instruments. Based on their equipment, they are even more dangerous than a normal Armed Militant. Though their movement is slow, even a single swing of their weapon is sure to inflict massive damage. Proceed with caution.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "고급 무장병력",
     "KRDescription": "어디서 왔는지 밝혀지지 않았으며, 복잡한 방어구와 방독면을 착용하고 있다. 전투 시엔 거대한 둔기로 공격해 오는데, 장비로 미뤄보아서는 일반적인 무장병력보다 훨씬 위협적일 것으로 추측된다. 이동속도가 느리지만, 무기 공격은 일반적인 오퍼레이터에겐 치명적인 일격이 될 수 있으니 주의하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1036_amraoe",
@@ -34501,13 +34501,13 @@
     "CNAbilityList": [],
     "JPName": "特戦兵士",
     "JPDescription": "レユニオンの近距離戦闘員。兵士とは少し異なる装備を身に着けている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Spec Ops Soldier",
     "ENDescription": "One of Reunion's melee soldiers. Their equipment differs slightly from that of other soldiers.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "특수작전병",
     "KRDescription": "리유니온의 근거리 전투원. 다른 전사와는 약간 다른 장비를 갖추고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1038_lunmag",
@@ -34564,13 +34564,13 @@
     "CNAbilityList": [],
     "JPName": "特戦術師",
     "JPDescription": "レユニオンの術師。通常の術師と違い、一定の物理攻撃を防げる防具を身に着けている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Spec Ops Caster",
     "ENDescription": "One of Reunion's Casters. Their armor makes them more resistant to physical damage compared to regular Casters.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "특수전 캐스터",
     "KRDescription": "리유니온의 캐스터. 일반적인 캐스터에 비해, 갑옷이 일정 물리 대미지를 견뎌낸다는 특징이 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1038_lunmag_2",
@@ -34710,13 +34710,13 @@
     "CNAbilityList": [],
     "JPName": "切り込み兵",
     "JPDescription": "よく訓練された突撃兵。比較的攻撃力が高く、恐るべき俊足を生かして防衛ラインの不意を突く。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Breaker",
     "ENDescription": "A well-trained enemy unit that spearheads assaults. Though their attack power is only slightly higher than average, their terrifying speed often allows them to break through the defenses of the unprepared- hence their nickname, 'Breakers.'",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "진형파괴병",
     "KRDescription": "훈련을 쌓은 적의 돌격병. 공격 능력은 일반 유닛보다 약간 높지만, 무서울 정도의 이동속도를 갖고 있어 방어선이 제대로 갖춰지기도 전에 무너뜨리기도 한다. 이러한 특징으로 인해, 본 돌격병은 진형파괴병이라 불리게 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1039_breakr_2",
@@ -34773,13 +34773,13 @@
     "CNAbilityList": [],
     "JPName": "切り込み隊長",
     "JPDescription": "よく訓練された突撃兵。切り込み兵よりも手強い。比較的攻撃力が高く、恐るべき俊足を生かして防衛ラインの不意を突く。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Breaker Leader",
     "ENDescription": "A well-trained enemy unit that spearheads assaults, and is harder to defeat than a normal Breaker. Their attack power is higher than average, and their movement speed is incredibly high.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "진형파괴병 리더",
     "KRDescription": "훈련을 쌓은 적의 돌격병. 일반적인 진형파괴병보다 쓰러뜨리기가 더 어려워졌다. 공격 능력은 일반 유닛보다 약간 높지만, 무서울 정도의 이동속도를 갖고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1040_bombd",
@@ -35898,13 +35898,13 @@
     "CNAbilityList": [],
     "JPName": "歩兵",
     "JPDescription": "敵方の近距離戦闘員。一定のアーツ攻撃を防ぐ防具を身に着けている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Infantry",
     "ENDescription": "A basic melee soldier. Their armor provides some defense against Arts damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "보병",
     "KRDescription": "초급 근거리 전투원. 입고 있는 방어구는 마법 대미지를 일정 수준 줄여줄 수 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1046_agent_2",
@@ -35961,13 +35961,13 @@
     "CNAbilityList": [],
     "JPName": "歩兵隊長",
     "JPDescription": "敵方の近距離戦闘員。歩兵よりも戦闘能力が高い。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Infantry Leader",
     "ENDescription": "A basic melee soldier. They are stronger than normal Infantry.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "보병 리더",
     "KRDescription": "초급 근거리 전투원. 일반적인 보병보다 작전 능력이 뛰어나다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1047_sagent",
@@ -36831,13 +36831,13 @@
     "CNAbilityList": [],
     "JPName": "制式術師",
     "JPDescription": "敵方の術師。古来よりアーツは最も有効な攻撃手段の一つである。現代の戦術においても、アーツを用いる戦闘員の活用は各勢力の研究課題となっている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Authorized Caster",
     "ENDescription": "A basic caster soldier. Arts have been one of the most threatening forms of warfare since ancient times, and a large amount of research has gone into adapting Arts for contemporary warfare.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "편제 캐스터",
     "KRDescription": "초급 캐스터. 아츠는 예로부터 지금까지 내려온 가장 위협적인 작전 수단 중 하나로써, 현대 전술에서도 캐스터의 활용은 각 세력들이 끊임없이 연구하는 과제 중 하나이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1051_norwiz_2",
@@ -36894,13 +36894,13 @@
     "CNAbilityList": [],
     "JPName": "制式術師隊長",
     "JPDescription": "敵方の術師。制式術師よりも手強い。古来よりアーツは最も有効な攻撃手段の一つである。現代の戦術においても、アーツを用いる戦闘員の活用は各勢力の研究課題となっている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Authorized Caster Leader",
     "ENDescription": "A basic caster soldier, more threatening than a normal Authorized Caster. Arts have been one of the most threatening forms of warfare since ancient times, and a large amount of research has gone into adapting Arts for contemporary warfare.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "편제 캐스터 리더",
     "KRDescription": "초급 캐스터. 일반적인 편제 캐스터보다 작전 능력이 뛰어나다. 아츠는 예로부터 지금까지 내려온 가장 위협적인 작전 수단 중 하나로써, 현대 전술에서도 캐스터의 활용은 각 세력들이 끊임없이 연구하는 과제 중 하나이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1052_noramr",
@@ -36957,13 +36957,13 @@
     "CNAbilityList": [],
     "JPName": "機動軽装兵",
     "JPDescription": "敵方の近距離戦闘員。盾を用いて攻守ともに活躍する。前線において無視できない脅威となる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shielded Guard",
     "ENDescription": "A standard melee-range soldier. Their lightweight riot shields provide them both offensive and defensive flexibility. In battle, they pose a substantial threat to our front lines.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "기동위병",
     "KRDescription": "중급 근거리 전투원. 장비한 기동 방패는 훌륭한 방어 수단이자 공격 수단이며, 교전 중 전선에 적지 않은 위협을 줄 수 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1052_noramr_2",
@@ -37020,13 +37020,13 @@
     "CNAbilityList": [],
     "JPName": "機動軽装兵隊長",
     "JPDescription": "敵方の近距離戦闘員。軌道軽装兵よりも手強い。盾を用いて攻守ともに活躍する。前線において無視できない脅威となる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shielded Guard Leader",
     "ENDescription": "A standard melee-range soldier. They are more dangerous than normal Shielded Guards Their lightweight riot shields provide them both offensive and defensive flexibility. In battle, they pose a substantial threat to our front lines.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "기동위병 리더",
     "KRDescription": "중급 근거리 전투원. 일반적인 기동위병보다 작전 능력이 뛰어나다. 장비한 기동 방패는 훌륭한 방어 수단이자 공격 수단이며, 교전 중 전선에 적지 않은 위협을 줄 수 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1053_norgst",
@@ -37249,13 +37249,13 @@
     "CNAbilityList": [],
     "JPName": "重装兵N型",
     "JPDescription": "敵方の近距離戦闘員。豊富な経験を生かして様々な物理攻撃に対処する。重装備で完全武装しているため、攻撃が通りにくい。細心の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Heavy Defender Type-N",
     "ENDescription": "A melee soldier. Equipped with a full set of heavy armor, these experienced soldiers are skilled at dealing with a wide variety of physical attacks. They are hard to take down and must be dealt with carefully.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "중기갑 디펜더 N타입",
     "KRDescription": "근거리 전투원. 무거운 전신 방어구를 장비하였고, 다양한 물리 공격 수단에 풍부한 경험을 갖고 있어 쓰러뜨리기 상당히 어려우니, 각별히 조심하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1054_norshd_2",
@@ -37312,13 +37312,13 @@
     "CNAbilityList": [],
     "JPName": "重装兵S型",
     "JPDescription": "敵方の近距離戦闘員。重装兵N型よりも手強い。豊富な経験を生かして様々な物理攻撃に対処する。重装備で完全武装しているため、攻撃が通りにくい。細心の注意を払って対処せよ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Heavy Defender Type-S",
     "ENDescription": "A melee soldier. They are more dangerous than normal Heavy Defenders. Equipped with a full set of heavy armor, these experienced soldiers are skilled at dealing with a wide variety of physical attacks. They are hard to take down and must be dealt with carefully.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "중기갑 디펜더 S타입",
     "KRDescription": "근거리 전투원. 무거운 전신 방어구를 장비하였고, 일반적인 중기갑병보다 작전 능력이 뛰어나다. 다양한 물리 공격 수단에 풍부한 경험을 갖고 있어 쓰러뜨리기 상당히 어려우니, 각별히 조심하도록 하자.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1055_ganman",
@@ -37375,13 +37375,13 @@
     "CNAbilityList": [],
     "JPName": "シチリアーノ",
     "JPDescription": "敵方の近距離戦闘員。シラクーザ出身の彼らは、過去の栄光を象徴する古い呼び名で自らを呼ぶ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sicilian",
     "ENDescription": "A basic melee combatant. These Siracusans adorn themselves with an ancient name, symbolizing the glory of an era bygone.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "시칠리안",
     "KRDescription": "초급 근거리 전투원. 시라쿠사에서 온 이들은 자신이 속한 패밀리에 자부심을 느껴, 스스로를 패밀리 이름으로 부른다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1055_ganman_2",
@@ -37438,13 +37438,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪シチリアーノ",
     "JPDescription": "敵方の近距離戦闘員。ほかのシチリアーノよりも戦闘能力が高い。シラクーザ出身の彼らは、過去の栄光を象徴する古い呼び名で自らを呼ぶ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Elite Sicilian",
     "ENDescription": "A basic melee combatant with higher combat capabilities than a normal Sicilian. These Siracusans adorn themselves with an ancient name, symbolizing the glory of an era bygone.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "정예 시칠리안",
     "KRDescription": "초급 근거리 전투원. 시칠리안보다 더 높은 작전능력을 갖고 있다. 시라쿠사에서 온 이들은 스스로를 자신이 속한 패밀리 이름으로 부른다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1056_ganwar",
@@ -37501,13 +37501,13 @@
     "CNAbilityList": [],
     "JPName": "拳闘士崩れ",
     "JPDescription": "特殊な訓練を受けた戦闘員。その拳から放たれる高速ラッシュで、相手を瀕死に追い込む。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Brawler",
     "ENDescription": "Combat personnel who have underwent special training. Their flurry of rapid blows are powerful enough to be fatal.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "너클러",
     "KRDescription": "특수 훈련을 받은 전투원. 매우 빠른 주먹으로 상대에게 치명타를 입힐 수도 있다고 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1056_ganwar_2",
@@ -37564,13 +37564,13 @@
     "CNAbilityList": [],
     "JPName": "凶悪拳闘士",
     "JPDescription": "特殊な訓練を受けた戦闘員。拳闘士崩れよりも破壊力のあるラッシュを放つ。それに耐えるには優れた装備が必要だ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Elite Brawler",
     "ENDescription": "Exceptionally dangerous combatants who are even more destructive than normal Brawlers. Only the most heavily-armored Operators can withstand their blows.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "너클러 리더",
     "KRDescription": "너클러보다 더 강한 파괴력을 갖고 있어, 상대 시엔 방어에 각별히 주의해야 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1057_gansho",
@@ -40069,13 +40069,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ刀術師",
     "JPDescription": "サルカズの傭兵。長く続いた戦争で身体にはいくつもの傷が刻まれているが、今もなお雇い主の命令を遂行すべく戦っている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Swordsman",
     "ENDescription": "A Sarkaz mercenary. Though scarred by years of war, they are still fighting to fulfill the orders of their employers.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 도병",
     "KRDescription": "살카즈 용병. 오랜 세월 계속된 전쟁은 이들을 만신창이로 만들었지만, 지금도 고용주의 명령을 완수하기 위해 계속해서 싸우고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1071_dftman_2",
@@ -40132,13 +40132,13 @@
     "CNAbilityList": [],
     "JPName": "サルカズ刀術隊長",
     "JPDescription": "サルカズの傭兵。サルカズ刀術師よりも手強い。長く続いた戦争で身体にはいくつもの傷が刻まれているが、今もなお雇い主の命令を遂行すべく戦っている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Blademaster",
     "ENDescription": "A Sarkaz mercenary, more skilled than an ordinary Sarkaz Swordsman. Though scarred by years of war, they are still fighting to fulfill the orders of their employers.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 소드캐스터",
     "KRDescription": "살카즈 용병. 일반 도병보다 더 솜씨가 뛰어나다. 오랜 세월 계속된 전쟁은 이들을 만신창이로 만들었지만, 지금도 고용주의 명령을 완수하기 위해 계속해서 싸우고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1072_dlancer",
@@ -41171,13 +41171,13 @@
     "CNAbilityList": [],
     "JPName": "遊撃隊猟犬",
     "JPDescription": "ウルサス式の軽量型装甲を身に着けた遊撃隊の猟犬。一定の防御力を備えており、機動力も高い。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Guerrilla Hound",
     "ENDescription": "A basic guerrilla-ops war hound equipped with lightweight Sarkaz armor, having decent defenses while still being able to move quickly.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "유격대 사냥개",
     "KRDescription": "우르수스 경갑을 착용한 기초 유격대 전투견. 일정 수준의 방어력을 갖추고 있으며, 행동 속도가 매우 빠르다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1077_sotihd_2",
@@ -41234,13 +41234,13 @@
     "CNAbilityList": [],
     "JPName": "遊撃隊上級猟犬",
     "JPDescription": "ウルサス式の軽量型装甲を身に着けた遊撃隊の猟犬。遊撃隊猟犬よりも攻撃的。一定の防御力を備えており、機動力も高い。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Guerrilla Hound Pro",
     "ENDescription": "A better-trained warhound utilized by guerilla fighters. Sporting lightweight Ursus armor, they have a degree of defensive capabilities without sacrificing mobility, and are more aggressive than normal Guerilla Hounds.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "유격대 사냥개 Pro",
     "KRDescription": "우르수스 경갑을 착용한 기초 유격대 전투견. 일정 수준의 방어력을 갖추고 있으며, 행동 속도가 매우 빠르다. 일반 유격대 사냥개 보다 더 강한 공격 욕구를 갖고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1078_sotisc",
@@ -43016,13 +43016,13 @@
     "CNAbilityList": [],
     "JPName": "リターニア反乱兵",
     "JPDescription": "リターニアの急進主義者。この地では古典アーツが普及しており、それを駆使して術攻撃を仕掛けてくる彼らは非常に危険な存在だ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Leithanian Rebel",
     "ENDescription": "One of Leithanien's radicalized locals. The widespread popularity of classical Originium Arts has made them more threatening, and their attacks inflict Arts damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "라이타니엔 폭도",
     "KRDescription": "라이타니엔 현지인 폭도. 고대 오리지늄 아츠의 보급으로 인해 더욱 위협적으로 변했다. 공격이 마법 대미지를 준다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1086_ltsodr_2",
@@ -43079,13 +43079,13 @@
     "CNAbilityList": [],
     "JPName": "リターニア反乱兵隊長",
     "JPDescription": "リターニアの急進主義者幹部。この地では古典アーツが普及しており、それを駆使してより強力な術攻撃を仕掛けてくる彼らは非常に危険な存在だ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Leithanian Rebel Leader",
     "ENDescription": "One of Leithanien's local militia leaders. The widespread popularity of classical Originium Arts has made them more threatening, and their attacks inflict Arts damage.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "라이타니엔 폭도 리더",
     "KRDescription": "라이타니엔 현지인 폭도들의 리더. 고대 오리지늄 아츠의 보급으로 인해 더욱 위협적으로 변했다. 공격이 마법 대미지를 준다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1087_ltwolf",
@@ -43142,13 +43142,13 @@
     "CNAbilityList": [],
     "JPName": "冬霊猟犬",
     "JPDescription": "この地域の人々が古くから飼っている猟犬。かつては開拓者や原住民の心強い相棒だった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Winterwisp Hound",
     "ENDescription": "A hunting hound trained and utilized by locals since ancient times. For early aboriginals and pioneers, these hounds were considered invaluable partners.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "윈터위습 사냥개",
     "KRDescription": "현지인들이 오래 전부터 키우고 훈련시켜왔던 사냥개. 예전엔 토착민과 개척자들의 든든한 조수 역할을 맡았었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1087_ltwolf_2",
@@ -43205,13 +43205,13 @@
     "CNAbilityList": [],
     "JPName": "冬霊上級猟犬",
     "JPDescription": "この地域の人々が古くから飼っている猟犬のリーダー。かつては開拓者や原住民の心強い相棒だった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Winterwisp Hound Pro",
     "ENDescription": "A pack leader trained and utilized by locals since ancient times. For early aboriginals and pioneers, these hounds were considered invaluable partners.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "윈터위습 사냥개 Pro",
     "KRDescription": "현지인들이 오래 전부터 키우고 훈련시켜왔던 사냥개들의 우두머리. 예전엔 토착민과 개척자들의 든든한 조수 역할을 맡았었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1088_ltsmer",
@@ -44114,13 +44114,13 @@
     "CNAbilityList": [],
     "JPName": "マドロックの巨像",
     "JPDescription": "マドロックがアーツで創った、意志を持たない無機物。マドロック本人が操縦する必要がある。動きが鈍い一方で、生命力と物理攻撃力が非常に高く、倒しきるのは困難。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Mudrock Colossus",
     "ENDescription": "This Originium construct, crafted by Mudrock, does not possess sentience and must be directly controlled by Mudrock. Though bulky and slow, they are extremely durable and boast terrifying physical damage and survivability.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "머드락의 거대 석상",
     "KRDescription": "머드락의 오리지늄 아츠 피조물. 의식이 없으며, 머드락 본인의 조종이 필요하다. 둔하고 느리지만, 극도로 높은 물리 대미지와 HP로 인해 격퇴하기 어렵다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1092_mdgint_2",
@@ -44177,13 +44177,13 @@
     "CNAbilityList": [],
     "JPName": "巫術の巨像",
     "JPDescription": "マドロックが非常に難解なアーツで創った無機物。ほかの巨像よりも高い生命力と攻撃力を誇る。サルカズの古き巫術がこめられたこの被造物は、まさしく創造主の意思を体現するものだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Hexed Colossus",
     "ENDescription": "This Originium construct, crafted by Mudrock, has been entwined with ancient Sarkaz witchcraft and now serves as an extension of its owner's will. The principle behind this Originium Art is quite obscure, but these constructs undoubtedly boast greater survivability and destructive power than normal Colossi.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "마법 거대 석상",
     "KRDescription": "살카즈의 고대 마법이 주입된 머드락의 오리지늄 아츠 피조물. 주인의 의지를 이어받아, 상당히 난해한 오리지늄 아츠의 원리로 움직인다. 일반 피조물보다 더욱 높은 HP와 파괴력을 갖고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1093_ccsbr",
@@ -44416,13 +44416,13 @@
     "CNAbilityList": [],
     "JPName": "ティアカウ投槍兵",
     "JPDescription": "ほかの戦士と大差ない実力だが、武器を投擲することができる。距離こそ限られているが、その殺傷力を甘く見てはいけない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Tiacauh Impaler",
     "ENDescription": "Not much different from a regular warrior, except they've learned to throw their spears. Though their range is limited, they get the job done.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "티아카우 투창병",
     "KRDescription": "무기를 투척하는 법을 배웠을 뿐, 일반 전사와 별 차이는 없다. 사정거리가 짧지만 효과적인 공격을 감행한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1094_ccspm_2",
@@ -44479,13 +44479,13 @@
     "CNAbilityList": [],
     "JPName": "ティアカウ投槍名人",
     "JPDescription": "鍛錬を経て、投擲の心得を掴んだ戦士。投げ槍の殺傷力は上がっているが、槍が重くなっているせいで射程は向上していない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Tiacauh Impaler Adept",
     "ENDescription": "Warriors who have gained greater proficiency in using thrown weapons due to training, and boast greater lethality. However, due to the weight of their weapons, their range hasn't really improved.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "티아카우 투창병 리더",
     "KRDescription": "거듭된 훈련을 통해 더욱 강해진 전사. 투척하는 창은 더욱 강력해졌지만, 창의 무게로 인해 사정거리는 여전히 짧다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1095_ccripr",
@@ -45298,13 +45298,13 @@
     "CNAbilityList": [],
     "JPName": "無名の独立騎士",
     "JPDescription": "カジミエーシュの独立騎士。その地位は微妙で、腕前も大したことはない。いずれは騎士競技の荒波に飲み込まれてしまうだろう。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Nameless Independent Knight",
     "ENDescription": "An independent Kazimierz knight. A low profile and unrefined skill means this one will soon be swept away in the tide of knight competition.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "이름없는 프리랜서 기사",
     "KRDescription": "몸값과 실력 모두 애매한 카시미어의 프리랜서 기사. 이런 기사들은 조만간 카시미어 기사 스포츠의 흐름에 사라져버리고 말 것이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1099_nbkght_2",
@@ -45361,13 +45361,13 @@
     "CNAbilityList": [],
     "JPName": "無名の精鋭騎士",
     "JPDescription": "カジミエーシュの独立騎士。地位はいくらか上がったか、腕前にはまだ不安が残っている。このままでは、やはりいずれは騎士競技の荒波に飲み込まれてしまうだろう。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Nameless Elite Knight",
     "ENDescription": "An independent Kazimierz knight with some degree of achievement, though not enough to inspire any confidence. Sooner or later, they'll probably get swallowed up by the competition.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "이름없는 정예 기사",
     "KRDescription": "몸값이 조금 오르긴 했지만, 실력은 여전히 별로인 카시미어의 프리랜서 기사. 여전히 이 정도 수준이라면 조만간 카시미어 기사 스포츠의 흐름에 사라져버리고 말 것이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1100_scorpn",
@@ -45424,13 +45424,13 @@
     "CNAbilityList": [],
     "JPName": "訓練用鉗獣",
     "JPDescription": "カジミエーシュの大きな川や湖でしばしば見かける感染生物。術師に捕獲され、飼育されたあとは、騎士の訓練や闘技場のパフォーマンスなどの残酷な道具として使われる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Training Gloompincer",
     "ENDescription": "Infected creatures commonly found in the great lakes and rivers of Kazimierz, captured and raised by casters and used as tools to train knights and entertain fight spectators.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "훈련용 글룸핀서",
     "KRDescription": "카시미어의 강과 호수에서 흔히 볼 수 있는 감염 생물. 캐스터에게 붙잡혀 인공적으로 사육된 후, 기사들의 훈련과 전투 퍼포먼스를 위한 도구로써 잔혹하게 이용당하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1100_scorpn_2",
@@ -45487,13 +45487,13 @@
     "CNAbilityList": [],
     "JPName": "訓練用狂暴鉗獣",
     "JPDescription": "カジミエーシュの大きな川や湖でしばしば見かける感染生物。オスは特殊なホルモンを用いて飼育されているため、輪をかけて狂暴。騎士の訓練や闘技場のパフォーマンスなどの残酷な道具として使われる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Vicious Training Gloompincer",
     "ENDescription": "Infected creatures commonly found in the great lakes and rivers of Kazimierz, these male gloompincers are fed special hormones and made more aggressive than the regular ones. They're a cruel tool to train knights and entertain fight spectators.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "훈련용 흉폭한 글룸핀서",
     "KRDescription": "카시미어의 강과 호수에서 흔히 볼 수 있는 감염 생물. 기사들의 훈련과 전투 퍼포먼스를 위한 도구로써 잔혹하게 이용당하고 있다. 평범한 글룸핀서에 비해 특수하게 사육되어 공격성이 더욱 강해졌다. ",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1101_plkght",
@@ -45838,13 +45838,13 @@
     "CNAbilityList": [],
     "JPName": "盾持ち独立騎士",
     "JPDescription": "カジミエーシュの独立騎士。刻一刻とルールが変化する騎士競技においては、装備を頼りに守りを固め、着実にポイントを稼ぐことが効果的な戦略となる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Independent Knight Shielder",
     "ENDescription": "An independent Kazimierz knight. In the ever-changing competition circuit, relying on defense to steadily rack up points is an effective strategy.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "방패 프리랜서 기사",
     "KRDescription": "카시미어의 프리랜서 기사. 다양한 변화가 있는 토너먼트에서, 자신의 장비를 활용하여 방어를 진행하고, 안정적인 점수 획득을 진행하는 전략을 주로 활용한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1102_sdkght_2",
@@ -45901,13 +45901,13 @@
     "CNAbilityList": [],
     "JPName": "盾持ち精鋭騎士",
     "JPDescription": "カジミエーシュの独立騎士。装備はより良いものになっており、あと一歩でスポンサーを得られそうだ。刻一刻とルールが変化する騎士競技においては、装備を頼りに守りを固め、着実にポイントを稼ぐことが効果的な戦略となる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Elite Knight Shielder",
     "ENDescription": "An independent Kazimierz knight, with more expensive equipment, on the verge of finding a sponsor. In the ever-changing competition circuit, relying on defense to steadily rack up points is an effective strategy.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "방패 정예 기사",
     "KRDescription": "거의 스폰서를 찾을 뻔한 카시미어의 프리랜서 기사. 다양한 변화가 있는 토너먼트에서, 자신이 갖고 있는 우수한 장비를 활용하여 방어를 진행하고, 안정적인 점수 획득을 진행하는 전략을 주로 활용한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1103_wdkght",
@@ -47148,13 +47148,13 @@
     "CNAbilityList": [],
     "JPName": "ウルサス裂獣",
     "JPDescription": "ウルサス軍が調教した作戦用生物。命令に忠実で、血肉を求め一刻も休まずに鎧を食いちぎる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Ursus Mangler",
     "ENDescription": "A warbeast trained by the Ursus Army. Obedient and relentless, they tear through armor with ease to sate their thirst for flesh and blood.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "우르수스 맹글러",
     "KRDescription": "우르수스군이 훈련시킨 작전용 생물. 명령에 따라 쉬지 않고 피와 살을 갈구하며, 갑옷을 찢어버린다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1108_uterer_2",
@@ -47211,13 +47211,13 @@
     "CNAbilityList": [],
     "JPName": "ウルサス女王裂獣",
     "JPDescription": "ウルサス軍が調教した作戦用生物のリーダー。命令に忠実で、血肉を求め一刻も休まずに鎧を食いちぎる。なお、オスの烈獣は誰も見たことがない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Ursus Mangler Packmother",
     "ENDescription": "A warbeast pack leader trained by the Ursus Army. Obedient and relentless, they tear through armor with ease to sate their thirst for flesh and blood. Nobody has ever seen a male mangler.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "우르수스 맹글러 어미",
     "KRDescription": "우르수스군이 훈련시킨 작전용 생물의 우두머리. 명령에 따라 쉬지 않고 피와 살을 갈구하며, 갑옷을 찢어버린다. 수컷을 본 사람은 아무도 없다고 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1109_uabone",
@@ -47440,13 +47440,13 @@
     "CNAbilityList": [],
     "JPName": "ウルサス重装術師",
     "JPDescription": "ウルサス軍の術師。装甲をまとっている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Ursus Armored Caster",
     "ENDescription": "A basic caster in the Ursus Army. Clad in simple armor.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "우르수스 무장 캐스터",
     "KRDescription": "우르수스군 초급 캐스터. 몸에 갑옷을 걸치고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1110_uamord_2",
@@ -47503,13 +47503,13 @@
     "CNAbilityList": [],
     "JPName": "ウルサス上級重装術師",
     "JPDescription": "ウルサス軍術師の実力者。装甲をまとい、より強力なアーツを操る。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Elite Ursus Armored Caster",
     "ENDescription": "A basic caster in the Ursus Army who has displayed excellence. They are clad in armor and wield more powerful Arts.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "우르수스 무장 캐스터 리더",
     "KRDescription": "우르수스군 초급 캐스터들 중 가장 우수한 능력을 보유. 몸에 갑옷을 걸치고 있으며, 더욱 위력적인 아츠를 사용한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1111_ucommd",
@@ -50046,13 +50046,13 @@
     "CNAbilityList": [],
     "JPName": "「ヨツアシ」",
     "JPDescription": "獣の姿をした墨魎。命名者は画家本人。気性が荒く、杏を好んで食べる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Angry'",
     "ENDescription": "A beastly Ink Spirit named by the painter herself. It has a bad temper and likes to eat apricots. It follows its master's wishes and frolics about in the painting scroll, occasionally taking a bite out of it.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'샤오차오'",
     "KRDescription": "야수형 묵량. 이름은 화가 본인이 지었다. 성질이 급하고 살구를 좋아한다. 주인의 의지에 따라 그림 속에서 장난을 치고 소란을 부린다. 간혹 그림을 물어뜯기도 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1122_sphond_2",
@@ -50122,13 +50122,13 @@
     "CNAbilityList": [],
     "JPName": "焦燥する「ヨツアシ」",
     "JPDescription": "獣の姿をした墨魎。命名者は画家本人。気性がさらに荒く、好物の杏すら口にしなくなった。主の望み通り、絵巻の中を遊び暴れて、時折絵巻を食い破る。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Anxious 'Angry'",
     "ENDescription": "A beastly Ink Spirit named by the painter herself. It has an even worse temper and doesn't want to eat apricots anymore. It follows its master's wishes and frolics about in the painting scroll, occasionally taking a bite out of it.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "조급한 '샤오차오'",
     "KRDescription": "야수형 묵량. 이름은 화가 본인이 지었다. 성질이 훨씬 더 급한 나머지 살구조차 먹고 싶어 하지 않아 한다. 주인의 의지에 따라 그림 속에서 장난을 치고 소란을 부린다. 간혹 그림을 물어뜯기도 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1123_spsbr",
@@ -50198,13 +50198,13 @@
     "CNAbilityList": [],
     "JPName": "「クヒツム」",
     "JPDescription": "平凡な墨魎。命名者は画家本人。非常に聡明で、実は人語を解している。群れる生き物らしく、はぐれると寂しさを感じるようだ。結局は墨魎なので、遊びのつもりでやりすぎることもある。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Bitey'",
     "ENDescription": "A common Ink Spirit named by the painter herself. It's very smart and actually understands human speech. Apparently some kind of communal organism, it gets lonely when left by itself. It has done many a mean thing out of amusement for it's just an Ink Spirit, no matter how smart.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'아야오'",
     "KRDescription": "평범한 묵량. 이름은 화가 본인이 지었다. 아주 총명하고, 사실 사람 말을 알아듣는다. 단체 생활을 하는 생물인 것 같으며, 혼자가 되면 외로움을 많이 탄다. 제 딴엔 장난이랍시고 도가 넘는 짓들을 많이 하고 다닌다. 결국 묵량은 묵량이라 이건가.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1123_spsbr_2",
@@ -50274,13 +50274,13 @@
     "CNAbilityList": [],
     "JPName": "真面目な「クヒツム」",
     "JPDescription": "平凡な墨魎。命名者は画家本人。非常に聡明で、実は人語を解している。群れる生き物らしく、はぐれると寂しさを感じるようだ。ようやく少し墨魎らしさが増してきて、真面目に敵と戦うようになった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Serious 'Bitey'",
     "ENDescription": "A common Ink Spirit named by the painter herself. It's very smart and actually understands human speech. Apparently some kind of communal organism, it gets lonely when left by itself. Now it's actually getting down to business like a real Ink Spirit.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "진지한 '아야오'",
     "KRDescription": "평범한 묵량. 이름은 화가 본인이 지었다. 아주 총명하고, 사실 사람 말을 알아듣는다. 단체 생활을 하는 생물인 것 같으며, 혼자가 되면 외로움을 많이 탄다. 이젠 진지하게 적을 상대할 거라고 한다. 이래야 좀 묵량답지.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1124_spbow",
@@ -52397,13 +52397,13 @@
     "CNAbilityList": [],
     "JPName": "オリジニュータント",
     "JPDescription": "ある目的のために兵器として改造された源石変異生物。非常に硬い外殻を持つ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Originiutant",
     "ENDescription": "An Originiutant mutant that was weaponized for some purpose. Possesses an incredibly tough outer shell.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "오리지뉴턴트",
     "KRDescription": "어떤 목적 때문에 무기로 개조된 오리지뉴턴트 생물, 껍질이 매우 단단하다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1134_diamd_2",
@@ -52460,13 +52460,13 @@
     "CNAbilityList": [],
     "JPName": "オリジニュータントα",
     "JPDescription": "ある目的のために兵器として改造された源石変異生物。より凶暴で恐ろしい。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Originiutant α",
     "ENDescription": "An Originiutant mutant that was weaponized for some purpose. Even more ferocious and terrifying than usual.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "오리지뉴턴트  α",
     "KRDescription": "어떤 목적 때문에 무기로 개조된 오리지뉴턴트 생물, 더욱 무섭고 사나워 보인다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1135_redman",
@@ -53340,13 +53340,13 @@
     "CNAbilityList": [],
     "JPName": "戦術猟犬",
     "JPDescription": "術師に操られている感染生物。猟犬は傭兵の間では広く使われているが、一部のペッローはかなり抵抗感を覚えている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Tactical Hound",
     "ENDescription": "An infected creature controlled by a Caster. Hounds are widely used by mercenaries, though some Perros object to it.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "전술 사냥개",
     "KRDescription": "캐스터가 조종하는 감염 생물. 비록 일부 페로 족은 상당한 위화감을 느끼고 있다 하지만, 용병들은 사냥개를 대규모로 사용하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1140_merhd_2",
@@ -53403,13 +53403,13 @@
     "CNAbilityList": [],
     "JPName": "上級戦術猟犬",
     "JPDescription": "術師に操られている感染生物。通常の猟犬より体系的な訓練を受けており、大きな脅威となりうる。猟犬は傭兵の間では広く使われているが、一部のペッローはかなり抵抗感を覚えている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Tactical Hound Pro",
     "ENDescription": "An infected creature controlled by a Caster. Having gone through rigorous training, they now pose a much greater threat. Hounds are widely used by mercenaries, though some Perros object to it.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "전술 사냥개 Pro",
     "KRDescription": "캐스터가 조종하는 감염 생물, 훈련이 잘되어있어 더 큰 위협이 된다. 비록 일부 페로 족은 상당한 위화감을 느끼고 있다 하지만, 용병들은 사냥개를 대규모로 사용하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1141_merbow",
@@ -54908,13 +54908,13 @@
     "CNAbilityList": [],
     "JPName": "殻海のランナー",
     "JPDescription": "四肢が生えた恐魚。体内に骨は通っていない。陸地の四足歩行動物を捕食したことがあるようだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shell Sea Runner",
     "ENDescription": "A Sea Terror that grew four limbs, but lacks an internal skeleton. It seems to have once hunted quadrupeds on land.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "해안의 폭주자",
     "KRDescription": "발이 네 개 달린 시테러. 체내에 뼈가 없다. 해안의 네발짐승을 포식한 적이 있는 것 같다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1147_dshond_2",
@@ -54971,13 +54971,13 @@
     "CNAbilityList": [],
     "JPName": "富栄養化したランナー",
     "JPDescription": "四肢が生えた、飽食状態の恐魚。体液の圧で四肢の動きをコントロールしており、群を抜いた反応速度を誇る。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Nourished Runner",
     "ENDescription": "A Sea Terror that grew four limbs and has sated its hunger. It controls its body's movements using hydraulic pressure and possesses superior reflexes.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "부영양의 폭주자",
     "KRDescription": "발이 네 개 달린 포식한 시테러. 유압을 통해 팔다리를 움직이고, 반응 속도가 매우 빠르다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1148_dssbr",
@@ -55210,13 +55210,13 @@
     "CNAbilityList": [],
     "JPName": "脊海のスピッター",
     "JPDescription": "謎に満ちた恐魚。海中ではより速い初速で噴射して、岩礁さえも破壊することができる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Ridge Sea Spitter",
     "ENDescription": "A mysterious Sea Terror. In the sea, it can spit at even greater speeds, fast enough to destroy reefs.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "바다의 분사자",
     "KRDescription": "신비한 시테러. 바닷속에서 더 빠른 초속으로 분사하여 암초를 파괴할 수 있을 정도다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1149_dsbow_2",
@@ -55273,13 +55273,13 @@
     "CNAbilityList": [],
     "JPName": "富栄養化したスピッター",
     "JPDescription": "謎に満ちた、飽食状態の恐魚。その噴射は捕食のためではなく、自然災害に対応するためにある。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Nourished Spitter",
     "ENDescription": "A mysterious Sea Terror that has sated its hunger. Its spit is a way to deal with natural disasters, rather than as a means of hunting.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "부영양의 분사자",
     "KRDescription": "신비로운 포식한 시테러. 그가 무언가 내뿜는 것은 먹잇감을 포식하기 위해서가 아니라, 자연재해에 대응하기 위해서이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1150_dsjely",
@@ -64057,13 +64057,13 @@
     "CNAbilityList": [],
     "JPName": "氷原の戦士",
     "JPDescription": "氷原での戦闘に長けた戦士。長きにわたる氷原での生活により、意志と肉体が鍛えられている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Icefield Warrior",
     "ENDescription": "A warrior proficient in icefield combat. Long periods of living on the icefields have tempered their will and physique.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "빙원 전사",
     "KRDescription": "빙원 작전에 능한 전사. 장기간의 빙원 생활은 이들의 정신과 육체를 단련시켰다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1189_krgaxe_2",
@@ -64120,13 +64120,13 @@
     "CNAbilityList": [],
     "JPName": "氷原の戦士長",
     "JPDescription": "氷原での戦闘に長けた精鋭戦士。彼らの意志と肉体は山頂の堅氷のように固い。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Icefield Warrior Leader",
     "ENDescription": "An elite warrior proficient in icefield combat. Their will and physique are as unbreakable as solid ice on the snow-capped mountains.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "빙원 전사 리더",
     "KRDescription": "빙원 작전에 능한 정예 전사. 이들의 정신과 육체는 설산 정상의 단단한 얼음처럼 절대 부서지지 않는다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1190_krgbow",
@@ -68798,13 +68798,13 @@
     "CNAbilityList": [],
     "JPName": "求道戦士",
     "JPDescription": "先導者の理念に感化され集った戦士。共通の目標を達成するために戦っている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Pathfinder Legionarius",
     "ENDescription": "A warrior who has flocked to the Guide, inspired by his philosophy. Fights to bring the common goal of the Pathfinders to fruition.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "패스파인더 전사",
     "KRDescription": "선도자의 이념에 감화되어 그의 곁에 모인 전사. 패스파인더의 공동 목표를 실현하기 위해 싸운다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1212_mtrfol_2",
@@ -68861,13 +68861,13 @@
     "CNAbilityList": [],
     "JPName": "精鋭求道戦士",
     "JPDescription": "先導者の理念に感化され集った精鋭戦士。共通の目標を達成するために戦っている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Pathfinder Legionarius Prefect",
     "ENDescription": "A powerful warrior who has flocked to the Guide, inspired by his philosophy. Fights to bring the common goal of the Pathfinders to fruition.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "패스파인더 정예 전사",
     "KRDescription": "선도자의 이념에 감화되어 그의 곁에 모인 전사. 실력이 출중하고, 패스파인더의 공동 목표를 실현하기 위해 싸운다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1213_mtrsnp",
@@ -78038,13 +78038,13 @@
     "CNAbilityList": [],
     "JPName": "実験用パワードスーツ",
     "JPDescription": "遠隔操作式のパワードスーツ。操縦者が中にいなくとも、柔軟な動きを取ることができる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Experimental Power Armor",
     "ENDescription": "An unpiloted Power Armor. It is able to function without a pilot, but nevertheless maintains high agility.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "실험용 기동 장갑",
     "KRDescription": "무인 기동 장갑. 조종사가 올라 탈필요 없이도 뛰어난 민첩함을 자랑한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1254_lypa_2",
@@ -78101,13 +78101,13 @@
     "CNAbilityList": [],
     "JPName": "テスト用パワードスーツ",
     "JPDescription": "遠隔操作式のパワードスーツ。まるで自らの意志があるかのように動くため、エンジニアにすら肉眼では操縦者の有無を確かめることはできない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Test Power Armor",
     "ENDescription": "An unpiloted Power Armor. It seems to have a mind of its own, and even experienced engineers struggle to tell if it's being piloted.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "테스트용 기동 장갑",
     "KRDescription": "무인 기동 장갑. 마치 자의식을 가진 것처럼, 베테랑 엔지니어조차도 조종하는 사람이 따로 있는지 분간하기 어려울 정도이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1255_lybgpa",
@@ -79166,13 +79166,13 @@
     "CNAbilityList": [],
     "JPName": "サンドキャッスル建築家",
     "JPDescription": "趣味で砂の城を作っているドゥリン人。人造湖で波を立てる人間をひどく憎んでおり、そのため建築ツールにアーツユニットを装着している。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sandcastle Builder",
     "ENDescription": "A Durin who has made a hobby out of building sandcastles. He despises those who would kick up the waters of the artificial lake, and so he installed an Arts Unit onto his construction tool.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "모래성 건축가",
     "KRDescription": "모래성 쌓기가 취미인 두린족. 인공 호수를 어지럽히는 사람들을 극도로 싫어하여, 건축 도구에 아츠 유닛을 장착했다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1260_durmag_2",
@@ -79229,13 +79229,13 @@
     "CNAbilityList": [],
     "JPName": "サンドキャッスルデザイナー",
     "JPDescription": "仕事として砂の城をデザインしているドゥリン人。砂の城を作れない状況に慣れきってしまっており、最近は設計図すらも書かず、アーツユニットいじりに没頭している。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sandcastle Architect",
     "ENDescription": "A Durin who has made a career out of designing sandcastles. Having accepted the reality that it is impossible to actually build a sandcastle, he has not even been drafting designs recently, instead focusing his efforts on tinkering with the Arts Unit.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "모래성 설계사",
     "KRDescription": "모래성 쌓기가 직업인 두린족. 모래성이 마음처럼 쌓이지 않는 데 익숙해져, 이제는 도면도 그리지 않고 열심히 아츠 유닛만 만지작거리고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1261_dursho",
@@ -86204,13 +86204,13 @@
     "CNAbilityList": [],
     "JPName": "諦獣",
     "JPDescription": "「睚」が手慰みに作り出した創造物。黄砂と同じ色をした身体を持ち、聴覚がとても敏感。影のように街中を移動し、情報収集と伝達を行っている。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Di Beast",
     "ENDescription": "One of Ya's off-handed creations. With a body the color of the golden sands and extremely keen hearing, it stalks the streets like a shadow, collecting and relaying information.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "디서우",
     "KRDescription": "'야'가 대충 만들어낸 피조물로 몸은 황사와 같은 색을 띠고 있다. 청각이 매우 예민하고 행동이 신출귀몰하여 주로 정보를 수집하고 전달한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1295_ymph_2",
@@ -86267,13 +86267,13 @@
     "CNAbilityList": [],
     "JPName": "怒れる諦獣",
     "JPDescription": "「睚」が手慰みに作り出した創造物。黄砂によって研ぎ澄まされ狂暴さが増しており、聴覚がとても敏感。影のように街中を移動し、情報収集と伝達のみならず、戦闘にも参加する。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Raging Di Beast",
     "ENDescription": "One of Ya's off-handed creations, its bloodlust honed by the golden sands. It is extremely keen of hearing and stalks the streets like a shadow, both fighting and collecting and relaying information.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "분노한 디서우",
     "KRDescription": "'야'가 대충 만들어낸 피조물로 황사에 단련돼 악의가 드러나 있다. 청각이 매우 예민하고 행동이 신출귀몰하여 주로 정보를 수집 및 전달한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1296_ymknif",
@@ -86694,13 +86694,13 @@
     "CNAbilityList": [],
     "JPName": "山海衆守護者",
     "JPDescription": "防御を担う山海衆の一員。屈強な体格を生かして大きな盾を掲げ、仲間を守る命知らずが山海衆には山ほどいる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shanhaizhong Desperado",
     "ENDescription": "A Shanhaizhong member tasked with defense. The Shanhaizhong have recruited many desperadoes, using their burly physiques and heavy shields to provide shelter for their comrades.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "산해중 범법자",
     "KRDescription": "방어를 담당하는 산해중 멤버. 산해중은 적지 않은 폭도들을 망라했는데, 그들은 체격이 우람차며 무거운 방패를 들고 동료들을 보호한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1298_ymmonk_2",
@@ -86757,13 +86757,13 @@
     "CNAbilityList": [],
     "JPName": "山海衆連陣守護者",
     "JPDescription": "防御を担う山海衆の一員。屈強な体格を生かして大きな盾を掲げ、仲間を守る命知らずが山海衆には山ほどいる。中には各地で暴れていた者もおり、その存在自体が脅威と言える。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shanhaizhong Phalanx",
     "ENDescription": "A Shanhaizhong member tasked with defense. The Shanhaizhong have recruited many desperadoes, many of them were the disasters of their places. With their burly physiques and special heavy shields, they are a threatening line of defense.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "산해중 무법자",
     "KRDescription": "방어를 담당하는 산해중 멤버. 산해중은 적지 않은 폭도들을 망라했는데, 대부분은 한때 각지에 화를 불러온 자들로, 그들은 체격이 우람차며 무거운 방패를 들고 동료들을 보호한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1299_ymkilr",
@@ -89539,13 +89539,13 @@
     "CNAbilityList": [],
     "JPName": "「無我の冬」",
     "JPDescription": "-",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Winter's Void'",
     "ENDescription": "-",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'무념의 겨울'",
     "KRDescription": "-",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1313_wdfmr",
@@ -89858,7 +89858,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "정체가 탄로나면 다음 공격의 공력력 대폭 상승",
+        "text": "정체가 탄로나면 다음 공격의 공격력 대폭 상승",
         "textFormat": "NORMAL"
       }
     ]
@@ -89966,7 +89966,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "정체가 탄로나면 다음 공격의 공력력 대폭 상승",
+        "text": "정체가 탄로나면 다음 공격의 공격력 대폭 상승",
         "textFormat": "NORMAL"
       }
     ]
@@ -90434,7 +90434,7 @@
     "ENDescription": "Operatives attached to the Military Commission, specializing in gathering intelligence and softening the enemy frontlines. The actual leaders of this unit are a mystery, and are surprisingly always the first to show up wherever the Military Commission is operating.",
     "ENAbilityList": [
       {
-        "text": "Attacks reduce DP when carrying ammo. Max ammo: 3",
+        "text": "Attacks reduce DP when carrying ammo. Ammo capacity: 3",
         "textFormat": "NORMAL"
       }
     ],
@@ -90526,7 +90526,7 @@
     "ENDescription": "Operatives attached to the Military Commission, primarily tasked with assassinating high-value targets. When on a mission, they often arrive before their subordinates to soften the enemy frontlines with incredible speed, while simultaneously planning their next action.",
     "ENAbilityList": [
       {
-        "text": "Attacks reduce DP when carrying ammo. Max ammo: 3",
+        "text": "Attacks reduce DP when carrying ammo. Ammo capacity: 3",
         "textFormat": "NORMAL"
       }
     ],
@@ -91856,13 +91856,13 @@
     "CNAbilityList": [],
     "JPName": "軍用猟犬",
     "JPDescription": "ボリバルで最初に実戦配備された軍用の猟犬。鋭い牙と爪を持ち、非常に凶暴である。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Military Hound",
     "ENDescription": "Military hounds that first saw action in Bolívar. Their claws and fangs are as vicious as their temperament.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "군용 사냥개",
     "KRDescription": "볼리바르에서 최초로 사용했던 군용 사냥개. 발톱과 이빨이 날카로우며 성질이 매우 사납다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1325_cbgpro_2",
@@ -91919,13 +91919,13 @@
     "CNAbilityList": [],
     "JPName": "精鋭軍用猟犬",
     "JPDescription": "厳選を経て繁殖された精鋭軍用猟犬。その眼には獲物しか映っておらず、仕留めるまで攻撃の牙を緩めることはない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Elite Military Hound",
     "ENDescription": "Carefully picked military hounds that chase their quarry to the bitter end.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "고급 군용 사냥개",
     "KRDescription": "엄선하여 키워낸 고급 군용 사냥개. 눈에는 사냥감밖에 안 보이며, 죽을 때까지 쫓아간다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1326_cbagen",
@@ -101592,7 +101592,7 @@
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "Sarkaz Boneguard Fluxcaster Captain\n",
+    "ENName": "Sarkaz Boneguard Fluxcaster Captain",
     "ENDescription": "A Sarkaz Caster responsible for guarding the Feranmut's skeleton, their nature warped due to perpetually drifting through spacetime along with it, to the point that their very existence has become tenuous. In times of emergency, they will call upon the Feranmut's power to hide within the turbulent folds of spacetime before reappearing at a more opportune time to deliver a fatal blow.",
     "ENAbilityList": [
       {
@@ -105208,13 +105208,13 @@
     "CNAbilityList": [],
     "JPName": "訪問団の新兵",
     "JPDescription": "訪問団として召集された軍人。基本に忠実で確実な戦い方を好む。彼らは戦いよりも、平穏な余暇の日々のほうを楽しんでいる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Delegation Recruit",
     "ENDescription": "Soldier recruited into the delegation, employing the standard orthodox tactics. They are enjoying the peaceful lull.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "방문단 신병",
     "KRDescription": "방문단에서 모집한 군인. 착실하고 표준화된 전투 방식을 지니고 있지만, 현재는 무엇보다도 여유로운 휴가를 즐기고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1381_winman_2",
@@ -105271,13 +105271,13 @@
     "CNAbilityList": [],
     "JPName": "訪問団の老兵",
     "JPDescription": "訪問団と運命を共にする軍人。経験豊富で迅速果断な戦い方を身に着けている。彼らは常に、小さなトラブルが戦争の火種となることを警戒している。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Delegation Veteran",
     "ENDescription": "Soldier whose fate is entwined with the delegation, employing hardened and ruthless tactics. They are on guard against potential escalation.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "방문단 노병",
     "KRDescription": "방문단과 운명 공동체인 군인. 노련하고 맹렬한 전투 방식을 지니고 있지만, 현재는 무엇보다도 언제 벌어질지 모르는 충돌을 경계하고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1382_winbal",
@@ -109342,13 +109342,13 @@
     "CNAbilityList": [],
     "JPName": "連合政府軍用犬",
     "JPDescription": "ボリバル連合政府が訓練した猟犬。ペッローの士官たちはこの猟犬たちを戦術に取り入れることを忌避しているようだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Coalition Army Hound",
     "ENDescription": "A hound trained by the Bolívar Coalition Army. Perro officers were not too enthused about this being introduced into their tactical considerations.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "연립정부 군견",
     "KRDescription": "볼리바르 연립정부에서 훈련한 사냥개. 그러나 페로 군관들은 이들을 전술 대상에 포함시키는 것을 꺼린다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1401_pogpro_2",
@@ -109405,13 +109405,13 @@
     "CNAbilityList": [],
     "JPName": "連合政府上級軍用犬",
     "JPDescription": "クルビアで訓練を受けた後、ボリバル連合政府によって買い取られた特殊な猟犬。軍内部での普及運動にはそれなりに反対の声も上がった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Coalition Army Hound Pro",
     "ENDescription": "A hunting hound trained in Columbia and purchased by the Bolívarian Coalition government. The idea was met with some resistance within the army.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "연립정부 군견 pro",
     "KRDescription": "컬럼비아에서 훈련받고, 볼리바르 연립정부에서 구매한 특수 사냥개. 그러나 군 내부에 보급할 때는 약간의 어려움이 있었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1402_tgshd",
@@ -111732,13 +111732,13 @@
     "CNAbilityList": [],
     "JPName": "「鍋頭」狙撃手",
     "JPDescription": "頭全体を覆う鍋のような兜にヴィクトリア製のレンズを取り付けた傭兵。兜の密閉性が高すぎるせいで、彼らの耳には一度もスカーモールの傭兵たちの嘲りがはっきりと届いたことはない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Pothelm' Marksman",
     "ENDescription": "Mercenaries with a Victorian lens on their helms. Thanks to how well their helms block out sound, they have never heard the snickers of other Scar Market mercs behind their backs.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'뚜껑 머리' 사수",
     "KRDescription": "헬멧에 빅토리아 렌즈를 장착한 용병. 헬멧의 밀봉성이 워낙 좋은 탓에, 그들은 여태까지 흉터의 상점 다른 용병들이 등 뒤에서 비웃는 소리를 들은 적이 없다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1411_mmrnge_2",
@@ -111795,13 +111795,13 @@
     "CNAbilityList": [],
     "JPName": "「鍋頭」精鋭狙撃手",
     "JPDescription": "頭全体を覆う鍋のような兜にヴィクトリア製のレンズを取り付け、さらに良質な装備を身に纏った傭兵。兜の密閉性が高すぎるせいで、彼らの耳には一度もスカーモールの傭兵たちの嘲りがはっきりと届いたことはない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Pothelm' Arbalest",
     "ENDescription": "Well-equipped mercenaries with a Victorian lens on their helms. Thanks to how well their helms block out sound, they have never heard the snickers of other Scar Market mercs behind their backs.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'뚜껑 머리' 강노 사수",
     "KRDescription": "헬멧에 빅토리아 렌즈를 장착하고, 무장 상태가 좋은 용병. 헬멧의 밀봉성이 워낙 좋은 탓에, 그들은 여태까지 흉터의 상점 다른 용병들이 등 뒤에서 비웃는 소리를 들은 적이 없다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1412_mmjump",
@@ -113851,13 +113851,13 @@
     "CNAbilityList": [],
     "JPName": "枯朽サルカズ宿衛",
     "JPDescription": "ナハツェーラーの王の軍団に属する鉄壁の護衛。彼は自身が倒される運命にあることを知っている。だが、この血に塗れた大盾は誰かに受け継がれていくだろう。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Wither Bulwark",
     "ENDescription": "Veteran guards of the Nachzehrer King's legions. Martyrs who advance to certain death knowing that others will carry their blood soaked shield.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 부패의 호위병",
     "KRDescription": "나흐체러르 킹 군단의 철벽 호위. 자신이 언젠가 쓰러질 거라는 걸 알고 있다. 그리고 피로 물든 이 거대한 방패는 누군가 이어받을 것이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1423_lrfkkt_2",
@@ -113914,13 +113914,13 @@
     "CNAbilityList": [],
     "JPName": "枯朽サルカズ不屈宿衛",
     "JPDescription": "ナハツェーラーの王の軍団の中でも特に優れた鉄壁の護衛。彼はいずれ敵の軍勢に呑み込まれてしまうだろう。しかし、戦争と憎しみの鉄壁が倒れることは決してない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Sarkaz Wither Aegis",
     "ENDescription": "Elite guards of the Nachzehrer King's legions. The aegis of hatred and war is a role of ultimate protection and sacrifice.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "살카즈 부패의 불굴 호위병",
     "KRDescription": "나흐체러르 킹 군단의 최고 철벽 호위. 언젠가는 전장에서 쓰러지겠지만, 이 전쟁과 원한의 철벽은 결코 무너지지 않을 것이다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1424_lrboom",
@@ -114825,13 +114825,13 @@
     "CNAbilityList": [],
     "JPName": "ソウルボルテックス",
     "JPDescription": "レヴァナントの意志によって誕生した魂の欠片。数え切れないほどの激しい感情がこの中で織り交ざり、幾千万年も続く混沌とした記憶が凝縮されて有形の渦となった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Soul Maelstrom",
     "ENDescription": "Soul fragments born of a revenant's will. Innumerable emotions intertwine within—millennia of confused memories converging into a tangible maelstrom.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "영혼의 소용돌이",
     "KRDescription": "레버넌트의 의지로 탄생한 영혼의 파편. 무수한 극단적인 감정들이 뒤섞여 있으며, 오랜 세월의 혼란한 기억들이 뭉쳐 결국 소용돌이가 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1429_lrwzrd",
@@ -115692,13 +115692,13 @@
     "CNAbilityList": [],
     "JPName": "単核のプレデター",
     "JPDescription": "シンプルな構造のシーボーン。群れの中で養分の集積を担っていることは推測できる。その生命活動にはほとんどエネルギーを消費しないようだ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Unicellular Predator",
     "ENDescription": "A simple Seaborn believed to be responsible for foraging. It requires very little energy for its activities.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "단핵의 포식자",
     "KRDescription": "단순한 구조의 시본. 시본 군락의 채집자로 추정되며, 생명 활동에 에너지를 거의 소모하지 않는다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1433_dsbasi_2",
@@ -115755,13 +115755,13 @@
     "CNAbilityList": [],
     "JPName": "異光体プレデター",
     "JPDescription": "シンプルな構造だが栄養を蓄えた新世代のシーボーン。さらに効率よく養分を集積できる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Allotropic Predator",
     "ENDescription": "Simple but nourished, this new generation of Seaborn collects nutrients even more efficiently.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "이형의 포식자",
     "KRDescription": "단순한 구조지만 영양분을 공급받는 신생 시본. 높은 효율로 영양분을 채집한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1434_dsshel",
@@ -115977,7 +115977,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "공격이 추가로 <$ba.dt.neural>신경 손상</>을 입힘",
+        "text": "공격 시 추가로 <$ba.dt.neural>신경 손상</>을 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -116097,7 +116097,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "공격이 추가로 <$ba.dt.neural>신경 손상</>을 입힘",
+        "text": "공격 시 추가로 <$ba.dt.neural>신경 손상</>을 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -132091,7 +132091,7 @@
       }
     ],
     "KRName": "쉐이 형상",
-    "KRDescription": "쉐이수의 그림자. 심오하고 아득히 크다. 녀석이 마지못해 인간 세상을 쳐다보자 천 년이 지났다. 천 년이 하루 꿈 같이 가볍거늘, 그게 분노인지 원한인지 알 길이 없다.",
+    "KRDescription": "쉐이의 그림자. 심오하고 아득히 크다. 녀석이 마지못해 인간 세상을 쳐다보자 천 년이 지났다. 천 년이 하루 꿈 같이 가볍거늘, 그게 분노인지 원한인지 알 길이 없다.",
     "KRAbilityList": [
       {
         "text": "상단, 하단으로부터 받는 대미지 감소",
@@ -138969,13 +138969,13 @@
     "CNAbilityList": [],
     "JPName": "蜃気楼",
     "JPDescription": "-",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Mirage",
     "ENDescription": "-",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "신기루",
     "KRDescription": "-",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1538_ymmons_3",
@@ -139173,13 +139173,13 @@
     "CNAbilityList": [],
     "JPName": "妄境",
     "JPDescription": "-",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Delusion",
     "ENDescription": "-",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "망경",
     "KRDescription": "-",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1539_reid",
@@ -139410,13 +139410,13 @@
     "CNAbilityList": [],
     "JPName": "エブラナ",
     "JPDescription": "ダブリンのリーダー、偽りの仮面を焼き払ったドラコ。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Eblana",
     "ENDescription": "Leader of Dublinn, the Draco who burns through all facades.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "에블라나",
     "KRDescription": "더블린의 리더, 모든 밀정을 불태우는 드라코.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1541_wdslms",
@@ -139473,13 +139473,13 @@
     "CNAbilityList": [],
     "JPName": "「変形者」",
     "JPDescription": "サルカズ王庭を去った長命者。燃え盛る道に真っ向から立ち向かう。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "'Damazti Cluster'",
     "ENDescription": "The long-lived that wanders outside the Sarkaz Royal Court, facing the path of flame.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "'다마즈티'",
     "KRDescription": "살카즈 왕정과 동떨어진 장생자. 불꽃의 여정을 직면하게 된다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_1542_wdslm",
@@ -145572,7 +145572,7 @@
       }
     ],
     "KRName": "'수이'",
-    "KRDescription": "각성한 베헤모스의 마음에서 태어난 존재. 천 년이라는 세월 동안 어둠의 공포와 함께했기에, 쉐이의 대리인들은 외롭지 않았다. 계속 끝없는 혼돈을 기다려야 할까, 아니면 한 가닥의 통달을 찾아가야 할까?",
+    "KRDescription": "각성한 베헤모스의 마음에서 태어난 존재. 천 년이라는 세월 동안 어둠의 공포와 함께했기에, 쉐이 대리인들은 외롭지 않았다. 계속 끝없는 혼돈을 기다려야 할까, 아니면 한 가닥의 통달을 찾아가야 할까?",
     "KRAbilityList": [
       {
         "text": "혼돈",
@@ -153757,76 +153757,76 @@
         "textFormat": 0
       }
     ],
-    "JPName": "拟态机械",
-    "JPDescription": "PRTS将存储数据中罗德岛的熟悉之物变成了实体的威胁，绝对理性的机械不会理解何为恐惧。",
+    "JPName": "擬態機械",
+    "JPDescription": "PRTSが保存されているデータの中から、ロドスにとって馴染み深いものを、実体を伴う脅威へと変化させた。絶対的な理性を有する機械は恐れなど知らない。",
     "JPAbilityList": [
       {
-        "text": "【“重构”】<PRTS，“源代码”>未被击败时，<拟态机械>每次被击倒后都会复原，并且每次复原后攻击力会提升，最多提升5次",
-        "textFormat": 0
+        "text": "【「再構築」】<PRTS、「ソースコード」>の生存中、<擬態機械>は撃破されるたびに復元され、復元のたびに攻撃力が上昇する（最大5回まで）",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【限制写入】出场后封锁我方待部署区部署费用最高的4名干员一段时间。第一次复原后将获得强化，封锁更多功能",
-        "textFormat": 0
+        "text": "【書き込み保護】出現後、配置待機エリアの配置コストが高いオペレーター4名を封印し、一定時間配置不能にする。最初の復元後に効果が強化され、さらに多くの機能を封印するようになる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【重离子弹性反冲】选择距离自身最近的单位为目标，发射一枚光球向目标缓慢飞行，命中目标后造成法术溅射伤害；光球飞行时间越久，造成的伤害越低、溅射范围越小",
-        "textFormat": 0
+        "text": "【重イオン弾性反発】最も近い味方ユニットに向けてゆっくりと飛ぶ光の玉を1発発射し、対象に命中すると範囲術ダメージを与える。光の玉は飛行時間が長いほど与えるダメージが低下し、ダメージ発生範囲も縮小する",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【动态部署】被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，攻击范围扩大，攻击间隔缩短，并且同时攻击两个目标；<拟态机械>受到一定伤害后会被提前击落。第一次复原后将获得强化",
-        "textFormat": 0
+        "text": "【動的配置】一定時間<PRTS、「ソースコード」>に持ち上げられて<$ba.float>低空浮揚</>状態となり、攻撃範囲が拡大、攻撃間隔が短縮し、最大2体のユニットを同時に攻撃できるようになる。<擬態機械>に一定のダメージを与えると、効果時間終了前に撃墜できる。最初の復元後に効果が強化される",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【链式反应】第一次复原后可以释放；被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，选择场上所有处于中立或者被PRTS激活的弱化节点为目标发射一束光线，对光线路径上的单位造成伤害；<拟态机械>受到一定伤害后会被提前击落",
-        "textFormat": 0
+        "text": "【連鎖反応】最初の復元後に発動するようになる。<PRTS、「ソースコード」>に持ち上げられて<$ba.float>低空浮揚</>状態となり、戦場にある全ての中立、およびPRTSが起動した<弱体化ノード>へ向けてレーザーを発射し、経路上の味方ユニットにダメージを与える。<擬態機械>に一定のダメージを与えると、効果時間終了前に撃墜できる",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "拟态机械",
-    "ENDescription": "PRTS将存储数据中罗德岛的熟悉之物变成了实体的威胁，绝对理性的机械不会理解何为恐惧。",
+    "ENName": "Mimic Machine",
+    "ENDescription": "PRTS has transformed familiar objects on Rhodes Island into material threats. These machines do not know fear.",
     "ENAbilityList": [
       {
-        "text": "【“重构”】<PRTS，“源代码”>未被击败时，<拟态机械>每次被击倒后都会复原，并且每次复原后攻击力会提升，最多提升5次",
-        "textFormat": 0
+        "text": "['Rebuild'] Until <PRTS, Source Code> is defeated, <Mimic Machine> recovers whenever it is defeated, increasing its ATK with each recovery, maxing out after 5 increases",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【限制写入】出场后封锁我方待部署区部署费用最高的4名干员一段时间。第一次复原后将获得强化，封锁更多功能",
-        "textFormat": 0
+        "text": "[Write Restriction] Temporarily disables the 4 Operators with the highest DP in your Deployment Waiting Zone when it enters the battlefield; Becomes stronger after the first recovery, disabling more functions",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【重离子弹性反冲】选择距离自身最近的单位为目标，发射一枚光球向目标缓慢飞行，命中目标后造成法术溅射伤害；光球飞行时间越久，造成的伤害越低、溅射范围越小",
-        "textFormat": 0
+        "text": "[Heavy Ion Elastic Recoil] Fires a slow-moving orb towards the nearest unit, dealing Arts splash damage when it hits; The further the orb moves, the less damage it deals, and the smaller the splash area",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【动态部署】被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，攻击范围扩大，攻击间隔缩短，并且同时攻击两个目标；<拟态机械>受到一定伤害后会被提前击落。第一次复原后将获得强化",
-        "textFormat": 0
+        "text": "[Dynamic Deployment] When grabbed by <PRTS, Source Code>, gains <$ba.float>Low-Altitude Hovering</>, Attack Range expands, Attack Interval shortens, and attacks 2 targets simultaneously; <Mimic Machine> can be shot down earlier by dealing a certain amount of damage; Becomes stronger after the first recovery",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【链式反应】第一次复原后可以释放；被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，选择场上所有处于中立或者被PRTS激活的弱化节点为目标发射一束光线，对光线路径上的单位造成伤害；<拟态机械>受到一定伤害后会被提前击落",
-        "textFormat": 0
+        "text": "[Chain Reaction] Can be cast after the first recovery; When grabbed by <PRTS, Source Code>, gains <$ba.float>Low-Altitude Hovering</>, and fires a beam at all neutral or PRTS-activated Weakening Nodes, dealing damage to units in its path; <Mimic Machine> can be shot down earlier by dealing a certain amount of damage",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "拟态机械",
-    "KRDescription": "PRTS将存储数据中罗德岛的熟悉之物变成了实体的威胁，绝对理性的机械不会理解何为恐惧。",
+    "KRName": "의태 기계",
+    "KRDescription": "PRTS는 데이터 스토리지 속에서 로도스 아일랜드에게 익숙한 것을 찾았고, 실체화된 위협으로 변화시켰다. 절대적 이성을 가진 이 기계는 두려움이 무엇인지 이해하지 못한다.",
     "KRAbilityList": [
       {
-        "text": "【“重构”】<PRTS，“源代码”>未被击败时，<拟态机械>每次被击倒后都会复原，并且每次复原后攻击力会提升，最多提升5次",
-        "textFormat": 0
+        "text": "['재구성'] <PRTS, '소스코드'>가 처치되지 않으면 <의태 기계>는 처치당할 때마다 복구, 복구 후 공격력 증가, 최대 5회",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【限制写入】出场后封锁我方待部署区部署费用最高的4名干员一段时间。第一次复原后将获得强化，封锁更多功能",
-        "textFormat": 0
+        "text": "[입력 제한] 등장 후 일정 시간 동안 아군의 배치 구역 내 배치 코스트가 가장 높은 오퍼레이터 4명을 봉인, 1차 복구 후 강화되어 더 많은 오퍼레이터를 봉인",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【重离子弹性反冲】选择距离自身最近的单位为目标，发射一枚光球向目标缓慢飞行，命中目标后造成法术溅射伤害；光球飞行时间越久，造成的伤害越低、溅射范围越小",
-        "textFormat": 0
+        "text": "[중이온 탄성 반동] 가장 가까운 유닛을 목표로 지정하고, 서서히 비행하는 빛의 구체 발사. 목표에 명중하면 스플래시 마법 대미지를 입힘, 빛의 구체가 비행하는 시간이 길어질수록 입히는 대미지와 스플래시 범위 감소",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【动态部署】被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，攻击范围扩大，攻击间隔缩短，并且同时攻击两个目标；<拟态机械>受到一定伤害后会被提前击落。第一次复原后将获得强化",
-        "textFormat": 0
+        "text": "[유동적 배치] <PRTS, '소스코드'>에게 잡혀 <$ba.float>공중 부양</> 상태로 전환, 공격 범위 확대, 공격 딜레이 감소, 동시에 목표 2개 공격, <의태 기계>는 일정한 대미지를 받으면 조기 격추됨, 1차 복구 후 강화",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【链式反应】第一次复原后可以释放；被<PRTS，“源代码”>抓取转化为<$ba.float>近地悬浮</>，选择场上所有处于中立或者被PRTS激活的弱化节点为目标发射一束光线，对光线路径上的单位造成伤害；<拟态机械>受到一定伤害后会被提前击落",
-        "textFormat": 0
+        "text": "[연쇄 반응] 1차 복구 후 발동 가능, <PRTS, '소스코드'>에게 잡혀 <$ba.float>공중 부양</> 상태로 전환, 전장의 모든 중립 또는 PRTS가 활성화한 약화 패널을 목표로 광선 발사, 광선의 이동 경로에 있는 유닛에게 대미지를 입힘, <의태 기계>는 일정한 대미지를 받으면 조기 격추됨",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -153912,28 +153912,28 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“阿斯卡纶”",
-    "JPDescription": "“弑君之刀剑，诛王之枪矛”？不，你只是我记忆中那个她。",
+    "JPName": "「アスカロン」",
+    "JPDescription": "「君主弑す剣、王を誅す矛」？いいや、お前は記憶の中の彼女に過ぎぬ。",
     "JPAbilityList": [
       {
-        "text": "【降临】短暂吟唱后释放源石技艺，自身隐藏于魔烟中对敌人发动多次攻击",
-        "textFormat": 0
+        "text": "【降臨】短い詠唱の後アーツを発動し、煙の中に身を隠して複数回攻撃を仕掛ける",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“阿斯卡纶”",
-    "ENDescription": "“弑君之刀剑，诛王之枪矛”？不，你只是我记忆中那个她。",
+    "ENName": "'Ascalon'",
+    "ENDescription": "'A sword to slay the regent king, a spear to pierce the royal ring'? No, you're just the one from my memories.",
     "ENAbilityList": [
       {
-        "text": "【降临】短暂吟唱后释放源石技艺，自身隐藏于魔烟中对敌人发动多次攻击",
-        "textFormat": 0
+        "text": "[Descent] After chanting for a short time, casts Originium Arts to hide herself in smoke while performing multiple attacks",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“阿斯卡纶”",
-    "KRDescription": "“弑君之刀剑，诛王之枪矛”？不，你只是我记忆中那个她。",
+    "KRName": "'아스카론'",
+    "KRDescription": "“군주를 시해하는 칼? 왕을 죽이는 창?” 아니, 너는 내 기억 속의 그 여자에 불과하다.",
     "KRAbilityList": [
       {
-        "text": "【降临】短暂吟唱后释放源石技艺，自身隐藏于魔烟中对敌人发动多次攻击",
-        "textFormat": 0
+        "text": "[강림] 짧은 시간 영창 후 오리지늄 아츠 시전, 자신은 연기 속에 숨어 적을 여러 번 공격",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -154253,100 +154253,100 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“圣徒”",
-    "JPDescription": "拉特兰最初的圣徒。曾经，还是提卡兹的它与“律法”相遇，“萨科塔”自此始，拉特兰自此始。",
+    "JPName": "「聖徒」",
+    "JPDescription": "ラテラーノの最初の聖徒。かつて、まだティカズであったそれは「法」に出会い、そこから「サンクタ」とラテラーノが始まった。",
     "JPAbilityList": [
       {
-        "text": "第一形态",
-        "textFormat": 1
+        "text": "第一形態",
+        "textFormat": "TITLE"
       },
       {
-        "text": "拥有较高的防御力",
-        "textFormat": 0
+        "text": "防御力が比較的高い",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成近战物理伤害",
-        "textFormat": 0
+        "text": "近接物理攻撃のみを行う",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
-        "textFormat": 1
+        "text": "第二形態",
+        "textFormat": "TITLE"
       },
       {
-        "text": "攻击造成3次法术伤害，优先攻击不同的目标",
-        "textFormat": 0
+        "text": "異なる対象を優先して狙う3連撃の術攻撃を行う",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【启圣仪式】锁定身边人数最多的我方单位，每秒造成真实伤害，持续一定时间",
-        "textFormat": 0
+        "text": "【啓聖の儀式】：周囲に味方が最も多い味方ユニットに狙いを定め、一定時間1秒ごとに確定ダメージを与え続ける",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【寻根圣事】能以第二形态重新返回战场，自身在地面和飞行状态间切换，属性、攻击和技能获得强化，并开拓更大的战场区域",
-        "textFormat": 0
+        "text": "【根源を辿る儀式】：第二形態で戦場に戻り、地上形態と飛行形態を切り替える。ステータス、通常攻撃、スキルが強化され、より広い戦場エリアを切り開く",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“圣徒”",
-    "ENDescription": "拉特兰最初的圣徒。曾经，还是提卡兹的它与“律法”相遇，“萨科塔”自此始，拉特兰自此始。",
+    "ENName": "'Saint'",
+    "ENDescription": "The First Saint of Laterano. It encountered the Law when it was still Teekaz, and thus Laterano and the Sankta began.",
     "ENAbilityList": [
       {
-        "text": "第一形态",
-        "textFormat": 1
+        "text": "First Form",
+        "textFormat": "TITLE"
       },
       {
-        "text": "拥有较高的防御力",
-        "textFormat": 0
+        "text": "High DEF",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成近战物理伤害",
-        "textFormat": 0
+        "text": "Attacks inflict melee Physical damage",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
-        "textFormat": 1
+        "text": "Second Form",
+        "textFormat": "TITLE"
       },
       {
-        "text": "攻击造成3次法术伤害，优先攻击不同的目标",
-        "textFormat": 0
+        "text": "Attacks deal Arts damage 3 times, prioritizing different targets",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【启圣仪式】锁定身边人数最多的我方单位，每秒造成真实伤害，持续一定时间",
-        "textFormat": 0
+        "text": "[Ceremony of Enlightenment] Locks onto your unit with the most nearby units, dealing True damage every second for a period of time",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【寻根圣事】能以第二形态重新返回战场，自身在地面和飞行状态间切换，属性、攻击和技能获得强化，并开拓更大的战场区域",
-        "textFormat": 0
+        "text": "[Sacrament of Genesis] Returns to the battlefield in its second form, switching between ground and aerial states; stats, ATK, and skills are boosted, and the battlefield is expanded",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“圣徒”",
-    "KRDescription": "拉特兰最初的圣徒。曾经，还是提卡兹的它与“律法”相遇，“萨科塔”自此始，拉特兰自此始。",
+    "KRName": "'성도'",
+    "KRDescription": "라테라노 최초의 성도. 한때 티카즈였던 이것은 '율법'과 조우했고, 그때부터 '산크타'가 시작되었으며, 그때부터 '라테라노'가 시작되었다.",
     "KRAbilityList": [
       {
-        "text": "第一形态",
-        "textFormat": 1
+        "text": "제1형태",
+        "textFormat": "TITLE"
       },
       {
-        "text": "拥有较高的防御力",
-        "textFormat": 0
+        "text": "방어력이 비교적 높음",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成近战物理伤害",
-        "textFormat": 0
+        "text": "공격 시 근거리 물리 대미지를 입힘",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
-        "textFormat": 1
+        "text": "제2형태",
+        "textFormat": "TITLE"
       },
       {
-        "text": "攻击造成3次法术伤害，优先攻击不同的目标",
-        "textFormat": 0
+        "text": "공격 시 마법 대미지를 3회 입히며, 다른 목표를 우선 공격",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【启圣仪式】锁定身边人数最多的我方单位，每秒造成真实伤害，持续一定时间",
-        "textFormat": 0
+        "text": "[계성 의식] 주변에 인원수가 가장 많은 아군 유닛을 지정해 초당 트루 대미지를 입힘, 일정 시간 지속",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【寻根圣事】能以第二形态重新返回战场，自身在地面和飞行状态间切换，属性、攻击和技能获得强化，并开拓更大的战场区域",
-        "textFormat": 0
+        "text": "[근원 탐구 성사] 제2형태로 전장에 복귀, 지상 및 비행 상태를 전환하여 자신의 스탯, 공격, 스킬 강화, 전장을 더 넓게 개척함",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -158949,13 +158949,13 @@
     "CNAbilityList": [],
     "JPName": "ゴプニク",
     "JPDescription": "ダック卿が雇っているウルサス人の護衛。怪力だが、頭は回らない。主な仕事はダック卿のカバン持ち。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Gopnik",
     "ENDescription": "The Ursus security guard hired by Duck Lord. Powerful, but not very smart. Mainly responsible for carrying luggage for Duck Lord.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "고프닉",
     "KRDescription": "덕로드가 고용한 우르수스 경비. 힘은 장사지만 머리가 둔하다. 주로 덕로드의 짐꾼 노릇을 한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2003_rockman",
@@ -163317,13 +163317,13 @@
     "CNAbilityList": [],
     "JPName": "宝箱形恐魚",
     "JPDescription": "宝箱の姿に擬態した恐魚。深海の司祭が、避難所の防衛のためによく使用する。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Chest Seaborn",
     "ENDescription": "Sea Terror disguised as a treasure chest, often used by Bishops of the Deep to protect hideouts.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "상자 시테러",
     "KRDescription": "보물 상자 모양을 한 시테러. 심해 주교가 대피소를 지킬 때 자주 사용한다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2036_syshop",
@@ -164969,13 +164969,13 @@
     "CNAbilityList": [],
     "JPName": "凍裂の戦士",
     "JPDescription": "かつては樹痕部族の栄誉ある戦士だったが、今や長ともども悪魔の先駆けと成り果てた。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Shattered Champion",
     "ENDescription": "Once an honorable warrior of the Treescar tribe, now a part of the demons' vanguard, together with their fallen chief.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "목열의 전사",
     "KRDescription": "한때는 나무 상처 부족의 명예로운 전사였으나, 지금은 그의 리더와 함께 데몬의 척후로 전락했다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2047_smtree",
@@ -165032,13 +165032,13 @@
     "CNAbilityList": [],
     "JPName": "積雪の銀樹",
     "JPDescription": "-",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Silvernwhite Bulwark",
     "ENDescription": "-",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "은백의 적설",
     "KRDescription": "-",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2048_smgrd",
@@ -167010,13 +167010,13 @@
     "CNAbilityList": [],
     "JPName": "巨殻のツル",
     "JPDescription": "荒野に捨てられたケースに種が落ち、ほどなくしてそこから芽吹いた狩猟者。好奇心を上手く利用して獲物を狩る。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Testaceous Vinecreeps",
     "ENDescription": "A seed falls into a box abandoned in the wild, and soon becomes a hunter preying on curiosity.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "상자 넝쿨",
     "KRDescription": "황야에 버려진 상자에 씨앗 하나가 떨어졌고, 얼마 지나지 않아 상자는 호기심을 이용해 포식하는 사냥꾼이 되었다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2060_smshdw",
@@ -167073,13 +167073,13 @@
     "CNAbilityList": [],
     "JPName": "ハガンの影",
     "JPDescription": "ハガンの悪夢に囚われた魂は自ら武器を掲げ、その永遠の支配者と共に地の果てまでも戦い続ける。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Khaganshadow",
     "ENDescription": "A soul trapped in the Khagan Nightzmora, which will raise its weapon and follow its eternal general to the ends of the land.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "카간섀도우",
     "KRDescription": "카간의 악몽에 갇힌 영혼. 스스로 무기를 들 줄 알며, 자신과 영원한 세월을 보낸 지도자와 함께 대지 끝까지 싸운다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2061_smhond",
@@ -167136,13 +167136,13 @@
     "CNAbilityList": [],
     "JPName": "王の友",
     "JPDescription": "プライドの高い獣眷は、古よりサルゴン王室と親密な関係にあり、君主を守るべく自ら進んでそばに付き添う個体も現れるようになった。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Royal Companion",
     "ENDescription": "The proud beastkin have long had close ties to Sargon royalty, some even choosing to serve by a king's side as guardian.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "로열 컴패니언",
     "KRDescription": "자존심 강한 비스트 스튜어드는 사르곤 황실과 밀접한 관계를 맺고 있으며, 일부는 자원하여 왕의 곁에 머물면서 왕을 지키고 있다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2062_smcar",
@@ -178059,13 +178059,13 @@
     "CNAbilityList": [],
     "JPName": "EYESOFPRIESTESS",
     "JPDescription": "CONGRATULATIONS ON FINDING ME.",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "EYESOFPRIESTESS",
     "ENDescription": "CONGRATULATIONS ON FINDING ME.",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "EYESOFPRIESTESS",
     "KRDescription": "CONGRATULATIONS ON FINDING ME.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_3010_mcreep",
@@ -182792,7 +182792,7 @@
       }
     ],
     "KRName": "RMA70 가시 공",
-    "KRDescription": "다채로운 경기 경험을 위해 RMA70 계열 광물을 본떠 만든 축구공. 가시가 많긴 해도 의외로 사람을 찌르진 않는다. 이 공을 차 본 선수는 “정말 인터렉티브한 공이다”라고 평가했다.",
+    "KRDescription": "다채로운 경기 경험을 위해 RMA70 계열 광물을 본떠 만든 축구공. 가시가 많긴 해도 의외로 사람을 찌르진 않는다. 이 공을 차 본 선수는 “정말 인터랙티브한 공이다”라고 평가했다.",
     "KRAbilityList": [
       {
         "text": "표준 사양의 축구공",
@@ -195737,13 +195737,13 @@
     "CNAbilityList": [],
     "JPName": "蛍殻オリジムシ",
     "JPDescription": "原生の貝類軟体オリジムシ。繁殖力が極めて高く、殻の蛍光物質は目に見えるフェロモンである。殻を脱いだ後は、短時間の間に急激に体が大きくなる。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Fluorescent Originium Slug",
     "ENDescription": "A native, soft-shelled Originium slug. It has enormous reproductive capacity, and the fluorescence on its shell is a visible pheromone. After molting, it will grow drastically in size over a short period of time",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "형광 원석충",
     "KRDescription": "껍데기를 지닌 연체 원석충. 번식 능력이 매우 강하며, 껍데기에서 나는 형광은 가시성 페로몬이다. 껍데기를 벗으면 몸집이 급속도로 부풀어진다.",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_6009_nlkgtbs",
@@ -196274,13 +196274,13 @@
     "CNAbilityList": [],
     "JPName": "小型共生体",
     "JPDescription": "「自然の妥協」と共に出現した共生体。これが果たして生物学上の子孫にあたるものなのか、あるいは花粉に触れて同化したオリジムシかは不明だが、あるいはその両方かもしれない。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "Small Symbiont",
     "ENDescription": "A symbiont that appears alongside 'Nature's Compromise.' It is difficult to distinguish whether they are biological descendants or Originium Slugs contaminated and assimilated by the pollen. Perhaps a combination of both?",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "소형 공생체",
     "KRDescription": "'자연의 타협'과 함께 나타난 공생체. 어떤 생물학적인 후손인지, 아니면 그저 꽃가루에 감염되어 동화된 원석충인지는 알 수 없다. 어쩌면 둘 다일지도?",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_6013_smith",
@@ -199161,88 +199161,88 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“晨音”",
-    "JPDescription": "化为器伥的编钟。其主人生前是一名乐师，去世前委托杜小姐将编钟送给自己的朋友。被盗走后，偶然受到岁相影响化作器伥。不知主人已死，想要回到主人身边而四处徘徊，摇摇晃晃发出的声响令人神伤。",
+    "JPName": "「晨音」",
+    "JPDescription": "器鬼と化した編鐘「晨音（シンオン）」。生前音楽家だった持ち主は、亡くなる前に友人に編鐘を届けるようドゥ・ヤオイェに依頼していた。しかし編鐘は盗まれてしまい、その後偶然にも歳相の影響を受けて器鬼と化した。主が亡くなったことも知らず、主の元へ帰ろうとさまよい続けており、ふらふらと胸を締め付けられるような音色を発している。",
     "JPAbilityList": [
       {
-        "text": "初始形态",
-        "textFormat": 1
+        "text": "初期形態",
+        "textFormat": "TITLE"
       },
       {
-        "text": "每损失一定比例生命值，选择一名我方干员向其投掷<“木衣”>，<“木衣”>存在时该干员始终眩晕",
-        "textFormat": 0
+        "text": "HPを一定割合失うたびに、オペレーター1体に<「木衣」>を投げつけ、それが撃破されるまで対象をスタン状態にする",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "复活形态",
-        "textFormat": 1
+        "text": "復活形態",
+        "textFormat": "TITLE"
       },
       {
-        "text": "生命值降为0后保持无敌并分裂出大量<“鸣啭”>，场上不存在<“鸣啭”>时【复活形态】结束",
-        "textFormat": 0
+        "text": "HPが0になると無敵状態になり、大量の<「鳴囀」>を生成する。戦場に<「鳴囀」>がいなくなると、【復活形態】が終了する",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【复活形态】结束时“晨音”生命值不为0则回到初始形态",
-        "textFormat": 0
+        "text": "【復活形態】終了時に<「晨音」>のHPが0でなかった場合、初期形態に戻る",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "从【复活形态】回到初始形态后攻击力提升",
-        "textFormat": 0
+        "text": "【復活形態】から初期形態に戻った時、攻撃力が上昇する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“晨音”",
-    "ENDescription": "化为器伥的编钟。其主人生前是一名乐师，去世前委托杜小姐将编钟送给自己的朋友。被盗走后，偶然受到岁相影响化作器伥。不知主人已死，想要回到主人身边而四处徘徊，摇摇晃晃发出的声响令人神伤。",
+    "ENName": "'Aubade'",
+    "ENDescription": "A set of chime bells that turned into a Waregeist. Its previous owner was a musician whose deathbed request was for Miss Du to deliver it to a friend. After it was stolen, it was transformed into a Waregeist by the influence of Sui-Xiang. It makes a poignant sound as it wanders about trying to return to its master, not knowing that its master has already passed away.",
     "ENAbilityList": [
       {
-        "text": "初始形态",
-        "textFormat": 1
+        "text": "Initial Form",
+        "textFormat": "TITLE"
       },
       {
-        "text": "每损失一定比例生命值，选择一名我方干员向其投掷<“木衣”>，<“木衣”>存在时该干员始终眩晕",
-        "textFormat": 0
+        "text": "Throws <'Woodthreads'> at one of your Operators after losing a percentage of HP; the Operator is Stunned while <'Woodthreads'> is on the battlefield",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "复活形态",
-        "textFormat": 1
+        "text": "Reborn Form",
+        "textFormat": "TITLE"
       },
       {
-        "text": "生命值降为0后保持无敌并分裂出大量<“鸣啭”>，场上不存在<“鸣啭”>时【复活形态】结束",
-        "textFormat": 0
+        "text": "When HP is reduced to 0, remains Invulnerable and splits into a large number of <'Twitter'>; [Reborn Form] expires when there are no <'Twitter'> on the battlefield",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【复活形态】结束时“晨音”生命值不为0则回到初始形态",
-        "textFormat": 0
+        "text": "Returns to initial form if 'Aubade' HP is not at 0 when [Reborn Form] expires",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "从【复活形态】回到初始形态后攻击力提升",
-        "textFormat": 0
+        "text": "ATK increases when returning from [Reborn Form] to initial form",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“晨音”",
-    "KRDescription": "化为器伥的编钟。其主人生前是一名乐师，去世前委托杜小姐将编钟送给自己的朋友。被盗走后，偶然受到岁相影响化作器伥。不知主人已死，想要回到主人身边而四处徘徊，摇摇晃晃发出的声响令人神伤。",
+    "KRName": "'아침 소리'",
+    "KRDescription": "치창이 된 편종, 본래 주인은 생전에 악사였던 사람이다. 죽기 전 두요야에게 편종을 자신의 친구에게 전해달라고 부탁했지만, 편종은 도난당했고, 우연히 쉐이 형상의 영향을 받아 치창이 되어버렸다. 주인이 죽었다는 사실을 모른 채, 돌아가기 위해 도처를 배회하면서 내는 소리는, 듣는 이를 슬프게 만든다.",
     "KRAbilityList": [
       {
-        "text": "初始形态",
-        "textFormat": 1
+        "text": "초기 형태",
+        "textFormat": "TITLE"
       },
       {
-        "text": "每损失一定比例生命值，选择一名我方干员向其投掷<“木衣”>，<“木衣”>存在时该干员始终眩晕",
-        "textFormat": 0
+        "text": "HP가 일정량 감소할 때마다, 아군 오퍼레이터 1명에게 <'나무 옷'> 투척, <'나무 옷'>이 존재할 시 해당 오퍼레이터는 계속해서 기절",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "复活形态",
-        "textFormat": 1
+        "text": "부활 형태",
+        "textFormat": "TITLE"
       },
       {
-        "text": "生命值降为0后保持无敌并分裂出大量<“鸣啭”>，场上不存在<“鸣啭”>时【复活形态】结束",
-        "textFormat": 0
+        "text": "HP가 0이 되면 무적 상태를 유지하며 대량의 <'지저귐'> 분열, 전장에 <'지저귐'>이 없을 시 [부활 형태] 종료",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "【复活形态】结束时“晨音”生命值不为0则回到初始形态",
-        "textFormat": 0
+        "text": "[부활 형태] 종료 시 '아침 소리'의 HP가 0이 아닐 경우, 초기 형태로 돌아감",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "从【复活形态】回到初始形态后攻击力提升",
-        "textFormat": 0
+        "text": "[부활 형태]에서 초기 형태로 돌아간 후 공격력 증가",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -199325,64 +199325,64 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“鸣啭”",
-    "JPDescription": "“晨音”钟体的碎片，如同初生的幼兽一般懵懵懂懂，渴望回到自己的“母亲”身边。",
+    "JPName": "「鳴囀」",
+    "JPDescription": "「晨音」の鐘身の破片「鳴囀（メイテン）」。生まれたての幼獣のようにまだ何も知らず、「母親」の元へ帰りたいと強く願っている。",
     "JPAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": 0
+        "text": "ブロック不可",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要25次伤害击倒",
-        "textFormat": 0
+        "text": "25回ダメージを受けると撃破される",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "与<“晨音”>接触后，消失并恢复<“晨音”>一定生命值",
-        "textFormat": 0
+        "text": "<「晨音」>と接触すると消滅し、<「晨音」>のHPを一定値回復させる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "被击倒后，<“晨音”>可以分裂的<“鸣啭”>数量减少",
-        "textFormat": 0
+        "text": "撃破されると、<「晨音」>が生成できる<「鳴囀」>の数が減少する",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“鸣啭”",
-    "ENDescription": "“晨音”钟体的碎片，如同初生的幼兽一般懵懵懂懂，渴望回到自己的“母亲”身边。",
+    "ENName": "'Twitter'",
+    "ENDescription": "A fragment of the body of 'Aubade'. Its mind is hazy like that of a newborn foal, yearning to return to its 'mother'.",
     "ENAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": 0
+        "text": "Cannot be blocked.",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要25次伤害击倒",
-        "textFormat": 0
+        "text": "Must be damaged 25 times to defeat",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "与<“晨音”>接触后，消失并恢复<“晨音”>一定生命值",
-        "textFormat": 0
+        "text": "After coming into contact with <'Aubade'>, disappears and restores the HP of <'Aubade'> by a certain amount",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "被击倒后，<“晨音”>可以分裂的<“鸣啭”>数量减少",
-        "textFormat": 0
+        "text": "When defeated, reduces the number of <'Twitter'> that <'Aubade'> can split into",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“鸣啭”",
-    "KRDescription": "“晨音”钟体的碎片，如同初生的幼兽一般懵懵懂懂，渴望回到自己的“母亲”身边。",
+    "KRName": "'지저귐'",
+    "KRDescription": "'아침 소리' 종의 파편, 갓 태어난 새끼 비스트처럼 멍하니 있다. 자신의 '어머니' 곁으로 돌아가길 갈망한다.",
     "KRAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": 0
+        "text": "저지 불가",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要25次伤害击倒",
-        "textFormat": 0
+        "text": "25회 피격 시 쓰러진다",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "与<“晨音”>接触后，消失并恢复<“晨音”>一定生命值",
-        "textFormat": 0
+        "text": "<'아침 소리'>와 접촉할 시 소멸, 동시에 <'아침 소리'>의 HP를 일정량 회복",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "被击倒后，<“晨音”>可以分裂的<“鸣啭”>数量减少",
-        "textFormat": 0
+        "text": "처치 시 <'아침 소리'>가 분열하는 <'지저귐'> 수량 감소",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -199453,40 +199453,40 @@
         "textFormat": 0
       }
     ],
-    "JPName": "“木衣”",
-    "JPDescription": "“晨音”底座的碎片，如同羽毛一般飘飘荡荡，将阻碍“鸣啭”的敌人纷纷挡住。",
+    "JPName": "「木衣」",
+    "JPDescription": "「晨音」の台座の破片「木衣（モクイ）」。羽毛のようにふわふわと漂い、「鳴囀」の行く手を阻む敵にまとわりつく。",
     "JPAbilityList": [
       {
-        "text": "更容易受到攻击，在场时使目标干员始终<$ba.stun>晕眩</>；被击倒后提供10调用凭证",
-        "textFormat": 0
+        "text": "味方ユニットから狙われやすい。撃破されるまで、滞在マスの味方ユニットを<$ba.stun>スタン</>させ続ける。撃破すると召集票を10枚獲得できる",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要30次伤害击倒",
-        "textFormat": 0
+        "text": "30回ダメージを受けると撃破される",
+        "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“木衣”",
-    "ENDescription": "“晨音”底座的碎片，如同羽毛一般飘飘荡荡，将阻碍“鸣啭”的敌人纷纷挡住。",
+    "ENName": "'Woodthreads'",
+    "ENDescription": "A fragment of the pedestal of 'Aubade'. It drifts like feathers, repelling enemies that attempt to obstruct 'Twitter'.",
     "ENAbilityList": [
       {
-        "text": "更容易受到攻击，在场时使目标干员始终<$ba.stun>晕眩</>；被击倒后提供10调用凭证",
-        "textFormat": 0
+        "text": "More likely to be attacked, and causes the target Operator to be <$ba.stun>Stunned</> while on the battlefield; provides 10 Transfer Permits when defeated",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要30次伤害击倒",
-        "textFormat": 0
+        "text": "Must be damaged 30 times to defeat",
+        "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“木衣”",
-    "KRDescription": "“晨音”底座的碎片，如同羽毛一般飘飘荡荡，将阻碍“鸣啭”的敌人纷纷挡住。",
+    "KRName": "'나무 옷'",
+    "KRDescription": "'아침 소리' 받침대의 파편, 깃털처럼 흩날리며 '지저귐'을 방해하는 적을 쉴 새 없이 막아낸다.",
     "KRAbilityList": [
       {
-        "text": "更容易受到攻击，在场时使目标干员始终<$ba.stun>晕眩</>；被击倒后提供10调用凭证",
-        "textFormat": 0
+        "text": "더 쉽게 피격됨, 전장에 있을 시 목표 오퍼레이터를 계속해서 <$ba.stun>기절</>시킴, 처치 시 호출 증표 10 획득",
+        "textFormat": "NORMAL"
       },
       {
-        "text": "需要30次伤害击倒",
-        "textFormat": 0
+        "text": "30회 피격 시 쓰러진다",
+        "textFormat": "NORMAL"
       }
     ]
   },

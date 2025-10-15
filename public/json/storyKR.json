@@ -10801,7 +10801,7 @@
               "name": "마음을 가다듬고",
               "description": "앞으로 살카즈는 전쟁으로 모든 것을 벌할 것이다. 우리는 충분히 강하니까.\n<@lv.item><연결 지형></> 초기에 오퍼레이터 배치 불가, 주변에 있는 오퍼레이터의 도움 필요",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>제한 조건:</>\n적의 이동 속도 증가"
+              "challenge": "<@lv.fs>제한 조건:</>\n적의 이동 속도 상승"
             },
             {
               "id": "BB-EX-3",
@@ -10937,7 +10937,7 @@
               "name": "암살 시뮬레이션 작전 - 2",
               "description": "맵 시스템 접속, 테스트용 전투 환경 로딩 중……\n<@lv.item><연결 지형></> 초기에 오퍼레이터 배치 불가, 주변에 있는 오퍼레이터의 도움 필요\n<@lv.rem>추가 조건:</> 요마, 일개미 리더의 HP 대폭 증가",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>제한 조건:</>\n전장 내 6개 위치에 아군 유닛 배치 불가"
+              "challenge": "<@lv.fs>제한 조건:</>\n스테이지 내 6개 위치에 아군 유닛 배치 불가"
             },
             {
               "id": "BB-S-3",
@@ -10971,7 +10971,7 @@
               "name": "암살 시뮬레이션 작전 - 4",
               "description": "시뮬레이션 작전 훈련 재구성 완료. 이번에는 성안에서 자객을 막는다.\n<@lv.item><연결 지형></> 초기에 오퍼레이터 배치 불가, 주변에 있는 오퍼레이터의 도움 필요\n<@lv.item><주술 발리스타></> 주기적으로 주술탄을 발사하여 아군 유닛에 마법 대미지를 입히고 적군 유닛 치료, 파괴 가능\n<@lv.rem>추가 조건:</>모든 적의 이동 속도 증가",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>제한 조건:</>\n전장 내 5개 위치에 아군 유닛 배치 불가"
+              "challenge": "<@lv.fs>제한 조건: </>\n전장 내 5개 위치에 아군 유닛 배치 불가"
             },
             {
               "id": "BB-MO-1",
@@ -11900,7 +11900,6 @@
               "operation": "VEC-03",
               "levelId": "activities/act1vecb/level_act1vecb_03",
               "name": "중압",
-              "description": null,
               "hasChallenge": false
             },
             {
@@ -13456,316 +13455,316 @@
         },
         {
           "id": "act42side",
-          "episode": "众生行记",
+          "episode": "중생의 여정",
           "childNodes": [
             {
               "id": "MT-1",
               "operation": "MT-1",
               "levelId": "activities/act42side/level_act42side_01",
-              "name": "圣秩",
-              "description": "当此前被无视的主张突然得到响应，你会感喟理想终于实现，还是一切如此......不真实？",
+              "name": "질서",
+              "description": "그동안 외면받았던 목소리가 갑자기 응답받았을 때, 마침내 꿈이 이뤄졌음을 기뻐할 것인가, 아니면 이 모든 것이…… 비현실적이라고 할 것인가?",
               "hasChallenge": false
             },
             {
               "id": "MT-TR-1",
               "operation": "MT-TR-1",
               "levelId": "activities/act42side/level_act42side_tr01",
-              "name": "圣城的异常",
-              "description": "若你习惯圣城永远洁白，又怎能发现天空投影在其中的变化？\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "신성한 도시의 이변",
+              "description": "신성한 도시가 언제나 결백하다고 믿는다면, 하늘의 변화를 어찌 알아차릴 수 있겠는가?\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": false
             },
             {
               "id": "MT-2",
               "operation": "MT-2",
               "levelId": "activities/act42side/level_act42side_02",
-              "name": "祈祷",
-              "description": "当所有人都笃信最极端的梦境也能被塑造为现实，奇迹便可降临大地。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "기도",
+              "description": "모두가 가장 극단적인 꿈도 현실이 될 수 있다고 믿는다면, 기적은 이 땅에 내려올 수 있을 것이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": false
             },
             {
               "id": "MT-3",
               "operation": "MT-3",
               "levelId": "activities/act42side/level_act42side_03",
-              "name": "礼拜",
-              "description": "梦改变了我们的日常，也将辨识它的线索藏于其中。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "미사",
+              "description": "꿈은 우리의 일상을 바꿔놓았고, 동시에 식별할 수 있는 단서를 그 안에 숨겨두었다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": false
             },
             {
               "id": "MT-4",
               "operation": "MT-4",
               "levelId": "activities/act42side/level_act42side_04",
-              "name": "求道",
-              "description": "寻路之人遗忘了来路，却仍坚信他此刻所站立的地方，是应当抵达的终点。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "가르침",
+              "description": "길을 찾는 자는 자신이 걸어온 길을 잊었음에도 지금 서 있는 곳이 목적지라고 굳게 믿는다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": false
             },
             {
               "id": "MT-5",
               "operation": "MT-5",
               "levelId": "activities/act42side/level_act42side_05",
-              "name": "共融",
-              "description": "愿光环可以分享，愿主将属灵的恩典赐予每一人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "어우러짐",
+              "description": "광륜을 나눠줄 수 있기를, 주님께서 영적인 은총을 모두에게 내려주시기를.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성도 조각상 연기자></> 깨어난 후 배치 코스트 및 배치 가능 인원수 증가",
               "hasChallenge": false
             },
             {
               "id": "MT-6",
               "operation": "MT-6",
               "levelId": "activities/act42side/level_act42side_06",
-              "name": "告解",
-              "description": "沉入梦境之人回归现实，离群的天使重返故乡。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "고해",
+              "description": "꿈에 빠졌던 자가 현실로 돌아오고, 이탈한 천사는 고향으로 돌아온다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": false
             },
             {
               "id": "MT-7",
               "operation": "MT-7",
               "levelId": "activities/act42side/level_act42side_07",
-              "name": "丧礼",
-              "description": "万物都会在既定的旅程中走向终结，意义的延续因此显得难能可贵。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "장례",
+              "description": "모든 건 정해진 길에서 결말을 맞이한다. 그렇기에 의미를 이어가는 일은 귀하고 대단한 것이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": false
             },
             {
               "id": "MT-8",
               "operation": "MT-8",
               "levelId": "activities/act42side/level_act42side_08",
-              "name": "朝圣",
-              "description": "最初的圣徒重临圣城。“萨科塔”，将被重新定义。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "순례",
+              "description": "최초의 성도가 신성한 도시에 돌아왔다. '산크타'는 다시 정의될 것이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": false
             },
             {
               "id": "MT-9",
               "operation": "MT-9",
               "levelId": "activities/act42side/level_act42side_09",
-              "name": "解经",
-              "description": "“律法”的真实面目，从来都不似祂的信仰者、守护者、质疑者所想。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "해석",
+              "description": "'율법'의 본모습은 신봉자와 수호자, 그리고 의심하던 자가 상상하던 모습과 전혀 달랐다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 보육사 연기자></> 깨어난 후 오퍼레이터의 각성 속도를 가속하고, SP와 탄약 보충",
               "hasChallenge": false
             },
             {
               "id": "MT-10",
               "operation": "MT-10",
               "levelId": "activities/act42side/level_act42side_10",
-              "name": "降生",
-              "description": "婴孩切断了与神相连的脐带，决心以丑陋的、短暂的、痛苦的——人的模样——降生于世。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "탄생",
+              "description": "신과 이어진 탯줄을 끊은 갓난아기, 그는 추악하고 짧고 고통스러운 인간의 모습으로 세상에 태어나길 결심했다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": false
             },
             {
               "id": "MT-EX-1",
               "operation": "MT-EX-1",
               "levelId": "activities/act42side/level_act42side_ex01",
-              "name": "萨科塔生态园",
-              "description": "育婴圣堂下层的生态园，此处的万千生灵来自沙原、密林、汪洋或高山，但它们都将成为萨科塔。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "산크타 생태원",
+              "description": "양육 신전 아래층에 있는 생태원, 이곳에는 사막, 밀림, 바다 또는 산에서 온 수많은 생명들이 있다. 이들은 곧 산크타가 될 것이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-1CM",
-              "operation": "突袭MT-EX-1",
+              "operation": "CM MT-EX-1",
               "levelId": "activities/act42side/level_act42side_ex01",
-              "name": "萨科塔生态园",
-              "description": "育婴圣堂下层的生态园，此处的万千生灵来自沙原、密林、汪洋或高山，但它们都将成为萨科塔。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "산크타 생태원",
+              "description": "양육 신전 아래층에 있는 생태원, 이곳에는 사막, 밀림, 바다 또는 산에서 온 수많은 생명들이 있다. 이들은 곧 산크타가 될 것이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有敌人法术抗性提升"
+              "challenge": "<@lv.fs>제한 조건:</>\n모든 적의 마법 저항 증가"
             },
             {
               "id": "MT-EX-2",
               "operation": "MT-EX-2",
               "levelId": "activities/act42side/level_act42side_ex02",
-              "name": "甜梦大会堂",
-              "description": "育婴圣堂下层的育婴室，每夜，百十万孩童于此入梦，他们共同的梦境融化在空气之中，足以迷醉任何清醒之人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "달콤한 꿈의 대회당",
+              "description": "양육 신전 아래층에 있는 육아실, 매일 밤 수십만의 아이들이 꿈에 빠진다. 공기 속에 스며든 그들의 꿈은 깨어 있는 이를 전부 취하게 할 수 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-2CM",
-              "operation": "突袭MT-EX-2",
+              "operation": "CM MT-EX-2",
               "levelId": "activities/act42side/level_act42side_ex02",
-              "name": "甜梦大会堂",
-              "description": "育婴圣堂下层的育婴室，每夜，百十万孩童于此入梦，他们共同的梦境融化在空气之中，足以迷醉任何清醒之人。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "달콤한 꿈의 대회당",
+              "description": "양육 신전 아래층에 있는 육아실, 매일 밤 수십만의 아이들이 꿈에 빠진다. 공기 속에 스며든 그들의 꿈은 깨어 있는 이를 전부 취하게 할 수 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<“萨科塔昂首”>生命值提升"
+              "challenge": "<@lv.fs>제한 조건:</>\n<'산크타의 긍지'>의 HP 증가"
             },
             {
               "id": "MT-EX-3",
               "operation": "MT-EX-3",
               "levelId": "activities/act42side/level_act42side_ex03",
-              "name": "万众圣餐厅",
-              "description": "育婴圣堂下层的餐厅，由于餐食送到上层要花费数个小时，圣堂厨师研发出了大地上最先进的保鲜技术。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "만인 성찬소",
+              "description": "양육 신전 아래층에 있는 식당에서 위층으로 식사를 올려보내는 데 걸리는 시간이 너무 길어, 성당 요리사는 지상 최고의 신선도 유지 기술을 개발했다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-3CM",
-              "operation": "突袭MT-EX-3",
+              "operation": "CM MT-EX-3",
               "levelId": "activities/act42side/level_act42side_ex03",
-              "name": "万众圣餐厅",
-              "description": "育婴圣堂下层的餐厅，由于餐食送到上层要花费数个小时，圣堂厨师研发出了大地上最先进的保鲜技术。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "만인 성찬소",
+              "description": "양육 신전 아래층에 있는 식당에서 위층으로 식사를 올려보내는 데 걸리는 시간이 너무 길어, 성당 요리사는 지상 최고의 신선도 유지 기술을 개발했다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<圣堂射手扮演者>不再出现"
+              "challenge": "<@lv.fs>제한 조건:</>\n<성당 저격수 연기자>가 더 이상 출현하지 않음"
             },
             {
               "id": "MT-EX-4",
               "operation": "MT-EX-4",
               "levelId": "activities/act42side/level_act42side_ex04",
-              "name": "羽兽栖脚台",
-              "description": "育婴圣堂中层的露台，于云海之上供迁徙途中的羽兽落脚。它们到来时羽色暗淡，离去时头顶光环。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "파울비스트 휴식대",
+              "description": "양육 신전 중간층에 있는 테라스는 구름바다 위에 있어, 이주 중인 파울비스트들이 쉬어가는 곳이다. 그들이 도착할 때 깃털 색은 칙칙하지만, 떠날 때는 머리 위에 광륜이 생긴다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-4CM",
-              "operation": "突袭MT-EX-4",
+              "operation": "CM MT-EX-4",
               "levelId": "activities/act42side/level_act42side_ex04",
-              "name": "羽兽栖脚台",
-              "description": "育婴圣堂中层的露台，于云海之上供迁徙途中的羽兽落脚。它们到来时羽色暗淡，离去时头顶光环。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "파울비스트 휴식대",
+              "description": "양육 신전 중간층에 있는 테라스는 구름바다 위에 있어, 이주 중인 파울비스트들이 쉬어가는 곳이다. 그들이 도착할 때 깃털 색은 칙칙하지만, 떠날 때는 머리 위에 광륜이 생긴다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上三个位置不可部署"
+              "challenge": "<@lv.fs>제한 조건:</>\n전장 내 3개의 위치에 아군 유닛 배치 불가"
             },
             {
               "id": "MT-EX-5",
               "operation": "MT-EX-5",
               "levelId": "activities/act42side/level_act42side_ex05",
-              "name": "圣徒祈祷区",
-              "description": "育婴圣堂中层的区域，牧首于此冥思。拉特兰有史以来所有圣徒的雕像都陈列于此，它们垂首——向“牧首”祈祷。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "성도 기도 구역",
+              "description": "양육 신전 중간층에 있는 구역은 대주교가 명상하는 곳이다. 라테라노 역대 성도들의 조각상이 모두 이곳에 진열되어 있다. 그들은 '대주교'를 향해 고개를 숙여 기도하고 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-5CM",
-              "operation": "突袭MT-EX-5",
+              "operation": "CM MT-EX-5",
               "levelId": "activities/act42side/level_act42side_ex05",
-              "name": "圣徒祈祷区",
-              "description": "育婴圣堂中层的区域，牧首于此冥思。拉特兰有史以来所有圣徒的雕像都陈列于此，它们垂首——向“牧首”祈祷。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "성도 기도 구역",
+              "description": "양육 신전 중간층에 있는 구역은 대주교가 명상하는 곳이다. 라테라노 역대 성도들의 조각상이 모두 이곳에 진열되어 있다. 그들은 '대주교'를 향해 고개를 숙여 기도하고 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<圣徒祈祷像>和<“牧首”>提供屏障的速率提升"
+              "challenge": "<@lv.fs>제한 조건:</>\n<성도 기도상> 및 <'대주교'>의 보호막 제공 속도 증가"
             },
             {
               "id": "MT-EX-6",
               "operation": "MT-EX-6",
               "levelId": "activities/act42side/level_act42side_ex06",
-              "name": "信仰蒸馏房",
-              "description": "育婴圣堂上层的功能结构，圣城每日聆听的万千祷告都汇聚于此，在错综复杂的管道中，被蒸馏成一片虚假的天空。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "신앙 증류실",
+              "description": "양육 신전 위층에 있는 기능 시설, 신성한 도시에서 매일 들려오는 수많은 기도가 이곳에 모인다. 그 기도들은 복잡하게 얽힌 파이프들 속에서 증류되어 거짓된 하늘을 이룬다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-6CM",
-              "operation": "突袭MT-EX-6",
+              "operation": "CM MT-EX-6",
               "levelId": "activities/act42side/level_act42side_ex06",
-              "name": "信仰蒸馏房",
-              "description": "育婴圣堂上层的功能结构，圣城每日聆听的万千祷告都汇聚于此，在错综复杂的管道中，被蒸馏成一片虚假的天空。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "신앙 증류실",
+              "description": "양육 신전 위층에 있는 기능 시설, 신성한 도시에서 매일 들려오는 수많은 기도가 이곳에 모인다. 그 기도들은 복잡하게 얽힌 파이프들 속에서 증류되어 거짓된 하늘을 이룬다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<资深圣堂布道员>技能持续时间提升"
+              "challenge": "<@lv.fs>제한 조건:</>\n<베테랑 성당 선교사>의 스킬 지속 시간 증가"
             },
             {
               "id": "MT-EX-7",
               "operation": "MT-EX-7",
               "levelId": "activities/act42side/level_act42side_ex07",
-              "name": "原初育婴室",
-              "description": "育婴圣堂上层的功能结构，原是这里建造的第一间育婴室。宏伟如育婴圣堂，也不过始于一个念想、一间小屋。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "원초의 육아실",
+              "description": "양육 신전 위층에 있는 기능 시설, 첫 번째 육아실이다. 이 거대한 양육 신전도 하나의 생각과 작은 방에서부터 시작되었다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 보육사 연기자></> 깨어난 후 오퍼레이터의 각성 속도를 가속하고, SP와 탄약 보충",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-7CM",
-              "operation": "突袭MT-EX-7",
+              "operation": "CM MT-EX-7",
               "levelId": "activities/act42side/level_act42side_ex07",
-              "name": "原初育婴室",
-              "description": "育婴圣堂上层的功能结构，原是这里建造的第一间育婴室。宏伟如育婴圣堂，也不过始于一个念想、一间小屋。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂保育员扮演者></>叫醒后可加速干员苏醒并补充技力和弹药",
+              "name": "원초의 육아실",
+              "description": "양육 신전 위층에 있는 기능 시설, 첫 번째 육아실이다. 이 거대한 양육 신전도 하나의 생각과 작은 방에서부터 시작되었다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 보육사 연기자></> 깨어난 후 오퍼레이터의 각성 속도를 가속하고, SP와 탄약 보충",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n可同时部署干员单位数-2"
+              "challenge": "<@lv.fs>제한 조건:</>\n배치 가능 인원수 -2"
             },
             {
               "id": "MT-EX-8",
               "operation": "MT-EX-8",
               "levelId": "activities/act42side/level_act42side_ex08",
-              "name": "“拉特兰拼图”",
-              "description": "从圣堂之顶透过云层俯瞰，拉特兰城就像一幅小小的拼图。“牧首”只需动动手指，便可改变整座城市的样貌。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "'라테라노 퍼즐'",
+              "description": "성당의 꼭대기에서 구름 사이로 내려다본 라테라노는 마치 작은 퍼즐 같다. '대주교'는 손가락 하나로 도시 전체의 모습을 바꿀 수 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": true
             },
             {
               "id": "MT-EX-8CM",
-              "operation": "突袭MT-EX-8",
+              "operation": "CM MT-EX-8",
               "levelId": "activities/act42side/level_act42side_ex08",
-              "name": "“拉特兰拼图”",
-              "description": "从圣堂之顶透过云层俯瞰，拉特兰城就像一幅小小的拼图。“牧首”只需动动手指，便可改变整座城市的样貌。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><扮演者></>叫醒后以各种方式协助战斗",
+              "name": "'라테라노 퍼즐'",
+              "description": "성당의 꼭대기에서 구름 사이로 내려다본 라테라노는 마치 작은 퍼즐 같다. '대주교'는 손가락 하나로 도시 전체의 모습을 바꿀 수 있다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><연기자></> 깨어난 후 다양한 방식으로 아군에 협력",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n术师、医疗干员部署费用变为2倍"
+              "challenge": "<@lv.fs>제한 조건:</>\n캐스터, 메딕 오퍼레이터의 배치 코스트가 2배로 증가"
             },
             {
               "id": "MT-S-1",
               "operation": "MT-S-1",
               "levelId": "activities/act42side/level_act42side_sub-1-1",
-              "name": "甜品展会",
-              "description": "拉特兰人热情、爱意与创造力的结晶——不计其数的创新甜品——在一年一度的甜品展会得到了爆发式的呈现。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><“冰淇淋机”></>我方与敌方可夺取控制权，激活后回复周围友方单位技力",
+              "name": "디저트 전시회",
+              "description": "라테라노인의 열정과 사랑, 그리고 창의력이 담긴 수많은 독창적 디저트는 매년 열리는 디저트 전시회에서 폭발적으로 많이 등장한다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><'젤라토 머신'></> 아군, 적군 모두 점령할 수 있으며, 활성화되면 주변 유닛의 SP 회복",
               "hasChallenge": true
             },
             {
               "id": "MT-S-1CM",
-              "operation": "突袭MT-S-1",
+              "operation": "CM MT-S-1",
               "levelId": "activities/act42side/level_act42side_sub-1-1",
-              "name": "甜品展会",
-              "description": "拉特兰人热情、爱意与创造力的结晶——不计其数的创新甜品——在一年一度的甜品展会得到了爆发式的呈现。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><“冰淇淋机”></>我方与敌方可夺取控制权，激活后回复周围友方单位技力",
+              "name": "디저트 전시회",
+              "description": "라테라노인의 열정과 사랑, 그리고 창의력이 담긴 수많은 독창적 디저트는 매년 열리는 디저트 전시회에서 폭발적으로 많이 등장한다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><'젤라토 머신'></> 아군, 적군 모두 점령할 수 있으며, 활성화되면 주변 유닛의 SP 회복",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且部分<冰淇淋机>初始阵营改变"
+              "challenge": "<@lv.fs>제한 조건:</>\n적 추가 등장, 일부 <젤라토 머신>의 초기 진영 변경"
             },
             {
               "id": "MT-S-2",
               "operation": "MT-S-2",
               "levelId": "activities/act42side/level_act42side_sub-1-2",
-              "name": "布道演习",
-              "description": "对不信者的布道注定不会在舒适的教堂中展开，教皇厅举办布道演习，正是为了让布道者学会在极端条件下布道。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "포교 연습",
+              "description": "불신자들을 상대로 하는 포교는 아늑한 성당에서 이루어지지 않는다. 그리하여 교황청은 전도사가 극한 상황에서도 포교할 수 있도록 포교 연습을 진행한다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성도 조각상 연기자></> 깨어난 후 배치 코스트 및 배치 가능 인원수 증가",
               "hasChallenge": true
             },
             {
               "id": "MT-S-2CM",
-              "operation": "突袭MT-S-2",
+              "operation": "CM MT-S-2",
               "levelId": "activities/act42side/level_act42side_sub-1-2",
-              "name": "布道演习",
-              "description": "对不信者的布道注定不会在舒适的教堂中展开，教皇厅举办布道演习，正是为了让布道者学会在极端条件下布道。\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "포교 연습",
+              "description": "불신자들을 상대로 하는 포교는 아늑한 성당에서 이루어지지 않는다. 그리하여 교황청은 전도사가 극한 상황에서도 포교할 수 있도록 포교 연습을 진행한다.\n<@lv.rem><특수 조건></> 배치 코스트가 자동으로 회복되지 않음\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성도 조각상 연기자></> 깨어난 후 배치 코스트 및 배치 가능 인원수 증가",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且<荒原窃盗者精英>获得隐匿"
+              "challenge": "<@lv.fs>제한 조건:</>\n적 추가 등장 및 <황야의 강도 정예>가 은신 효과 획득"
             },
             {
               "id": "MT-S-3",
               "operation": "MT-S-3",
               "levelId": "activities/act42side/level_act42side_sub-1-3",
-              "name": "全民阅兵",
-              "description": "这一日，每位萨科塔都会骄傲地拿起守护铳走上街头。他们只管走入阅兵的队伍，共感自会协调他们的步伐。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "전민 열병",
+              "description": "이날엔 모든 산크타가 자랑스럽게 수호총을 들고 거리로 나선다. 행렬에 합류하기만 하면, 교감이 저절로 발걸음을 맞춰준다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true
             },
             {
               "id": "MT-S-3CM",
-              "operation": "突袭MT-S-3",
+              "operation": "CM MT-S-3",
               "levelId": "activities/act42side/level_act42side_sub-1-3",
-              "name": "全民阅兵",
-              "description": "这一日，每位萨科塔都会骄傲地拿起守护铳走上街头。他们只管走入阅兵的队伍，共感自会协调他们的步伐。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中",
+              "name": "전민 열병",
+              "description": "이날엔 모든 산크타가 자랑스럽게 수호총을 들고 거리로 나선다. 행렬에 합류하기만 하면, 교감이 저절로 발걸음을 맞춰준다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人且<资深圣堂保育员>生命值提升"
+              "challenge": "<@lv.fs>제한 조건:</>\n적 추가 등장, <베테랑 성당 보육사>의 HP 증가"
             },
             {
               "id": "MT-S-4",
               "operation": "MT-S-4",
               "levelId": "activities/act42side/level_act42side_sub-1-4",
-              "name": "万国峰会",
-              "description": "曾耻笑万国峰会配不上“万国”之名的傲慢者，如今只后悔没有赎罪的途径。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "만국 정상회담",
+              "description": "한때 만국 정상회담은 '만국'이라는 이름이 어울리지 않는다며 비웃었던 오만한 자는, 이제 속죄할 방법이 없음에 후회하고 있을 뿐이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true
             },
             {
               "id": "MT-S-4CM",
-              "operation": "突袭MT-S-4",
+              "operation": "CM MT-S-4",
               "levelId": "activities/act42side/level_act42side_sub-1-4",
-              "name": "万国峰会",
-              "description": "曾耻笑万国峰会配不上“万国”之名的傲慢者，如今只后悔没有赎罪的途径。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣堂射手扮演者></>叫醒后加入我方作战",
+              "name": "만국 정상회담",
+              "description": "한때 만국 정상회담은 '만국'이라는 이름이 어울리지 않는다며 비웃었던 오만한 자는, 이제 속죄할 방법이 없음에 후회하고 있을 뿐이다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성당 저격수 연기자></> 깨어난 후 아군 전투에 합류",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<腐败萃聚使徒>位置和路线变化"
+              "challenge": "<@lv.fs>제한 조건:</>\n<부패한 응집 사도>의 위치 및 이동 경로 변경"
             },
             {
               "id": "MT-S-5",
               "operation": "MT-S-5",
               "levelId": "activities/act42side/level_act42side_sub-1-5",
-              "name": "授律圣事",
-              "description": "拉特兰最初的圣徒不由任何仪式产生，但拉特兰一切仪式的神圣性都由其赋予。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "콘클라베",
+              "description": "라테라노 최초의 성도는 어떠한 의식으로 만들어진 존재가 아니다. 하지만 라테라노의 모든 의식이 지닌 신성함은 성도로부터 비롯된다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성도 조각상 연기자></> 깨어난 후 배치 코스트 및 배치 가능 인원수 증가",
               "hasChallenge": true
             },
             {
               "id": "MT-S-5CM",
-              "operation": "突袭MT-S-5",
+              "operation": "CM MT-S-5",
               "levelId": "activities/act42side/level_act42side_sub-1-5",
-              "name": "授律圣事",
-              "description": "拉特兰最初的圣徒不由任何仪式产生，但拉特兰一切仪式的神圣性都由其赋予。\\n<@lv.item><入梦砖></>置于其中的干员会立刻被拖入美梦中\\n<@lv.item><圣徒像扮演者></>叫醒后提供部署费用和部署干员单位数",
+              "name": "콘클라베",
+              "description": "라테라노 최초의 성도는 어떠한 의식으로 만들어진 존재가 아니다. 하지만 라테라노의 모든 의식이 지닌 신성함은 성도로부터 비롯된다.\n<@lv.item><드림 타일></> 위에 배치된 오퍼레이터가 꿈에 빠짐\n<@lv.item><성도 조각상 연기자></> 깨어난 후 배치 코스트 및 배치 가능 인원수 증가",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<“圣徒”>额外进行一次<寻根圣事>"
+              "challenge": "<@lv.fs>제한 조건:</>\n<'성도'>가 추가로 [근원 탐구 성사] 1회 진행"
             }
           ]
         },
@@ -19449,50 +19448,50 @@
         },
         {
           "id": "main_15",
-          "episode": "离解复合",
+          "episode": "해리성 결합",
           "childNodes": [
             {
               "id": "15-2",
               "operation": "15-2",
               "levelId": "obt/main/level_main_15-01",
-              "name": "执此剑者",
-              "description": "“......死亡也无法统治一切。”",
+              "name": "칼을 잡은 자",
+              "description": "“……죽음조차도 모든 걸 지배할 순 없다.”",
               "hasChallenge": false
             },
             {
               "id": "15-3",
               "operation": "15-3",
               "levelId": "obt/main/level_main_15-02",
-              "name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”",
+              "name": "이른바 기적",
+              "description": "“네 주위에서 일렁이던 구름의 파도는 환상적인 햇살 속에서 잠잠해질 것이고, 너는 더 이상 행복과 고통에 얽매이지 않을 것이다. 그 거부할 수 없는 무언가가 올 때까지……”",
               "hasChallenge": false
             },
             {
               "id": "15-3CM",
-              "operation": "险地15-3",
+              "operation": "CM 15-3",
               "levelId": "obt/main/level_main_15-02",
-              "name": "所谓奇迹",
-              "description": "“你周围卷起的云浪将在那幻妙的日光中平息，你将不再被幸福与苦痛所阻碍，直至那不容拒绝的......”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "이른바 기적",
+              "description": "“네 주위에서 일렁이던 구름의 파도는 환상적인 햇살 속에서 잠잠해질 것이고, 너는 더 이상 행복과 고통에 얽매이지 않을 것이다. 그 거부할 수 없는 무언가가 올 때까지……”\n<@lv.fs>제한 조건:</>\n적의 이동 속도 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-02_1a",
-                  "runeDesc": "冰镇饮料机的攻击速度大幅提升",
+                  "runeDesc": "음료 냉각기의 공격 속도 대폭 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-02_1b",
-                  "runeDesc": "冰镇饮料机的生命值大幅提升",
+                  "runeDesc": "음료 냉각기의 HP 대폭 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-02_2a",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-02_2b",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "전장 내 4개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19501,36 +19500,36 @@
               "id": "15-4",
               "operation": "15-4",
               "levelId": "obt/main/level_main_15-03",
-              "name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”",
+              "name": "심연의 곁",
+              "description": "“심연의 깊이를 재려는 자가 어찌 그 깊이를 알 수 있으랴? 답과 목숨이 모두 같은 밧줄에 매달려 있으니.”",
               "hasChallenge": false
             },
             {
               "id": "15-4CM",
-              "operation": "险地15-4",
+              "operation": "CM 15-4",
               "levelId": "obt/main/level_main_15-03",
-              "name": "深渊之侧",
-              "description": "“意图测量深渊之人如何能得知它的深度？答案与性命都悬于同一根绳索之上。”\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "심연의 곁",
+              "description": "“심연의 깊이를 재려는 자가 어찌 그 깊이를 알 수 있으랴? 답과 목숨이 모두 같은 밧줄에 매달려 있으니.”\n<@lv.fs>제한 조건:</>\n적의 이동 속도 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-03_1a",
-                  "runeDesc": "无忧货运帮手的生命值大幅提升",
+                  "runeDesc": "무사고 수송 보조의 HP 대폭 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-03_1b",
-                  "runeDesc": "无忧货运帮手的攻击力大幅提升",
+                  "runeDesc": "무사고 수송 보조의 공격력 대폭 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-03_2a",
-                  "runeDesc": "部分地块会长出源石晶簇造成范围伤害",
+                  "runeDesc": "일부 위치에 오리지늄 결정 군집이 생성해 범위 대미지를 입힘",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-03_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19539,36 +19538,36 @@
               "id": "15-5",
               "operation": "15-5",
               "levelId": "obt/main/level_main_15-04",
-              "name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "소란스런 분쟁",
+              "description": "“세상만사는 그 끝없는 소란의 책에 적힌 몇 마디 말에 불과하다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-5CM",
-              "operation": "险地15-5",
+              "operation": "CM 15-5",
               "levelId": "obt/main/level_main_15-04",
-              "name": "喧哗争端",
-              "description": "“万事万物，皆不过是在那无穷无尽的喧嚣之书中被写下的只言片语。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "소란스런 분쟁",
+              "description": "“세상만사는 그 끝없는 소란의 책에 적힌 몇 마디 말에 불과하다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n일부 적이 변경",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-04_1a",
-                  "runeDesc": "禁止使用狙击和近卫干员",
+                  "runeDesc": "스나이퍼, 가드 오퍼레이터 사용 불가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-04_1b",
-                  "runeDesc": "禁止使用术师和特种干员",
+                  "runeDesc": "캐스터, 스페셜리스트 오퍼레이터 사용 불가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-04_2a",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "전장 내 4개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-04_2b",
-                  "runeDesc": "可部署干员数量减少2",
+                  "runeDesc": "배치 가능 인원수 -2",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19577,36 +19576,36 @@
               "id": "15-6",
               "operation": "15-6",
               "levelId": "obt/main/level_main_15-05",
-              "name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "뼛속에 각인",
+              "description": "“인간은 화재, 폭우, 혹한, 그리고 예상 가능한 모든 것에 대비한다. 그러나 정작 인간 자신에게만은…… 대비할 수 없다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함",
               "hasChallenge": false
             },
             {
               "id": "15-6CM",
-              "operation": "险地15-6",
+              "operation": "CM 15-6",
               "levelId": "obt/main/level_main_15-05",
-              "name": "刻骨入髓",
-              "description": "“人类对一切都加以防范，无论火灾、暴雨还是严寒，乃至所有能够预想到的情况，却唯独对人类自己......无法提防。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "name": "뼛속에 각인",
+              "description": "“인간은 화재, 폭우, 혹한, 그리고 예상 가능한 모든 것에 대비한다. 그러나 정작 인간 자신에게만은…… 대비할 수 없다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.fs>제한 조건:</>\n자동 배식기 베타 버전의 소환 스킬 쿨타임 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-05_1a",
-                  "runeDesc": "可部署干员数量减少2",
+                  "runeDesc": "배치 가능 인원수 -2",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-05_1b",
-                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeDesc": "아군 유닛의 저지 가능 수 -1",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-05_2a",
-                  "runeDesc": "内测版自助出餐终端召唤技能冷却时间进一步减少",
+                  "runeDesc": "자동 배식기 베타 버전의 소환 스킬 쿨타임이 더 많이 감소",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-05_2b",
-                  "runeDesc": "内测版自助出餐终端和迷茫的修理小助手获得<隐匿>效果",
+                  "runeDesc": "자동 배식기 베타 버전 및 방황하는 수리 보조가 <은신> 효과 획득",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19615,36 +19614,36 @@
               "id": "15-7",
               "operation": "15-7",
               "levelId": "obt/main/level_main_15-06",
-              "name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "name": "임계 순간",
+              "description": "“가능성의 한계를 탐구하는 유일한 방법은, 그 한계를 넘어 불가능 속으로 뛰어드는 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.item><활성 오리지늄></> 배치된 아군 오퍼레이터 및 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가",
               "hasChallenge": false
             },
             {
               "id": "15-7CM",
-              "operation": "险地15-7",
+              "operation": "CM 15-7",
               "levelId": "obt/main/level_main_15-06",
-              "name": "临界时刻",
-              "description": "“探寻可能性的界限只剩唯一的办法，就是越过去，潜入到不可能之中。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n内测版自助出餐终端召唤技能冷却时间减少",
+              "name": "임계 순간",
+              "description": "“가능성의 한계를 탐구하는 유일한 방법은, 그 한계를 넘어 불가능 속으로 뛰어드는 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.item><활성 오리지늄></> 배치된 아군 오퍼레이터 및 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가\n<@lv.fs>제한 조건:</>\n자동 배식기 베타 버전의 소환 스킬 쿨타임 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-06_1a",
-                  "runeDesc": "活性源石提高攻击力的效果翻倍",
+                  "runeDesc": "활성 오리지늄의 공격력 증가 효과가 2배로 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-06_1b",
-                  "runeDesc": "先锋干员、重装干员、近卫干员和特种干员的再部署时间大幅增加",
+                  "runeDesc": "뱅가드, 디펜더, 가드, 스페셜리스트 오퍼레이터의 재배치 시간 대폭 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-06_2a",
-                  "runeDesc": "我方单位生命值在50%以下时受到的伤害增加",
+                  "runeDesc": "아군 유닛이 HP가 50% 미만 시 받는 대미지 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-06_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19653,36 +19652,36 @@
               "id": "15-8",
               "operation": "15-8",
               "levelId": "obt/main/level_main_15-07",
-              "name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "부서진 메아리",
+              "description": "“만약 배신은 의식이 내린 결정이라면, 너를 심연에 빠지게 한 것은 또 무엇인가? 어떤 아득한 희망이 너를 파멸로 이끌고 있는 것일까?”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-8CM",
-              "operation": "险地15-8",
+              "operation": "CM 15-8",
               "levelId": "obt/main/level_main_15-07",
-              "name": "破碎回响",
-              "description": "“如果背叛是意识主动参与的决策，那又是什么令你坠入深渊？是怎样飘渺的一种希望，引诱着你踏向毁灭？”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n稳定态萨卡兹术师结晶的防御力大幅提升",
+              "name": "부서진 메아리",
+              "description": "“만약 배신은 의식이 내린 결정이라면, 너를 심연에 빠지게 한 것은 또 무엇인가? 어떤 아득한 희망이 너를 파멸로 이끌고 있는 것일까?”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n안정 상태의 살카즈 캐스터 결정의 방어력 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-07_1a",
-                  "runeDesc": "部分敌人有所不同",
+                  "runeDesc": "일부 적이 변경",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-07_1b",
-                  "runeDesc": "冰镇饮料机的攻击范围扩大",
+                  "runeDesc": "음료 냉각기의 공격 범위 확대",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-07_2a",
-                  "runeDesc": "我方单位的部署费用+3",
+                  "runeDesc": "아군 유닛의 배치 코스트 +3",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-07_2b",
-                  "runeDesc": "我方单位的再部署时间大幅增加",
+                  "runeDesc": "아군 유닛의 재배치 시간 대폭 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19691,36 +19690,36 @@
               "id": "15-9",
               "operation": "15-9",
               "levelId": "obt/main/level_main_15-08",
-              "name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "감압 증상",
+              "description": "“나는 잠들기 위해 깨어났고, 내 맑은 정신은 편안해지고 있다. 나는 내가 두려워하지 말아야 하는 사물에서 운명을 느끼고, 나는 반드시 걸어야 할 여정에서 모든 것을 이해한다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함",
               "hasChallenge": false
             },
             {
               "id": "15-9CM",
-              "operation": "险地15-9",
+              "operation": "CM 15-9",
               "levelId": "obt/main/level_main_15-08",
-              "name": "减压症候",
-              "description": "“我醒来是为了眠去，并将我的清醒放缓。我在我不能畏惧的事物上感受命运。我以我必须踏上的旅途认识一切。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n战场中有4个位置无法部署我方单位",
+              "name": "감압 증상",
+              "description": "“나는 잠들기 위해 깨어났고, 내 맑은 정신은 편안해지고 있다. 나는 내가 두려워하지 말아야 하는 사물에서 운명을 느끼고, 나는 반드시 걸어야 할 여정에서 모든 것을 이해한다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.fs>제한 조건:</>\n전장 내 4개 위치에 아군 유닛 배치 불가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-08_1a",
-                  "runeDesc": "失控的修理小助手移动速度增加",
+                  "runeDesc": "통제 불능 수리 보조의 이동 속도 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-08_1b",
-                  "runeDesc": "失控的修理小助手防御力增加",
+                  "runeDesc": "통제 불능 수리 보조의 방어력 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-08_2a",
-                  "runeDesc": "狙击干员的部署费用提升至2倍",
+                  "runeDesc": "스나이퍼 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-08_2b",
-                  "runeDesc": "术师干员的部署费用提升至2倍",
+                  "runeDesc": "캐스터 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19729,36 +19728,36 @@
               "id": "15-10",
               "operation": "15-10",
               "levelId": "obt/main/level_main_15-09",
-              "name": "隔离净空",
-              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "클린존",
+              "description": "“경험, 이론, 현상.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-10CM",
-              "operation": "险地15-10",
+              "operation": "CM 15-10",
               "levelId": "obt/main/level_main_15-09",
-              "name": "隔离净空",
-              "description": "“经验，理论，现象。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的防御力大幅提升",
+              "name": "클린존",
+              "description": "“경험, 이론, 현상.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n적의 방어력 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-09_1a",
-                  "runeDesc": "禁止使用近卫干员",
+                  "runeDesc": "가드 오퍼레이터 사용 불가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-09_1b",
-                  "runeDesc": "PRTS将部署额外的弱化节点",
+                  "runeDesc": "PRTS가 약화 패널 추가 배치",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-09_2a",
-                  "runeDesc": "稳定态萨卡兹术师结晶周围没有其他敌人时攻击力提升",
+                  "runeDesc": "안정 상태의 살카즈 캐스터 결정 주변에 다른 적이 없으면 공격력 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-09_2b",
-                  "runeDesc": "稳定态萨卡兹术师结晶封锁费用回复的时间增加",
+                  "runeDesc": "안정 상태의 살카즈 캐스터 결정의 배치 코스트 자연 회복 봉인 시간 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19767,36 +19766,36 @@
               "id": "15-11",
               "operation": "15-11",
               "levelId": "obt/main/level_main_15-10",
-              "name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "곧 깨어날 꿈",
+              "description": "“이제부터 모두가 내가 되거나, 아무도 내가 아니게 될 것이다. 나는 네가 될 것이지만, 너는 그걸 알지 못한다. 네가 엿본 꿈은 내가 깨어있는 현실이 될 거니까.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-11CM",
-              "operation": "险地15-11",
+              "operation": "CM 15-11",
               "levelId": "obt/main/level_main_15-10",
-              "name": "一段长梦将醒",
-              "description": "“此后将无人不是我，抑或无一人是我。我将是你，而你并不自知。你窥见的梦将是我的清醒。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部署费用的回复速度降低",
+              "name": "곧 깨어날 꿈",
+              "description": "“이제부터 모두가 내가 되거나, 아무도 내가 아니게 될 것이다. 나는 네가 될 것이지만, 너는 그걸 알지 못한다. 네가 엿본 꿈은 내가 깨어있는 현실이 될 거니까.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n배치 코스트의 자연 회복 속도 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-10_1a",
-                  "runeDesc": "战场中有4个位置无法部署我方单位",
+                  "runeDesc": "전장 내 4개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-10_1b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-10_2a",
-                  "runeDesc": "近卫和重装干员的部署费用提升至2倍",
+                  "runeDesc": "가드, 디펜더 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-10_2b",
-                  "runeDesc": "狙击和术师干员的部署费用提升至2倍",
+                  "runeDesc": "캐스터, 스나이퍼 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19805,36 +19804,36 @@
               "id": "15-12",
               "operation": "15-12",
               "levelId": "obt/main/level_main_15-11",
-              "name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "신들의 죽음을 목격한 황야",
+              "description": "“잠시 후, 모든 물질은 구성만 남아있겠지만, 모든 진실의 본질은 죄다 죽어버려 어두운 광란 속에 파묻힐 것이다. 수많은 문명이 이미 사라졌지만, 그것들이 남긴 파문은 여전히 추락하며 모든 것을 짓누르고, 매장하고, 소멸시킬 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-12CM",
-              "operation": "险地15-12",
+              "operation": "CM 15-12",
               "levelId": "obt/main/level_main_15-11",
-              "name": "目击众神死亡的荒原",
-              "description": "“片刻之后，所有物质的构成仍在，但一切真实的本质都会死去，被淹没在黑暗的疯狂中。无数个文明已经消失，它们留下的涟漪仍在坠落，将一切压碎、埋葬、湮灭。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "신들의 죽음을 목격한 황야",
+              "description": "“잠시 후, 모든 물질은 구성만 남아있겠지만, 모든 진실의 본질은 죄다 죽어버려 어두운 광란 속에 파묻힐 것이다. 수많은 문명이 이미 사라졌지만, 그것들이 남긴 파문은 여전히 추락하며 모든 것을 짓누르고, 매장하고, 소멸시킬 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n일부 적이 변경",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-11_1a",
-                  "runeDesc": "禁止使用狙击干员",
+                  "runeDesc": "스나이퍼 오퍼레이터 사용 불가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-11_1b",
-                  "runeDesc": "“寒灾回响”的攻击范围扩大",
+                  "runeDesc": "'프로스트 디재스터의 울림'의 공격 범위 확대",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-11_2a",
-                  "runeDesc": "我方单位的阻挡数-1",
+                  "runeDesc": "아군 유닛의 저지 가능 수 -1",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-11_2b",
-                  "runeDesc": "“寒灾回响”获得缓慢回复生命效果",
+                  "runeDesc": "'프로스트 디재스터의 울림'이 서서히 HP 회복",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19843,36 +19842,36 @@
               "id": "15-13",
               "operation": "15-13",
               "levelId": "obt/main/level_main_15-12",
-              "name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "너의 눈이 되리라",
+              "description": "“……손등 위의 깃털처럼, 햇살 속의 먼지처럼, 구석에 남긴 기억처럼……”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-13CM",
-              "operation": "险地15-13",
+              "operation": "CM 15-13",
               "levelId": "obt/main/level_main_15-12",
-              "name": "成为你的眼睛",
-              "description": "“......如同手背上的羽毛，阳光中的灰尘和角落里的记忆......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的攻击力降低",
+              "name": "너의 눈이 되리라",
+              "description": "“……손등 위의 깃털처럼, 햇살 속의 먼지처럼, 구석에 남긴 기억처럼……”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n아군 유닛의 공격력 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-12_1a",
-                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeDesc": "전장 내 지상의 2개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-12_1b",
-                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeDesc": "전장 내 고지대의 2개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-12_2a",
-                  "runeDesc": "固化源石巨像的生命值提升",
+                  "runeDesc": "경화 오리지늄 거대 석상의 HP 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-12_2b",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19881,36 +19880,36 @@
               "id": "15-14",
               "operation": "15-14",
               "levelId": "obt/main/level_main_15-13",
-              "name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "먼지 혹은 핏속에서",
+              "description": "“모든 걸 안다고 해도, 그 모든 걸 바꿀 순 없다……”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-14CM",
-              "operation": "险地15-14",
+              "operation": "CM 15-14",
               "levelId": "obt/main/level_main_15-13",
-              "name": "在尘或血中",
-              "description": "“即使知道一切，也未必能改变一切......”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n部分地块会长出源石晶簇造成范围伤害",
+              "name": "먼지 혹은 핏속에서",
+              "description": "“모든 걸 안다고 해도, 그 모든 걸 바꿀 순 없다……”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n일부 위치에 오리지늄 결정 군집이 생성해 범위 대미지를 입힘",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-13_1a",
-                  "runeDesc": "源石晶簇长出的间隔时间缩短",
+                  "runeDesc": "오리지늄 결정 군집의 생성 시간 감소",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-13_1b",
-                  "runeDesc": "源石晶簇爆炸造成的伤害增加",
+                  "runeDesc": "오리지늄 결정 군집이 입히는 대미지 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-13_2a",
-                  "runeDesc": "“寒灾回响”的攻击速度提升",
+                  "runeDesc": "'프로스트 디재스터의 울림'의 공격 속도 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-13_2b",
-                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeDesc": "적 주변에 다른 적이 없으면 공격력 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19919,36 +19918,36 @@
               "id": "15-15",
               "operation": "15-15",
               "levelId": "obt/main/level_main_15-14",
-              "name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "애도 거절",
+              "description": "“이해하는 사람이 없어도, 우리는 반드시 계속 나아가야 한다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함",
               "hasChallenge": false
             },
             {
               "id": "15-15CM",
-              "operation": "险地15-15",
+              "operation": "CM 15-15",
               "levelId": "obt/main/level_main_15-14",
-              "name": "拒绝哀悼",
-              "description": "“即使没有人能理解，我们也必须要这样走下去。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.fs>附加条件：</>\\n部分敌人有所不同",
+              "name": "애도 거절",
+              "description": "“이해하는 사람이 없어도, 우리는 반드시 계속 나아가야 한다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.fs>제한 조건:</>\n일부 적이 변경",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-14_1a",
-                  "runeDesc": "转译基底·β变形需要的攻击次数增加",
+                  "runeDesc": "변형의 베이스 β가 변형에 필요한 공격 횟수 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-14_1b",
-                  "runeDesc": "转译基底·β变形后的攻击速度提升",
+                  "runeDesc": "변형의 베이스 β가 변형 후 공격 속도 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-14_2a",
-                  "runeDesc": "战场中有2个地面位置无法部署我方单位",
+                  "runeDesc": "전장 내 지상의 2개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-14_2b",
-                  "runeDesc": "战场中有2个高台位置无法部署我方单位",
+                  "runeDesc": "전장 내 고지대의 2개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19957,36 +19956,36 @@
               "id": "15-17",
               "operation": "15-17",
               "levelId": "obt/main/level_main_15-15",
-              "name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
+              "name": "'그녀'",
+              "description": "“지금 이 순간에 숨을 곳이 없으면 거처를 찾을 필요도 없고, 지금 이 순간에 외로우면 영원히 외로울 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.rem>오퍼레이터 배치 시 근원거리 제한 없음</>",
               "hasChallenge": false
             },
             {
               "id": "15-17CM",
-              "operation": "险地15-17",
+              "operation": "CM 15-17",
               "levelId": "obt/main/level_main_15-15",
-              "name": "“她”",
-              "description": "“谁此刻无处藏身，就不必寻觅居所。谁此刻孤独，就将永远孤独。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.rem>本次行动中远程干员可部署于近战位</>\\n<@lv.fs>附加条件：</>\\n敌人的攻击力大幅提升",
+              "name": "'그녀'",
+              "description": "“지금 이 순간에 숨을 곳이 없으면 거처를 찾을 필요도 없고, 지금 이 순간에 외로우면 영원히 외로울 것이다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.rem>오퍼레이터 배치 시 근원거리 제한 없음</>\n<@lv.fs>제한 조건:</>\n적의 공격력 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-15_1a",
-                  "runeDesc": "部署费用的回复速度降低",
+                  "runeDesc": "배치 코스트의 자연 회복 속도 감소",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-15_1b",
-                  "runeDesc": "可部署干员数量减少3",
+                  "runeDesc": "배치 가능 인원수 -3",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-15_2a",
-                  "runeDesc": "PRTS部署的“寒灾回响”位置改变",
+                  "runeDesc": "PRTS가 '프로스트 디재스터의 울림'을 배치하는 위치가 변경",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-15_2b",
-                  "runeDesc": "转译基底·β攻击生命值低于50%的目标时伤害提升",
+                  "runeDesc": "변형의 베이스 β가 HP 50% 미만인 목표에게 입히는 대미지 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -19995,36 +19994,36 @@
               "id": "15-18",
               "operation": "15-18",
               "levelId": "obt/main/level_main_15-16",
-              "name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "의심한 적도, 떠난 적도",
+              "description": "“너는 어떻게 기다려야 하는지 알고 있다. 긴 세월 속에서, 너는 한 송이 꽃봉오리가 피어나는 순간을 준비해 왔으니까.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-18CM",
-              "operation": "险地15-18",
+              "operation": "CM 15-18",
               "levelId": "obt/main/level_main_15-16",
-              "name": "从未怀疑，从未远离",
-              "description": "“你懂得如何等待。在漫长的岁月中，你准备着一朵花蕾的盛开。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n我方单位的防御力降低",
+              "name": "의심한 적도, 떠난 적도",
+              "description": "“너는 어떻게 기다려야 하는지 알고 있다. 긴 세월 속에서, 너는 한 송이 꽃봉오리가 피어나는 순간을 준비해 왔으니까.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n아군 유닛의 방어력 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-16_1a",
-                  "runeDesc": "转译基底·β的移动速度提升",
+                  "runeDesc": "변형의 베이스 β의 이동 속도 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-16_1b",
-                  "runeDesc": "转译基底·β的生命值提升",
+                  "runeDesc": "변형의 베이스 β의 HP 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-16_2a",
-                  "runeDesc": "部署费用的回复速度降低",
+                  "runeDesc": "배치 코스트의 자연 회복 속도 감소",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-16_2b",
-                  "runeDesc": "禁止使用辅助和术师干员",
+                  "runeDesc": "서포터, 캐스터 오퍼레이터 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -20033,44 +20032,44 @@
               "id": "15-19",
               "operation": "15-19",
               "levelId": "obt/main/level_main_15-17",
-              "name": "直至，此刻",
-              "description": "“准备战斗。只有战斗能决定结果。”",
+              "name": "지금, 이 순간",
+              "description": "“전투를 준비해. 오직 전투만이 결과를 결정할 수 있다.”",
               "hasChallenge": false
             },
             {
               "id": "15-20",
               "operation": "15-20",
               "levelId": "obt/main/level_main_15-18",
-              "name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "돌아갈 기회",
+              "description": "“때가 되었다. 방해석에서 꽃이 피어난다. 불안하던 마음이 다시 뛰기 시작한다. 이제, 때가 되었다. 때가.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "15-20CM",
-              "operation": "险地15-20",
+              "operation": "CM 15-20",
               "levelId": "obt/main/level_main_15-18",
-              "name": "得以重回",
-              "description": "“是时候了，自方解石中绽出花朵。不宁的心再度跳动。现在，是时候了。是时候了。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低\\n<@lv.fs>附加条件：</>\\n敌人的移动速度提升",
+              "name": "돌아갈 기회",
+              "description": "“때가 되었다. 방해석에서 꽃이 피어난다. 불안하던 마음이 다시 뛰기 시작한다. 이제, 때가 되었다. 때가.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소\n<@lv.fs>제한 조건:</>\n적의 이동 속도 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_15-18_1a",
-                  "runeDesc": "狙击和近卫干员的部署费用提升至2倍",
+                  "runeDesc": "스나이퍼, 가드 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_15-18_1b",
-                  "runeDesc": "术师和特种干员的部署费用提升至2倍",
+                  "runeDesc": "캐스터, 스페셜리스트 오퍼레이터의 배치 코스트가 2배로 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_15-18_2a",
-                  "runeDesc": "场上出现新的敌人",
+                  "runeDesc": "전장에 새로운 적이 등장",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_15-18_2b",
-                  "runeDesc": "敌人周围没有其他敌人时攻击力提升",
+                  "runeDesc": "적 주변에 다른 적이 없으면 공격력 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -20079,32 +20078,32 @@
               "id": "H15-1",
               "operation": "H15-1",
               "levelId": "obt/hard/level_hard_15-01",
-              "name": "机密预案-1",
-              "description": "“只因生与死本是一体，如同江河与海。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "기밀 예안-1",
+              "description": "“생명과 죽음은 본래 하나이다. 마치 강과 바다처럼.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "H15-2",
               "operation": "H15-2",
               "levelId": "obt/hard/level_hard_15-02",
-              "name": "机密预案-2",
-              "description": "“只有在饮下缄默河水之后，才能开口歌唱。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "기밀 예안-2",
+              "description": "“침묵의 강물을 마신 후에야 비로소 입을 열어 노래할 수 있다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             },
             {
               "id": "H15-3",
               "operation": "H15-3",
               "levelId": "obt/hard/level_hard_15-03",
-              "name": "机密预案-3",
-              "description": "“只有在抵达山峰之巅以后，才能开始攀登。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点",
+              "name": "기밀 예안-3",
+              "description": "“산의 정상에 오른 후에야 비로소 등반을 시작할 수 있다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함",
               "hasChallenge": false
             },
             {
               "id": "H15-4",
               "operation": "H15-4",
               "levelId": "obt/hard/level_hard_15-04",
-              "name": "机密预案-4",
-              "description": "“只有在身躯归还于大地后，才能真正地起舞。”\\n<@lv.item><侵入式调用></>PRTS会在场上部署敌人或弱化节点，并且会激活弱化节点\\n<@lv.item><弱化节点></>激活后使范围内的对方单位防御力和法术抗性降低",
+              "name": "기밀 예안-4",
+              "description": "“몸이 대지로 돌아간 후에야 진정으로 춤출 수 있다.”\n<@lv.item><침입식 호출></> PRTS가 전장에 적과 약화 패널을 배치하며, 약화 패널을 활성화함\n<@lv.item><약화 패널></> 활성화 시 범위 내 아군 유닛의 방어력, 마법 저항 감소",
               "hasChallenge": false
             }
           ]
