@@ -20697,6 +20697,38 @@
               "name": "红日留驻",
               "description": "即使那太阳与月亮皆可停留，这愤怒......永不止息。\\n一枚未爆的■■：\\n<@lv.sp>反抗</>了它的使用者。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
               "hasChallenge": false
+            },
+            {
+              "id": "H16-1",
+              "operation": "H16-1",
+              "levelId": "obt/hard/level_hard_16-01",
+              "name": "异常预案-1",
+              "description": "无声也无踪迹的战友会为你指明前路。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "H16-2",
+              "operation": "H16-2",
+              "levelId": "obt/hard/level_hard_16-02",
+              "name": "异常预案-2",
+              "description": "因痛苦而发狂的怪物会让你认清现实。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "H16-3",
+              "operation": "H16-3",
+              "levelId": "obt/hard/level_hard_16-03",
+              "name": "异常预案-3",
+              "description": "神出鬼没的对手会使你时刻保持警惕。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "hasChallenge": false
+            },
+            {
+              "id": "H16-4",
+              "operation": "H16-4",
+              "levelId": "obt/hard/level_hard_16-04",
+              "name": "异常预案-4",
+              "description": "无穷无尽的敌人会与你周旋到底。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "hasChallenge": false
             }
           ]
         }
