@@ -70,6 +70,10 @@ const parseCNData = async () => {
     if(value.length > 1){
       for(let i = 1; i < value.length; i++){
         let overwriteData = value[i].enemyData;
+
+        overwriteData.attributes.rangeRadius = overwriteData.rangeRadius;
+        delete overwriteData.rangeRadius;
+
         let data = {...parsedData};
         data.attributes = {...parsedData.attributes};
         if(parsedData.skills) data.skills = [...parsedData.skills];
@@ -120,8 +124,6 @@ const parseCNData = async () => {
           })
         }
 
-        data.attributes.rangeRadius = data.rangeRadius;
-        delete data.rangeRadius;
         Levels.push(data);
       }
     }
