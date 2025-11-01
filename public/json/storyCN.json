@@ -4,6 +4,100 @@
       "type": "活动关卡",
       "childNodes": [
         {
+          "id": "act46side",
+          "episode": "雪山降临1101",
+          "childNodes": [
+            {
+              "id": "OS-TR-1",
+              "operation": "OS-TR-1",
+              "levelId": "activities/act46side/level_act46side_tr01",
+              "name": "第一片雪",
+              "description": "第一片雪花落下的时候，没有人意识到会发生什么。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-1",
+              "operation": "OS-1",
+              "levelId": "activities/act46side/level_act46side_01",
+              "name": "呼号声中",
+              "description": "报丧的羽兽哀鸣着，在雪地之上久久盘桓。不幸之中的不幸仍在降临。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-2",
+              "operation": "OS-2",
+              "levelId": "activities/act46side/level_act46side_02",
+              "name": "甜蜜的邻人",
+              "description": "来者叩响门扉。他手捧佳肴与美酒，呼朋且引伴。只求片刻松懈，使其深入脆弱的裂痕。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-3",
+              "operation": "OS-3",
+              "levelId": "activities/act46side/level_act46side_03",
+              "name": "雪灌木中",
+              "description": "新朋友总代表新机遇，是否抓住他们只在你的一念之间。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-4",
+              "operation": "OS-4",
+              "levelId": "activities/act46side/level_act46side_04",
+              "name": "并蒂生",
+              "description": "无论曾有过何种斗争隔阂，如今，我们握手而言，走向同样的前路。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-5",
+              "operation": "OS-5",
+              "levelId": "activities/act46side/level_act46side_05",
+              "name": "雪夜独行",
+              "description": "信任者离散，她与她勇敢的心独自踏上旅程。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-6",
+              "operation": "OS-6",
+              "levelId": "activities/act46side/level_act46side_06",
+              "name": "绿翡翠",
+              "description": "耐心是猎人般的美德。它会带你找到缝隙、机会、蚕食的开端与相互体恤的黎明。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-7",
+              "operation": "OS-7",
+              "levelId": "activities/act46side/level_act46side_07",
+              "name": "焚心灼影",
+              "description": "一个烟雾缭绕中的秘密，一支燃烧殆尽的焚香，一段轰鸣的咆哮，两位爱侣，三个孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-8",
+              "operation": "OS-8",
+              "levelId": "activities/act46side/level_act46side_08",
+              "name": "宣告在途",
+              "description": "人们相信什么，取决于他们听到与见到什么。而欺骗与愚弄的艺术恰在其中。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-9",
+              "operation": "OS-9",
+              "levelId": "activities/act46side/level_act46side_09",
+              "name": "凛刃出匣",
+              "description": "仍有人徒劳地期待一个温暖的春天。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-10",
+              "operation": "OS-10",
+              "levelId": "activities/act46side/level_act46side_10",
+              "name": "耶拉冈德在上",
+              "description": "耶拉冈德在上，耶拉冈德在上，耶拉冈德在上！\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
           "id": "a001",
           "episode": "骑兵与猎人",
           "childNodes": [
@@ -1644,7 +1738,7 @@
               "name": "洪流",
               "description": "当心，在毫无花哨的力量面前，我们只能同样用力量来对抗。\\n<@lv.item><巨蕈></>与其相邻的我方单位防御提升\\n<@lv.item><罗德岛临时雇员></>清理巨蕈，制造可部署的远程位",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n可部署的<罗德岛临时雇员>人数减少6,，且敌人的特殊能力不会失效"
+              "challenge": "<@lv.fs>附加条件：</>\\n可部署的<罗德岛临时雇员>人数减少6，且敌人的特殊能力不会失效"
             },
             {
               "id": "RI-EX-7",
