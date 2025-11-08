@@ -217809,75 +217809,75 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“Mechanist”，机械之心",
-    "JPDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "JPName": "「Mechanist」・機械の心",
+    "JPDescription": "Mechanistの戦闘力の限界をベースモデルに設計された突破訓練官。\n厳格さと卓越した記憶力で知られるエンジニアも、かつて酒を飲んだ後このような詩を残した。「愛は熱力学第二法則が如く、永遠を望むほどに衰えていく。」",
     "JPAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "【自己防御術式】：周期的に物理・術ダメージを無効化できるシールドを獲得する。シールドは一定回数攻撃を受けると破壊される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<構造性原理>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "【生命リンク方程式】：<構造性原理>と連携して戦う。自身のシールドが破壊されるかHPが0になると、<構造性原理>が<$ba.stun>スタン</>状態になり【ストレス防御モジュール】が一定時間無効になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "【フォーカスアルゴリズム】：対象1体に狙いを定め数回爆撃を行う。爆撃1回ごとに対象とその周囲8マスのユニットに複数回の物理ダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“Mechanist”，机械之心",
-    "ENDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "ENName": "Mechanist, Mechanical Mind",
+    "ENDescription": "A Breakthrough Trainer simulating Mechanist at the peak of his combat prowess.\nThe engineer famous for his memory and scientific rigor can also write words as romantic as 'Love is like the second law of thermodynamics: the more one longs for eternity, the further one goes down the path of decline,' when he is drunk enough.",
     "ENAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[Self-Defense Arts] Periodically gains a shield that protects against Physical and Arts damage, which is broken after taking a certain number of attacks",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Structural Principle> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[Organically Linked Formula] Fights in concert with <Structural Principle>. When shield is broken or HP is reduced to 0, <Structural Principle> is <$ba.stun>stunned</>, and [Reactive Defense Module] is temporarily disabled.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[Concentration Algorithm] Locks onto a target and bombards it, dealing Physical damage to it and units in the 8 surrounding tiles several times",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“Mechanist”，机械之心",
-    "KRDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "KRName": "'메커니스트', 기계 심장",
+    "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 시 <구조적 원리>가 살아있는 경우, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[생명 연결 방정식] <구조적 원리>와 협동 작전을 펼치며, 자신의 실드가 파괴되거나 HP가 0으로 감소할 시 <구조적 원리>는 <$ba.stun>기절</>하여 일정 시간 동안 [자극방어 모듈] 무효화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[초점 알고리즘] 목표 1명을 지정해 수차례 폭격, 폭격할 때마다 목표 및 주변 8칸의 유닛에게 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -218118,111 +218118,111 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“Mechanist”，机械之心",
-    "JPDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "JPName": "「Mechanist」・機械の心",
+    "JPDescription": "Mechanistの戦闘力の限界をベースモデルに設計された突破訓練官。\n厳格さと卓越した記憶力で知られるエンジニアも、かつて酒を飲んだ後このような詩を残した。「愛は熱力学第二法則が如く、永遠を望むほどに衰えていく。」",
     "JPAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "【自己防御術式】：周期的に物理・術ダメージを無効化できるシールドを獲得する。シールドは一定回数攻撃を受けると破壊される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<構造性原理>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "【生命リンク方程式】：<構造性原理>と連携して戦う。自身のシールドが破壊されるかHPが0になると、<構造性原理>が<$ba.stun>スタン</>状態になり【ストレス防御モジュール】が一定時間無効になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "【フォーカスアルゴリズム】：対象1体に狙いを定め数回爆撃を行う。爆撃1回ごとに対象とその周囲8マスのユニットに複数回の物理ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "<「Mechanist」・機械の心>と<構造性原理>が同時に復活中になったとき、【涅槃プログラム】を起動する。【涅槃プログラム】：数秒ごとにブロック数が最も多い対象に狙いを定め攻撃する。攻撃するたび対象の十字列上の全ての味方ユニットに術ダメージを与え、対象のブロック数の上限を減少させ続ける。プログラムが終了すると、第二形態になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "【工学流星雨】：<構造性原理>がブロックされたとき、ブロック対象を継続的に攻撃し、攻撃するたびに対象の十字列上の全ての味方ユニットに術ダメージを与え、対象のブロック数の上限を数秒間減少させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“Mechanist”，机械之心",
-    "ENDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "ENName": "Mechanist, Mechanical Mind",
+    "ENDescription": "A Breakthrough Trainer simulating Mechanist at the peak of his combat prowess.\nThe engineer famous for his memory and scientific rigor can also write words as romantic as 'Love is like the second law of thermodynamics: the more one longs for eternity, the further one goes down the path of decline,' when he is drunk enough.",
     "ENAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[Self-Defense Arts] Periodically gains a shield that protects against Physical and Arts damage, which is broken after taking a certain number of attacks",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Structural Principle> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[Organically Linked Formula] Fights in concert with <Structural Principle>. When shield is broken or HP is reduced to 0, <Structural Principle> is <$ba.stun>stunned</>, and [Reactive Defense Module] is temporarily disabled.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[Concentration Algorithm] Locks onto a target and bombards it, dealing Physical damage to it and units in the 8 surrounding tiles several times",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "When <Mechanist, Mechanical Mind> and <Structural Principle> are both waiting to be revived, activates [Nirvana Program]: Locks onto the target with the highest Block every few seconds and attacks them, reduces their Max Block, each attack dealing Arts damage to all your units on the same row or column with the target. Enters second form when program is terminated",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "[Engineering Meteor Shower] Attacks the blocker continuously when <Structural Principle> is blocked, dealing Arts damage to all your units on the same row or column with the blocker, and temporarily reducing their Max Block",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“Mechanist”，机械之心",
-    "KRDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "KRName": "'메커니스트', 기계 심장",
+    "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 시 <구조적 원리>가 살아있는 경우, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[생명 연결 방정식] <구조적 원리>와 협동 작전을 펼치며, 자신의 실드가 파괴되거나 HP가 0으로 감소할 시 <구조적 원리>는 <$ba.stun>기절</>하여 일정 시간 동안 [자극방어 모듈] 무효화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[초점 알고리즘] 목표 1명을 지정해 수차례 폭격, 폭격할 때마다 목표 및 주변 8칸의 유닛에게 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "<'메커니스트', 기계 심장>과 <구조적 원리>가 동시에 부활 대기 상태인 경우 [열반 프로그램] 활성화, 프로그램 종료 시 제2형태 돌입. [열반 프로그램] 몇 초마다 저지 가능 수가 가장 높은 목표를 지정해 같은 행과 열에 있는 모든 아군 유닛에게 마법 대미지를 입히고, 상대의 저지 가능 수 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "[공학 유성우] <구조적 원리>가 저지당할 시 저지한 상대를 지속해서 공격, 공격할 때마다 목표와 같은 행과 열에 있는 모든 아군 유닛에게 마법 대미지를 입히며, 짧은 시간 동안 상대의 저지 가능 수 감소",
         "textFormat": "NORMAL"
       }
     ]
@@ -218502,123 +218502,123 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“Mechanist”，机械之心",
-    "JPDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "JPName": "「Mechanist」・機械の心",
+    "JPDescription": "Mechanistの戦闘力の限界をベースモデルに設計された突破訓練官。\n厳格さと卓越した記憶力で知られるエンジニアも、かつて酒を飲んだ後このような詩を残した。「愛は熱力学第二法則が如く、永遠を望むほどに衰えていく。」",
     "JPAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "【自己防御術式】：周期的に物理・術ダメージを無効化できるシールドを獲得する。シールドは一定回数攻撃を受けると破壊される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<構造性原理>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "【生命リンク方程式】：<構造性原理>と連携して戦う。自身のシールドが破壊されるかHPが0になると、<構造性原理>が<$ba.stun>スタン</>状態になり【ストレス防御モジュール】が一定時間無効になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "【フォーカスアルゴリズム】：対象1体に狙いを定め数回爆撃を行う。爆撃1回ごとに対象とその周囲8マスのユニットに複数回の物理ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "<「Mechanist」・機械の心>と<構造性原理>が同時に復活中になったとき、【涅槃プログラム】を起動する。【涅槃プログラム】：数秒ごとにブロック数が最も多い対象に狙いを定め攻撃する。攻撃するたび対象の十字列上の全ての味方ユニットに術ダメージを与え、対象のブロック数の上限を減少させ続ける。プログラムが終了すると、第二形態になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "【工学流星雨】：<構造性原理>がブロックされたとき、ブロック対象を継続的に攻撃し、攻撃するたびに対象の十字列上の全ての味方ユニットに術ダメージを与え、対象のブロック数の上限を数秒間減少させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至50%以下时，再次释放【涅槃程序】",
+        "text": "HPが半分以下になった時に一度だけ、再び【涅槃プログラム】を起動する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“Mechanist”，机械之心",
-    "ENDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "ENName": "Mechanist, Mechanical Mind",
+    "ENDescription": "A Breakthrough Trainer simulating Mechanist at the peak of his combat prowess.\nThe engineer famous for his memory and scientific rigor can also write words as romantic as 'Love is like the second law of thermodynamics: the more one longs for eternity, the further one goes down the path of decline,' when he is drunk enough.",
     "ENAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[Self-Defense Arts] Periodically gains a shield that protects against Physical and Arts damage, which is broken after taking a certain number of attacks",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Structural Principle> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[Organically Linked Formula] Fights in concert with <Structural Principle>. When shield is broken or HP is reduced to 0, <Structural Principle> is <$ba.stun>stunned</>, and [Reactive Defense Module] is temporarily disabled.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[Concentration Algorithm] Locks onto a target and bombards it, dealing Physical damage to it and units in the 8 surrounding tiles several times",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "When <Mechanist, Mechanical Mind> and <Structural Principle> are both waiting to be revived, activates [Nirvana Program]: Locks onto the target with the highest Block every few seconds and attacks them, reduces their Max Block, each attack dealing Arts damage to all your units on the same row or column with the target. Enters second form when program is terminated",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "[Engineering Meteor Shower] Attacks the blocker continuously when <Structural Principle> is blocked, dealing Arts damage to all your units on the same row or column with the blocker, and temporarily reducing their Max Block",
         "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至50%以下时，再次释放【涅槃程序】",
+        "text": "Activates [Nirvana Program] again when HP drops below 50% for the first time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“Mechanist”，机械之心",
-    "KRDescription": "以Mechanist的战力极限为模本构拟的突破训练官。\n以严谨和记忆力著称的工程师，但也曾在某次酒后写下“爱就像热力学第二定律，越是渴望永恒，越是走向衰退。”这样的诗句。",
+    "KRName": "'메커니스트', 기계 심장",
+    "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "【自我防御术式】周期性获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "自身生命值降至0时，若<结构性原理>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 시 <구조적 원리>가 살아있는 경우, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生命链接方程】和<结构性原理>协同作战。自身护盾被击碎或者生命值降至0时，<结构性原理>会被<$ba.stun>晕眩</>且【应激防御模块】失效一段时间",
+        "text": "[생명 연결 방정식] <구조적 원리>와 협동 작전을 펼치며, 자신의 실드가 파괴되거나 HP가 0으로 감소할 시 <구조적 원리>는 <$ba.stun>기절</>하여 일정 시간 동안 [자극방어 모듈] 무효화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聚焦算法】锁定一个目标进行数次轰炸，每次轰炸对目标及其周围八格的单位造成数次物理伤害",
+        "text": "[초점 알고리즘] 목표 1명을 지정해 수차례 폭격, 폭격할 때마다 목표 및 주변 8칸의 유닛에게 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“Mechanist”，机械之心>和<结构性原理>同时处于待复活状态时，启动【涅槃程序】：每隔数秒锁定全场阻挡数最高的目标进行攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限持续减少。程序结束后进入第二形态",
+        "text": "<'메커니스트', 기계 심장>과 <구조적 원리>가 동시에 부활 대기 상태인 경우 [열반 프로그램] 활성화, 프로그램 종료 시 제2형태 돌입. [열반 프로그램] 몇 초마다 저지 가능 수가 가장 높은 목표를 지정해 같은 행과 열에 있는 모든 아군 유닛에게 마법 대미지를 입히고, 상대의 저지 가능 수 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【工程学流星雨】<结构性原理>被阻挡时，对阻挡目标持续攻击，每次攻击对目标所在行列上所有我方单位造成法术伤害，并使其阻挡数上限短时间内减少",
+        "text": "[공학 유성우] <구조적 원리>가 저지당할 시 저지한 상대를 지속해서 공격, 공격할 때마다 목표와 같은 행과 열에 있는 모든 아군 유닛에게 마법 대미지를 입히며, 짧은 시간 동안 상대의 저지 가능 수 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "生命值首次降至50%以下时，再次释放【涅槃程序】",
+        "text": "HP가 최초로 50% 이하로 감소할 시 [열반 프로그램] 다시 사용",
         "textFormat": "NORMAL"
       }
     ]
@@ -218783,63 +218783,63 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "结构性原理",
-    "JPDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "JPName": "構造性原理",
+    "JPDescription": "Mechanist自らが作ったリスクチェック用のロボットで、彼の親友でもある。\nクロージャがこのロボットに手を加えるのを防ぐため、二十ものプロテクトが施されている。",
     "JPAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<「Mechanist」・機械の心>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "【ストレス防御モジュール】：ダメージを受けると防御力と術耐性が上昇する。数秒間ダメージを受けずにいると上昇値が急激に低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "【集中モジュール】：攻撃対象に追加で<$ba.dt.erosion>侵蝕損傷</>を与え、同一対象を攻撃するたびに攻撃速度が一定値上昇する（上限あり）。一定時間攻撃せずにいるか、攻撃対象が変化すると上昇値がリセットされる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "结构性原理",
-    "ENDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "ENName": "Structural Principle",
+    "ENDescription": "A risk assessment machine built by Mechanist. His best friend.\nHe set twenty defensive programs to prevent Closure from meddling with it.",
     "ENAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Mechanist, Mechanical Mind> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[Reactive Defense Module] Gains increased DEF and RES when damage is taken; buff quickly degrades several seconds after the last damage is taken",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[Focus Module] Attacks inflict additional <$ba.dt.erosion>Corrosion Damage</> and continuously gains ASPD when attacking the same target (capped); resets when switching targets or not attacking for a few seconds",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "结构性原理",
-    "KRDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "KRName": "구조적 원리",
+    "KRDescription": "메커니스트가 직접 만든 위험 점검 기계이자 가장 친한 친구다.\n클로저가 이 기계에 손대지 못하도록, 무려 20단계의 방어 프로그램을 설치했다.",
     "KRAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 때 <'메커니스트', 기계 심장>이 살아있으면, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[자극방어 모듈] 대미지를 받을 시 방어력 및 마법 저항 증가, 몇 초간 대미지를 받지 않으며, 이후 마법 저항이 빠르게 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[집중 모듈] 공격 시 추가로 <$ba.dt.erosion>침식 손상</>을 입히며, 한 목표를 지속해서 공격할 경우 공격 속도 증가(제한 있음), 공격을 멈추거나 목표를 바꾸면 초기화",
         "textFormat": "NORMAL"
       }
     ]
@@ -219072,87 +219072,87 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "结构性原理",
-    "JPDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "JPName": "構造性原理",
+    "JPDescription": "Mechanist自らが作ったリスクチェック用のロボットで、彼の親友でもある。\nクロージャがこのロボットに手を加えるのを防ぐため、二十ものプロテクトが施されている。",
     "JPAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<「Mechanist」・機械の心>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "【ストレス防御モジュール】：ダメージを受けると防御力と術耐性が上昇する。数秒間ダメージを受けずにいると上昇値が急激に低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "【集中モジュール】：攻撃対象に追加で<$ba.dt.erosion>侵蝕損傷</>を与え、同一対象を攻撃するたびに攻撃速度が一定値上昇する（上限あり）。一定時間攻撃せずにいるか、攻撃対象が変化すると上昇値がリセットされる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "【加速モジュール】：移動時に徐々に加速する。ブロックされた直後の攻撃で、対象に移動速度に応じた追加ダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "结构性原理",
-    "ENDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "ENName": "Structural Principle",
+    "ENDescription": "A risk assessment machine built by Mechanist. His best friend.\nHe set twenty defensive programs to prevent Closure from meddling with it.",
     "ENAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Mechanist, Mechanical Mind> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[Reactive Defense Module] Gains increased DEF and RES when damage is taken; buff quickly degrades several seconds after the last damage is taken",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[Focus Module] Attacks inflict additional <$ba.dt.erosion>Corrosion Damage</> and continuously gains ASPD when attacking the same target (capped); resets when switching targets or not attacking for a few seconds",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "[Acceleration Module] Gradually accelerates when moving, and deals additional damage on the first attack after being blocked based upon Movement Speed",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "结构性原理",
-    "KRDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "KRName": "구조적 원리",
+    "KRDescription": "메커니스트가 직접 만든 위험 점검 기계이자 가장 친한 친구다.\n클로저가 이 기계에 손대지 못하도록, 무려 20단계의 방어 프로그램을 설치했다.",
     "KRAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 때 <'메커니스트', 기계 심장>이 살아있으면, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[자극방어 모듈] 대미지를 받을 시 방어력 및 마법 저항 증가, 몇 초간 대미지를 받지 않으며, 이후 마법 저항이 빠르게 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[집중 모듈] 공격 시 추가로 <$ba.dt.erosion>침식 손상</>을 입히며, 한 목표를 지속해서 공격할 경우 공격 속도 증가(제한 있음), 공격을 멈추거나 목표를 바꾸면 초기화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "[가속 모듈] 이동 시 점차 가속, 저지당한 후 첫 공격이 이동 속도에 기반하여 추가로 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -219385,87 +219385,87 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "结构性原理",
-    "JPDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "JPName": "構造性原理",
+    "JPDescription": "Mechanist自らが作ったリスクチェック用のロボットで、彼の親友でもある。\nクロージャがこのロボットに手を加えるのを防ぐため、二十ものプロテクトが施されている。",
     "JPAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "自身のHPが0になったとき、<「Mechanist」・機械の心>が戦場滞在中かつ復活中でない場合、ドローンを召喚して自身のHPを回復し、最大値まで回復すると復活する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "【ストレス防御モジュール】：ダメージを受けると防御力と術耐性が上昇する。数秒間ダメージを受けずにいると上昇値が急激に低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "【集中モジュール】：攻撃対象に追加で<$ba.dt.erosion>侵蝕損傷</>を与え、同一対象を攻撃するたびに攻撃速度が一定値上昇する（上限あり）。一定時間攻撃せずにいるか、攻撃対象が変化すると上昇値がリセットされる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "【加速モジュール】：移動時に徐々に加速する。ブロックされた直後の攻撃で、対象に移動速度に応じた追加ダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "结构性原理",
-    "ENDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "ENName": "Structural Principle",
+    "ENDescription": "A risk assessment machine built by Mechanist. His best friend.\nHe set twenty defensive programs to prevent Closure from meddling with it.",
     "ENAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "When HP is reduced to 0, if <Mechanist, Mechanical Mind> is alive on the field, summons drones to restore HP and revives when HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[Reactive Defense Module] Gains increased DEF and RES when damage is taken; buff quickly degrades several seconds after the last damage is taken",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[Focus Module] Attacks inflict additional <$ba.dt.erosion>Corrosion Damage</> and continuously gains ASPD when attacking the same target (capped); resets when switching targets or not attacking for a few seconds",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "[Acceleration Module] Gradually accelerates when moving, and deals additional damage on the first attack after being blocked based upon Movement Speed",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "结构性原理",
-    "KRDescription": "Mechanist亲手制造的风险排查机械，是他最好的朋友。\n为了不让可露希尔染指这台机械，他设置了二十道防御程序。",
+    "KRName": "구조적 원리",
+    "KRDescription": "메커니스트가 직접 만든 위험 점검 기계이자 가장 친한 친구다.\n클로저가 이 기계에 손대지 못하도록, 무려 20단계의 방어 프로그램을 설치했다.",
     "KRAbilityList": [
       {
-        "text": "自身生命值降至0时，若<“Mechanist”，机械之心>在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活",
+        "text": "자신의 HP가 0이 되었을 때 <'메커니스트', 기계 심장>이 살아있으면, 드론을 소환해 자신의 HP 회복, 전부 회복 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减",
+        "text": "[자극방어 모듈] 대미지를 받을 시 방어력 및 마법 저항 증가, 몇 초간 대미지를 받지 않으며, 이후 마법 저항이 빠르게 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【专注模块】攻击额外造成<$ba.dt.erosion>侵蚀损伤</>，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原",
+        "text": "[집중 모듈] 공격 시 추가로 <$ba.dt.erosion>침식 손상</>을 입히며, 한 목표를 지속해서 공격할 경우 공격 속도 증가(제한 있음), 공격을 멈추거나 목표를 바꾸면 초기화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害",
+        "text": "[가속 모듈] 이동 시 점차 가속, 저지당한 후 첫 공격이 이동 속도에 기반하여 추가로 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -219547,27 +219547,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "文档",
-    "JPDescription": "Pith的学生。理性，精于计算，拥有极高的源石技艺适应性。为了保持大脑的活性，选择作为重装干员踏上战场。",
+    "JPName": "ドキュメント",
+    "JPDescription": "Pithの教え子。理性的で計算能力に秀で、極めて高いアーツ適性を持つ。脳の活性状態を保つために、重装オペレーターとして戦場に足を踏み入れることを選択した。",
     "JPAbilityList": [
       {
-        "text": "拥有防护力场时受到的物理及法术伤害大幅降低，力场在受到单次高额伤害时破裂",
+        "text": "防御力場を展開し、自身の物理・術の被ダメージを大幅に低下させる。防御力場は単発の高いダメージを受けると破壊される",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "文档",
-    "ENDescription": "Pith的学生。理性，精于计算，拥有极高的源石技艺适应性。为了保持大脑的活性，选择作为重装干员踏上战场。",
+    "ENName": "Document",
+    "ENDescription": "Pith's student. Rational and good at math, with outstanding Originium Arts Assimilation. Chose to take to the battlefield as a defender operator to maintain an active mind.",
     "ENAbilityList": [
       {
-        "text": "拥有防护力场时受到的物理及法术伤害大幅降低，力场在受到单次高额伤害时破裂",
+        "text": "Takes greatly reduced Arts and Physical damage when force field is active; force field breaks when a large amount of damage is taken in a single instance",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "文档",
-    "KRDescription": "Pith的学生。理性，精于计算，拥有极高的源石技艺适应性。为了保持大脑的活性，选择作为重装干员踏上战场。",
+    "KRName": "도큐먼트",
+    "KRDescription": "피스의 제자. 이성적이고 계산에 능하며, 매우 높은 오리지늄 아츠 적응성을 갖고 있다. 두뇌의 활성을 유지하기 위해 디펜더 오퍼레이터로서 전장에 나섰다.",
     "KRAbilityList": [
       {
-        "text": "拥有防护力场时受到的物理及法术伤害大幅降低，力场在受到单次高额伤害时破裂",
+        "text": "방호 역장 보유 시 피격 물리 및 마법 대미지 대폭 감소, 역장은 한 번에 대량의 대미지를 받을 시 파괴",
         "textFormat": "NORMAL"
       }
     ]
@@ -219671,51 +219671,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "叶毯",
-    "JPDescription": "Sharp带到罗德岛的孤儿。有着极高的速度，发挥全力的状态下，曾让Sharp都感到棘手，并因此被认可加入了Sharp的小队。对于Sharp经常独自行动感到不满。",
+    "JPName": "リーフカーペット",
+    "JPDescription": "Sharpがロドスに連れてきた孤児。極めてスピードが速く、全力を出すとSharpですら手を焼くほどであり、その実力もあってSharpの小隊への加入を認められた。Sharpが頻繁に単独行動を取ることに不満を抱いている。",
     "JPAbilityList": [
       {
-        "text": "不可阻挡",
+        "text": "ブロック不可",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动时逐渐加速，使经过的目标<$ba.stun>晕眩</>数秒，并对其造成与自身移动速度相关的物理伤害",
+        "text": "移動時に徐々に加速し、対象をすり抜ける際に数秒間<$ba.stun>スタン</>させ、自身の移動速度に応じた物理ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动被打断时自身在短时间内获得高额<$ba.fragile>脆弱</>",
+        "text": "移動を止められると、数秒間効果値の高い<$ba.fragile>脆弱</>状態になる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "叶毯",
-    "ENDescription": "Sharp带到罗德岛的孤儿。有着极高的速度，发挥全力的状态下，曾让Sharp都感到棘手，并因此被认可加入了Sharp的小队。对于Sharp经常独自行动感到不满。",
+    "ENName": "Leafcarpet",
+    "ENDescription": "An orphan that Sharp brought to Rhodes Island. When in peak condition, she is fast enough to give Sharp a run for his money, and was thus recruited into his squad. Not happy with how Sharp often goes solo.",
     "ENAbilityList": [
       {
-        "text": "不可阻挡",
+        "text": "Unblockable",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动时逐渐加速，使经过的目标<$ba.stun>晕眩</>数秒，并对其造成与自身移动速度相关的物理伤害",
+        "text": "Accelerates when moving, <$ba.stun>stuns</> units along her path for a few seconds, and deals Physical damage based on her current Movement Speed",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动被打断时自身在短时间内获得高额<$ba.fragile>脆弱</>",
+        "text": "Temporarily gains a large <$ba.fragile>Fragile</> effect if movement is interrupted",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "叶毯",
-    "KRDescription": "Sharp带到罗德岛的孤儿。有着极高的速度，发挥全力的状态下，曾让Sharp都感到棘手，并因此被认可加入了Sharp的小队。对于Sharp经常独自行动感到不满。",
+    "KRName": "리프카펫",
+    "KRDescription": "샤프가 로도스 아일랜드로 데려온 고아, 속도가 매우 빠르다. 전력을 다하면 샤프조차 감당하기 어려울 정도다. 이로 인해 샤프의 인정을 받고 그의 소대에 합류했다. 샤프가 자주 독자적으로 행동하는 것에 불만을 가지고 있다.",
     "KRAbilityList": [
       {
-        "text": "不可阻挡",
+        "text": "저지 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动时逐渐加速，使经过的目标<$ba.stun>晕眩</>数秒，并对其造成与自身移动速度相关的物理伤害",
+        "text": "이동 시 점차 가속, 지나간 목표를 일정 시간 <$ba.stun>기절</>시키며, 자신의 이동 속도에 비례하는 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "移动被打断时自身在短时间内获得高额<$ba.fragile>脆弱</>",
+        "text": "이동이 방해받으면 짧은 시간 동안 높은 <$ba.fragile>취약</> 효과 획득",
         "textFormat": "NORMAL"
       }
     ]
@@ -219807,27 +219807,27 @@
         "textFormat": "SILENCE"
       }
     ],
-    "JPName": "秒表",
-    "JPDescription": "Touch的人形翻译机。曾在萨米招摇撞骗并险些遇险，在Touch的帮助下得以全身而退，从此洗心革面加入罗德岛。自诩能理解Touch的所有话外之音，Touch对此不置可否。",
+    "JPName": "ストップウォッチ",
+    "JPDescription": "Touch専属の人間翻訳機。かつてサーミにて詐欺まがいの行為を行って危険な目に遭いかけたが、Touchの助けで無事逃げ延びた。それ以降は心を入れ替え、ロドスに加入した。Touchの言外の言葉すらも全て理解できると豪語しているが、Touchはそれについて肯定も否定もしていない。",
     "JPAbilityList": [
       {
-        "text": "未被阻挡时周期性提升全场敌人的攻击速度与移动速度",
+        "text": "ブロックされていないとき、周期的に敵全員の攻撃速度と移動速度を上昇させる",
         "textFormat": "SILENCE"
       }
     ],
-    "ENName": "秒表",
-    "ENDescription": "Touch的人形翻译机。曾在萨米招摇撞骗并险些遇险，在Touch的帮助下得以全身而退，从此洗心革面加入罗德岛。自诩能理解Touch的所有话外之音，Touch对此不置可否。",
+    "ENName": "Stopwatch",
+    "ENDescription": "Touch's translator and a former Sami crook who decided to go straight and join Rhodes Island after being rescued by Touch. Claims to understand all the words that Touch leaves unsaid, which Touch neither affirms nor denies.",
     "ENAbilityList": [
       {
-        "text": "未被阻挡时周期性提升全场敌人的攻击速度与移动速度",
+        "text": "Periodically increases the ASPD and Movement Speed of all enemies on the field when not blocked",
         "textFormat": "SILENCE"
       }
     ],
-    "KRName": "秒表",
-    "KRDescription": "Touch的人形翻译机。曾在萨米招摇撞骗并险些遇险，在Touch的帮助下得以全身而退，从此洗心革面加入罗德岛。自诩能理解Touch的所有话外之音，Touch对此不置可否。",
+    "KRName": "스톱워치",
+    "KRDescription": "터치의 인간형 번역기. 과거 사미에서 사기 행각을 벌이다 위험에 처할 뻔했지만, 터치의 도움으로 무사히 빠져나왔다. 그 후 마음을 고쳐먹고 로도스 아일랜드에 합류했다. 나름 터치의 모든 말귀를 이해한다고 자부하지만, 정작 터치는 이에 대해 아무런 언급도 하지 않는다.",
     "KRAbilityList": [
       {
-        "text": "未被阻挡时周期性提升全场敌人的攻击速度与移动速度",
+        "text": "저지당하고 있지 않을 때 주기적으로 모든 적의 공격 속도 및 이동 속도 증가",
         "textFormat": "SILENCE"
       }
     ]
@@ -219937,39 +219937,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "巨声",
-    "JPDescription": "Stormeye的酒友。在Stormeye流浪时期就与他相识，后来一起加入了罗德岛。Stormeye的酒量完全就是被她锻炼出来的。",
+    "JPName": "アップロアー",
+    "JPDescription": "Stormeyeの飲み友達。Stormeyeが放浪していた時期に知り合い、その後共にロドスに加入した。Stormeyeの飲みっぷりは完全に彼女に鍛え上げられたものだ。",
     "JPAbilityList": [
       {
-        "text": "未被阻挡受到伤害时，大幅降低该次所受到的物理或法术伤害，随后发射一轮箭雨，对伤害来源周围的单位造成溅射伤害并使其攻击速度大幅降低",
+        "text": "ブロックされていない状態で攻撃を受けたとき、その攻撃の物理・術の被ダメージを大幅に低下させ、さらに攻撃してきた対象とその周囲のユニットに矢の雨を放ち範囲ダメージを与え、対象の攻撃速度を大幅に低下させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "重生",
+        "text": "HPが0になると一度だけ復活する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "巨声",
-    "ENDescription": "Stormeye的酒友。在Stormeye流浪时期就与他相识，后来一起加入了罗德岛。Stormeye的酒量完全就是被她锻炼出来的。",
+    "ENName": "Uproar",
+    "ENDescription": "Stormeye's drinking buddy who met him when he was still a wanderer, and later joined Rhodes Island together. She taught Stormeye how to hold his drink.",
     "ENAbilityList": [
       {
-        "text": "未被阻挡受到伤害时，大幅降低该次所受到的物理或法术伤害，随后发射一轮箭雨，对伤害来源周围的单位造成溅射伤害并使其攻击速度大幅降低",
+        "text": "Takes greatly reduced Physical and Arts damage when unblocked, then fires a rain of arrows, dealing splash damage to units around the damage source and greatly reducing their ASPD",
         "textFormat": "NORMAL"
       },
       {
-        "text": "重生",
+        "text": "Rebirth",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "巨声",
-    "KRDescription": "Stormeye的酒友。在Stormeye流浪时期就与他相识，后来一起加入了罗德岛。Stormeye的酒量完全就是被她锻炼出来的。",
+    "KRName": "업로어",
+    "KRDescription": "스톰아이의 술친구. 스톰아이가 방랑하던 시절 알게 된 사이로, 나중에 함께 로도스 아일랜드에 합류했다. 스톰아이의 주량은 전적으로 그녀가 단련시켜 준 것이다.",
     "KRAbilityList": [
       {
-        "text": "未被阻挡受到伤害时，大幅降低该次所受到的物理或法术伤害，随后发射一轮箭雨，对伤害来源周围的单位造成溅射伤害并使其攻击速度大幅降低",
+        "text": "저지당하고 있지 않을 때 받는 물리 또는 마법 대미지 대폭 감소, 이후 화살비를 발사해 대미지를 입힌 대상의 주변 유닛에 스플래시 대미지를 입히고, 공격 속도를 대폭 감소시킴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "重生",
+        "text": "부활",
         "textFormat": "NORMAL"
       }
     ]

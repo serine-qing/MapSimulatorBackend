@@ -46,7 +46,16 @@ const getMeshsKey = (req: any, res: any) => {
   let error = "敌人mesh文件缺失:";
   let hasError = false;
   keys.forEach(key => {
-    const spine = spines[key];
+    //矢量突破boss有_2的key
+    let actrulKey = key;
+    //todo
+    // if(key.includes("8010_mcnist")){
+    //   actrulKey = "8010_mcnist";
+    // }else if(key.includes("8011_mcndog")){
+    //   actrulKey = "8011_mcndog";
+    // }
+
+    const spine = spines[actrulKey];
     const fbx = fbxs[key];
 
     if(spine){

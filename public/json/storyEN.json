@@ -94,6 +94,142 @@
               "name": "耶拉冈德在上",
               "description": "耶拉冈德在上，耶拉冈德在上，耶拉冈德在上！\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
               "hasChallenge": false
+            },
+            {
+              "id": "OS-EX-1",
+              "operation": "OS-EX-1",
+              "levelId": "activities/act46side/level_act46side_ex01",
+              "name": "饮净水",
+              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-1CM",
+              "operation": "突袭OS-EX-1",
+              "levelId": "activities/act46side/level_act46side_ex01",
+              "name": "饮净水",
+              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<伊斯贝塔高台>"
+            },
+            {
+              "id": "OS-EX-2",
+              "operation": "OS-EX-2",
+              "levelId": "activities/act46side/level_act46side_ex02",
+              "name": "敬友邻",
+              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-2CM",
+              "operation": "突袭OS-EX-2",
+              "levelId": "activities/act46side/level_act46side_ex02",
+              "name": "敬友邻",
+              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲与斯托斯贝塔生命值额外提升"
+            },
+            {
+              "id": "OS-EX-3",
+              "operation": "OS-EX-3",
+              "levelId": "activities/act46side/level_act46side_ex03",
+              "name": "御外敌",
+              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-3CM",
+              "operation": "突袭OS-EX-3",
+              "levelId": "activities/act46side/level_act46side_ex03",
+              "name": "御外敌",
+              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲生命值额外提升"
+            },
+            {
+              "id": "OS-EX-4",
+              "operation": "OS-EX-4",
+              "levelId": "activities/act46side/level_act46side_ex04",
+              "name": "熟食而止",
+              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-4CM",
+              "operation": "突袭OS-EX-4",
+              "levelId": "activities/act46side/level_act46side_ex04",
+              "name": "熟食而止",
+              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的初始雪崩预警增加"
+            },
+            {
+              "id": "OS-EX-5",
+              "operation": "OS-EX-5",
+              "levelId": "activities/act46side/level_act46side_ex05",
+              "name": "皮毛加身",
+              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-5CM",
+              "operation": "突袭OS-EX-5",
+              "levelId": "activities/act46side/level_act46side_ex05",
+              "name": "皮毛加身",
+              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+            },
+            {
+              "id": "OS-EX-6",
+              "operation": "OS-EX-6",
+              "levelId": "activities/act46side/level_act46side_ex06",
+              "name": "顺时耕作",
+              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-6CM",
+              "operation": "突袭OS-EX-6",
+              "levelId": "activities/act46side/level_act46side_ex06",
+              "name": "顺时耕作",
+              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n场上5个位置不可部署"
+            },
+            {
+              "id": "OS-EX-7",
+              "operation": "OS-EX-7",
+              "levelId": "activities/act46side/level_act46side_ex07",
+              "name": "以石取石",
+              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-7CM",
+              "operation": "突袭OS-EX-7",
+              "levelId": "activities/act46side/level_act46side_ex07",
+              "name": "以石取石",
+              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的雪崩禁区"
+            },
+            {
+              "id": "OS-EX-8",
+              "operation": "OS-EX-8",
+              "levelId": "activities/act46side/level_act46side_ex08",
+              "name": "以人的名",
+              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-8CM",
+              "operation": "突袭OS-EX-8",
+              "levelId": "activities/act46side/level_act46side_ex08",
+              "name": "以人的名",
+              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
             }
           ]
         },
@@ -11994,6 +12130,7 @@
               "operation": "VEC-03",
               "levelId": "activities/act1vecb/level_act1vecb_03",
               "name": "Burdened",
+              "description": null,
               "hasChallenge": false
             },
             {
@@ -13864,262 +14001,262 @@
         },
         {
           "id": "act1break",
-          "episode": "矢量突破：无机物",
+          "episode": "Vector Breakthrough - Inorganic Matters",
           "childNodes": [
             {
               "id": "VEC-01",
               "operation": "VEC-01",
               "levelId": "activities/act1break/level_act1break_01",
-              "name": "横冲直进",
-              "description": "部分敌人的基础属性提升",
+              "name": "Forward Charge",
+              "description": "Increases some enemies' base stats.",
               "hasChallenge": false
             },
             {
               "id": "VEC-02",
               "operation": "VEC-02",
               "levelId": "activities/act1break/level_act1break_02",
-              "name": "交通拦截",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n部分敌人的基础属性提升",
+              "name": "Traffic Interception",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-03",
               "operation": "VEC-03",
               "levelId": "activities/act1break/level_act1break_03",
-              "name": "潮声轰鸣",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n部分敌人的基础属性提升",
+              "name": "Roaring Tides",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-04",
               "operation": "VEC-04",
               "levelId": "activities/act1break/level_act1break_04",
-              "name": "机械概括谬误",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤",
+              "name": "Mechanical Errors",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage",
               "hasChallenge": false
             },
             {
               "id": "VEC-05",
               "operation": "VEC-05",
               "levelId": "activities/act1break/level_act1break_05",
-              "name": "止步即死",
-              "description": "<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Deathly Pause",
+              "description": "<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-06",
               "operation": "VEC-06",
               "levelId": "activities/act1break/level_act1break_06",
-              "name": "二次烧成",
-              "description": "<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Double Firing",
+              "description": "<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-07",
               "operation": "VEC-07",
               "levelId": "activities/act1break/level_act1break_07",
-              "name": "果蔬乱炖",
-              "description": "<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n<@vecbreakv2.highlight><热泵通道></>每隔一段时间便会对其上的我军和敌军造成大量伤害\\n部分敌人的基础属性提升",
+              "name": "Fruity Ragout",
+              "description": "<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\n<@vecbreakv2.highlight><Heat Pump Passage></>Periodically deals great damage to any units on it\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-08",
               "operation": "VEC-08",
               "levelId": "activities/act1break/level_act1break_08",
-              "name": "结构化思维",
-              "description": "<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物",
+              "name": "Structured Mentality",
+              "description": "<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks",
               "hasChallenge": false
             },
             {
               "id": "VEC-09",
               "operation": "VEC-09",
               "levelId": "activities/act1break/level_act1break_09",
-              "name": "心碎沙堡",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n部分敌人的基础属性提升",
+              "name": "Sandcastle Sorrows",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-10",
               "operation": "VEC-10",
               "levelId": "activities/act1break/level_act1break_10",
-              "name": "夹道欢迎",
-              "description": "<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Welcome Contingent",
+              "description": "<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-11",
               "operation": "VEC-11",
               "levelId": "activities/act1break/level_act1break_11",
-              "name": "寒暑不分",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Blurred Seasons",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-12",
               "operation": "VEC-12",
               "levelId": "activities/act1break/level_act1break_12",
-              "name": "存在性论证",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Existential Argumentation",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-A",
               "operation": "VEC-A",
               "levelId": "activities/act1break/level_act1break_13",
-              "name": "热情逼人",
-              "description": "<@vecbreakv2.highlight><毒性雾霾></>我方单位会持续失去生命\\n<@vecbreakv2.highlight><岩浆喷射处></>每隔一定时间会喷出岩浆，对周围8格内的我方单位造成大量伤害且融化障碍物\\n部分敌人的基础属性提升",
+              "name": "Passionate Threat",
+              "description": "<@vecbreakv2.highlight><Poison Haze></> Your units continuously lose HP\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-B",
               "operation": "VEC-B",
               "levelId": "activities/act1break/level_act1break_14",
-              "name": "车轮滚滚",
-              "description": "<@vecbreakv2.highlight><涨潮></>被淹没的地块无法部署，水中的我方单位攻击速度降低，持续受到侵蚀损伤\\n部分敌人的基础属性提升",
+              "name": "Rumbling Wheels",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
               "id": "VEC-C",
               "operation": "VEC-C",
               "levelId": "activities/act1break/level_act1break_15",
-              "name": "思绪倒影",
-              "description": "部分敌人的基础属性提升",
+              "name": "Inverted Thoughts",
+              "description": "Increases some enemies' base stats.",
               "hasChallenge": false
             },
             {
               "id": "VEC-D",
               "operation": "VEC-D",
               "levelId": "activities/act1break/level_act1break_16",
-              "name": "有限性原理",
-              "description": "部分敌人的基础属性提升",
+              "name": "Bounded Rationality",
+              "description": "Increases some enemies' base stats.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP01",
               "operation": "VEC-SP01",
               "levelId": "activities/act1break/level_act1break_sp01",
-              "name": "何必匆忙",
-              "description": "慢些走也许可以多看点风景。",
+              "name": "Why Rush?",
+              "description": "Perhaps a slower pace will allow more time to appreciate the view.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP02",
               "operation": "VEC-SP02",
               "levelId": "activities/act1break/level_act1break_sp02",
-              "name": "无暇分心",
-              "description": "当你想认真解决掉一些大麻烦时，总有些宵小之辈来打扰你！",
+              "name": "No Time For Distractions",
+              "description": "Trifling troublemakers are bound to show up whenever you're earnestly trying to solve a big issue!",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP03",
               "operation": "VEC-SP03",
               "levelId": "activities/act1break/level_act1break_sp03",
-              "name": "火力掩护",
-              "description": "事情总要一件一件做，万事开头难，挺过去就好了。",
+              "name": "Covering Fire",
+              "description": "Things ought to be done one by one. The start is always the hardest, but get past it and it'll all be fine.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP04",
               "operation": "VEC-SP04",
               "levelId": "activities/act1break/level_act1break_sp04",
-              "name": "啮齿出洞",
-              "description": "那些麻烦一拥而上的时候，可别被它们吓倒，不碰一碰怎么知道孰强孰弱？",
+              "name": "Gnawed-Out Holes",
+              "description": "Don't be scared by these pests when they swarm around you. How will you know who is stronger without a proper fight?",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP05",
               "operation": "VEC-SP05",
               "levelId": "activities/act1break/level_act1break_sp05",
-              "name": "啮齿狂潮",
-              "description": "顶不住的话，别硬扛，让顶得住的人来。",
+              "name": "Gnawbeast Tsunami",
+              "description": "If you can't take it anymore, let someone else who can do it.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP06",
               "operation": "VEC-SP06",
               "levelId": "activities/act1break/level_act1break_sp06",
-              "name": "择人而噬",
-              "description": "再坏的事情都会有个发展过程的，在这期间总能做点什么。",
+              "name": "Consumption Choice",
+              "description": "No matter how bad a situation may get, there's still time to act before it gets even worse.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP07",
               "operation": "VEC-SP07",
               "levelId": "activities/act1break/level_act1break_sp07",
-              "name": "投资回报",
-              "description": "付出一定会有回报，但是回报什么时候才能兑现？不好说。",
+              "name": "Investment Returns",
+              "description": "Pay a little, and you'll get something in return. But when exactly will you reap what you sow? Hard to say.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP08",
               "operation": "VEC-SP08",
               "levelId": "activities/act1break/level_act1break_sp08",
-              "name": "风险投资",
-              "description": "以小博大能成功固然惊喜，但惊喜兑现之前，可别倒下。",
+              "name": "Venture Capital",
+              "description": "It may be a pleasant surprise to win big with a small investment, but keep your guard up until you cash it in.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP09",
               "operation": "VEC-SP09",
               "levelId": "activities/act1break/level_act1break_sp09",
-              "name": "风尘仆仆",
-              "description": "有时候感觉自己很忙，但好像也没忙出什么东西来。",
+              "name": "Long Journey",
+              "description": "Sometimes you may feel busy, yet it feels as if nothing has gotten done.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP10",
               "operation": "VEC-SP10",
               "levelId": "activities/act1break/level_act1break_sp10",
-              "name": "行色匆匆",
-              "description": "有时候感觉身边的人都很忙，又不知道大家都在忙些什么，于是自己就开始慌了。",
+              "name": "Hurry Everywhere",
+              "description": "Sometimes you may feel everyone else is busy, but you haven't got a clue what they're up to, and you start losing your mind.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP11",
               "operation": "VEC-SP11",
               "levelId": "activities/act1break/level_act1break_sp11",
-              "name": "爆炸现场",
-              "description": "人又多又杂的场合，最适合假装自己很忙。",
+              "name": "Explosion Scene",
+              "description": "It's best to pretend you're busy if you find yourself in a messy crowd.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP12",
               "operation": "VEC-SP12",
               "levelId": "activities/act1break/level_act1break_sp12",
-              "name": "巫术排练",
-              "description": "难办的问题偏偏还扎堆一起来。",
+              "name": "Witchcraft Rehearsal",
+              "description": "Difficult problems always coop up in one place.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP13",
               "operation": "VEC-SP13",
               "levelId": "activities/act1break/level_act1break_sp13",
-              "name": "巫术汇演",
-              "description": "预想中可能会出的岔子总是一个都不少。",
+              "name": "Witchcraft Performance",
+              "description": "Potential hiccups always happen more than you expect.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP14",
               "operation": "VEC-SP14",
               "levelId": "activities/act1break/level_act1break_sp14",
-              "name": "绝人之路",
-              "description": "当你发现无路可走的时候，不妨换个角度想想，也许到处都能走呢？",
+              "name": "No Escape",
+              "description": "When you hit a dead end, why not look at it from a different angle? Perhaps it's a starting point of not one, but many different paths.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP15",
               "operation": "VEC-SP15",
               "levelId": "activities/act1break/level_act1break_sp15",
-              "name": "墙开一面",
-              "description": "意识到自己身处危险之中时，别只顾着思考怎么逃出去，也该想想什么时候拔腿开溜最合适。",
+              "name": "Wall Opening",
+              "description": "Once you realize you're in danger, don't just think about how to escape, but about when's the best time to do so.",
               "hasChallenge": false
             },
             {
               "id": "VEC-SP16",
               "operation": "VEC-SP16",
               "levelId": "activities/act1break/level_act1break_sp16",
-              "name": "活路一条",
-              "description": "不过，要注意——就算逃离危险时发现那并非最好的时机，也千万不能再往回走了！",
+              "name": "One Way Out",
+              "description": "But take note—even if you find out you slipped up on the timing, make sure you don't retrace your steps and go backward!",
               "hasChallenge": false
             }
           ]
@@ -15225,6 +15362,236 @@
               "name": "湖骸险地",
               "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
               "hasChallenge": false
+            }
+          ]
+        },
+        {
+          "id": "act46side",
+          "episode": "雪山降临1101",
+          "childNodes": [
+            {
+              "id": "OS-TR-1",
+              "operation": "OS-TR-1",
+              "levelId": "activities/act46side/level_act46side_tr01",
+              "name": "第一片雪",
+              "description": "第一片雪花落下的时候，没有人意识到会发生什么。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-1",
+              "operation": "OS-1",
+              "levelId": "activities/act46side/level_act46side_01",
+              "name": "呼号声中",
+              "description": "报丧的羽兽哀鸣着，在雪地之上久久盘桓。不幸之中的不幸仍在降临。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-2",
+              "operation": "OS-2",
+              "levelId": "activities/act46side/level_act46side_02",
+              "name": "甜蜜的邻人",
+              "description": "来者叩响门扉。他手捧佳肴与美酒，呼朋且引伴。只求片刻松懈，使其深入脆弱的裂痕。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-3",
+              "operation": "OS-3",
+              "levelId": "activities/act46side/level_act46side_03",
+              "name": "雪灌木中",
+              "description": "新朋友总代表新机遇，是否抓住他们只在你的一念之间。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-4",
+              "operation": "OS-4",
+              "levelId": "activities/act46side/level_act46side_04",
+              "name": "并蒂生",
+              "description": "无论曾有过何种斗争隔阂，如今，我们握手而言，走向同样的前路。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-5",
+              "operation": "OS-5",
+              "levelId": "activities/act46side/level_act46side_05",
+              "name": "雪夜独行",
+              "description": "信任者离散，她与她勇敢的心独自踏上旅程。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-6",
+              "operation": "OS-6",
+              "levelId": "activities/act46side/level_act46side_06",
+              "name": "绿翡翠",
+              "description": "耐心是猎人般的美德。它会带你找到缝隙、机会、蚕食的开端与相互体恤的黎明。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-7",
+              "operation": "OS-7",
+              "levelId": "activities/act46side/level_act46side_07",
+              "name": "焚心灼影",
+              "description": "一个烟雾缭绕中的秘密，一支燃烧殆尽的焚香，一段轰鸣的咆哮，两位爱侣，三个孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-8",
+              "operation": "OS-8",
+              "levelId": "activities/act46side/level_act46side_08",
+              "name": "宣告在途",
+              "description": "人们相信什么，取决于他们听到与见到什么。而欺骗与愚弄的艺术恰在其中。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-9",
+              "operation": "OS-9",
+              "levelId": "activities/act46side/level_act46side_09",
+              "name": "凛刃出匣",
+              "description": "仍有人徒劳地期待一个温暖的春天。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-10",
+              "operation": "OS-10",
+              "levelId": "activities/act46side/level_act46side_10",
+              "name": "耶拉冈德在上",
+              "description": "耶拉冈德在上，耶拉冈德在上，耶拉冈德在上！\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": false
+            },
+            {
+              "id": "OS-EX-1",
+              "operation": "OS-EX-1",
+              "levelId": "activities/act46side/level_act46side_ex01",
+              "name": "饮净水",
+              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-1CM",
+              "operation": "突袭OS-EX-1",
+              "levelId": "activities/act46side/level_act46side_ex01",
+              "name": "饮净水",
+              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<伊斯贝塔高台>"
+            },
+            {
+              "id": "OS-EX-2",
+              "operation": "OS-EX-2",
+              "levelId": "activities/act46side/level_act46side_ex02",
+              "name": "敬友邻",
+              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-2CM",
+              "operation": "突袭OS-EX-2",
+              "levelId": "activities/act46side/level_act46side_ex02",
+              "name": "敬友邻",
+              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲与斯托斯贝塔生命值额外提升"
+            },
+            {
+              "id": "OS-EX-3",
+              "operation": "OS-EX-3",
+              "levelId": "activities/act46side/level_act46side_ex03",
+              "name": "御外敌",
+              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-3CM",
+              "operation": "突袭OS-EX-3",
+              "levelId": "activities/act46side/level_act46side_ex03",
+              "name": "御外敌",
+              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲生命值额外提升"
+            },
+            {
+              "id": "OS-EX-4",
+              "operation": "OS-EX-4",
+              "levelId": "activities/act46side/level_act46side_ex04",
+              "name": "熟食而止",
+              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-4CM",
+              "operation": "突袭OS-EX-4",
+              "levelId": "activities/act46side/level_act46side_ex04",
+              "name": "熟食而止",
+              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的初始雪崩预警增加"
+            },
+            {
+              "id": "OS-EX-5",
+              "operation": "OS-EX-5",
+              "levelId": "activities/act46side/level_act46side_ex05",
+              "name": "皮毛加身",
+              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-5CM",
+              "operation": "突袭OS-EX-5",
+              "levelId": "activities/act46side/level_act46side_ex05",
+              "name": "皮毛加身",
+              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+            },
+            {
+              "id": "OS-EX-6",
+              "operation": "OS-EX-6",
+              "levelId": "activities/act46side/level_act46side_ex06",
+              "name": "顺时耕作",
+              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-6CM",
+              "operation": "突袭OS-EX-6",
+              "levelId": "activities/act46side/level_act46side_ex06",
+              "name": "顺时耕作",
+              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n场上5个位置不可部署"
+            },
+            {
+              "id": "OS-EX-7",
+              "operation": "OS-EX-7",
+              "levelId": "activities/act46side/level_act46side_ex07",
+              "name": "以石取石",
+              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-7CM",
+              "operation": "突袭OS-EX-7",
+              "levelId": "activities/act46side/level_act46side_ex07",
+              "name": "以石取石",
+              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的雪崩禁区"
+            },
+            {
+              "id": "OS-EX-8",
+              "operation": "OS-EX-8",
+              "levelId": "activities/act46side/level_act46side_ex08",
+              "name": "以人的名",
+              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-EX-8CM",
+              "operation": "突袭OS-EX-8",
+              "levelId": "activities/act46side/level_act46side_ex08",
+              "name": "以人的名",
+              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
             }
           ]
         }
@@ -21152,9 +21519,9 @@
         },
         {
           "id": "camp_r_28",
-          "operation": "萨尔贡 大巴扎",
+          "operation": "Sargon Grand Bazaar",
           "name": "",
-          "description": "一群胆大包天的沙盗闯入了博物馆，他们误触机关，居然使得沉睡的展品们苏醒了过来。城里现在一片混乱，快让街道恢复原本的秩序吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复",
+          "description": "Brazen sand bandits have accidentally awakened the sleeping exhibits while trying to rob the museum. Restore order to the streets!\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.",
           "levelId": "obt/campaign/level_camp_r_28",
           "hasChallenge": false
         },
