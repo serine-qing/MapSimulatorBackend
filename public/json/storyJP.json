@@ -230,6 +230,91 @@
               "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
+            },
+            {
+              "id": "OS-S-1",
+              "operation": "OS-S-1",
+              "levelId": "activities/act46side/level_act46side_sub-1-1",
+              "name": "打雪仗",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-1CM",
+              "operation": "突袭OS-S-1",
+              "levelId": "activities/act46side/level_act46side_sub-1-1",
+              "name": "打雪仗",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的位置变换"
+            },
+            {
+              "id": "OS-S-2",
+              "operation": "OS-S-2",
+              "levelId": "activities/act46side/level_act46side_sub-1-2",
+              "name": "堆雪人",
+              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-2CM",
+              "operation": "突袭OS-S-2",
+              "levelId": "activities/act46side/level_act46side_sub-1-2",
+              "name": "堆雪人",
+              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n雪崩禁区内初始出现额外的雪顽童"
+            },
+            {
+              "id": "OS-S-3",
+              "operation": "OS-S-3",
+              "levelId": "activities/act46side/level_act46side_sub-1-3",
+              "name": "雪孩子",
+              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-3CM",
+              "operation": "突袭OS-S-3",
+              "levelId": "activities/act46side/level_act46side_sub-1-3",
+              "name": "雪孩子",
+              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区内的<圣女像>朝向改变"
+            },
+            {
+              "id": "OS-S-4",
+              "operation": "OS-S-4",
+              "levelId": "activities/act46side/level_act46side_sub-1-4",
+              "name": "雪中歌谣",
+              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-4CM",
+              "operation": "突袭OS-S-4",
+              "levelId": "activities/act46side/level_act46side_sub-1-4",
+              "name": "雪中歌谣",
+              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分“喷爆罐”被替换为焕生雪伞"
+            },
+            {
+              "id": "OS-S-5",
+              "operation": "OS-S-5",
+              "levelId": "activities/act46side/level_act46side_sub-1-5",
+              "name": "雪与我与雪",
+              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-5CM",
+              "operation": "突袭OS-S-5",
+              "levelId": "activities/act46side/level_act46side_sub-1-5",
+              "name": "雪与我与雪",
+              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n近卫与重装干员部署费用提升至2倍"
             }
           ]
         },
@@ -15592,6 +15677,91 @@
               "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
+            },
+            {
+              "id": "OS-S-1",
+              "operation": "OS-S-1",
+              "levelId": "activities/act46side/level_act46side_sub-1-1",
+              "name": "打雪仗",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-1CM",
+              "operation": "突袭OS-S-1",
+              "levelId": "activities/act46side/level_act46side_sub-1-1",
+              "name": "打雪仗",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的位置变换"
+            },
+            {
+              "id": "OS-S-2",
+              "operation": "OS-S-2",
+              "levelId": "activities/act46side/level_act46side_sub-1-2",
+              "name": "堆雪人",
+              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-2CM",
+              "operation": "突袭OS-S-2",
+              "levelId": "activities/act46side/level_act46side_sub-1-2",
+              "name": "堆雪人",
+              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n雪崩禁区内初始出现额外的雪顽童"
+            },
+            {
+              "id": "OS-S-3",
+              "operation": "OS-S-3",
+              "levelId": "activities/act46side/level_act46side_sub-1-3",
+              "name": "雪孩子",
+              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-3CM",
+              "operation": "突袭OS-S-3",
+              "levelId": "activities/act46side/level_act46side_sub-1-3",
+              "name": "雪孩子",
+              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区内的<圣女像>朝向改变"
+            },
+            {
+              "id": "OS-S-4",
+              "operation": "OS-S-4",
+              "levelId": "activities/act46side/level_act46side_sub-1-4",
+              "name": "雪中歌谣",
+              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-4CM",
+              "operation": "突袭OS-S-4",
+              "levelId": "activities/act46side/level_act46side_sub-1-4",
+              "name": "雪中歌谣",
+              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分“喷爆罐”被替换为焕生雪伞"
+            },
+            {
+              "id": "OS-S-5",
+              "operation": "OS-S-5",
+              "levelId": "activities/act46side/level_act46side_sub-1-5",
+              "name": "雪与我与雪",
+              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true
+            },
+            {
+              "id": "OS-S-5CM",
+              "operation": "突袭OS-S-5",
+              "levelId": "activities/act46side/level_act46side_sub-1-5",
+              "name": "雪与我与雪",
+              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n近卫与重装干员部署费用提升至2倍"
             }
           ]
         }

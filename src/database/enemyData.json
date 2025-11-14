@@ -2094,7 +2094,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "结晶",
+    "JPName": "结晶",
+    "ENName": "结晶",
+    "KRName": "结晶"
   },
   {
     "Key": "enemy_1000_gopro",
@@ -9669,7 +9673,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "引线火焰",
+    "JPName": "引线火焰",
+    "ENName": "引线火焰",
+    "KRName": "引线火焰"
   },
   {
     "Key": "enemy_10042_prtrop",
@@ -21403,7 +21411,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "入梦砖",
+    "JPName": "入梦砖",
+    "ENName": "入梦砖",
+    "KRName": "入梦砖"
   },
   {
     "Key": "enemy_10092_hlslp_1",
@@ -21453,7 +21465,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "入梦砖1",
+    "JPName": "入梦砖1",
+    "ENName": "入梦砖1",
+    "KRName": "入梦砖1"
   },
   {
     "Key": "enemy_10092_hlslp_2",
@@ -21503,7 +21519,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "入梦砖2",
+    "JPName": "入梦砖2",
+    "ENName": "入梦砖2",
+    "KRName": "入梦砖2"
   },
   {
     "Key": "enemy_10092_hlslp_3",
@@ -21553,7 +21573,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "入梦砖3",
+    "JPName": "入梦砖3",
+    "ENName": "入梦砖3",
+    "KRName": "入梦砖3"
   },
   {
     "Key": "enemy_10094_crstf",
@@ -62793,7 +62817,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "净浊之焰",
+    "JPName": "净浊之焰",
+    "ENName": "净浊之焰",
+    "KRName": "净浊之焰"
   },
   {
     "Key": "enemy_1177_dufrbl_2",
@@ -62857,7 +62885,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "净浊之焰",
+    "JPName": "净浊之焰",
+    "ENName": "净浊之焰",
+    "KRName": "净浊之焰"
   },
   {
     "Key": "enemy_1178_dscorp",
@@ -74552,7 +74584,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "奠基者的墓碑",
+    "JPName": "奠基者的墓碑",
+    "ENName": "奠基者的墓碑",
+    "KRName": "奠基者的墓碑"
   },
   {
     "Key": "enemy_1230_dsbudr_4",
@@ -74942,7 +74978,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "猎食者的墓碑",
+    "JPName": "猎食者的墓碑",
+    "ENName": "猎食者的墓碑",
+    "KRName": "猎食者的墓碑"
   },
   {
     "Key": "enemy_1231_dsrunr_4",
@@ -75364,7 +75404,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "引痕者的墓碑",
+    "JPName": "引痕者的墓碑",
+    "ENName": "引痕者的墓碑",
+    "KRName": "引痕者的墓碑"
   },
   {
     "Key": "enemy_1232_dssalr_4",
@@ -75770,7 +75814,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "喷溅者的墓碑",
+    "JPName": "喷溅者的墓碑",
+    "ENName": "喷溅者的墓碑",
+    "KRName": "喷溅者的墓碑"
   },
   {
     "Key": "enemy_1233_dsshtr_4",
@@ -76160,7 +76208,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "巢涌者的墓碑",
+    "JPName": "巢涌者的墓碑",
+    "ENName": "巢涌者的墓碑",
+    "KRName": "巢涌者的墓碑"
   },
   {
     "Key": "enemy_1234_dsubrl_4",
@@ -76614,7 +76666,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "裂礁者的墓碑",
+    "JPName": "裂礁者的墓碑",
+    "ENName": "裂礁者的墓碑",
+    "KRName": "裂礁者的墓碑"
   },
   {
     "Key": "enemy_1235_dsbskr_4",
@@ -76818,7 +76874,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "弹力球",
+    "JPName": "弹力球",
+    "ENName": "弹力球",
+    "KRName": "弹力球"
   },
   {
     "Key": "enemy_1236_bouncy_2",
@@ -76882,7 +76942,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "清洗弹力球",
+    "JPName": "清洗弹力球",
+    "ENName": "清洗弹力球",
+    "KRName": "清洗弹力球"
   },
   {
     "Key": "enemy_1236_bouncy_3",
@@ -76946,7 +77010,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "反弹弹力球",
+    "JPName": "反弹弹力球",
+    "ENName": "反弹弹力球",
+    "KRName": "反弹弹力球"
   },
   {
     "Key": "enemy_1238_ltmob",
@@ -78348,7 +78416,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "血红阵地",
+    "JPName": "血红阵地",
+    "ENName": "血红阵地",
+    "KRName": "血红阵地"
   },
   {
     "Key": "enemy_1246_aslime",
@@ -78767,7 +78839,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "格特鲁德的虚像",
+    "JPName": "格特鲁德的虚像",
+    "ENName": "格特鲁德的虚像",
+    "KRName": "格特鲁德的虚像"
   },
   {
     "Key": "enemy_1249_lysdb",
@@ -87802,7 +87878,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "焦竭之火",
+    "JPName": "焦竭之火",
+    "ENName": "焦竭之火",
+    "KRName": "焦竭之火"
   },
   {
     "Key": "enemy_1294_duchns_2",
@@ -87866,7 +87946,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "焦竭之火",
+    "JPName": "焦竭之火",
+    "ENName": "焦竭之火",
+    "KRName": "焦竭之火"
   },
   {
     "Key": "enemy_1295_ymph",
@@ -93446,7 +93530,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "萨卡兹悖谬裂变学徒",
+    "JPName": "萨卡兹悖谬裂变学徒",
+    "ENName": "萨卡兹悖谬裂变学徒",
+    "KRName": "萨卡兹悖谬裂变学徒"
   },
   {
     "Key": "enemy_1324_wdsdw_2",
@@ -93496,7 +93584,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "萨卡兹悖谬裂变术师",
+    "JPName": "萨卡兹悖谬裂变术师",
+    "ENName": "萨卡兹悖谬裂变术师",
+    "KRName": "萨卡兹悖谬裂变术师"
   },
   {
     "Key": "enemy_1325_cbgpro",
@@ -94950,7 +95042,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“十字路口”量产型",
+    "JPName": "“十字路口”量产型",
+    "ENName": "“十字路口”量产型",
+    "KRName": "“十字路口”量产型"
   },
   {
     "Key": "enemy_1331_cbsisy_4",
@@ -95010,7 +95106,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“十字路口”试做型",
+    "JPName": "“十字路口”试做型",
+    "ENName": "“十字路口”试做型",
+    "KRName": "“十字路口”试做型"
   },
   {
     "Key": "enemy_1332_cbterm",
@@ -98124,7 +98224,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "落石",
+    "JPName": "落石",
+    "ENName": "落石",
+    "KRName": "落石"
   },
   {
     "Key": "enemy_1343_ltrock_2",
@@ -98218,7 +98322,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "落石",
+    "JPName": "落石",
+    "ENName": "落石",
+    "KRName": "落石"
   },
   {
     "Key": "enemy_1344_ddlamb",
@@ -103946,7 +104054,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "反巫术变位炸弹",
+    "JPName": "反巫术变位炸弹",
+    "ENName": "反巫术变位炸弹",
+    "KRName": "反巫术变位炸弹"
   },
   {
     "Key": "enemy_1371_ltnflu",
@@ -106831,7 +106943,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "慵钝之印",
+    "JPName": "慵钝之印",
+    "ENName": "慵钝之印",
+    "KRName": "慵钝之印"
   },
   {
     "Key": "enemy_1381_winman",
@@ -110893,7 +111009,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "身上的天标",
+    "JPName": "身上的天标",
+    "ENName": "身上的天标",
+    "KRName": "身上的天标"
   },
   {
     "Key": "enemy_1400_dhtbgj_2",
@@ -110949,7 +111069,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "身上的天标二",
+    "JPName": "身上的天标二",
+    "ENName": "身上的天标二",
+    "KRName": "身上的天标二"
   },
   {
     "Key": "enemy_1401_pogpro",
@@ -115231,7 +115355,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "活性源石风暴",
+    "JPName": "活性源石风暴",
+    "ENName": "活性源石风暴",
+    "KRName": "活性源石风暴"
   },
   {
     "Key": "enemy_1421_lrchld",
@@ -115281,7 +115409,11 @@
         "notCountInTotal": true,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "信标",
+    "JPName": "信标",
+    "ENName": "信标",
+    "KRName": "信标"
   },
   {
     "Key": "enemy_1422_lrsldr",
@@ -117225,7 +117357,11 @@
         "notCountInTotal": true,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "茧缚",
+    "JPName": "茧缚",
+    "ENName": "茧缚",
+    "KRName": "茧缚"
   },
   {
     "Key": "enemy_1432_lrccon_2",
@@ -117275,7 +117411,11 @@
         "notCountInTotal": true,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "茧缚演出",
+    "JPName": "茧缚演出",
+    "ENName": "茧缚演出",
+    "KRName": "茧缚演出"
   },
   {
     "Key": "enemy_1433_dsbasi",
@@ -118945,7 +119085,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "新小帮手",
+    "JPName": "新小帮手",
+    "ENName": "新小帮手",
+    "KRName": "新小帮手"
   },
   {
     "Key": "enemy_1442_dsgun",
@@ -118995,7 +119139,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "坚守15秒!",
+    "JPName": "坚守15秒!",
+    "ENName": "坚守15秒!",
+    "KRName": "坚守15秒!"
   },
   {
     "Key": "enemy_15001_dqsmwa",
@@ -119045,7 +119193,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "北方战士",
+    "JPName": "北方战士",
+    "ENName": "北方战士",
+    "KRName": "北方战士"
   },
   {
     "Key": "enemy_15002_dqwing",
@@ -119101,7 +119253,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "巨大雪球投手",
+    "JPName": "巨大雪球投手",
+    "ENName": "巨大雪球投手",
+    "KRName": "巨大雪球投手"
   },
   {
     "Key": "enemy_15003_dqltsw",
@@ -119166,7 +119322,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "失业萨克斯手",
+    "JPName": "失业萨克斯手",
+    "ENName": "失业萨克斯手",
+    "KRName": "失业萨克斯手"
   },
   {
     "Key": "enemy_15004_dqdhdt",
@@ -119234,7 +119394,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "硕鼷",
+    "JPName": "硕鼷",
+    "ENName": "硕鼷",
+    "KRName": "硕鼷"
   },
   {
     "Key": "enemy_15005_dqdsbs",
@@ -119310,7 +119474,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "狂躁珊瑚",
+    "JPName": "狂躁珊瑚",
+    "ENName": "狂躁珊瑚",
+    "KRName": "狂躁珊瑚"
   },
   {
     "Key": "enemy_15006_dqkrgm",
@@ -119370,7 +119538,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "雪境精锐",
+    "JPName": "雪境精锐",
+    "ENName": "雪境精锐",
+    "KRName": "雪境精锐"
   },
   {
     "Key": "enemy_15007_dqbear",
@@ -119420,7 +119592,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "高普尼克",
+    "JPName": "高普尼克",
+    "ENName": "高普尼克",
+    "KRName": "高普尼克"
   },
   {
     "Key": "enemy_15008_dqspsb",
@@ -119484,7 +119660,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "清醒的墨魉",
+    "JPName": "清醒的墨魉",
+    "ENName": "清醒的墨魉",
+    "KRName": "清醒的墨魉"
   },
   {
     "Key": "enemy_15009_dqmgcs",
@@ -119540,7 +119720,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "星星魔法师",
+    "JPName": "星星魔法师",
+    "ENName": "星星魔法师",
+    "KRName": "星星魔法师"
   },
   {
     "Key": "enemy_1500_skulsr",
@@ -119845,7 +120029,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "点灯骑士",
+    "JPName": "点灯骑士",
+    "ENName": "点灯骑士",
+    "KRName": "点灯骑士"
   },
   {
     "Key": "enemy_15011_dqnhst",
@@ -119905,7 +120093,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "食腐野兽",
+    "JPName": "食腐野兽",
+    "ENName": "食腐野兽",
+    "KRName": "食腐野兽"
   },
   {
     "Key": "enemy_15012_dqbsli",
@@ -119961,7 +120153,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "易爆源石虫",
+    "JPName": "易爆源石虫",
+    "ENName": "易爆源石虫",
+    "KRName": "易爆源石虫"
   },
   {
     "Key": "enemy_15013_dqsnsl",
@@ -120021,7 +120217,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "自爆冰虫",
+    "JPName": "自爆冰虫",
+    "ENName": "自爆冰虫",
+    "KRName": "自爆冰虫"
   },
   {
     "Key": "enemy_15014_dqmmka",
@@ -120085,7 +120285,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "安逸的驮兽",
+    "JPName": "安逸的驮兽",
+    "ENName": "安逸的驮兽",
+    "KRName": "安逸的驮兽"
   },
   {
     "Key": "enemy_15015_dqmerr",
@@ -120145,7 +120349,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "榴弹佣兵",
+    "JPName": "榴弹佣兵",
+    "ENName": "榴弹佣兵",
+    "KRName": "榴弹佣兵"
   },
   {
     "Key": "enemy_15016_dqdkma",
@@ -120221,7 +120429,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "重生术师",
+    "JPName": "重生术师",
+    "ENName": "重生术师",
+    "KRName": "重生术师"
   },
   {
     "Key": "enemy_15017_dqdwlo",
@@ -120302,7 +120514,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "凋零萨卡兹",
+    "JPName": "凋零萨卡兹",
+    "ENName": "凋零萨卡兹",
+    "KRName": "凋零萨卡兹"
   },
   {
     "Key": "enemy_15018_dqskzc",
@@ -120358,7 +120574,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“门”",
+    "JPName": "“门”",
+    "ENName": "“门”",
+    "KRName": "“门”"
   },
   {
     "Key": "enemy_15019_dqharc",
@@ -120446,7 +120666,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "大喷蛛",
+    "JPName": "大喷蛛",
+    "ENName": "大喷蛛",
+    "KRName": "大喷蛛"
   },
   {
     "Key": "enemy_1501_demonk",
@@ -120623,7 +120847,11 @@
         "notCountInTotal": true,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "畸变赘生物",
+    "JPName": "畸变赘生物",
+    "ENName": "畸变赘生物",
+    "KRName": "畸变赘生物"
   },
   {
     "Key": "enemy_15021_dqdurg",
@@ -120687,7 +120915,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "超级洗地机",
+    "JPName": "超级洗地机",
+    "ENName": "超级洗地机",
+    "KRName": "超级洗地机"
   },
   {
     "Key": "enemy_15022_dqhvys",
@@ -120758,7 +120990,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "过气水手",
+    "JPName": "过气水手",
+    "ENName": "过气水手",
+    "KRName": "过气水手"
   },
   {
     "Key": "enemy_15023_dqwlfm",
@@ -120903,7 +121139,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "依然“狼之主”",
+    "JPName": "依然“狼之主”",
+    "ENName": "依然“狼之主”",
+    "KRName": "依然“狼之主”"
   },
   {
     "Key": "enemy_15024_dqreid",
@@ -121004,7 +121244,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "“火与钢”",
+    "JPName": "“火与钢”",
+    "ENName": "“火与钢”",
+    "KRName": "“火与钢”"
   },
   {
     "Key": "enemy_15026_dqmtrf",
@@ -121054,7 +121298,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“大斧”",
+    "JPName": "“大斧”",
+    "ENName": "“大斧”",
+    "KRName": "“大斧”"
   },
   {
     "Key": "enemy_15027_dqmtrs",
@@ -121118,7 +121366,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "玻璃球打手",
+    "JPName": "玻璃球打手",
+    "ENName": "玻璃球打手",
+    "KRName": "玻璃球打手"
   },
   {
     "Key": "enemy_15028_dqmtrb",
@@ -121183,7 +121435,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "机鳄战甲",
+    "JPName": "机鳄战甲",
+    "ENName": "机鳄战甲",
+    "KRName": "机鳄战甲"
   },
   {
     "Key": "enemy_15029_dqfrtu",
@@ -121233,7 +121489,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "畸变之矛",
+    "JPName": "畸变之矛",
+    "ENName": "畸变之矛",
+    "KRName": "畸变之矛"
   },
   {
     "Key": "enemy_1502_crowns",
@@ -121500,7 +121760,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "标枪恐鱼",
+    "JPName": "标枪恐鱼",
+    "ENName": "标枪恐鱼",
+    "KRName": "标枪恐鱼"
   },
   {
     "Key": "enemy_15031_dqhlti",
@@ -121586,7 +121850,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "假酒海盗",
+    "JPName": "假酒海盗",
+    "ENName": "假酒海盗",
+    "KRName": "假酒海盗"
   },
   {
     "Key": "enemy_15032_dqhrgr",
@@ -121650,7 +121918,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "大力锤球手",
+    "JPName": "大力锤球手",
+    "ENName": "大力锤球手",
+    "KRName": "大力锤球手"
   },
   {
     "Key": "enemy_15033_dqclif",
@@ -121710,7 +121982,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "蟹蟹爷爷",
+    "JPName": "蟹蟹爷爷",
+    "ENName": "蟹蟹爷爷",
+    "KRName": "蟹蟹爷爷"
   },
   {
     "Key": "enemy_15034_dqdrp",
@@ -121817,7 +122093,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "喷射背包客",
+    "JPName": "喷射背包客",
+    "ENName": "喷射背包客",
+    "KRName": "喷射背包客"
   },
   {
     "Key": "enemy_15035_dqbone",
@@ -121873,7 +122153,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "黑土游击弩手",
+    "JPName": "黑土游击弩手",
+    "ENName": "黑土游击弩手",
+    "KRName": "黑土游击弩手"
   },
   {
     "Key": "enemy_15036_dqalme",
@@ -121929,7 +122213,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "污水虫虫",
+    "JPName": "污水虫虫",
+    "ENName": "污水虫虫",
+    "KRName": "污水虫虫"
   },
   {
     "Key": "enemy_15037_dqhtms",
@@ -121989,7 +122277,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "赛场流氓",
+    "JPName": "赛场流氓",
+    "ENName": "赛场流氓",
+    "KRName": "赛场流氓"
   },
   {
     "Key": "enemy_15038_dqhtbw",
@@ -122060,7 +122352,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "赛场无赖射手",
+    "JPName": "赛场无赖射手",
+    "ENName": "赛场无赖射手",
+    "KRName": "赛场无赖射手"
   },
   {
     "Key": "enemy_15039_dqrgrd",
@@ -122136,7 +122432,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "过激的竞猜者",
+    "JPName": "过激的竞猜者",
+    "ENName": "过激的竞猜者",
+    "KRName": "过激的竞猜者"
   },
   {
     "Key": "enemy_1503_talula",
@@ -122593,7 +122893,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "虹吸巨刃",
+    "JPName": "虹吸巨刃",
+    "ENName": "虹吸巨刃",
+    "KRName": "虹吸巨刃"
   },
   {
     "Key": "enemy_15041_dqgrg",
@@ -122665,7 +122969,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "爆裂冰法师",
+    "JPName": "爆裂冰法师",
+    "ENName": "爆裂冰法师",
+    "KRName": "爆裂冰法师"
   },
   {
     "Key": "enemy_15043_dqrckm",
@@ -122735,7 +123043,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "“配重投石机”",
+    "JPName": "“配重投石机”",
+    "ENName": "“配重投石机”",
+    "KRName": "“配重投石机”"
   },
   {
     "Key": "enemy_15044_dqtisd",
@@ -122791,7 +123103,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "臭嗓门战士",
+    "JPName": "臭嗓门战士",
+    "ENName": "臭嗓门战士",
+    "KRName": "臭嗓门战士"
   },
   {
     "Key": "enemy_15045_dqrbty",
@@ -122859,7 +123175,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "无德决斗家",
+    "JPName": "无德决斗家",
+    "ENName": "无德决斗家",
+    "KRName": "无德决斗家"
   },
   {
     "Key": "enemy_15046_dqxts",
@@ -122924,7 +123244,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "最普通的鼷",
+    "JPName": "最普通的鼷",
+    "ENName": "最普通的鼷",
+    "KRName": "最普通的鼷"
   },
   {
     "Key": "enemy_15047_dqwlpl",
@@ -123021,7 +123345,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "变异食肉植物",
+    "JPName": "变异食肉植物",
+    "ENName": "变异食肉植物",
+    "KRName": "变异食肉植物"
   },
   {
     "Key": "enemy_15048_dqdivi",
@@ -123105,7 +123433,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "高敏感积藏者",
+    "JPName": "高敏感积藏者",
+    "ENName": "高敏感积藏者",
+    "KRName": "高敏感积藏者"
   },
   {
     "Key": "enemy_15049_dqfrog",
@@ -123176,7 +123508,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "“铜舌”",
+    "JPName": "“铜舌”",
+    "ENName": "“铜舌”",
+    "KRName": "“铜舌”"
   },
   {
     "Key": "enemy_1504_cqbw",
@@ -123358,7 +123694,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“巢穴”",
+    "JPName": "“巢穴”",
+    "ENName": "“巢穴”",
+    "KRName": "“巢穴”"
   },
   {
     "Key": "enemy_15052_dqboar",
@@ -123438,7 +123778,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "狂躁觅食兽",
+    "JPName": "狂躁觅食兽",
+    "ENName": "狂躁觅食兽",
+    "KRName": "狂躁觅食兽"
   },
   {
     "Key": "enemy_15053_dqtrtl",
@@ -123498,7 +123842,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "勇敢的壳",
+    "JPName": "勇敢的壳",
+    "ENName": "勇敢的壳",
+    "KRName": "勇敢的壳"
   },
   {
     "Key": "enemy_15054_dqprpn",
@@ -123570,7 +123918,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "荒原刺背兽",
+    "JPName": "荒原刺背兽",
+    "ENName": "荒原刺背兽",
+    "KRName": "荒原刺背兽"
   },
   {
     "Key": "enemy_15055_dqrhcr",
@@ -123630,7 +123982,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "石头脑袋",
+    "JPName": "石头脑袋",
+    "ENName": "石头脑袋",
+    "KRName": "石头脑袋"
   },
   {
     "Key": "enemy_15057_dqmram",
@@ -123690,7 +124046,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "勤奋的钻头",
+    "JPName": "勤奋的钻头",
+    "ENName": "勤奋的钻头",
+    "KRName": "勤奋的钻头"
   },
   {
     "Key": "enemy_15058_dqtank",
@@ -123785,7 +124145,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "改装排污车",
+    "JPName": "改装排污车",
+    "ENName": "改装排污车",
+    "KRName": "改装排污车"
   },
   {
     "Key": "enemy_15059_dqhmmr",
@@ -123849,7 +124213,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "覆面大锤客",
+    "JPName": "覆面大锤客",
+    "ENName": "覆面大锤客",
+    "KRName": "覆面大锤客"
   },
   {
     "Key": "enemy_1505_frstar",
@@ -124225,7 +124593,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "街头乐队鼓手",
+    "JPName": "街头乐队鼓手",
+    "ENName": "街头乐队鼓手",
+    "KRName": "街头乐队鼓手"
   },
   {
     "Key": "enemy_15066_dqdudu",
@@ -124300,7 +124672,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "街头乐队贝斯手",
+    "JPName": "街头乐队贝斯手",
+    "ENName": "街头乐队贝斯手",
+    "KRName": "街头乐队贝斯手"
   },
   {
     "Key": "enemy_15067_dqdidi",
@@ -124375,7 +124751,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "街头乐队吉他手",
+    "JPName": "街头乐队吉他手",
+    "ENName": "街头乐队吉他手",
+    "KRName": "街头乐队吉他手"
   },
   {
     "Key": "enemy_1506_patrt",
@@ -126039,7 +126419,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "霜星S",
+    "JPName": "霜星S",
+    "ENName": "霜星S",
+    "KRName": "霜星S"
   },
   {
     "Key": "enemy_1511_mdrock",
@@ -129303,7 +129687,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "夕",
+    "JPName": "夕",
+    "ENName": "夕",
+    "KRName": "夕"
   },
   {
     "Key": "enemy_1519_bgball",
@@ -135597,7 +135985,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "屠谕者，大群意志",
+    "JPName": "屠谕者，大群意志",
+    "ENName": "屠谕者，大群意志",
+    "KRName": "屠谕者，大群意志"
   },
   {
     "Key": "enemy_1530_white",
@@ -137837,7 +138229,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "蒸汽骑士S",
+    "JPName": "蒸汽骑士S",
+    "ENName": "蒸汽骑士S",
+    "KRName": "蒸汽骑士S"
   },
   {
     "Key": "enemy_1535_wlfmster",
@@ -141890,7 +142286,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "同构碎片",
+    "JPName": "同构碎片",
+    "ENName": "同构碎片",
+    "KRName": "同构碎片"
   },
   {
     "Key": "enemy_1542_wdslm_3",
@@ -142071,7 +142471,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "同构碎片",
+    "JPName": "同构碎片",
+    "ENName": "同构碎片",
+    "KRName": "同构碎片"
   },
   {
     "Key": "enemy_1542_wdslm_4",
@@ -142186,7 +142590,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "同构碎片",
+    "JPName": "同构碎片",
+    "ENName": "同构碎片",
+    "KRName": "同构碎片"
   },
   {
     "Key": "enemy_1543_cstlrs",
@@ -145086,7 +145494,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "杜卡雷，“君主之红”",
+    "JPName": "杜卡雷，“君主之红”",
+    "ENName": "杜卡雷，“君主之红”",
+    "KRName": "杜卡雷，“君主之红”"
   },
   {
     "Key": "enemy_1548_ltniak",
@@ -148528,7 +148940,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "引火的死魂灵",
+    "JPName": "引火的死魂灵",
+    "ENName": "引火的死魂灵",
+    "KRName": "引火的死魂灵"
   },
   {
     "Key": "enemy_1554_lrtsia",
@@ -149339,7 +149755,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "特雷西娅",
+    "JPName": "特雷西娅",
+    "ENName": "特雷西娅",
+    "KRName": "特雷西娅"
   },
   {
     "Key": "enemy_1555_lrking",
@@ -149389,7 +149809,11 @@
         "notCountInTotal": true,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "孽茨雷，“食腐者之王”",
+    "JPName": "孽茨雷，“食腐者之王”",
+    "ENName": "孽茨雷，“食腐者之王”",
+    "KRName": "孽茨雷，“食腐者之王”"
   },
   {
     "Key": "enemy_1556_dsbish",
@@ -153153,7 +153577,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "盐坨子炮靶心",
+    "JPName": "盐坨子炮靶心",
+    "ENName": "盐坨子炮靶心",
+    "KRName": "盐坨子炮靶心"
   },
   {
     "Key": "enemy_1562_cjtaot",
@@ -162191,6 +162619,110 @@
     ]
   },
   {
+    "Key": "enemy_2001_duckmi_2",
+    "Levels": [
+      {
+        "key": "enemy_2001_duckmi_2",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 100,
+          "def": 200,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "run.attack@move_speed",
+            "value": 3
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "鸭爵",
+    "CNDescription": "哥伦比亚著名投资人，企业家，“鸭之力”大师。神出鬼没，爱好是和别人逗乐子......",
+    "CNAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到攻击后移动速度大幅度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "鸭爵",
+    "JPDescription": "哥伦比亚著名投资人，企业家，“鸭之力”大师。神出鬼没，爱好是和别人逗乐子......",
+    "JPAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到攻击后移动速度大幅度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "鸭爵",
+    "ENDescription": "哥伦比亚著名投资人，企业家，“鸭之力”大师。神出鬼没，爱好是和别人逗乐子......",
+    "ENAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到攻击后移动速度大幅度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "鸭爵",
+    "KRDescription": "哥伦比亚著名投资人，企业家，“鸭之力”大师。神出鬼没，爱好是和别人逗乐子......",
+    "KRAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到攻击后移动速度大幅度提升",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_2002_bearmi",
     "Levels": [
       {
@@ -162340,6 +162872,68 @@
     "ENAbilityList": {},
     "KRName": "고프닉",
     "KRDescription": "덕로드가 고용한 우르수스 경비. 힘은 장사지만 머리가 둔하다. 주로 덕로드의 짐꾼 노릇을 한다.",
+    "KRAbilityList": {}
+  },
+  {
+    "Key": "enemy_2002_bearmi_2",
+    "Levels": [
+      {
+        "key": "enemy_2002_bearmi_2",
+        "attributes": {
+          "maxHp": 11000,
+          "atk": 1600,
+          "def": 200,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": null
+      }
+    ],
+    "CNName": "高普尼克",
+    "CNDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
+    "CNAbilityList": {},
+    "JPName": "高普尼克",
+    "JPDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
+    "JPAbilityList": {},
+    "ENName": "高普尼克",
+    "ENDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
+    "ENAbilityList": {},
+    "KRName": "高普尼克",
+    "KRDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
     "KRAbilityList": {}
   },
   {
@@ -166552,6 +167146,110 @@
       },
       {
         "text": "공격 시 목표를 <$ba.stun>기절</>시킨다",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_2034_sythef_2",
+    "Levels": [
+      {
+        "key": "enemy_2034_sythef_2",
+        "attributes": {
+          "maxHp": 4500,
+          "atk": 300,
+          "def": 150,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Combat.attack@stun",
+            "value": 3.5
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "流泪小子",
+    "CNDescription": "唯唯诺诺的佩洛，离开家庭后正在寻找自己的新生活......不过别人是记不住那么多的，别人只知道他一直在流泪。",
+    "CNAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "流泪小子",
+    "JPDescription": "唯唯诺诺的佩洛，离开家庭后正在寻找自己的新生活......不过别人是记不住那么多的，别人只知道他一直在流泪。",
+    "JPAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "流泪小子",
+    "ENDescription": "唯唯诺诺的佩洛，离开家庭后正在寻找自己的新生活......不过别人是记不住那么多的，别人只知道他一直在流泪。",
+    "ENAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击会<$ba.stun>晕眩</>目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "流泪小子",
+    "KRDescription": "唯唯诺诺的佩洛，离开家庭后正在寻找自己的新生活......不过别人是记不住那么多的，别人只知道他一直在流泪。",
+    "KRAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击会<$ba.stun>晕眩</>目标",
         "textFormat": "NORMAL"
       }
     ]
@@ -171841,7 +172539,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "饮泣之刺",
+    "JPName": "饮泣之刺",
+    "ENName": "饮泣之刺",
+    "KRName": "饮泣之刺"
   },
   {
     "Key": "enemy_2074_skzgly",
@@ -173641,7 +174343,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“放逐的黑棺”",
+    "JPName": "“放逐的黑棺”",
+    "ENName": "“放逐的黑棺”",
+    "KRName": "“放逐的黑棺”"
   },
   {
     "Key": "enemy_2084_skzcan",
@@ -174132,6 +174838,123 @@
     ]
   },
   {
+    "Key": "enemy_2085_skzjxd_2",
+    "Levels": [
+      {
+        "key": "enemy_2085_skzjxd_2",
+        "attributes": {
+          "maxHp": 13000,
+          "atk": 500,
+          "def": 0,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.35,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "ShowTrigger.interval",
+            "value": 30
+          },
+          {
+            "key": "Weakness.damage_resistance",
+            "value": 0.8
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Show",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "圆仔",
+    "CNDescription": "鸭爵的合伙人和徒弟，伶牙俐齿的投机者。常在可疑的电视节目里做客，总说自己懂得流转的道理，所以并不计较财产的得失。",
+    "CNAbilityList": [
+      {
+        "text": "始终面向我方干员数量较多的方向",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到来自正面的物理/法术伤害降低80%",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "圆仔",
+    "JPDescription": "鸭爵的合伙人和徒弟，伶牙俐齿的投机者。常在可疑的电视节目里做客，总说自己懂得流转的道理，所以并不计较财产的得失。",
+    "JPAbilityList": [
+      {
+        "text": "始终面向我方干员数量较多的方向",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到来自正面的物理/法术伤害降低80%",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "圆仔",
+    "ENDescription": "鸭爵的合伙人和徒弟，伶牙俐齿的投机者。常在可疑的电视节目里做客，总说自己懂得流转的道理，所以并不计较财产的得失。",
+    "ENAbilityList": [
+      {
+        "text": "始终面向我方干员数量较多的方向",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到来自正面的物理/法术伤害降低80%",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "圆仔",
+    "KRDescription": "鸭爵的合伙人和徒弟，伶牙俐齿的投机者。常在可疑的电视节目里做客，总说自己懂得流转的道理，所以并不计较财产的得失。",
+    "KRAbilityList": [
+      {
+        "text": "始终面向我方干员数量较多的方向",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到来自正面的物理/法术伤害降低80%",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_2086_skzdwx",
     "Levels": [
       {
@@ -174189,7 +175012,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "年代印痕",
+    "JPName": "年代印痕",
+    "ENName": "年代印痕",
+    "KRName": "年代印痕"
   },
   {
     "Key": "enemy_2087_skzdwy",
@@ -174249,7 +175076,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "年代印痕",
+    "JPName": "年代印痕",
+    "ENName": "年代印痕",
+    "KRName": "年代印痕"
   },
   {
     "Key": "enemy_2088_skzdwz",
@@ -174309,7 +175140,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "年代印痕",
+    "JPName": "年代印痕",
+    "ENName": "年代印痕",
+    "KRName": "年代印痕"
   },
   {
     "Key": "enemy_2089_skzjkl",
@@ -175613,7 +176448,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "仅剩的创意",
+    "JPName": "仅剩的创意",
+    "ENName": "仅剩的创意",
+    "KRName": "仅剩的创意"
   },
   {
     "Key": "enemy_2095_skzamf",
@@ -175673,7 +176512,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "昔日道标",
+    "JPName": "昔日道标",
+    "ENName": "昔日道标",
+    "KRName": "昔日道标"
   },
   {
     "Key": "enemy_2096_skzamj",
@@ -175733,7 +176576,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "昔日道标",
+    "JPName": "昔日道标",
+    "ENName": "昔日道标",
+    "KRName": "昔日道标"
   },
   {
     "Key": "enemy_2097_skzfdd",
@@ -179773,7 +180620,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "受符",
+    "JPName": "受符",
+    "ENName": "受符",
+    "KRName": "受符"
   },
   {
     "Key": "enemy_2122_dybgzd",
@@ -181163,7 +182014,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "斗士塔露拉",
+    "JPName": "斗士塔露拉",
+    "ENName": "斗士塔露拉",
+    "KRName": "斗士塔露拉"
   },
   {
     "Key": "enemy_3003_alymot",
@@ -182035,7 +182890,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "特蕾西娅，“演出”",
+    "JPName": "特蕾西娅，“演出”",
+    "ENName": "特蕾西娅，“演出”",
+    "KRName": "特蕾西娅，“演出”"
   },
   {
     "Key": "enemy_3008_lramiy",
@@ -182118,7 +182977,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "演出阿米娅",
+    "JPName": "演出阿米娅",
+    "ENName": "演出阿米娅",
+    "KRName": "演出阿米娅"
   },
   {
     "Key": "enemy_3009_mpprss",
@@ -185537,7 +186400,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "鼷兽补给箱",
+    "JPName": "鼷兽补给箱",
+    "ENName": "鼷兽补给箱",
+    "KRName": "鼷兽补给箱"
   },
   {
     "Key": "enemy_4012_mumssi",
@@ -188153,7 +189020,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "守门位",
+    "JPName": "守门位",
+    "ENName": "守门位",
+    "KRName": "守门位"
   },
   {
     "Key": "enemy_4022_mushtm",
@@ -195499,7 +196370,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "喷口",
+    "JPName": "喷口",
+    "ENName": "喷口",
+    "KRName": "喷口"
   },
   {
     "Key": "enemy_5001_lazdfd",
@@ -195559,7 +196434,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "无人机",
+    "JPName": "无人机",
+    "ENName": "无人机",
+    "KRName": "无人机"
   },
   {
     "Key": "enemy_5002_lazdfd_2",
@@ -195635,7 +196514,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "强一点无人机",
+    "JPName": "强一点无人机",
+    "ENName": "强一点无人机",
+    "KRName": "强一点无人机"
   },
   {
     "Key": "enemy_5003_fostfd",
@@ -195735,7 +196618,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "好强无人机",
+    "JPName": "好强无人机",
+    "ENName": "好强无人机",
+    "KRName": "好强无人机"
   },
   {
     "Key": "enemy_5004_bombfd",
@@ -195815,7 +196702,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "追追无人机",
+    "JPName": "追追无人机",
+    "ENName": "追追无人机",
+    "KRName": "追追无人机"
   },
   {
     "Key": "enemy_5005_yokafd",
@@ -195931,7 +196822,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "无人机龙哥（暂命名）",
+    "JPName": "无人机龙哥（暂命名）",
+    "ENName": "无人机龙哥（暂命名）",
+    "KRName": "无人机龙哥（暂命名）"
   },
   {
     "Key": "enemy_5006_hymtfd",
@@ -195995,7 +196890,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "沙车",
+    "JPName": "沙车",
+    "ENName": "沙车",
+    "KRName": "沙车"
   },
   {
     "Key": "enemy_5007_lancfd",
@@ -196071,7 +196970,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "萨卡兹穿刺哥（暂命名）",
+    "JPName": "萨卡兹穿刺哥（暂命名）",
+    "ENName": "萨卡兹穿刺哥（暂命名）",
+    "KRName": "萨卡兹穿刺哥（暂命名）"
   },
   {
     "Key": "enemy_5008_cstrwd",
@@ -196533,7 +197436,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "先打几个字在这里",
+    "JPName": "先打几个字在这里",
+    "ENName": "先打几个字在这里",
+    "KRName": "先打几个字在这里"
   },
   {
     "Key": "enemy_5012_mstntd",
@@ -196583,7 +197490,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "巨大丑东西（愚人节）",
+    "JPName": "巨大丑东西（愚人节）",
+    "ENName": "巨大丑东西（愚人节）",
+    "KRName": "巨大丑东西（愚人节）"
   },
   {
     "Key": "enemy_5013_daikis",
@@ -196633,7 +197544,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "大祭司（愚人节）",
+    "JPName": "大祭司（愚人节）",
+    "ENName": "大祭司（愚人节）",
+    "KRName": "大祭司（愚人节）"
   },
   {
     "Key": "enemy_5014_dmanfd",
@@ -196683,7 +197598,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "酒类爱好者（愚人节）",
+    "JPName": "酒类爱好者（愚人节）",
+    "ENName": "酒类爱好者（愚人节）",
+    "KRName": "酒类爱好者（愚人节）"
   },
   {
     "Key": "enemy_5015_ccsbrf",
@@ -196748,7 +197667,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "提亚卡乌鳄鱼（愚人节）",
+    "JPName": "提亚卡乌鳄鱼（愚人节）",
+    "ENName": "提亚卡乌鳄鱼（愚人节）",
+    "KRName": "提亚卡乌鳄鱼（愚人节）"
   },
   {
     "Key": "enemy_5016_ciprfd",
@@ -196813,7 +197736,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "提亚卡乌好战者（愚人节）",
+    "JPName": "提亚卡乌好战者（愚人节）",
+    "ENName": "提亚卡乌好战者（愚人节）",
+    "KRName": "提亚卡乌好战者（愚人节）"
   },
   {
     "Key": "enemy_5017_dwarfd",
@@ -196863,7 +197790,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "湖畔志愿者（愚人节）",
+    "JPName": "湖畔志愿者（愚人节）",
+    "ENName": "湖畔志愿者（愚人节）",
+    "KRName": "湖畔志愿者（愚人节）"
   },
   {
     "Key": "enemy_5018_tethfd",
@@ -196913,7 +197844,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "流浪者（愚人节）",
+    "JPName": "流浪者（愚人节）",
+    "ENName": "流浪者（愚人节）",
+    "KRName": "流浪者（愚人节）"
   },
   {
     "Key": "enemy_5019_hmotfd",
@@ -196963,7 +197898,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "码头重艇（愚人节）",
+    "JPName": "码头重艇（愚人节）",
+    "ENName": "码头重艇（愚人节）",
+    "KRName": "码头重艇（愚人节）"
   },
   {
     "Key": "enemy_5020_hslrfd",
@@ -197013,7 +197952,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "水手（愚人节）",
+    "JPName": "水手（愚人节）",
+    "ENName": "水手（愚人节）",
+    "KRName": "水手（愚人节）"
   },
   {
     "Key": "enemy_5021_tmagfd",
@@ -197063,7 +198006,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "控潮术士（愚人节）",
+    "JPName": "控潮术士（愚人节）",
+    "ENName": "控潮术士（愚人节）",
+    "KRName": "控潮术士（愚人节）"
   },
   {
     "Key": "enemy_5022_smbone",
@@ -197113,7 +198060,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "不法分子（愚人节）",
+    "JPName": "不法分子（愚人节）",
+    "ENName": "不法分子（愚人节）",
+    "KRName": "不法分子（愚人节）"
   },
   {
     "Key": "enemy_5023_smbtwo",
@@ -197163,7 +198114,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "精英不法分子(愚人节)",
+    "JPName": "精英不法分子(愚人节)",
+    "ENName": "精英不法分子(愚人节)",
+    "KRName": "精英不法分子(愚人节)"
   },
   {
     "Key": "enemy_5024_divmfd",
@@ -197213,7 +198168,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "潜水员(愚人节)",
+    "JPName": "潜水员(愚人节)",
+    "ENName": "潜水员(愚人节)",
+    "KRName": "潜水员(愚人节)"
   },
   {
     "Key": "enemy_5025_bmbdfd",
@@ -197263,7 +198222,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "暴鸰（愚人节）",
+    "JPName": "暴鸰（愚人节）",
+    "ENName": "暴鸰（愚人节）",
+    "KRName": "暴鸰（愚人节）"
   },
   {
     "Key": "enemy_5026_icedfd",
@@ -197313,7 +198276,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "虚幻（愚人节）",
+    "JPName": "虚幻（愚人节）",
+    "ENName": "虚幻（愚人节）",
+    "KRName": "虚幻（愚人节）"
   },
   {
     "Key": "enemy_5027_amotfd",
@@ -197363,7 +198330,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "大奖赛运输艇(愚人节)",
+    "JPName": "大奖赛运输艇(愚人节)",
+    "ENName": "大奖赛运输艇(愚人节)",
+    "KRName": "大奖赛运输艇(愚人节)"
   },
   {
     "Key": "enemy_5028_dqlime_2",
@@ -197419,7 +198390,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "流鼻涕虫虫",
+    "JPName": "流鼻涕虫虫",
+    "ENName": "流鼻涕虫虫",
+    "KRName": "流鼻涕虫虫"
   },
   {
     "Key": "enemy_5029_dqslim",
@@ -197475,7 +198450,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "巧克力流心虫虫",
+    "JPName": "巧克力流心虫虫",
+    "ENName": "巧克力流心虫虫",
+    "KRName": "巧克力流心虫虫"
   },
   {
     "Key": "enemy_5030_dqpro_3",
@@ -197525,7 +198504,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "狗Pro",
+    "JPName": "狗Pro",
+    "ENName": "狗Pro",
+    "KRName": "狗Pro"
   },
   {
     "Key": "enemy_5031_dqrtar_2",
@@ -197575,7 +198558,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "迫击炮弹投手",
+    "JPName": "迫击炮弹投手",
+    "ENName": "迫击炮弹投手",
+    "KRName": "迫击炮弹投手"
   },
   {
     "Key": "enemy_5032_dqmon",
@@ -197625,7 +198612,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "普通的萨卡兹",
+    "JPName": "普通的萨卡兹",
+    "ENName": "普通的萨卡兹",
+    "KRName": "普通的萨卡兹"
   },
   {
     "Key": "enemy_5033_dqmstr_2",
@@ -197675,7 +198666,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "源石的腿脚",
+    "JPName": "源石的腿脚",
+    "ENName": "源石的腿脚",
+    "KRName": "源石的腿脚"
   },
   {
     "Key": "enemy_5034_dqield",
@@ -197725,7 +198720,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "迟钝的持盾者",
+    "JPName": "迟钝的持盾者",
+    "ENName": "迟钝的持盾者",
+    "KRName": "迟钝的持盾者"
   },
   {
     "Key": "enemy_5035_dqveng_2",
@@ -197781,7 +198780,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“火苗与软钢”",
+    "JPName": "“火苗与软钢”",
+    "ENName": "“火苗与软钢”",
+    "KRName": "“火苗与软钢”"
   },
   {
     "Key": "enemy_5036_dqger_2",
@@ -197837,7 +198840,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "苦难的具象",
+    "JPName": "苦难的具象",
+    "ENName": "苦难的具象",
+    "KRName": "苦难的具象"
   },
   {
     "Key": "enemy_5037_dqdbox",
@@ -197913,7 +198920,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "锁链拳手",
+    "JPName": "锁链拳手",
+    "ENName": "锁链拳手",
+    "KRName": "锁链拳手"
   },
   {
     "Key": "enemy_5038_dqiprr_2",
@@ -197985,7 +198996,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "衣架射手",
+    "JPName": "衣架射手",
+    "ENName": "衣架射手",
+    "KRName": "衣架射手"
   },
   {
     "Key": "enemy_5039_dqgint",
@@ -198035,7 +199050,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "砸人的石头",
+    "JPName": "砸人的石头",
+    "ENName": "砸人的石头",
+    "KRName": "砸人的石头"
   },
   {
     "Key": "enemy_5040_dqmage",
@@ -198095,7 +199114,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "扩音术师",
+    "JPName": "扩音术师",
+    "ENName": "扩音术师",
+    "KRName": "扩音术师"
   },
   {
     "Key": "enemy_5041_dqkght",
@@ -198159,7 +199182,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "保鲜膜骑士",
+    "JPName": "保鲜膜骑士",
+    "ENName": "保鲜膜骑士",
+    "KRName": "保鲜膜骑士"
   },
   {
     "Key": "enemy_5042_dqkght_2",
@@ -198223,7 +199250,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "劈柴骑士",
+    "JPName": "劈柴骑士",
+    "ENName": "劈柴骑士",
+    "KRName": "劈柴骑士"
   },
   {
     "Key": "enemy_5043_dqgscr",
@@ -198288,7 +199319,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "冰手术师",
+    "JPName": "冰手术师",
+    "ENName": "冰手术师",
+    "KRName": "冰手术师"
   },
   {
     "Key": "enemy_5044_dqzeni",
@@ -198348,7 +199383,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "小寄居蟹",
+    "JPName": "小寄居蟹",
+    "ENName": "小寄居蟹",
+    "KRName": "小寄居蟹"
   },
   {
     "Key": "enemy_5045_dqjedi_2",
@@ -198408,7 +199447,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "弧光武士",
+    "JPName": "弧光武士",
+    "ENName": "弧光武士",
+    "KRName": "弧光武士"
   },
   {
     "Key": "enemy_5046_dqmir",
@@ -198488,7 +199531,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "镜子机关枪",
+    "JPName": "镜子机关枪",
+    "ENName": "镜子机关枪",
+    "KRName": "镜子机关枪"
   },
   {
     "Key": "enemy_5047_dqripr",
@@ -198544,7 +199591,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "窃笑鳄鱼",
+    "JPName": "窃笑鳄鱼",
+    "ENName": "窃笑鳄鱼",
+    "KRName": "窃笑鳄鱼"
   },
   {
     "Key": "enemy_5048_dqingd",
@@ -198600,7 +199651,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "扎人的石头",
+    "JPName": "扎人的石头",
+    "ENName": "扎人的石头",
+    "KRName": "扎人的石头"
   },
   {
     "Key": "enemy_5049_dqat",
@@ -198671,7 +199726,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "责罚者",
+    "JPName": "责罚者",
+    "ENName": "责罚者",
+    "KRName": "责罚者"
   },
   {
     "Key": "enemy_5050_dqomg",
@@ -198735,7 +199794,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "大君之赐",
+    "JPName": "大君之赐",
+    "ENName": "大君之赐",
+    "KRName": "大君之赐"
   },
   {
     "Key": "enemy_5051_dqrwar",
@@ -198799,7 +199862,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "拳击宗师",
+    "JPName": "拳击宗师",
+    "ENName": "拳击宗师",
+    "KRName": "拳击宗师"
   },
   {
     "Key": "enemy_5052_dqsbr",
@@ -198863,7 +199930,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "奔跑吧！躯壳！",
+    "JPName": "奔跑吧！躯壳！",
+    "ENName": "奔跑吧！躯壳！",
+    "KRName": "奔跑吧！躯壳！"
   },
   {
     "Key": "enemy_5053_dqllme",
@@ -198943,7 +200014,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“庞贝”",
+    "JPName": "“庞贝”",
+    "ENName": "“庞贝”",
+    "KRName": "“庞贝”"
   },
   {
     "Key": "enemy_5054_dqxi",
@@ -199108,7 +200183,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "“自在”",
+    "JPName": "“自在”",
+    "ENName": "“自在”",
+    "KRName": "“自在”"
   },
   {
     "Key": "enemy_5055_dqkill",
@@ -199227,7 +200306,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "杰斯顿·威廉姆斯",
+    "JPName": "杰斯顿·威廉姆斯",
+    "ENName": "杰斯顿·威廉姆斯",
+    "KRName": "杰斯顿·威廉姆斯"
   },
   {
     "Key": "enemy_5056_yrnorm",
@@ -199334,7 +200417,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "士兵",
+    "JPName": "士兵",
+    "ENName": "士兵",
+    "KRName": "士兵"
   },
   {
     "Key": "enemy_5059_yrlanc",
@@ -199406,7 +200493,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "萨卡兹穿刺手",
+    "JPName": "萨卡兹穿刺手",
+    "ENName": "萨卡兹穿刺手",
+    "KRName": "萨卡兹穿刺手"
   },
   {
     "Key": "enemy_5060_yrghos",
@@ -199462,7 +200553,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "幽灵",
+    "JPName": "幽灵",
+    "ENName": "幽灵",
+    "KRName": "幽灵"
   },
   {
     "Key": "enemy_5061_yrpeop",
@@ -199522,7 +200617,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "乌萨斯平民",
+    "JPName": "乌萨斯平民",
+    "ENName": "乌萨斯平民",
+    "KRName": "乌萨斯平民"
   },
   {
     "Key": "enemy_5062_yrduck",
@@ -199586,7 +200685,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "鸭爵",
+    "JPName": "鸭爵",
+    "ENName": "鸭爵",
+    "KRName": "鸭爵"
   },
   {
     "Key": "enemy_5063_yrjump",
@@ -199650,7 +200753,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "破烂拼凑者",
+    "JPName": "破烂拼凑者",
+    "ENName": "破烂拼凑者",
+    "KRName": "破烂拼凑者"
   },
   {
     "Key": "enemy_5064_yrcoin",
@@ -199700,7 +200807,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "罗德岛标志",
+    "JPName": "罗德岛标志",
+    "ENName": "罗德岛标志",
+    "KRName": "罗德岛标志"
   },
   {
     "Key": "enemy_5065_yrcflwr",
@@ -199793,7 +200904,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "钵海收割者",
+    "JPName": "钵海收割者",
+    "ENName": "钵海收割者",
+    "KRName": "钵海收割者"
   },
   {
     "Key": "enemy_5066_yrstkt",
@@ -200009,7 +201124,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "“最后的蒸汽骑士”",
+    "JPName": "“最后的蒸汽骑士”",
+    "ENName": "“最后的蒸汽骑士”",
+    "KRName": "“最后的蒸汽骑士”"
   },
   {
     "Key": "enemy_5067_yrtikt",
@@ -200065,7 +201184,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "友好生物",
+    "JPName": "友好生物",
+    "ENName": "友好生物",
+    "KRName": "友好生物"
   },
   {
     "Key": "enemy_5501_arcbank",
@@ -200960,7 +202083,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "心烛",
+    "JPName": "心烛",
+    "ENName": "心烛",
+    "KRName": "心烛"
   },
   {
     "Key": "enemy_6001_trsgst",
@@ -210465,7 +211592,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "探矿机",
+    "JPName": "探矿机",
+    "ENName": "探矿机",
+    "KRName": "探矿机"
   },
   {
     "Key": "enemy_7033_xbdrcar",
@@ -210515,7 +211646,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "采掘机\n",
+    "JPName": "采掘机\n",
+    "ENName": "采掘机\n",
+    "KRName": "采掘机\n"
   },
   {
     "Key": "enemy_7034_xbmsn",
@@ -210653,7 +211788,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "异客",
+    "JPName": "异客",
+    "ENName": "异客",
+    "KRName": "异客"
   },
   {
     "Key": "enemy_7036_xbdeerb",
@@ -210717,7 +211856,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "小角跳兽(家养版）",
+    "JPName": "小角跳兽(家养版）",
+    "ENName": "小角跳兽(家养版）",
+    "KRName": "小角跳兽(家养版）"
   },
   {
     "Key": "enemy_7036_xbdeerb_2",
@@ -210781,7 +211924,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "大角跳兽(家养版）",
+    "JPName": "大角跳兽(家养版）",
+    "ENName": "大角跳兽(家养版）",
+    "KRName": "大角跳兽(家养版）"
   },
   {
     "Key": "enemy_7037_xbbullb",
@@ -210841,7 +211988,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "苔生兽（家养版）",
+    "JPName": "苔生兽（家养版）",
+    "ENName": "苔生兽（家养版）",
+    "KRName": "苔生兽（家养版）"
   },
   {
     "Key": "enemy_7037_xbbullb_2",
@@ -210901,7 +212052,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "茂密苔生兽（家养版）",
+    "JPName": "茂密苔生兽（家养版）",
+    "ENName": "茂密苔生兽（家养版）",
+    "KRName": "茂密苔生兽（家养版）"
   },
   {
     "Key": "enemy_7038_xbcrabb",
@@ -210961,7 +212116,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "岩壳蟹（家养版）",
+    "JPName": "岩壳蟹（家养版）",
+    "ENName": "岩壳蟹（家养版）",
+    "KRName": "岩壳蟹（家养版）"
   },
   {
     "Key": "enemy_7038_xbcrabb_2",
@@ -211021,7 +212180,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "结晶岩壳蟹（家养版）",
+    "JPName": "结晶岩壳蟹（家养版）",
+    "ENName": "结晶岩壳蟹（家养版）",
+    "KRName": "结晶岩壳蟹（家养版）"
   },
   {
     "Key": "enemy_7039_xbbirdb",
@@ -211085,7 +212248,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "落沙晶蹄兽（圈养）",
+    "JPName": "落沙晶蹄兽（圈养）",
+    "ENName": "落沙晶蹄兽（圈养）",
+    "KRName": "落沙晶蹄兽（圈养）"
   },
   {
     "Key": "enemy_7040_xbcrab2b",
@@ -211145,7 +212312,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“钳钳生风”（家养版）",
+    "JPName": "“钳钳生风”（家养版）",
+    "ENName": "“钳钳生风”（家养版）",
+    "KRName": "“钳钳生风”（家养版）"
   },
   {
     "Key": "enemy_7041_xbtorb",
@@ -211239,7 +212410,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "刺棱壳兽",
+    "JPName": "刺棱壳兽",
+    "ENName": "刺棱壳兽",
+    "KRName": "刺棱壳兽"
   },
   {
     "Key": "enemy_7042_xbmothb",
@@ -211328,7 +212503,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "精灵鸟（家养版）",
+    "JPName": "精灵鸟（家养版）",
+    "ENName": "精灵鸟（家养版）",
+    "KRName": "精灵鸟（家养版）"
   },
   {
     "Key": "enemy_7043_xbelep",
@@ -211400,7 +212579,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "时光守卫",
+    "JPName": "时光守卫",
+    "ENName": "时光守卫",
+    "KRName": "时光守卫"
   },
   {
     "Key": "enemy_7044_xblbug",
@@ -211954,7 +213137,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“流质透镜”（圈养）",
+    "JPName": "“流质透镜”（圈养）",
+    "ENName": "“流质透镜”（圈养）",
+    "KRName": "“流质透镜”（圈养）"
   },
   {
     "Key": "enemy_7049_xbnum",
@@ -212147,7 +213334,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "放归驮兽（圈养）",
+    "JPName": "放归驮兽（圈养）",
+    "ENName": "放归驮兽（圈养）",
+    "KRName": "放归驮兽（圈养）"
   },
   {
     "Key": "enemy_7051_xbcas",
@@ -212355,7 +213546,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "拟南兽（圈养）",
+    "JPName": "拟南兽（圈养）",
+    "ENName": "拟南兽（圈养）",
+    "KRName": "拟南兽（圈养）"
   },
   {
     "Key": "enemy_7053_xbcasz",
@@ -212853,7 +214048,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "香草翼兽（家养版）",
+    "JPName": "香草翼兽（家养版）",
+    "ENName": "香草翼兽（家养版）",
+    "KRName": "香草翼兽（家养版）"
   },
   {
     "Key": "enemy_7056_xbsmiz",
@@ -213387,7 +214586,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "游砂兽（家养版）",
+    "JPName": "游砂兽（家养版）",
+    "ENName": "游砂兽（家养版）",
+    "KRName": "游砂兽（家养版）"
   },
   {
     "Key": "enemy_7059_xbrokz",
@@ -213660,7 +214863,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "拟南兽（闪光友方）",
+    "JPName": "拟南兽（闪光友方）",
+    "ENName": "拟南兽（闪光友方）",
+    "KRName": "拟南兽（闪光友方）"
   },
   {
     "Key": "enemy_7061_xbsmiy",
@@ -213752,7 +214959,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "香草翼兽（友方闪光）",
+    "JPName": "香草翼兽（友方闪光）",
+    "ENName": "香草翼兽（友方闪光）",
+    "KRName": "香草翼兽（友方闪光）"
   },
   {
     "Key": "enemy_7062_xbroky",
@@ -213865,7 +215076,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "游砂兽（友方闪光）",
+    "JPName": "游砂兽（友方闪光）",
+    "ENName": "游砂兽（友方闪光）",
+    "KRName": "游砂兽（友方闪光）"
   },
   {
     "Key": "enemy_7501_rmhslm",
@@ -213915,7 +215130,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "灼热源石虫（赛虫）",
+    "JPName": "灼热源石虫（赛虫）",
+    "ENName": "灼热源石虫（赛虫）",
+    "KRName": "灼热源石虫（赛虫）"
   },
   {
     "Key": "enemy_7501_rmhslm_2",
@@ -213965,7 +215184,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "炽焰源石虫（赛虫）",
+    "JPName": "炽焰源石虫（赛虫）",
+    "ENName": "炽焰源石虫（赛虫）",
+    "KRName": "炽焰源石虫（赛虫）"
   },
   {
     "Key": "enemy_7502_rslm",
@@ -214015,7 +215238,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "源石虫（赛虫）",
+    "JPName": "源石虫（赛虫）",
+    "ENName": "源石虫（赛虫）",
+    "KRName": "源石虫（赛虫）"
   },
   {
     "Key": "enemy_7502_rslm_2",
@@ -214065,7 +215292,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "源石虫·α（赛虫）",
+    "JPName": "源石虫·α（赛虫）",
+    "ENName": "源石虫·α（赛虫）",
+    "KRName": "源石虫·α（赛虫）"
   },
   {
     "Key": "enemy_7503_rsrchn",
@@ -214115,7 +215346,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "变异岩蛛（赛虫）",
+    "JPName": "变异岩蛛（赛虫）",
+    "ENName": "变异岩蛛（赛虫）",
+    "KRName": "变异岩蛛（赛虫）"
   },
   {
     "Key": "enemy_7503_rsrchn_2",
@@ -214165,7 +215400,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "变异岩蛛·α（赛虫）",
+    "JPName": "变异岩蛛·α（赛虫）",
+    "ENName": "变异岩蛛·α（赛虫）",
+    "KRName": "变异岩蛛·α（赛虫）"
   },
   {
     "Key": "enemy_7504_rmslm",
@@ -214215,7 +215454,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "酸液源石虫（赛虫）",
+    "JPName": "酸液源石虫（赛虫）",
+    "ENName": "酸液源石虫（赛虫）",
+    "KRName": "酸液源石虫（赛虫）"
   },
   {
     "Key": "enemy_7504_rmslm_2",
@@ -214265,7 +215508,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "酸液源石虫·α（赛虫）",
+    "JPName": "酸液源石虫·α（赛虫）",
+    "ENName": "酸液源石虫·α（赛虫）",
+    "KRName": "酸液源石虫·α（赛虫）"
   },
   {
     "Key": "enemy_7505_rbslm",
@@ -214315,7 +215562,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "高能源石虫（赛虫）",
+    "JPName": "高能源石虫（赛虫）",
+    "ENName": "高能源石虫（赛虫）",
+    "KRName": "高能源石虫（赛虫）"
   },
   {
     "Key": "enemy_7505_rbslm_2",
@@ -214365,7 +215616,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "高能源石虫·α（赛虫）",
+    "JPName": "高能源石虫·α（赛虫）",
+    "ENName": "高能源石虫·α（赛虫）",
+    "KRName": "高能源石虫·α（赛虫）"
   },
   {
     "Key": "enemy_7506_rscrab",
@@ -214425,7 +215680,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "爆裂源石虫（赛虫）",
+    "JPName": "爆裂源石虫（赛虫）",
+    "ENName": "爆裂源石虫（赛虫）",
+    "KRName": "爆裂源石虫（赛虫）"
   },
   {
     "Key": "enemy_7507_rhrchn",
@@ -214475,7 +215734,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "变异巨岩蛛（赛虫）",
+    "JPName": "变异巨岩蛛（赛虫）",
+    "ENName": "变异巨岩蛛（赛虫）",
+    "KRName": "变异巨岩蛛（赛虫）"
   },
   {
     "Key": "enemy_7507_rhrchn_2",
@@ -214525,7 +215788,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "变异巨岩蛛·α（赛虫）",
+    "JPName": "变异巨岩蛛·α（赛虫）",
+    "ENName": "变异巨岩蛛·α（赛虫）",
+    "KRName": "变异巨岩蛛·α（赛虫）"
   },
   {
     "Key": "enemy_7508_raslm",
@@ -214575,7 +215842,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "黑水源石虫（赛虫）",
+    "JPName": "黑水源石虫（赛虫）",
+    "ENName": "黑水源石虫（赛虫）",
+    "KRName": "黑水源石虫（赛虫）"
   },
   {
     "Key": "enemy_7508_raslm_2",
@@ -214625,7 +215896,11 @@
         "notCountInTotal": false,
         "skills": null
       }
-    ]
+    ],
+    "CNName": "黑水源石虫·α（赛虫）",
+    "JPName": "黑水源石虫·α（赛虫）",
+    "ENName": "黑水源石虫·α（赛虫）",
+    "KRName": "黑水源石虫·α（赛虫）"
   },
   {
     "Key": "enemy_7509_rtrslm",
@@ -214681,7 +215956,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "“闪亮噗噜”（赛虫）",
+    "JPName": "“闪亮噗噜”（赛虫）",
+    "ENName": "“闪亮噗噜”（赛虫）",
+    "KRName": "“闪亮噗噜”（赛虫）"
   },
   {
     "Key": "enemy_7510_rlslm",
@@ -214741,7 +216020,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "\"庞贝\"（赛虫）",
+    "JPName": "\"庞贝\"（赛虫）",
+    "ENName": "\"庞贝\"（赛虫）",
+    "KRName": "\"庞贝\"（赛虫）"
   },
   {
     "Key": "enemy_7511_rxbl",
@@ -214814,7 +216097,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "振翅源石虫（赛虫）",
+    "JPName": "振翅源石虫（赛虫）",
+    "ENName": "振翅源石虫（赛虫）",
+    "KRName": "振翅源石虫（赛虫）"
   },
   {
     "Key": "enemy_7512_rxbtd",
@@ -214870,7 +216157,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "冲锋源石虫（赛虫）",
+    "JPName": "冲锋源石虫（赛虫）",
+    "ENName": "冲锋源石虫（赛虫）",
+    "KRName": "冲锋源石虫（赛虫）"
   },
   {
     "Key": "enemy_7513_rxbslg",
@@ -214926,7 +216217,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "披甲源石虫（赛虫）",
+    "JPName": "披甲源石虫（赛虫）",
+    "ENName": "披甲源石虫（赛虫）",
+    "KRName": "披甲源石虫（赛虫）"
   },
   {
     "Key": "enemy_8001_flmlod",
@@ -215773,7 +217068,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "缠身恶焰",
+    "JPName": "缠身恶焰",
+    "ENName": "缠身恶焰",
+    "KRName": "缠身恶焰"
   },
   {
     "Key": "enemy_8003_flmchn2",
@@ -215829,7 +217128,11 @@
         ],
         "skills": null
       }
-    ]
+    ],
+    "CNName": "缠身恶焰",
+    "JPName": "缠身恶焰",
+    "ENName": "缠身恶焰",
+    "KRName": "缠身恶焰"
   },
   {
     "Key": "enemy_8004_flmspr",
@@ -215928,7 +217231,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "凝缩热力",
+    "JPName": "凝缩热力",
+    "ENName": "凝缩热力",
+    "KRName": "凝缩热力"
   },
   {
     "Key": "enemy_8005_flmspr2",
@@ -216027,7 +217334,11 @@
           }
         ]
       }
-    ]
+    ],
+    "CNName": "凝缩热力",
+    "JPName": "凝缩热力",
+    "ENName": "凝缩热力",
+    "KRName": "凝缩热力"
   },
   {
     "Key": "enemy_8006_flmgd",
@@ -220472,6 +221783,1700 @@
     ]
   },
   {
+    "Key": "enemy_9006_actoxi",
+    "Levels": [
+      {
+        "key": "enemy_9006_actoxi",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 400,
+          "def": 400,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.projectile_range",
+            "value": 0.8
+          },
+          {
+            "key": "1.projectile_life_time",
+            "value": 8
+          },
+          {
+            "key": "1.interval",
+            "value": 1
+          },
+          {
+            "key": "1.damage_atk_scale",
+            "value": 0.15
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "假想敌：蚀裂",
+    "CNDescription": "参照源石的侵蚀性质而设计的假想敌。自然界中的源石侵蚀其他物质，一如矿石病患者体内，源石侵蚀机体组织。与源石共存的可能性究竟是否存在？我们希望在模拟的战斗中找到答案。",
+    "CNAbilityList": [
+      {
+        "text": "被击倒后，向击倒自身的目标发射一团毒雾，持续对周围造成法术伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "JPName": "假想敌：蚀裂",
+    "JPDescription": "参照源石的侵蚀性质而设计的假想敌。自然界中的源石侵蚀其他物质，一如矿石病患者体内，源石侵蚀机体组织。与源石共存的可能性究竟是否存在？我们希望在模拟的战斗中找到答案。",
+    "JPAbilityList": [
+      {
+        "text": "被击倒后，向击倒自身的目标发射一团毒雾，持续对周围造成法术伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "ENName": "假想敌：蚀裂",
+    "ENDescription": "参照源石的侵蚀性质而设计的假想敌。自然界中的源石侵蚀其他物质，一如矿石病患者体内，源石侵蚀机体组织。与源石共存的可能性究竟是否存在？我们希望在模拟的战斗中找到答案。",
+    "ENAbilityList": [
+      {
+        "text": "被击倒后，向击倒自身的目标发射一团毒雾，持续对周围造成法术伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "KRName": "假想敌：蚀裂",
+    "KRDescription": "参照源石的侵蚀性质而设计的假想敌。自然界中的源石侵蚀其他物质，一如矿石病患者体内，源石侵蚀机体组织。与源石共存的可能性究竟是否存在？我们希望在模拟的战斗中找到答案。",
+    "KRAbilityList": [
+      {
+        "text": "被击倒后，向击倒自身的目标发射一团毒雾，持续对周围造成法术伤害",
+        "textFormat": "SILENCE"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9007_acelem",
+    "Levels": [
+      {
+        "key": "enemy_9007_acelem",
+        "attributes": {
+          "maxHp": 36000,
+          "atk": 600,
+          "def": 200,
+          "magicResistance": 40,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.atk_scale",
+            "value": 0.3
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 1.3
+          },
+          {
+            "key": "1.ep_damage_scale",
+            "value": 1.3
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "假想敌：淤困",
+    "CNDescription": "参照源石的流体形态而设计的假想敌。无人知晓源石为何以此种形式呈现，但这极有可能是下一次源石灾害爆发的前兆。必须在模拟的战斗中找到方法，来消灭它、控制它，或是利用它。",
+    "CNAbilityList": [
+      {
+        "text": "自身不容易受到攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时会对目标进行寄生，寄生目标持续受到法术伤害，且受到的<$ba.dt.element>元素损伤</>增加",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "寄生目标<$ba.dt.element>元素损伤</>爆发时对周围四格其他我方单位造成大量相同类型的<$ba.dt.element>元素损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：淤困",
+    "JPDescription": "参照源石的流体形态而设计的假想敌。无人知晓源石为何以此种形式呈现，但这极有可能是下一次源石灾害爆发的前兆。必须在模拟的战斗中找到方法，来消灭它、控制它，或是利用它。",
+    "JPAbilityList": [
+      {
+        "text": "自身不容易受到攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时会对目标进行寄生，寄生目标持续受到法术伤害，且受到的<$ba.dt.element>元素损伤</>增加",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "寄生目标<$ba.dt.element>元素损伤</>爆发时对周围四格其他我方单位造成大量相同类型的<$ba.dt.element>元素损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：淤困",
+    "ENDescription": "参照源石的流体形态而设计的假想敌。无人知晓源石为何以此种形式呈现，但这极有可能是下一次源石灾害爆发的前兆。必须在模拟的战斗中找到方法，来消灭它、控制它，或是利用它。",
+    "ENAbilityList": [
+      {
+        "text": "自身不容易受到攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时会对目标进行寄生，寄生目标持续受到法术伤害，且受到的<$ba.dt.element>元素损伤</>增加",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "寄生目标<$ba.dt.element>元素损伤</>爆发时对周围四格其他我方单位造成大量相同类型的<$ba.dt.element>元素损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：淤困",
+    "KRDescription": "参照源石的流体形态而设计的假想敌。无人知晓源石为何以此种形式呈现，但这极有可能是下一次源石灾害爆发的前兆。必须在模拟的战斗中找到方法，来消灭它、控制它，或是利用它。",
+    "KRAbilityList": [
+      {
+        "text": "自身不容易受到攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被阻挡时会对目标进行寄生，寄生目标持续受到法术伤害，且受到的<$ba.dt.element>元素损伤</>增加",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "寄生目标<$ba.dt.element>元素损伤</>爆发时对周围四格其他我方单位造成大量相同类型的<$ba.dt.element>元素损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9008_acbunn",
+    "Levels": [
+      {
+        "key": "enemy_9008_acbunn",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 360,
+          "def": 300,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null
+      }
+    ],
+    "CNName": "假想敌：骨刺",
+    "CNDescription": "参照源石晶簇的结构而设计的假想敌。金属机械的构造使误差与瑕疵难以避免，但至少晶簇那危险而尖锐的印象得以保留。必须在模拟的战斗中克服深层的恐惧本能。",
+    "CNAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>状态下同时攻击数个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：骨刺",
+    "JPDescription": "参照源石晶簇的结构而设计的假想敌。金属机械的构造使误差与瑕疵难以避免，但至少晶簇那危险而尖锐的印象得以保留。必须在模拟的战斗中克服深层的恐惧本能。",
+    "JPAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>状态下同时攻击数个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：骨刺",
+    "ENDescription": "参照源石晶簇的结构而设计的假想敌。金属机械的构造使误差与瑕疵难以避免，但至少晶簇那危险而尖锐的印象得以保留。必须在模拟的战斗中克服深层的恐惧本能。",
+    "ENAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>状态下同时攻击数个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：骨刺",
+    "KRDescription": "参照源石晶簇的结构而设计的假想敌。金属机械的构造使误差与瑕疵难以避免，但至少晶簇那危险而尖锐的印象得以保留。必须在模拟的战斗中克服深层的恐惧本能。",
+    "KRAbilityList": [
+      {
+        "text": "<$ba.invisible>隐匿</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<$ba.invisible>隐匿</>状态下同时攻击数个目标",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9009_acfort",
+    "Levels": [
+      {
+        "key": "enemy_9009_acfort",
+        "attributes": {
+          "maxHp": 24000,
+          "atk": 500,
+          "def": 150,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "KillOthers",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "sp",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireWeapon",
+            "priority": 1,
+            "cooldown": 10,
+            "initCooldown": 5,
+            "spCost": 1,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：黑云",
+    "CNDescription": "参照源石尘降前出现的天灾云而设计的假想敌。天灾是文明长久的敌人，天灾云之下的源石聚合体是死亡的象征。必须在模拟的战斗中找到应对天灾的更多方法。",
+    "CNAbilityList": [
+      {
+        "text": "周期性束缚并吞噬数个非精英领袖飞行敌人，并回复等量弹药",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "一次性消耗所有弹药对目标造成大量物理伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "JPName": "假想敌：黑云",
+    "JPDescription": "参照源石尘降前出现的天灾云而设计的假想敌。天灾是文明长久的敌人，天灾云之下的源石聚合体是死亡的象征。必须在模拟的战斗中找到应对天灾的更多方法。",
+    "JPAbilityList": [
+      {
+        "text": "周期性束缚并吞噬数个非精英领袖飞行敌人，并回复等量弹药",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "一次性消耗所有弹药对目标造成大量物理伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "ENName": "假想敌：黑云",
+    "ENDescription": "参照源石尘降前出现的天灾云而设计的假想敌。天灾是文明长久的敌人，天灾云之下的源石聚合体是死亡的象征。必须在模拟的战斗中找到应对天灾的更多方法。",
+    "ENAbilityList": [
+      {
+        "text": "周期性束缚并吞噬数个非精英领袖飞行敌人，并回复等量弹药",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "一次性消耗所有弹药对目标造成大量物理伤害",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "KRName": "假想敌：黑云",
+    "KRDescription": "参照源石尘降前出现的天灾云而设计的假想敌。天灾是文明长久的敌人，天灾云之下的源石聚合体是死亡的象征。必须在模拟的战斗中找到应对天灾的更多方法。",
+    "KRAbilityList": [
+      {
+        "text": "周期性束缚并吞噬数个非精英领袖飞行敌人，并回复等量弹药",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "一次性消耗所有弹药对目标造成大量物理伤害",
+        "textFormat": "SILENCE"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9010_acpupp",
+    "Levels": [
+      {
+        "key": "enemy_9010_acpupp",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 1100,
+          "def": 300,
+          "magicResistance": 40,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Aura.max_damage_block_cnt",
+            "value": 5
+          },
+          {
+            "key": "Revive[Trigger].interval",
+            "value": 15
+          },
+          {
+            "key": "Revive[Trigger].prop_max_hp",
+            "value": 15
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "BornAnim",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：再生",
+    "CNDescription": "参照从源石中诞生的怪物而设计的假想敌。我们曾在罗德岛本舰与这样的敌人交战，它们不断地再生、爬起，借逝去者的外形施以杀戮。必须在模拟的战斗中找到更多的应对措施。",
+    "CNAbilityList": [
+      {
+        "text": "被击倒后进入再生状态并使周围一定距离内其他敌人获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "再生状态需要数次伤害击倒，一段时间后重生",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：再生",
+    "JPDescription": "参照从源石中诞生的怪物而设计的假想敌。我们曾在罗德岛本舰与这样的敌人交战，它们不断地再生、爬起，借逝去者的外形施以杀戮。必须在模拟的战斗中找到更多的应对措施。",
+    "JPAbilityList": [
+      {
+        "text": "被击倒后进入再生状态并使周围一定距离内其他敌人获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "再生状态需要数次伤害击倒，一段时间后重生",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：再生",
+    "ENDescription": "参照从源石中诞生的怪物而设计的假想敌。我们曾在罗德岛本舰与这样的敌人交战，它们不断地再生、爬起，借逝去者的外形施以杀戮。必须在模拟的战斗中找到更多的应对措施。",
+    "ENAbilityList": [
+      {
+        "text": "被击倒后进入再生状态并使周围一定距离内其他敌人获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "再生状态需要数次伤害击倒，一段时间后重生",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：再生",
+    "KRDescription": "参照从源石中诞生的怪物而设计的假想敌。我们曾在罗德岛本舰与这样的敌人交战，它们不断地再生、爬起，借逝去者的外形施以杀戮。必须在模拟的战斗中找到更多的应对措施。",
+    "KRAbilityList": [
+      {
+        "text": "被击倒后进入再生状态并使周围一定距离内其他敌人获得可以抵挡物理及法术伤害的护盾，护盾受到一定次数攻击后被击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "再生状态需要数次伤害击倒，一段时间后重生",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9011_acrefr",
+    "Levels": [
+      {
+        "key": "enemy_9011_acrefr",
+        "attributes": {
+          "maxHp": 18000,
+          "atk": 1000,
+          "def": 600,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 5.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Refracting.magic_resistance",
+            "value": 70
+          },
+          {
+            "key": "Refracting.max_hp",
+            "value": 1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "假想敌：镜膜",
+    "CNDescription": "参照被源石占据的机械而设计的假想敌。我们曾在罗德岛本舰与这样的机械造物交战，源石夺走了我们的造物，赋予它们更危险的能力。必须在模拟的战斗中找到破解这一困境的更多办法。",
+    "CNAbilityList": [
+      {
+        "text": "<$ba.refraction>折射</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "折射生效时自身生命值大幅提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：镜膜",
+    "JPDescription": "参照被源石占据的机械而设计的假想敌。我们曾在罗德岛本舰与这样的机械造物交战，源石夺走了我们的造物，赋予它们更危险的能力。必须在模拟的战斗中找到破解这一困境的更多办法。",
+    "JPAbilityList": [
+      {
+        "text": "<$ba.refraction>折射</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "折射生效时自身生命值大幅提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：镜膜",
+    "ENDescription": "参照被源石占据的机械而设计的假想敌。我们曾在罗德岛本舰与这样的机械造物交战，源石夺走了我们的造物，赋予它们更危险的能力。必须在模拟的战斗中找到破解这一困境的更多办法。",
+    "ENAbilityList": [
+      {
+        "text": "<$ba.refraction>折射</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "折射生效时自身生命值大幅提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：镜膜",
+    "KRDescription": "参照被源石占据的机械而设计的假想敌。我们曾在罗德岛本舰与这样的机械造物交战，源石夺走了我们的造物，赋予它们更危险的能力。必须在模拟的战斗中找到破解这一困境的更多办法。",
+    "KRAbilityList": [
+      {
+        "text": "<$ba.refraction>折射</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "折射生效时自身生命值大幅提升",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9012_acloon",
+    "Levels": [
+      {
+        "key": "enemy_9012_acloon",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 300,
+          "def": 200,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "2.range_radius",
+            "value": 0.8
+          },
+          {
+            "key": "2.ep_damage_scale",
+            "value": 1.15
+          },
+          {
+            "key": "2.ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "1.scale_attribute",
+            "value": 0.3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Skill",
+            "priority": 0,
+            "cooldown": 25,
+            "initCooldown": 15,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "hit_duration",
+                "value": 20,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Skill_2",
+            "priority": 0,
+            "cooldown": 25,
+            "initCooldown": 15,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "hit_duration",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“炎佑”",
+    "CNDescription": "炎国天师能够施展机关术，令凡铁俗木借火势而翔空，化作满天星火，护佑山水百姓。遇节庆则为宣瑞之明灯，遇争战则为除恶之雄兵。",
+    "CNAbilityList": [
+      {
+        "text": "战斗开始时，“炎佑”获得等于当前场地所有炎盟约干员一定比例的攻击力与生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【祛恶之焰】对攻击范围内的一名敌人持续喷射火焰，每秒造成攻击力一定比例的法术伤害，同时对目标周围至多数个敌人也造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“炎佑”",
+    "JPDescription": "炎国天师能够施展机关术，令凡铁俗木借火势而翔空，化作满天星火，护佑山水百姓。遇节庆则为宣瑞之明灯，遇争战则为除恶之雄兵。",
+    "JPAbilityList": [
+      {
+        "text": "战斗开始时，“炎佑”获得等于当前场地所有炎盟约干员一定比例的攻击力与生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【祛恶之焰】对攻击范围内的一名敌人持续喷射火焰，每秒造成攻击力一定比例的法术伤害，同时对目标周围至多数个敌人也造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“炎佑”",
+    "ENDescription": "炎国天师能够施展机关术，令凡铁俗木借火势而翔空，化作满天星火，护佑山水百姓。遇节庆则为宣瑞之明灯，遇争战则为除恶之雄兵。",
+    "ENAbilityList": [
+      {
+        "text": "战斗开始时，“炎佑”获得等于当前场地所有炎盟约干员一定比例的攻击力与生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【祛恶之焰】对攻击范围内的一名敌人持续喷射火焰，每秒造成攻击力一定比例的法术伤害，同时对目标周围至多数个敌人也造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“炎佑”",
+    "KRDescription": "炎国天师能够施展机关术，令凡铁俗木借火势而翔空，化作满天星火，护佑山水百姓。遇节庆则为宣瑞之明灯，遇争战则为除恶之雄兵。",
+    "KRAbilityList": [
+      {
+        "text": "战斗开始时，“炎佑”获得等于当前场地所有炎盟约干员一定比例的攻击力与生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【祛恶之焰】对攻击范围内的一名敌人持续喷射火焰，每秒造成攻击力一定比例的法术伤害，同时对目标周围至多数个敌人也造成伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9013_acstmk",
+    "Levels": [
+      {
+        "key": "enemy_9013_acstmk",
+        "attributes": {
+          "maxHp": 600000,
+          "atk": 650,
+          "def": 1000,
+          "magicResistance": 25,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": true,
+          "rangeRadius": 8
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.hp_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 0.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 1,
+            "cooldown": 25,
+            "initCooldown": 20,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "2",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_1005_yokai"
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.02,
+                "valueStr": null
+              },
+              {
+                "key": "max_hp",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "branch_id",
+                "value": 0,
+                "valueStr": "boss_summon_enemy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：胄",
+    "CNDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。",
+    "CNAbilityList": [
+      {
+        "text": "随机选择目标发射射线造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择攻击力最高的干员对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸使目标及周围8格单位<$ba.stun>晕眩</>较长时间且每秒受到物理伤害；<刺胄之弹>飞行时对其造成数次攻击可将其击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：胄",
+    "JPDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。",
+    "JPAbilityList": [
+      {
+        "text": "随机选择目标发射射线造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择攻击力最高的干员对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸使目标及周围8格单位<$ba.stun>晕眩</>较长时间且每秒受到物理伤害；<刺胄之弹>飞行时对其造成数次攻击可将其击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：胄",
+    "ENDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。",
+    "ENAbilityList": [
+      {
+        "text": "随机选择目标发射射线造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择攻击力最高的干员对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸使目标及周围8格单位<$ba.stun>晕眩</>较长时间且每秒受到物理伤害；<刺胄之弹>飞行时对其造成数次攻击可将其击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：胄",
+    "KRDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。",
+    "KRAbilityList": [
+      {
+        "text": "随机选择目标发射射线造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择攻击力最高的干员对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸使目标及周围8格单位<$ba.stun>晕眩</>较长时间且每秒受到物理伤害；<刺胄之弹>飞行时对其造成数次攻击可将其击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9013_acstmk_2",
+    "Levels": [
+      {
+        "key": "enemy_9013_acstmk_2",
+        "attributes": {
+          "maxHp": 1200000,
+          "atk": 750,
+          "def": 1200,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": true,
+          "rangeRadius": 8
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.hp_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 0.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 1,
+            "cooldown": 25,
+            "initCooldown": 20,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "2",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_1005_yokai"
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.02,
+                "valueStr": null
+              },
+              {
+                "key": "max_hp",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "branch_id",
+                "value": 0,
+                "valueStr": "boss_summon_enemy"
+              },
+              {
+                "key": "summon.hp_ratio",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "3",
+            "priority": 0,
+            "cooldown": 180000,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：胄",
+    "CNDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。\n将出现于隐秘核心回合并展开最终攻势。",
+    "CNAbilityList": [
+      {
+        "text": "随机选择目标进行法术攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，且【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择范围内攻击力最高的干员，对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸，使目标及周围8格单位<$ba.stun>晕眩</>且每秒受到物理伤害；<刺胄之弹>飞行时需要数次攻击击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：胄",
+    "JPDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。\n将出现于隐秘核心回合并展开最终攻势。",
+    "JPAbilityList": [
+      {
+        "text": "随机选择目标进行法术攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，且【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择范围内攻击力最高的干员，对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸，使目标及周围8格单位<$ba.stun>晕眩</>且每秒受到物理伤害；<刺胄之弹>飞行时需要数次攻击击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：胄",
+    "ENDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。\n将出现于隐秘核心回合并展开最终攻势。",
+    "ENAbilityList": [
+      {
+        "text": "随机选择目标进行法术攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，且【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择范围内攻击力最高的干员，对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸，使目标及周围8格单位<$ba.stun>晕眩</>且每秒受到物理伤害；<刺胄之弹>飞行时需要数次攻击击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：胄",
+    "KRDescription": "被源石完全侵蚀的蒸汽甲胄，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，曾经的勇气、信念与荣耀皆归于晶尘，只留被晶簇撕裂的甲胄仍向那余晖落幕之地前行。\n将出现于隐秘核心回合并展开最终攻势。",
+    "KRAbilityList": [
+      {
+        "text": "随机选择目标进行法术攻击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一定比例时，受到的物理与法术伤害降低，且【灭顶之灾】额外发射<刺胄之弹>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【灭顶之灾】选择范围内攻击力最高的干员，对其发射一枚<刺胄之弹>，<刺胄之弹>到达目标位置时爆炸，使目标及周围8格单位<$ba.stun>晕眩</>且每秒受到物理伤害；<刺胄之弹>飞行时需要数次攻击击破",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【死亡集群】周期性召唤无人机单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9014_acstma",
+    "Levels": [
+      {
+        "key": "enemy_9014_acstma",
+        "attributes": {
+          "maxHp": 240000,
+          "atk": 300,
+          "def": 400,
+          "magicResistance": 80,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 1,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": true,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 1.6
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "ALL",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 80,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "damage_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "special_stun_duration",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "max_hit_cnt",
+                "value": 15,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "dot_duration",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "dot_damage",
+                "value": 200,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "2",
+            "priority": 0,
+            "cooldown": 180000,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "“斩胄之剑”",
+    "CNDescription": null,
+    "CNAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“斩胄之剑”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“斩胄之剑”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“斩胄之剑”",
+    "JPDescription": null,
+    "JPAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“斩胄之剑”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“斩胄之剑”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“斩胄之剑”",
+    "ENDescription": null,
+    "ENAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“斩胄之剑”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“斩胄之剑”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“斩胄之剑”",
+    "KRDescription": null,
+    "KRAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“斩胄之剑”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“斩胄之剑”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9015_acstmb",
+    "Levels": [
+      {
+        "key": "enemy_9015_acstmb",
+        "attributes": {
+          "maxHp": 250000,
+          "atk": 350,
+          "def": 3500,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 8,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 1,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": true,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 1.6
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "ALL",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 80,
+            "initCooldown": 55,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "damage_scale",
+                "value": 1.3,
+                "valueStr": null
+              },
+              {
+                "key": "special_stun_duration",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "max_hit_cnt",
+                "value": 15,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "dot_duration",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "dot_damage",
+                "value": 200,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "2",
+            "priority": 0,
+            "cooldown": 180000,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "“破胄之锤”",
+    "CNDescription": null,
+    "CNAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“破胄之锤”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“破胄之锤”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“破胄之锤”",
+    "JPDescription": null,
+    "JPAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“破胄之锤”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“破胄之锤”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“破胄之锤”",
+    "ENDescription": null,
+    "ENAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“破胄之锤”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“破胄之锤”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“破胄之锤”",
+    "KRDescription": null,
+    "KRAbilityList": [
+      {
+        "text": "<$ba.permanentatk>持续攻击</>，造成范围物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始无敌；被击落时受到的伤害以一定比例传递给假想敌：胄",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性飞向场上攻击力最低的一名干员，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "飞行中的“破胄之锤”在受到一定次数伤害后被击落",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“破胄之锤”被击落后，视为地面单位且受到的伤害增加",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_9016_acstmr",
     "Levels": [
       {
@@ -220592,6 +223597,2173 @@
       },
       {
         "text": "需要数次攻击击倒",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9017_achunt",
+    "Levels": [
+      {
+        "key": "enemy_9017_achunt",
+        "attributes": {
+          "maxHp": 120000,
+          "atk": 750,
+          "def": 1100,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 0,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": true,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "3.move_speed",
+            "value": 2
+          },
+          {
+            "key": "3.atk_scale",
+            "value": 1.2
+          },
+          {
+            "key": "1.ep_damage_ratio",
+            "value": 0.4
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 1
+          },
+          {
+            "key": "2.max_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "2.max_valid_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "2.attack_speed",
+            "value": 80
+          },
+          {
+            "key": "3.duration",
+            "value": 15
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 30,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：铳",
+    "CNDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n",
+    "CNAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：铳",
+    "JPDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n",
+    "JPAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：铳",
+    "ENDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n",
+    "ENAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：铳",
+    "KRDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n",
+    "KRAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9017_achunt_2",
+    "Levels": [
+      {
+        "key": "enemy_9017_achunt_2",
+        "attributes": {
+          "maxHp": 120000,
+          "atk": 750,
+          "def": 1100,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 0,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": true,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "3.move_speed",
+            "value": 2
+          },
+          {
+            "key": "3.atk_scale",
+            "value": 1.5
+          },
+          {
+            "key": "1.ep_damage_ratio",
+            "value": 0.4
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 1
+          },
+          {
+            "key": "2.max_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "2.max_valid_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "2.attack_speed",
+            "value": 80
+          },
+          {
+            "key": "3.duration",
+            "value": 15
+          },
+          {
+            "key": "4.damage_scale",
+            "value": 0.1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 30,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "2",
+            "priority": 0,
+            "cooldown": 45,
+            "initCooldown": 20,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "dog_duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "move_speed",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "3",
+            "priority": 0,
+            "cooldown": 10000000,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "value",
+                "value": 100,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：铳",
+    "CNDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n将出现于隐秘核心回合并展开最终攻势。",
+    "CNAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害极大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>和场上其他<“碎铳之簧”>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：铳",
+    "JPDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n将出现于隐秘核心回合并展开最终攻势。",
+    "JPAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害极大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>和场上其他<“碎铳之簧”>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：铳",
+    "ENDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n将出现于隐秘核心回合并展开最终攻势。",
+    "ENAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害极大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>和场上其他<“碎铳之簧”>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：铳",
+    "KRDescription": "被源石占据重塑的圣卫铳骑，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，夺去一切我们尊崇的事物并取而代之，当所有的秩序被粉碎，它即是秩序。\n将出现于隐秘核心回合并展开最终攻势。",
+    "KRAbilityList": [
+      {
+        "text": "优先攻击防御力最高的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击时附带<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对同一个目标进行攻击时，攻击速度逐渐提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【最终之罚】停止攻击，移动速度大幅提升，向全场防御力最高的单位冲锋。对经过的单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【未尽的告解】在模拟中达成特定条件并进入隐秘核心回合时，场上出现<“碎铳之簧”>，同时<假想敌：铳>受到的物理与法术伤害极大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【盲信之誓】与场上所有<“碎铳之簧”>连结，<“碎铳之簧”>受到伤害时以一定比例传递给<假想敌：铳>和场上其他<“碎铳之簧”>，处于【盲信之誓】连结上的我方单位每秒受到物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【末日布道】持续召唤场上所有<“碎铳之簧”>向自身移动，<“碎铳之簧”>移动速度大幅提升并免疫伤害，对经过的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9018_actrpa",
+    "Levels": [
+      {
+        "key": "enemy_9018_actrpa",
+        "attributes": {
+          "maxHp": 2500000,
+          "atk": 600,
+          "def": 1100,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.shield_ratio",
+            "value": 0.005
+          },
+          {
+            "key": "1.atk_scale",
+            "value": 0.2
+          },
+          {
+            "key": "1.ep_damage_ratio",
+            "value": 0.05
+          },
+          {
+            "key": "1.regenerate_duration",
+            "value": 25
+          },
+          {
+            "key": "1.damage_scale",
+            "value": 0.1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "“碎铳之簧”",
+    "CNDescription": "被源石占据重塑的告解车，它将成为圣卫铳骑的子弹，忠实地执行其意志，无论那意志的本质是什么。",
+    "CNAbilityList": [
+      {
+        "text": "【未竟的祷祝】初始持有以下一种特殊护盾；护盾生效时，自身无法被阻挡；护盾消失一定时间后，重新获得对应护盾",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "元素护盾：受到的物理与法术伤害大幅降低，自身<$ba.dt.element>元素损伤</>爆发时，护盾消失。持有此护盾时，周期性发射一枚可以造成<$ba.dt.element>元素损伤</>并弹射数次的子弹，子弹在弹跳后伤害逐渐降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "法术护盾：获得一定量的法术屏障，屏障存在时自身受到的物理伤害大幅降低。持有此护盾时，受到物理伤害时对来源造成物理伤害和<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "频次护盾：受到数次伤害后消失。持有此护盾时，周期性进行十连击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“碎铳之簧”",
+    "JPDescription": "被源石占据重塑的告解车，它将成为圣卫铳骑的子弹，忠实地执行其意志，无论那意志的本质是什么。",
+    "JPAbilityList": [
+      {
+        "text": "【未竟的祷祝】初始持有以下一种特殊护盾；护盾生效时，自身无法被阻挡；护盾消失一定时间后，重新获得对应护盾",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "元素护盾：受到的物理与法术伤害大幅降低，自身<$ba.dt.element>元素损伤</>爆发时，护盾消失。持有此护盾时，周期性发射一枚可以造成<$ba.dt.element>元素损伤</>并弹射数次的子弹，子弹在弹跳后伤害逐渐降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "法术护盾：获得一定量的法术屏障，屏障存在时自身受到的物理伤害大幅降低。持有此护盾时，受到物理伤害时对来源造成物理伤害和<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "频次护盾：受到数次伤害后消失。持有此护盾时，周期性进行十连击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“碎铳之簧”",
+    "ENDescription": "被源石占据重塑的告解车，它将成为圣卫铳骑的子弹，忠实地执行其意志，无论那意志的本质是什么。",
+    "ENAbilityList": [
+      {
+        "text": "【未竟的祷祝】初始持有以下一种特殊护盾；护盾生效时，自身无法被阻挡；护盾消失一定时间后，重新获得对应护盾",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "元素护盾：受到的物理与法术伤害大幅降低，自身<$ba.dt.element>元素损伤</>爆发时，护盾消失。持有此护盾时，周期性发射一枚可以造成<$ba.dt.element>元素损伤</>并弹射数次的子弹，子弹在弹跳后伤害逐渐降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "法术护盾：获得一定量的法术屏障，屏障存在时自身受到的物理伤害大幅降低。持有此护盾时，受到物理伤害时对来源造成物理伤害和<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "频次护盾：受到数次伤害后消失。持有此护盾时，周期性进行十连击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“碎铳之簧”",
+    "KRDescription": "被源石占据重塑的告解车，它将成为圣卫铳骑的子弹，忠实地执行其意志，无论那意志的本质是什么。",
+    "KRAbilityList": [
+      {
+        "text": "【未竟的祷祝】初始持有以下一种特殊护盾；护盾生效时，自身无法被阻挡；护盾消失一定时间后，重新获得对应护盾",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "元素护盾：受到的物理与法术伤害大幅降低，自身<$ba.dt.element>元素损伤</>爆发时，护盾消失。持有此护盾时，周期性发射一枚可以造成<$ba.dt.element>元素损伤</>并弹射数次的子弹，子弹在弹跳后伤害逐渐降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "法术护盾：获得一定量的法术屏障，屏障存在时自身受到的物理伤害大幅降低。持有此护盾时，受到物理伤害时对来源造成物理伤害和<$ba.dt.erosion>侵蚀损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "频次护盾：受到数次伤害后消失。持有此护盾时，周期性进行十连击",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9019_actrpb",
+    "Levels": [
+      {
+        "key": "enemy_9019_actrpb",
+        "attributes": {
+          "maxHp": 2500000,
+          "atk": 600,
+          "def": 1100,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.damage_scale",
+            "value": 0.1
+          },
+          {
+            "key": "1.regenerate_duration",
+            "value": 25
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 4,
+            "blackboard": [
+              {
+                "key": "times",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“碎铳之簧”",
+    "CNDescription": null,
+    "CNAbilityList": {},
+    "JPName": "“碎铳之簧”",
+    "JPDescription": null,
+    "JPAbilityList": {},
+    "ENName": "“碎铳之簧”",
+    "ENDescription": null,
+    "ENAbilityList": {},
+    "KRName": "“碎铳之簧”",
+    "KRDescription": null,
+    "KRAbilityList": {}
+  },
+  {
+    "Key": "enemy_9020_actrpc",
+    "Levels": [
+      {
+        "key": "enemy_9020_actrpc",
+        "attributes": {
+          "maxHp": 2500000,
+          "atk": 600,
+          "def": 1100,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.regenerate_duration",
+            "value": 25
+          },
+          {
+            "key": "1.block_damage_max_times",
+            "value": 5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 2,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“碎铳之簧”",
+    "CNDescription": null,
+    "CNAbilityList": {},
+    "JPName": "“碎铳之簧”",
+    "JPDescription": null,
+    "JPAbilityList": {},
+    "ENName": "“碎铳之簧”",
+    "ENDescription": null,
+    "ENAbilityList": {},
+    "KRName": "“碎铳之簧”",
+    "KRDescription": null,
+    "KRAbilityList": {}
+  },
+  {
+    "Key": "enemy_9021_acduml",
+    "Levels": [
+      {
+        "key": "enemy_9021_acduml",
+        "attributes": {
+          "maxHp": 85000,
+          "atk": 300,
+          "def": 700,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 0,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 7,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.acduml_t_1[high_hp].interval",
+            "value": 40
+          },
+          {
+            "key": "1.acduml_t_1[low_hp].interval",
+            "value": 20
+          },
+          {
+            "key": "1.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "1.enemy_key",
+            "value": "enemy_9023_acdums"
+          },
+          {
+            "key": "1.prob",
+            "value": 0.1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 40,
+            "spCost": 50,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.25,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：管",
+    "CNDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。",
+    "CNAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：管",
+    "JPDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。",
+    "JPAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：管",
+    "ENDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。",
+    "ENAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：管",
+    "KRDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。",
+    "KRAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9021_acduml_2",
+    "Levels": [
+      {
+        "key": "enemy_9021_acduml_2",
+        "attributes": {
+          "maxHp": 85000,
+          "atk": 300,
+          "def": 700,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 0,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 7,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.acduml_t_1[high_hp].interval",
+            "value": 40
+          },
+          {
+            "key": "1.acduml_t_1[low_hp].interval",
+            "value": 20
+          },
+          {
+            "key": "1.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "1.enemy_key",
+            "value": "enemy_9023_acdums"
+          },
+          {
+            "key": "1.prob",
+            "value": 0.1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 40,
+            "spCost": 50,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.25,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：管",
+    "CNDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。\n将出现于隐秘核心回合并展开最终攻势。",
+    "CNAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：管",
+    "JPDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。\n将出现于隐秘核心回合并展开最终攻势。",
+    "JPAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：管",
+    "ENDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。\n将出现于隐秘核心回合并展开最终攻势。",
+    "ENAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：管",
+    "KRDescription": "由源石创造再现的“女皇之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石在大地上蔓延，淹没一切赞美与斥责。晶体棱面泛起的余音，不过是源石的另一个名字。\n将出现于隐秘核心回合并展开最终攻势。",
+    "KRAbilityList": [
+      {
+        "text": "在场时持续召唤【暗色的喟叹】形态<“余音”>；生命值低于一定比例时，召唤间隔缩短",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【暗色的喟叹】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【裂管之奏】选择场上所有【暗色的喟叹】形态<“余音”>进行一次三连击，造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "隐秘核心",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：弦>将与<假想敌：管>同时登场",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9022_acdumm",
+    "Levels": [
+      {
+        "key": "enemy_9022_acdumm",
+        "attributes": {
+          "maxHp": 85000,
+          "atk": 120,
+          "def": 700,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 0,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 7,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.acdumm_t_1[high_hp].interval",
+            "value": 40
+          },
+          {
+            "key": "1.acdumm_t_1[low_hp].interval",
+            "value": 20
+          },
+          {
+            "key": "1.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "1.enemy_key",
+            "value": "enemy_9023_acdums"
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 25,
+            "initCooldown": 12,
+            "spCost": 25,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.6,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.25,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "enemy_9022_acdumm",
+        "attributes": {
+          "maxHp": 85000,
+          "atk": 120,
+          "def": 700,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 0,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 7,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.acdumm_t_1[high_hp].interval",
+            "value": 40
+          },
+          {
+            "key": "1.acdumm_t_1[low_hp].interval",
+            "value": 20
+          },
+          {
+            "key": "1.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "1.enemy_key",
+            "value": "enemy_9023_acdums"
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 25,
+            "initCooldown": 12,
+            "spCost": 25,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.6,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.25,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "假想敌：弦",
+    "CNDescription": "由源石创造再现的“巫王之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石从没有边际的海洋中打捞起一道暗影，重新赋予它身躯与弦音。那片静止的海洋囊括了一切，唯独没有那道暗影在帕维永中窥见的未来。",
+    "CNAbilityList": [
+      {
+        "text": "永久无敌；在<假想敌：管>被击倒后同时离场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在场时，持续召唤【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【断弦之奏】选择场上所有【金黄的悲号】形态<“余音”>，以其为中心造成一次大范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>，并转换目标<“余音”>形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "假想敌：弦",
+    "JPDescription": "由源石创造再现的“巫王之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石从没有边际的海洋中打捞起一道暗影，重新赋予它身躯与弦音。那片静止的海洋囊括了一切，唯独没有那道暗影在帕维永中窥见的未来。",
+    "JPAbilityList": [
+      {
+        "text": "永久无敌；在<假想敌：管>被击倒后同时离场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在场时，持续召唤【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【断弦之奏】选择场上所有【金黄的悲号】形态<“余音”>，以其为中心造成一次大范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>，并转换目标<“余音”>形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "假想敌：弦",
+    "ENDescription": "由源石创造再现的“巫王之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石从没有边际的海洋中打捞起一道暗影，重新赋予它身躯与弦音。那片静止的海洋囊括了一切，唯独没有那道暗影在帕维永中窥见的未来。",
+    "ENAbilityList": [
+      {
+        "text": "永久无敌；在<假想敌：管>被击倒后同时离场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在场时，持续召唤【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【断弦之奏】选择场上所有【金黄的悲号】形态<“余音”>，以其为中心造成一次大范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>，并转换目标<“余音”>形态",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "假想敌：弦",
+    "KRDescription": "由源石创造再现的“巫王之声”，是根据源石灾难在全泰拉爆发的想象而设计的假想敌之一。源石从没有边际的海洋中打捞起一道暗影，重新赋予它身躯与弦音。那片静止的海洋囊括了一切，唯独没有那道暗影在帕维永中窥见的未来。",
+    "KRAbilityList": [
+      {
+        "text": "永久无敌；在<假想敌：管>被击倒后同时离场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在场时，持续召唤【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击【金黄的悲号】形态<“余音”>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【断弦之奏】选择场上所有【金黄的悲号】形态<“余音”>，以其为中心造成一次大范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>，并转换目标<“余音”>形态",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9023_acdums",
+    "Levels": [
+      {
+        "key": "enemy_9023_acdums",
+        "attributes": {
+          "maxHp": 10,
+          "atk": 200,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.attack_speed",
+            "value": 50
+          },
+          {
+            "key": "1.hit_times_to_switch",
+            "value": 10
+          },
+          {
+            "key": "2.move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "2.hit_times_to_switch",
+            "value": 10
+          },
+          {
+            "key": "2.atk",
+            "value": 0.5
+          },
+          {
+            "key": "3.atk_scale",
+            "value": 0.1
+          },
+          {
+            "key": "3.ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "4.ep_damage_ratio_passion",
+            "value": 0.3
+          },
+          {
+            "key": "4.ep_damage_ratio_depassion",
+            "value": 0.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Skill",
+            "priority": 0,
+            "cooldown": 5,
+            "initCooldown": 2,
+            "spCost": 12,
+            "blackboard": {}
+          }
+        ]
+      }
+    ],
+    "CNName": "“余音”",
+    "CNDescription": "残余的节拍，暗淡的回响。由谁指挥，为何颂唱？",
+    "CNAbilityList": [
+      {
+        "text": "需要数次攻击击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【复调】：在【金黄的悲号】与【暗色的喟叹】形态之间转换",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【金黄的悲号】形态时攻击速度提升，受到数次伤害后转换为【暗色的喟叹】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【暗色的喟叹】形态时移动速度下降，攻击力提升，受到数次伤害后转换为【金黄的悲号】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到伤害时以自身为中心造成一次范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "全场所有<“余音”>周期性一同进行一次合奏造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“余音”",
+    "JPDescription": "残余的节拍，暗淡的回响。由谁指挥，为何颂唱？",
+    "JPAbilityList": [
+      {
+        "text": "需要数次攻击击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【复调】：在【金黄的悲号】与【暗色的喟叹】形态之间转换",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【金黄的悲号】形态时攻击速度提升，受到数次伤害后转换为【暗色的喟叹】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【暗色的喟叹】形态时移动速度下降，攻击力提升，受到数次伤害后转换为【金黄的悲号】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到伤害时以自身为中心造成一次范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "全场所有<“余音”>周期性一同进行一次合奏造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“余音”",
+    "ENDescription": "残余的节拍，暗淡的回响。由谁指挥，为何颂唱？",
+    "ENAbilityList": [
+      {
+        "text": "需要数次攻击击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【复调】：在【金黄的悲号】与【暗色的喟叹】形态之间转换",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【金黄的悲号】形态时攻击速度提升，受到数次伤害后转换为【暗色的喟叹】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【暗色的喟叹】形态时移动速度下降，攻击力提升，受到数次伤害后转换为【金黄的悲号】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到伤害时以自身为中心造成一次范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "全场所有<“余音”>周期性一同进行一次合奏造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“余音”",
+    "KRDescription": "残余的节拍，暗淡的回响。由谁指挥，为何颂唱？",
+    "KRAbilityList": [
+      {
+        "text": "需要数次攻击击倒",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【复调】：在【金黄的悲号】与【暗色的喟叹】形态之间转换",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【金黄的悲号】形态时攻击速度提升，受到数次伤害后转换为【暗色的喟叹】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【暗色的喟叹】形态时移动速度下降，攻击力提升，受到数次伤害后转换为【金黄的悲号】形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到伤害时以自身为中心造成一次范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "全场所有<“余音”>周期性一同进行一次合奏造成范围法术伤害和<$ba.dt.apoptosis>凋亡损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9032_aclionk",
+    "Levels": [
+      {
+        "key": "enemy_9032_aclionk",
+        "attributes": {
+          "maxHp": 81000,
+          "atk": 820,
+          "def": 1030,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 100,
+          "baseAttackTime": 8.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": true,
+          "rangeRadius": 3.4
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "advance.def",
+            "value": 1
+          },
+          {
+            "key": "advance.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "advance.magic_resistance",
+            "value": 45
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "equip",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 25,
+            "blackboard": [
+              {
+                "key": "projectile_range",
+                "value": 0,
+                "valueStr": "x-5"
+              },
+              {
+                "key": "atk_scale",
+                "value": 2,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "store",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "dynamic",
+                "value": 5000,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "storeA",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "dynamic",
+                "value": 5000,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "equipA",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 25,
+            "blackboard": [
+              {
+                "key": "projectile_range",
+                "value": 0,
+                "valueStr": "x-5"
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 2,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Suicide",
+            "priority": 5,
+            "cooldown": 999,
+            "initCooldown": 999,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "value",
+                "value": -100,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "阿利斯泰尔，帝国余晖",
+    "CNDescription": "帝国最后的余晖，生锈冠冕下的幽灵。反驳他，反驳维多利亚无上的荣光与权力，他会审视，他可以宽恕。",
+    "CNAbilityList": [
+      {
+        "text": "生命值降至一半及以下时，防御力及法术抗性提升，【莫非王土】每次活化两件装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【斥退】战斗经过较长时间后，对全场我方单位造成法术溅射伤害, 并扣除所有目标生命",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【王权号令】锁定一个我方单位及其周围四格，对范围内目标造成一次高额物理伤害并在此范围内的地块上生成随机装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【莫非王土】场上存在装备时，使一件装备活化，不同的装备将产生不同效果。",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "阿利斯泰尔，帝国余晖",
+    "JPDescription": "帝国最后的余晖，生锈冠冕下的幽灵。反驳他，反驳维多利亚无上的荣光与权力，他会审视，他可以宽恕。",
+    "JPAbilityList": [
+      {
+        "text": "生命值降至一半及以下时，防御力及法术抗性提升，【莫非王土】每次活化两件装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【斥退】战斗经过较长时间后，对全场我方单位造成法术溅射伤害, 并扣除所有目标生命",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【王权号令】锁定一个我方单位及其周围四格，对范围内目标造成一次高额物理伤害并在此范围内的地块上生成随机装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【莫非王土】场上存在装备时，使一件装备活化，不同的装备将产生不同效果。",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "阿利斯泰尔，帝国余晖",
+    "ENDescription": "帝国最后的余晖，生锈冠冕下的幽灵。反驳他，反驳维多利亚无上的荣光与权力，他会审视，他可以宽恕。",
+    "ENAbilityList": [
+      {
+        "text": "生命值降至一半及以下时，防御力及法术抗性提升，【莫非王土】每次活化两件装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【斥退】战斗经过较长时间后，对全场我方单位造成法术溅射伤害, 并扣除所有目标生命",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【王权号令】锁定一个我方单位及其周围四格，对范围内目标造成一次高额物理伤害并在此范围内的地块上生成随机装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【莫非王土】场上存在装备时，使一件装备活化，不同的装备将产生不同效果。",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "阿利斯泰尔，帝国余晖",
+    "KRDescription": "帝国最后的余晖，生锈冠冕下的幽灵。反驳他，反驳维多利亚无上的荣光与权力，他会审视，他可以宽恕。",
+    "KRAbilityList": [
+      {
+        "text": "生命值降至一半及以下时，防御力及法术抗性提升，【莫非王土】每次活化两件装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【斥退】战斗经过较长时间后，对全场我方单位造成法术溅射伤害, 并扣除所有目标生命",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【王权号令】锁定一个我方单位及其周围四格，对范围内目标造成一次高额物理伤害并在此范围内的地块上生成随机装备",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【莫非王土】场上存在装备时，使一件装备活化，不同的装备将产生不同效果。",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_9033_acdeer",
+    "Levels": [
+      {
+        "key": "enemy_9033_acdeer",
+        "attributes": {
+          "maxHp": 240000,
+          "atk": 800,
+          "def": 800,
+          "magicResistance": 40,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": true,
+          "fearedImmune": true,
+          "palsyImmune": false,
+          "attractImmune": true,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Madness.damage_resistance",
+            "value": 0.6
+          },
+          {
+            "key": "Madness.enemy_smdeer_mad[attack].max_cnt",
+            "value": 2
+          },
+          {
+            "key": "Madness.enemy_smdeer_mad[skill].max_target",
+            "value": 2
+          },
+          {
+            "key": "Madness.attack@max_cnt",
+            "value": 1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Lasso",
+            "priority": 0,
+            "cooldown": 60,
+            "initCooldown": 40,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_life_time",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Doom",
+            "priority": 0,
+            "cooldown": 600,
+            "initCooldown": 600,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "value",
+                "value": -30,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "“萨米的意志”",
+    "CNDescription": "因萨米的一个念想从土石和冰雪中诞生，在这个念想得到满足前，它将在此矗立，阻挡一切生灵的去路。",
+    "CNAbilityList": [
+      {
+        "text": "【冰凌】攻击时对整列的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【自然涌动】使一名我方单位<$ba.stun>晕眩</>并持续受到法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一半时，受到的物理和法术伤害降低，【冰凌】和【自然涌动】额外选择一个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“萨米的意志”",
+    "JPDescription": "因萨米的一个念想从土石和冰雪中诞生，在这个念想得到满足前，它将在此矗立，阻挡一切生灵的去路。",
+    "JPAbilityList": [
+      {
+        "text": "【冰凌】攻击时对整列的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【自然涌动】使一名我方单位<$ba.stun>晕眩</>并持续受到法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一半时，受到的物理和法术伤害降低，【冰凌】和【自然涌动】额外选择一个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“萨米的意志”",
+    "ENDescription": "因萨米的一个念想从土石和冰雪中诞生，在这个念想得到满足前，它将在此矗立，阻挡一切生灵的去路。",
+    "ENAbilityList": [
+      {
+        "text": "【冰凌】攻击时对整列的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【自然涌动】使一名我方单位<$ba.stun>晕眩</>并持续受到法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一半时，受到的物理和法术伤害降低，【冰凌】和【自然涌动】额外选择一个目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“萨米的意志”",
+    "KRDescription": "因萨米的一个念想从土石和冰雪中诞生，在这个念想得到满足前，它将在此矗立，阻挡一切生灵的去路。",
+    "KRAbilityList": [
+      {
+        "text": "【冰凌】攻击时对整列的我方单位造成物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【自然涌动】使一名我方单位<$ba.stun>晕眩</>并持续受到法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值低于一半时，受到的物理和法术伤害降低，【冰凌】和【自然涌动】额外选择一个目标",
         "textFormat": "NORMAL"
       }
     ]

@@ -131,11 +131,15 @@ const parseCNData = async () => {
     }
 
     const findHandbook: any = enemyHandbook.find((handbook: any) => handbook.enemyId === key);
-    if(!findHandbook) console.error(`CN ${key}没有获取到Handbook！`)
+    let name = findHandbook?.name;
+    if(!findHandbook) {
+      console.error(`CN ${key}没有获取到Handbook！`);
+      name = enemy_database[key][0]["enemyData"]["name"]["m_value"];
+    }
     parsedEnemies.push({
       Key: key,
       Levels,
-      CNName: findHandbook?.name,
+      CNName: name,
       CNDescription: findHandbook?.description,
       CNAbilityList: findHandbook?.abilityList,
       JPName: '',
