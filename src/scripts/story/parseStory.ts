@@ -150,28 +150,28 @@ const parseBaseData = async () => {
   const basicInfoCNArr: any[] = Object.values(basicInfo);
   
   //临时补救措施
-  basicInfoCNArr.push({
-    id: 'act46side',
-    type: 'TYPE_ACT9D0',
-    displayType: 'SIDESTORY',
-    name: '雪山降临1101',
-    startTime: 1706760000,
-    endTime: 1708545599,
-    rewardEndTime: 1709150399,
-    displayOnHome: true,
-    hasStage: true,
-    templateShopId: 'shop_act46side',
-    medalGroupId: 'medalGroupActivity31side',
-    ungroupedMedalIds: null,
-    isReplicate: false,
-    needFixedSync: false,
-    trapDomainId: null,
-    recType: 'SPECIAL',
-    isPageEntry: false,
-    isMagnify: false,
-    picGroup: {},
-    usePicGroup: false
-  })
+  // basicInfoCNArr.push({
+  //   id: 'act46side',
+  //   type: 'TYPE_ACT9D0',
+  //   displayType: 'SIDESTORY',
+  //   name: '雪山降临1101',
+  //   startTime: 1706760000,
+  //   endTime: 1708545599,
+  //   rewardEndTime: 1709150399,
+  //   displayOnHome: true,
+  //   hasStage: true,
+  //   templateShopId: 'shop_act46side',
+  //   medalGroupId: 'medalGroupActivity31side',
+  //   ungroupedMedalIds: null,
+  //   isReplicate: false,
+  //   needFixedSync: false,
+  //   trapDomainId: null,
+  //   recType: 'SPECIAL',
+  //   isPageEntry: false,
+  //   isMagnify: false,
+  //   picGroup: {},
+  //   usePicGroup: false
+  // })
 
   basicInfoCNArr.forEach(event => {
     let id: string = event.id;

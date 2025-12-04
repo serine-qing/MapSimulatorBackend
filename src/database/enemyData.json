@@ -32965,6 +32965,960 @@
     ]
   },
   {
+    "Key": "enemy_10146_nscola",
+    "Levels": [
+      {
+        "key": "enemy_10146_nscola",
+        "attributes": {
+          "maxHp": 5000,
+          "atk": 350,
+          "def": 100,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.enemy_nscola[speed].move_speed",
+            "value": 0.3
+          },
+          {
+            "key": "Passive.fixed_value_damage",
+            "value": 120
+          },
+          {
+            "key": "Passive.enemy_nscola[speed].max_time",
+            "value": 25
+          },
+          {
+            "key": "Passive.enemy_nscola[speed].interval",
+            "value": 0.5
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "开天汽水瓶",
+    "CNDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n至于里面的汽水......真有人买它是为了喝汽水吗？",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "开天汽水瓶",
+    "JPDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n至于里面的汽水......真有人买它是为了喝汽水吗？",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "开天汽水瓶",
+    "ENDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n至于里面的汽水......真有人买它是为了喝汽水吗？",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "开天汽水瓶",
+    "KRDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n至于里面的汽水......真有人买它是为了喝汽水吗？",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10146_nscola_2",
+    "Levels": [
+      {
+        "key": "enemy_10146_nscola_2",
+        "attributes": {
+          "maxHp": 6500,
+          "atk": 400,
+          "def": 100,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.enemy_nscola[speed].move_speed",
+            "value": 0.3
+          },
+          {
+            "key": "Passive.fixed_value_damage",
+            "value": 120
+          },
+          {
+            "key": "Passive.enemy_nscola[speed].max_time",
+            "value": 25
+          },
+          {
+            "key": "Passive.enemy_nscola[speed].interval",
+            "value": 0.5
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "开天汽水瓶·酸辣味",
+    "CNDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n里面填装的汽水换成了浓郁的酸辣味，千万别在室内打开！",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "开天汽水瓶·酸辣味",
+    "JPDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n里面填装的汽水换成了浓郁的酸辣味，千万别在室内打开！",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "开天汽水瓶·酸辣味",
+    "ENDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n里面填装的汽水换成了浓郁的酸辣味，千万别在室内打开！",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "开天汽水瓶·酸辣味",
+    "KRDescription": "按照说明书用力摇晃三百秒再撬开瓶盖，它就会以气贯长虹之势飞向天空。别担心，瓶身由高韧度亚克力制成，绝不会摔碎。\n里面填装的汽水换成了浓郁的酸辣味，千万别在室内打开！",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10147_nsbomb",
+    "Levels": [
+      {
+        "key": "enemy_10147_nsbomb",
+        "attributes": {
+          "maxHp": 7000,
+          "atk": 330,
+          "def": 300,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.interval",
+            "value": 2.5
+          },
+          {
+            "key": "Passive.range_radius",
+            "value": 1
+          },
+          {
+            "key": "Passive.atk_scale",
+            "value": 2
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "遮天面包机",
+    "CNDescription": "伴随着清脆的提示音，新鲜烤好的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "遮天面包机",
+    "JPDescription": "伴随着清脆的提示音，新鲜烤好的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "遮天面包机",
+    "ENDescription": "伴随着清脆的提示音，新鲜烤好的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "遮天面包机",
+    "KRDescription": "伴随着清脆的提示音，新鲜烤好的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10147_nsbomb_2",
+    "Levels": [
+      {
+        "key": "enemy_10147_nsbomb_2",
+        "attributes": {
+          "maxHp": 9000,
+          "atk": 400,
+          "def": 300,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.interval",
+            "value": 2.5
+          },
+          {
+            "key": "Passive.range_radius",
+            "value": 1
+          },
+          {
+            "key": "Passive.atk_scale",
+            "value": 2
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "遮天面包机·果酱款",
+    "CNDescription": "伴随着清脆的提示音，新鲜烤好、连果酱都已涂抹妥当的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "遮天面包机·果酱款",
+    "JPDescription": "伴随着清脆的提示音，新鲜烤好、连果酱都已涂抹妥当的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "遮天面包机·果酱款",
+    "ENDescription": "伴随着清脆的提示音，新鲜烤好、连果酱都已涂抹妥当的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "遮天面包机·果酱款",
+    "KRDescription": "伴随着清脆的提示音，新鲜烤好、连果酱都已涂抹妥当的吐司会直接落入你的盘中。\n有它在的餐厅，一般会要求顾客脱帽。不是出于什么礼节，而是因为它总是把帽子识别成盘子。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "未被阻挡时持续对周围我方单位造成溅射伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10148_nsmos",
+    "Levels": [
+      {
+        "key": "enemy_10148_nsmos",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 200,
+          "def": 200,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.3
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.range_radius",
+            "value": 1.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "KeepAttack",
+            "priority": 0,
+            "cooldown": 12,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "sp",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "all_cnt",
+                "value": 15,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "啸天吸尘器",
+    "CNDescription": "其他家用电器飞起来或许没什么意义，但会飞的吸尘器绝对是划时代的发明。现在，它连天花板都能吸了。\n小心！如果它从你头顶掠过的时候吸住了你的头发，请立刻按照说明书自救！",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "啸天吸尘器",
+    "JPDescription": "其他家用电器飞起来或许没什么意义，但会飞的吸尘器绝对是划时代的发明。现在，它连天花板都能吸了。\n小心！如果它从你头顶掠过的时候吸住了你的头发，请立刻按照说明书自救！",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "啸天吸尘器",
+    "ENDescription": "其他家用电器飞起来或许没什么意义，但会飞的吸尘器绝对是划时代的发明。现在，它连天花板都能吸了。\n小心！如果它从你头顶掠过的时候吸住了你的头发，请立刻按照说明书自救！",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "啸天吸尘器",
+    "KRDescription": "其他家用电器飞起来或许没什么意义，但会飞的吸尘器绝对是划时代的发明。现在，它连天花板都能吸了。\n小心！如果它从你头顶掠过的时候吸住了你的头发，请立刻按照说明书自救！",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10148_nsmos_2",
+    "Levels": [
+      {
+        "key": "enemy_10148_nsmos_2",
+        "attributes": {
+          "maxHp": 7000,
+          "atk": 250,
+          "def": 200,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.3
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.range_radius",
+            "value": 1.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "KeepAttack",
+            "priority": 0,
+            "cooldown": 12,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "sp",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "all_cnt",
+                "value": 15,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "啸天吸尘器·大力版",
+    "CNDescription": "只是能吸天花板，作为噱头还是太单薄了。厂商大幅加强了它的吸力，并宣称它现在可以吸干净空气中的一切浮尘！\n如果被这款升级版吸住了头发，就不用自救了，找家能移植头皮的医院吧。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "啸天吸尘器·大力版",
+    "JPDescription": "只是能吸天花板，作为噱头还是太单薄了。厂商大幅加强了它的吸力，并宣称它现在可以吸干净空气中的一切浮尘！\n如果被这款升级版吸住了头发，就不用自救了，找家能移植头皮的医院吧。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "啸天吸尘器·大力版",
+    "ENDescription": "只是能吸天花板，作为噱头还是太单薄了。厂商大幅加强了它的吸力，并宣称它现在可以吸干净空气中的一切浮尘！\n如果被这款升级版吸住了头发，就不用自救了，找家能移植头皮的医院吧。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "啸天吸尘器·大力版",
+    "KRDescription": "只是能吸天花板，作为噱头还是太单薄了。厂商大幅加强了它的吸力，并宣称它现在可以吸干净空气中的一切浮尘！\n如果被这款升级版吸住了头发，就不用自救了，找家能移植头皮的医院吧。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性寻找周围的热气球、强力热气球或我方单位，并持续攻击一段时间",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10149_nscan",
+    "Levels": [
+      {
+        "key": "enemy_10149_nscan",
+        "attributes": {
+          "maxHp": 11000,
+          "atk": 550,
+          "def": 400,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.enemy_nscan[speed].move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Passive.fixed_value_damage",
+            "value": 250
+          },
+          {
+            "key": "Passive.enemy_nscan[speed].max_time",
+            "value": 25
+          },
+          {
+            "key": "Passive.enemy_nscan[speed].interval",
+            "value": 0.5
+          },
+          {
+            "key": "Passive.attack@atk_scale_speed",
+            "value": 500
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "掀天汽水桶",
+    "CNDescription": "以飞天为卖点的汽水桶，在上市的第三天就因太过危险而被烟酒施术单元以及源石制品管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一顶被洞穿的帽子，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "掀天汽水桶",
+    "JPDescription": "以飞天为卖点的汽水桶，在上市的第三天就因太过危险而被烟酒施术单元以及源石制品管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一顶被洞穿的帽子，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "掀天汽水桶",
+    "ENDescription": "以飞天为卖点的汽水桶，在上市的第三天就因太过危险而被烟酒施术单元以及源石制品管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一顶被洞穿的帽子，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "掀天汽水桶",
+    "KRDescription": "以飞天为卖点的汽水桶，在上市的第三天就因太过危险而被烟酒施术单元以及源石制品管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一顶被洞穿的帽子，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10149_nscan_2",
+    "Levels": [
+      {
+        "key": "enemy_10149_nscan_2",
+        "attributes": {
+          "maxHp": 13000,
+          "atk": 650,
+          "def": 400,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.enemy_nscan[speed].move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Passive.fixed_value_damage",
+            "value": 250
+          },
+          {
+            "key": "Passive.enemy_nscan[speed].max_time",
+            "value": 25
+          },
+          {
+            "key": "Passive.enemy_nscan[speed].interval",
+            "value": 0.5
+          },
+          {
+            "key": "Passive.attack@atk_scale_speed",
+            "value": 700
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "掀天汽水桶·家庭装",
+    "CNDescription": "以飞天为卖点的汽水桶，其家庭装对汽水进行了进一步的压缩，在上市的第三天就因太过危险而被管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一颗被洞穿的头骨，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "掀天汽水桶·家庭装",
+    "JPDescription": "以飞天为卖点的汽水桶，其家庭装对汽水进行了进一步的压缩，在上市的第三天就因太过危险而被管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一颗被洞穿的头骨，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "掀天汽水桶·家庭装",
+    "ENDescription": "以飞天为卖点的汽水桶，其家庭装对汽水进行了进一步的压缩，在上市的第三天就因太过危险而被管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一颗被洞穿的头骨，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "掀天汽水桶·家庭装",
+    "KRDescription": "以飞天为卖点的汽水桶，其家庭装对汽水进行了进一步的压缩，在上市的第三天就因太过危险而被管理局取缔。\n或许日后，在哥伦比亚航空航天博物馆里，会有一颗被洞穿的头骨，用以证明飞行技术的发展曾误入怎样的歧途。\n",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时逐渐加速，但会持续损失生命，被阻挡后的首次攻击造成基于移动速度的额外伤害，并吹走目标所在地块的热气球和强力热气球",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_1014_rogue",
     "Levels": [
       {
@@ -33177,6 +34131,906 @@
     "KRName": "쌍검사 리더",
     "KRDescription": "리유니온의 근거리 전투원. 일반적인 쌍검사보다 작전 능력이 뛰어나다. 양손 무기 사용을 훈련한 것으로 미뤄보아, 과거 헌병이었을 가능성이 있다. 숙련된 공격 방식으로 인해, 파괴만을 일삼는 일반적인 전투원에 비해 대처하기가 더 어렵다.",
     "KRAbilityList": {}
+  },
+  {
+    "Key": "enemy_10150_nsheat",
+    "Levels": [
+      {
+        "key": "enemy_10150_nsheat",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 360,
+          "def": 200,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.force",
+            "value": 1
+          },
+          {
+            "key": "Damage.ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "Damage.range_radius",
+            "value": 2
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "炙烤螺旋桨",
+    "CNDescription": "“螺旋桨天堂”大量采用的浮空动力装置，动力强劲，浮空稳定，性能十分优秀。\n但它的散热实在是太差了。装载了它的浮空平台，一年四季都热得像盛夏。\n",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "炙烤螺旋桨",
+    "JPDescription": "“螺旋桨天堂”大量采用的浮空动力装置，动力强劲，浮空稳定，性能十分优秀。\n但它的散热实在是太差了。装载了它的浮空平台，一年四季都热得像盛夏。\n",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "炙烤螺旋桨",
+    "ENDescription": "“螺旋桨天堂”大量采用的浮空动力装置，动力强劲，浮空稳定，性能十分优秀。\n但它的散热实在是太差了。装载了它的浮空平台，一年四季都热得像盛夏。\n",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "炙烤螺旋桨",
+    "KRDescription": "“螺旋桨天堂”大量采用的浮空动力装置，动力强劲，浮空稳定，性能十分优秀。\n但它的散热实在是太差了。装载了它的浮空平台，一年四季都热得像盛夏。\n",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10150_nsheat_2",
+    "Levels": [
+      {
+        "key": "enemy_10150_nsheat_2",
+        "attributes": {
+          "maxHp": 20000,
+          "atk": 480,
+          "def": 200,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.force",
+            "value": 1
+          },
+          {
+            "key": "Damage.ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "Damage.range_radius",
+            "value": 2
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "焦香螺旋桨",
+    "CNDescription": "“螺旋桨天堂”大量采用的升级版浮空动力装置，动力强劲，浮空稳定，甚至还额外附带了驱羽兽功能，堪称完美。\n但它的散热问题反而更严重了。装载了它的浮空平台，一年四季都弥漫着恼人的焦香。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "焦香螺旋桨",
+    "JPDescription": "“螺旋桨天堂”大量采用的升级版浮空动力装置，动力强劲，浮空稳定，甚至还额外附带了驱羽兽功能，堪称完美。\n但它的散热问题反而更严重了。装载了它的浮空平台，一年四季都弥漫着恼人的焦香。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "焦香螺旋桨",
+    "ENDescription": "“螺旋桨天堂”大量采用的升级版浮空动力装置，动力强劲，浮空稳定，甚至还额外附带了驱羽兽功能，堪称完美。\n但它的散热问题反而更严重了。装载了它的浮空平台，一年四季都弥漫着恼人的焦香。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "焦香螺旋桨",
+    "KRDescription": "“螺旋桨天堂”大量采用的升级版浮空动力装置，动力强劲，浮空稳定，甚至还额外附带了驱羽兽功能，堪称完美。\n但它的散热问题反而更严重了。装载了它的浮空平台，一年四季都弥漫着恼人的焦香。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "持续对周围其他单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10151_nspace",
+    "Levels": [
+      {
+        "key": "enemy_10151_nspace",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 800,
+          "def": 1000,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Dead.def",
+            "value": 1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "行天卫生间",
+    "CNDescription": "如果一间移动设施能避开车流，在任何交通情况下都能及时抵达客户面前，它最该承载什么功能？\n沃尔沃特科钦斯基行天卫生间，给出了仅生产半个月就停产的灾难性答案。再怎么说，花五百金券呼叫卫生间，还是太奢侈了。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "行天卫生间",
+    "JPDescription": "如果一间移动设施能避开车流，在任何交通情况下都能及时抵达客户面前，它最该承载什么功能？\n沃尔沃特科钦斯基行天卫生间，给出了仅生产半个月就停产的灾难性答案。再怎么说，花五百金券呼叫卫生间，还是太奢侈了。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "行天卫生间",
+    "ENDescription": "如果一间移动设施能避开车流，在任何交通情况下都能及时抵达客户面前，它最该承载什么功能？\n沃尔沃特科钦斯基行天卫生间，给出了仅生产半个月就停产的灾难性答案。再怎么说，花五百金券呼叫卫生间，还是太奢侈了。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "行天卫生间",
+    "KRDescription": "如果一间移动设施能避开车流，在任何交通情况下都能及时抵达客户面前，它最该承载什么功能？\n沃尔沃特科钦斯基行天卫生间，给出了仅生产半个月就停产的灾难性答案。再怎么说，花五百金券呼叫卫生间，还是太奢侈了。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10151_nspace_2",
+    "Levels": [
+      {
+        "key": "enemy_10151_nspace_2",
+        "attributes": {
+          "maxHp": 18000,
+          "atk": 900,
+          "def": 1200,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Dead.def",
+            "value": 1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "行天救护车",
+    "CNDescription": "沃尔沃特科钦斯基的研发部门痛定思痛，将失败的行天卫生间改造为了救护车。\n他们的发明还是早了时代一步，“螺旋桨天堂”之外可不是到处都有停机坪的。再怎么说，用钳子把病人抓进舱内，还是太粗暴了。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "行天救护车",
+    "JPDescription": "沃尔沃特科钦斯基的研发部门痛定思痛，将失败的行天卫生间改造为了救护车。\n他们的发明还是早了时代一步，“螺旋桨天堂”之外可不是到处都有停机坪的。再怎么说，用钳子把病人抓进舱内，还是太粗暴了。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "行天救护车",
+    "ENDescription": "沃尔沃特科钦斯基的研发部门痛定思痛，将失败的行天卫生间改造为了救护车。\n他们的发明还是早了时代一步，“螺旋桨天堂”之外可不是到处都有停机坪的。再怎么说，用钳子把病人抓进舱内，还是太粗暴了。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "行天救护车",
+    "KRDescription": "沃尔沃特科钦斯基的研发部门痛定思痛，将失败的行天卫生间改造为了救护车。\n他们的发明还是早了时代一步，“螺旋桨天堂”之外可不是到处都有停机坪的。再怎么说，用钳子把病人抓进舱内，还是太粗暴了。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "首次被击倒时坠落为一块防御力极高的残骸，若处于“可浮空区块”，抵消1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10152_nstree",
+    "Levels": [
+      {
+        "key": "enemy_10152_nstree",
+        "attributes": {
+          "maxHp": 40000,
+          "atk": 2500,
+          "def": 600,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 5.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null
+      }
+    ],
+    "CNName": "“自由的树”",
+    "CNDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“自由的树”",
+    "JPDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“自由的树”",
+    "ENDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“自由的树”",
+    "KRDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10152_nstree_2",
+    "Levels": [
+      {
+        "key": "enemy_10152_nstree_2",
+        "attributes": {
+          "maxHp": 50000,
+          "atk": 3000,
+          "def": 600,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 5.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null
+      }
+    ],
+    "CNName": "“逐日的树”",
+    "CNDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。\n于是，本能驱使着它们向日光奔去，就连叶子也被灼成了红色。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“逐日的树”",
+    "JPDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。\n于是，本能驱使着它们向日光奔去，就连叶子也被灼成了红色。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“逐日的树”",
+    "ENDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。\n于是，本能驱使着它们向日光奔去，就连叶子也被灼成了红色。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“逐日的树”",
+    "KRDescription": "“天空热”的时代一切都要飞天，就连树也不例外。现在，这些原本扎根大地的生命，可以去往泰拉的每一个角落。\n于是，本能驱使着它们向日光奔去，就连叶子也被灼成了红色。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "只攻击空中的我方单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10153_nsblon",
+    "Levels": [
+      {
+        "key": "enemy_10153_nsblon",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 0,
+          "def": 0,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": -1,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": true,
+        "talentBlackboard": [
+          {
+            "key": "Passive.force",
+            "value": 1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "热气球",
+    "CNDescription": "“螺旋桨天堂”随处可见的热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n疯王查理相信，如果他的城堡动不起来，那只是因为源石引擎装得不够多。现在看来，几百年过去了，人们的思路一点都没变。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "热气球",
+    "JPDescription": "“螺旋桨天堂”随处可见的热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n疯王查理相信，如果他的城堡动不起来，那只是因为源石引擎装得不够多。现在看来，几百年过去了，人们的思路一点都没变。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "热气球",
+    "ENDescription": "“螺旋桨天堂”随处可见的热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n疯王查理相信，如果他的城堡动不起来，那只是因为源石引擎装得不够多。现在看来，几百年过去了，人们的思路一点都没变。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "热气球",
+    "KRDescription": "“螺旋桨天堂”随处可见的热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n疯王查理相信，如果他的城堡动不起来，那只是因为源石引擎装得不够多。现在看来，几百年过去了，人们的思路一点都没变。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10153_nsblon_2",
+    "Levels": [
+      {
+        "key": "enemy_10153_nsblon_2",
+        "attributes": {
+          "maxHp": 10000,
+          "atk": 0,
+          "def": 0,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": -1,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": true,
+        "talentBlackboard": [
+          {
+            "key": "Passive.force",
+            "value": 1
+          }
+        ],
+        "skills": null
+      }
+    ],
+    "CNName": "强力热气球",
+    "CNDescription": "“螺旋桨天堂”随处可见的强力热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n把环形实验室的技术遗产用来生产儿童玩具，把儿童手里的气球拿来充当浮空地块的动力源，这就是哥伦比亚人的行事之道。",
+    "CNAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "强力热气球",
+    "JPDescription": "“螺旋桨天堂”随处可见的强力热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n把环形实验室的技术遗产用来生产儿童玩具，把儿童手里的气球拿来充当浮空地块的动力源，这就是哥伦比亚人的行事之道。",
+    "JPAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "强力热气球",
+    "ENDescription": "“螺旋桨天堂”随处可见的强力热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n把环形实验室的技术遗产用来生产儿童玩具，把儿童手里的气球拿来充当浮空地块的动力源，这就是哥伦比亚人的行事之道。",
+    "ENAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "强力热气球",
+    "KRDescription": "“螺旋桨天堂”随处可见的强力热气球，成千上万的它们共同造就了“第一座浮空地块”的传奇。\n把环形实验室的技术遗产用来生产儿童玩具，把儿童手里的气球拿来充当浮空地块的动力源，这就是哥伦比亚人的行事之道。",
+    "KRAbilityList": [
+      {
+        "text": "飞行单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不计入歼灭数",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "处于“可浮空区块”时，提供1层浮力",
+        "textFormat": "NORMAL"
+      }
+    ]
   },
   {
     "Key": "enemy_1015_litamr",
@@ -160932,6 +162786,643 @@
     ]
   },
   {
+    "Key": "enemy_1579_nstmom",
+    "Levels": [
+      {
+        "key": "enemy_1579_nstmom",
+        "attributes": {
+          "maxHp": 70000,
+          "atk": 1200,
+          "def": 2000,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.attack@spash_atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 15
+          },
+          {
+            "key": "Reborn.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "PassiveM2.attack@spash_atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "PassiveM2.atk",
+            "value": 0.2
+          },
+          {
+            "key": "PassiveM2.def",
+            "value": 0.5
+          },
+          {
+            "key": "PassiveM2.inf_duration",
+            "value": 15
+          },
+          {
+            "key": "PassiveM2.magic_resistance",
+            "value": 20
+          },
+          {
+            "key": "PassiveM2.base_attack_time",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "RayTile",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 30,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "ray_time",
+                "value": 12,
+                "valueStr": null
+              },
+              {
+                "key": "ray_time_sub",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "start_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "max_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "force",
+                "value": 0,
+                "valueStr": null
+              },
+              {
+                "key": "force_extra",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "scale_per_second",
+                "value": 0.025,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_main",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_sub",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "magic_resistance",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": -0.7,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_2",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_3",
+                "value": 10,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RayTileM2",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 30,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "ray_time",
+                "value": 12,
+                "valueStr": null
+              },
+              {
+                "key": "ray_time_sub",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "start_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "max_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "force",
+                "value": 0,
+                "valueStr": null
+              },
+              {
+                "key": "force_extra",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "scale_per_second",
+                "value": 0.025,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_main",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_sub",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "magic_resistance",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": -0.7,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_2",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_3",
+                "value": 15,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "enemy_1579_nstmom",
+        "attributes": {
+          "maxHp": 110000,
+          "atk": 1700,
+          "def": 2400,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.attack@spash_atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 15
+          },
+          {
+            "key": "Reborn.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "PassiveM2.attack@spash_atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "PassiveM2.atk",
+            "value": 0.2
+          },
+          {
+            "key": "PassiveM2.def",
+            "value": 0.5
+          },
+          {
+            "key": "PassiveM2.inf_duration",
+            "value": 15
+          },
+          {
+            "key": "PassiveM2.magic_resistance",
+            "value": 20
+          },
+          {
+            "key": "PassiveM2.base_attack_time",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "RayTile",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 30,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "ray_time",
+                "value": 12,
+                "valueStr": null
+              },
+              {
+                "key": "ray_time_sub",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "start_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "max_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "force",
+                "value": 0,
+                "valueStr": null
+              },
+              {
+                "key": "force_extra",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "scale_per_second",
+                "value": 0.025,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_main",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_sub",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "magic_resistance",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": -0.7,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_2",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_3",
+                "value": 10,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RayTileM2",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 30,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "ray_time",
+                "value": 12,
+                "valueStr": null
+              },
+              {
+                "key": "ray_time_sub",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "start_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "max_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "force",
+                "value": 0,
+                "valueStr": null
+              },
+              {
+                "key": "force_extra",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "scale_per_second",
+                "value": 0.025,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_main",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target_sub",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "magic_resistance",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": -0.7,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": -0.5,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_2",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "weak_duration_3",
+                "value": 15,
+                "valueStr": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "女妖河谷的拂哀菈",
+    "CNDescription": "只要能再做些什么，为河谷，为女妖，为那个孩子。",
+    "CNAbilityList": [
+      {
+        "text": "攻击造成物理伤害，并对目标周围大范围内的我方单位、热气球和强力热气球造成一定溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】依次锁定最多2名我方单位造成逐渐提高的法术伤害；若其撤退或被击倒，则在技能剩余时间内使其所在“可浮空区块”额外抵消2层浮力；优先锁定地面单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】结束后一段时间内，攻击力、防御力和法术抗性降低；技能锁定的目标数越多，持续时间越久",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时，使场地升入天空并重生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "升空阶段",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "场地永久变化：强制击倒处于地面的所有单位；处于地面的地块和“可浮空区块”立即损毁",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始攻击力、防御力和法术抗性提高；免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>、<$ba.fear>恐惧</>；【归于遗忘】额外锁定1名目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "女妖河谷的拂哀菈",
+    "JPDescription": "只要能再做些什么，为河谷，为女妖，为那个孩子。",
+    "JPAbilityList": [
+      {
+        "text": "攻击造成物理伤害，并对目标周围大范围内的我方单位、热气球和强力热气球造成一定溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】依次锁定最多2名我方单位造成逐渐提高的法术伤害；若其撤退或被击倒，则在技能剩余时间内使其所在“可浮空区块”额外抵消2层浮力；优先锁定地面单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】结束后一段时间内，攻击力、防御力和法术抗性降低；技能锁定的目标数越多，持续时间越久",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时，使场地升入天空并重生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "升空阶段",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "场地永久变化：强制击倒处于地面的所有单位；处于地面的地块和“可浮空区块”立即损毁",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始攻击力、防御力和法术抗性提高；免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>、<$ba.fear>恐惧</>；【归于遗忘】额外锁定1名目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "女妖河谷的拂哀菈",
+    "ENDescription": "只要能再做些什么，为河谷，为女妖，为那个孩子。",
+    "ENAbilityList": [
+      {
+        "text": "攻击造成物理伤害，并对目标周围大范围内的我方单位、热气球和强力热气球造成一定溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】依次锁定最多2名我方单位造成逐渐提高的法术伤害；若其撤退或被击倒，则在技能剩余时间内使其所在“可浮空区块”额外抵消2层浮力；优先锁定地面单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】结束后一段时间内，攻击力、防御力和法术抗性降低；技能锁定的目标数越多，持续时间越久",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时，使场地升入天空并重生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "升空阶段",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "场地永久变化：强制击倒处于地面的所有单位；处于地面的地块和“可浮空区块”立即损毁",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始攻击力、防御力和法术抗性提高；免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>、<$ba.fear>恐惧</>；【归于遗忘】额外锁定1名目标",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "女妖河谷的拂哀菈",
+    "KRDescription": "只要能再做些什么，为河谷，为女妖，为那个孩子。",
+    "KRAbilityList": [
+      {
+        "text": "攻击造成物理伤害，并对目标周围大范围内的我方单位、热气球和强力热气球造成一定溅射伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】依次锁定最多2名我方单位造成逐渐提高的法术伤害；若其撤退或被击倒，则在技能剩余时间内使其所在“可浮空区块”额外抵消2层浮力；优先锁定地面单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【归于遗忘】结束后一段时间内，攻击力、防御力和法术抗性降低；技能锁定的目标数越多，持续时间越久",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时，使场地升入天空并重生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "升空阶段",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "场地永久变化：强制击倒处于地面的所有单位；处于地面的地块和“可浮空区块”立即损毁",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "初始攻击力、防御力和法术抗性提高；免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>、<$ba.fear>恐惧</>；【归于遗忘】额外锁定1名目标",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_18001_lhship",
     "Levels": [
       {
@@ -222485,8 +224976,8 @@
       {
         "key": "enemy_9012_acloon",
         "attributes": {
-          "maxHp": 6000,
-          "atk": 300,
+          "maxHp": 12000,
+          "atk": 600,
           "def": 200,
           "magicResistance": 0,
           "cost": 0,
@@ -222531,8 +225022,8 @@
             "value": 0.8
           },
           {
-            "key": "2.ep_damage_scale",
-            "value": 1.15
+            "key": "2.damage_scale",
+            "value": 1.2
           },
           {
             "key": "2.ep_damage_ratio",
@@ -222547,7 +225038,7 @@
           {
             "prefabKey": "Skill",
             "priority": 0,
-            "cooldown": 25,
+            "cooldown": 15,
             "initCooldown": 15,
             "spCost": 0,
             "blackboard": [
@@ -222566,7 +225057,7 @@
           {
             "prefabKey": "Skill_2",
             "priority": 0,
-            "cooldown": 25,
+            "cooldown": 15,
             "initCooldown": 15,
             "spCost": 0,
             "blackboard": [

@@ -4,321 +4,6 @@
       "type": "活动关卡",
       "childNodes": [
         {
-          "id": "act46side",
-          "episode": "雪山降临1101",
-          "childNodes": [
-            {
-              "id": "OS-TR-1",
-              "operation": "OS-TR-1",
-              "levelId": "activities/act46side/level_act46side_tr01",
-              "name": "第一片雪",
-              "description": "第一片雪花落下的时候，没有人意识到会发生什么。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-1",
-              "operation": "OS-1",
-              "levelId": "activities/act46side/level_act46side_01",
-              "name": "呼号声中",
-              "description": "报丧的羽兽哀鸣着，在雪地之上久久盘桓。不幸之中的不幸仍在降临。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-2",
-              "operation": "OS-2",
-              "levelId": "activities/act46side/level_act46side_02",
-              "name": "甜蜜的邻人",
-              "description": "来者叩响门扉。他手捧佳肴与美酒，呼朋且引伴。只求片刻松懈，使其深入脆弱的裂痕。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-3",
-              "operation": "OS-3",
-              "levelId": "activities/act46side/level_act46side_03",
-              "name": "雪灌木中",
-              "description": "新朋友总代表新机遇，是否抓住他们只在你的一念之间。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-4",
-              "operation": "OS-4",
-              "levelId": "activities/act46side/level_act46side_04",
-              "name": "并蒂生",
-              "description": "无论曾有过何种斗争隔阂，如今，我们握手而言，走向同样的前路。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-5",
-              "operation": "OS-5",
-              "levelId": "activities/act46side/level_act46side_05",
-              "name": "雪夜独行",
-              "description": "信任者离散，她与她勇敢的心独自踏上旅程。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-6",
-              "operation": "OS-6",
-              "levelId": "activities/act46side/level_act46side_06",
-              "name": "绿翡翠",
-              "description": "耐心是猎人般的美德。它会带你找到缝隙、机会、蚕食的开端与相互体恤的黎明。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-7",
-              "operation": "OS-7",
-              "levelId": "activities/act46side/level_act46side_07",
-              "name": "焚心灼影",
-              "description": "一个烟雾缭绕中的秘密，一支燃烧殆尽的焚香，一段轰鸣的咆哮，两位爱侣，三个孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-8",
-              "operation": "OS-8",
-              "levelId": "activities/act46side/level_act46side_08",
-              "name": "宣告在途",
-              "description": "人们相信什么，取决于他们听到与见到什么。而欺骗与愚弄的艺术恰在其中。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-9",
-              "operation": "OS-9",
-              "levelId": "activities/act46side/level_act46side_09",
-              "name": "凛刃出匣",
-              "description": "仍有人徒劳地期待一个温暖的春天。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-10",
-              "operation": "OS-10",
-              "levelId": "activities/act46side/level_act46side_10",
-              "name": "耶拉冈德在上",
-              "description": "耶拉冈德在上，耶拉冈德在上，耶拉冈德在上！\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": false
-            },
-            {
-              "id": "OS-EX-1",
-              "operation": "OS-EX-1",
-              "levelId": "activities/act46side/level_act46side_ex01",
-              "name": "饮净水",
-              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-1CM",
-              "operation": "突袭OS-EX-1",
-              "levelId": "activities/act46side/level_act46side_ex01",
-              "name": "饮净水",
-              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<伊斯贝塔高台>"
-            },
-            {
-              "id": "OS-EX-2",
-              "operation": "OS-EX-2",
-              "levelId": "activities/act46side/level_act46side_ex02",
-              "name": "敬友邻",
-              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-2CM",
-              "operation": "突袭OS-EX-2",
-              "levelId": "activities/act46side/level_act46side_ex02",
-              "name": "敬友邻",
-              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲与斯托斯贝塔生命值额外提升"
-            },
-            {
-              "id": "OS-EX-3",
-              "operation": "OS-EX-3",
-              "levelId": "activities/act46side/level_act46side_ex03",
-              "name": "御外敌",
-              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-3CM",
-              "operation": "突袭OS-EX-3",
-              "levelId": "activities/act46side/level_act46side_ex03",
-              "name": "御外敌",
-              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲生命值额外提升"
-            },
-            {
-              "id": "OS-EX-4",
-              "operation": "OS-EX-4",
-              "levelId": "activities/act46side/level_act46side_ex04",
-              "name": "熟食而止",
-              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-4CM",
-              "operation": "突袭OS-EX-4",
-              "levelId": "activities/act46side/level_act46side_ex04",
-              "name": "熟食而止",
-              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的初始雪崩预警增加"
-            },
-            {
-              "id": "OS-EX-5",
-              "operation": "OS-EX-5",
-              "levelId": "activities/act46side/level_act46side_ex05",
-              "name": "皮毛加身",
-              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-5CM",
-              "operation": "突袭OS-EX-5",
-              "levelId": "activities/act46side/level_act46side_ex05",
-              "name": "皮毛加身",
-              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
-            },
-            {
-              "id": "OS-EX-6",
-              "operation": "OS-EX-6",
-              "levelId": "activities/act46side/level_act46side_ex06",
-              "name": "顺时耕作",
-              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-6CM",
-              "operation": "突袭OS-EX-6",
-              "levelId": "activities/act46side/level_act46side_ex06",
-              "name": "顺时耕作",
-              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上5个位置不可部署"
-            },
-            {
-              "id": "OS-EX-7",
-              "operation": "OS-EX-7",
-              "levelId": "activities/act46side/level_act46side_ex07",
-              "name": "以石取石",
-              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-7CM",
-              "operation": "突袭OS-EX-7",
-              "levelId": "activities/act46side/level_act46side_ex07",
-              "name": "以石取石",
-              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的雪崩禁区"
-            },
-            {
-              "id": "OS-EX-8",
-              "operation": "OS-EX-8",
-              "levelId": "activities/act46side/level_act46side_ex08",
-              "name": "以人的名",
-              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-EX-8CM",
-              "operation": "突袭OS-EX-8",
-              "levelId": "activities/act46side/level_act46side_ex08",
-              "name": "以人的名",
-              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
-            },
-            {
-              "id": "OS-S-1",
-              "operation": "OS-S-1",
-              "levelId": "activities/act46side/level_act46side_sub-1-1",
-              "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-S-1CM",
-              "operation": "突袭OS-S-1",
-              "levelId": "activities/act46side/level_act46side_sub-1-1",
-              "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的位置变换"
-            },
-            {
-              "id": "OS-S-2",
-              "operation": "OS-S-2",
-              "levelId": "activities/act46side/level_act46side_sub-1-2",
-              "name": "堆雪人",
-              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-S-2CM",
-              "operation": "突袭OS-S-2",
-              "levelId": "activities/act46side/level_act46side_sub-1-2",
-              "name": "堆雪人",
-              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n雪崩禁区内初始出现额外的雪顽童"
-            },
-            {
-              "id": "OS-S-3",
-              "operation": "OS-S-3",
-              "levelId": "activities/act46side/level_act46side_sub-1-3",
-              "name": "雪孩子",
-              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-S-3CM",
-              "operation": "突袭OS-S-3",
-              "levelId": "activities/act46side/level_act46side_sub-1-3",
-              "name": "雪孩子",
-              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区内的<圣女像>朝向改变"
-            },
-            {
-              "id": "OS-S-4",
-              "operation": "OS-S-4",
-              "levelId": "activities/act46side/level_act46side_sub-1-4",
-              "name": "雪中歌谣",
-              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-S-4CM",
-              "operation": "突袭OS-S-4",
-              "levelId": "activities/act46side/level_act46side_sub-1-4",
-              "name": "雪中歌谣",
-              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n部分“喷爆罐”被替换为焕生雪伞"
-            },
-            {
-              "id": "OS-S-5",
-              "operation": "OS-S-5",
-              "levelId": "activities/act46side/level_act46side_sub-1-5",
-              "name": "雪与我与雪",
-              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true
-            },
-            {
-              "id": "OS-S-5CM",
-              "operation": "突袭OS-S-5",
-              "levelId": "activities/act46side/level_act46side_sub-1-5",
-              "name": "雪与我与雪",
-              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
-              "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n近卫与重装干员部署费用提升至2倍"
-            }
-          ]
-        },
-        {
           "id": "a001",
           "episode": "骑兵与猎人",
           "childNodes": [
@@ -15762,6 +15447,84 @@
               "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n近卫与重装干员部署费用提升至2倍"
+            }
+          ]
+        },
+        {
+          "id": "act47side",
+          "episode": "未许之地",
+          "childNodes": [
+            {
+              "id": "UR-1",
+              "operation": "UR-1",
+              "levelId": "activities/act47side/level_act47side_01",
+              "name": "嘈杂的天空",
+              "description": "在最靠近星荚的地方占个位置吧，小心，别被那些花里胡哨的广告牌砸到。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-TR-1",
+              "operation": "UR-TR-1",
+              "levelId": "activities/act47side/level_act47side_tr01",
+              "name": "高空适应症",
+              "description": "一瓶汽水，一本宣传手册，还有一颗躁动着想长出翅膀的心。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-2",
+              "operation": "UR-2",
+              "levelId": "activities/act47side/level_act47side_02",
+              "name": "擅闯者",
+              "description": "“螺旋桨天堂”愿意接受一切“意外”，只要它们能带来丰硕的科研成果，只要它们来自哥伦比亚。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-3",
+              "operation": "UR-3",
+              "levelId": "activities/act47side/level_act47side_03",
+              "name": "跌落保护",
+              "description": "最新型的飞行器总是不好操控？多摔它几次。生产商会解决您的问题，或者被问题解决。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-4",
+              "operation": "UR-4",
+              "levelId": "activities/act47side/level_act47side_04",
+              "name": "晴空湍流",
+              "description": "睁开眼睛，忍住眩晕和恶心，颠簸的是我们而非天空，没理由讨厌它。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-5",
+              "operation": "UR-5",
+              "levelId": "activities/act47side/level_act47side_05",
+              "name": "注目礼",
+              "description": "该看向哪里，空中飘浮着的幻想还是眼前面色不善的指挥者？\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-6",
+              "operation": "UR-6",
+              "levelId": "activities/act47side/level_act47side_06",
+              "name": "交叉航线",
+              "description": "擦肩而过时，它们对视了一眼，尚不知对方为何启程，还能飞行多久......\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-7",
+              "operation": "UR-7",
+              "levelId": "activities/act47side/level_act47side_07",
+              "name": "停机坪",
+              "description": "而终点只有一个，这是规则。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "UR-8",
+              "operation": "UR-8",
+              "levelId": "activities/act47side/level_act47side_08",
+              "name": "栖脚地",
+              "description": "一只羽兽在枝头磨喙，它侧头看这片大地，大地上似乎也有人在看它。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": false
             }
           ]
         }
