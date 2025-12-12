@@ -15525,6 +15525,142 @@
               "name": "栖脚地",
               "description": "一只羽兽在枝头磨喙，它侧头看这片大地，大地上似乎也有人在看它。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
               "hasChallenge": false
+            },
+            {
+              "id": "UR-EX-1",
+              "operation": "UR-EX-1",
+              "levelId": "activities/act47side/level_act47side_ex01",
+              "name": "特色饮料贩卖机",
+              "description": "恭喜您获得第二十三瓶“天空氧气瓶”！已经撑得打嗝了？看看瓶盖背面——哗，又是“再来一瓶”！\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-1CM",
+              "operation": "突袭UR-EX-1",
+              "levelId": "activities/act47side/level_act47side_ex01",
+              "name": "特色饮料贩卖机",
+              "description": "恭喜您获得第二十三瓶“天空氧气瓶”！已经撑得打嗝了？看看瓶盖背面——哗，又是“再来一瓶”！\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n敌方单位的移动速度提升"
+            },
+            {
+              "id": "UR-EX-2",
+              "operation": "UR-EX-2",
+              "levelId": "activities/act47side/level_act47side_ex02",
+              "name": "后半夜餐厅",
+              "description": "饿了，渴了，就来后半夜餐厅。人气展品遮天烤面包机全天候自动巡航，营造未来生活体验。面包稍硬，介意勿进。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-2CM",
+              "operation": "突袭UR-EX-2",
+              "levelId": "activities/act47side/level_act47side_ex02",
+              "name": "后半夜餐厅",
+              "description": "饿了，渴了，就来后半夜餐厅。人气展品遮天烤面包机全天候自动巡航，营造未来生活体验。面包稍硬，介意勿进。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的遮天面包机·果酱款且遮天面包机·果酱款的生命值提升"
+            },
+            {
+              "id": "UR-EX-3",
+              "operation": "UR-EX-3",
+              "levelId": "activities/act47side/level_act47side_ex03",
+              "name": "除尘体验舱",
+              "description": "一吸皆空，除尘洁净，请用啸天吸尘器；想让您的家人停止唠叨，就用啸天吸尘器。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-3CM",
+              "operation": "突袭UR-EX-3",
+              "levelId": "activities/act47side/level_act47side_ex03",
+              "name": "除尘体验舱",
+              "description": "一吸皆空，除尘洁净，请用啸天吸尘器；想让您的家人停止唠叨，就用啸天吸尘器。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+            },
+            {
+              "id": "UR-EX-4",
+              "operation": "UR-EX-4",
+              "levelId": "activities/act47side/level_act47side_ex04",
+              "name": "气球派对",
+              "description": "到底是谁偷换了“螺旋桨天堂”的明星周边——大总统气球？这寒酸的塑胶红气球上怎么还印着瘤兽？\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-4CM",
+              "operation": "突袭UR-EX-4",
+              "levelId": "activities/act47side/level_act47side_ex04",
+              "name": "气球派对",
+              "description": "到底是谁偷换了“螺旋桨天堂”的明星周边——大总统气球？这寒酸的塑胶红气球上怎么还印着瘤兽？\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n焦香螺旋桨获得隐匿"
+            },
+            {
+              "id": "UR-EX-5",
+              "operation": "UR-EX-5",
+              "levelId": "activities/act47side/level_act47side_ex05",
+              "name": "飞行实验室",
+              "description": "高端、精密、划时代的实验空间——顶尖科学家讲解原理，专业技术团队带您亲手制作悬浮装置。五岁以上皆可报名。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-5CM",
+              "operation": "突袭UR-EX-5",
+              "levelId": "activities/act47side/level_act47side_ex05",
+              "name": "飞行实验室",
+              "description": "高端、精密、划时代的实验空间——顶尖科学家讲解原理，专业技术团队带您亲手制作悬浮装置。五岁以上皆可报名。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始强力热气球数量减少"
+            },
+            {
+              "id": "UR-EX-6",
+              "operation": "UR-EX-6",
+              "levelId": "activities/act47side/level_act47side_ex06",
+              "name": "未来种植业",
+              "description": "绿色！自然！环保！把树种到天上！\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-6CM",
+              "operation": "突袭UR-EX-6",
+              "levelId": "activities/act47side/level_act47side_ex06",
+              "name": "未来种植业",
+              "description": "绿色！自然！环保！把树种到天上！\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+            },
+            {
+              "id": "UR-EX-7",
+              "operation": "UR-EX-7",
+              "levelId": "activities/act47side/level_act47side_ex07",
+              "name": "应急跳台",
+              "description": "使用说明：要是您此刻不得不忽视生命风险使用应急跳台，那想必也无暇阅读说明书，这里就不写了。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-7CM",
+              "operation": "突袭UR-EX-7",
+              "levelId": "activities/act47side/level_act47side_ex07",
+              "name": "应急跳台",
+              "description": "使用说明：要是您此刻不得不忽视生命风险使用应急跳台，那想必也无暇阅读说明书，这里就不写了。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n狙击与术师干员部署费用提升至2倍"
+            },
+            {
+              "id": "UR-EX-8",
+              "operation": "UR-EX-8",
+              "levelId": "activities/act47side/level_act47side_ex08",
+              "name": "天空井",
+              "description": "一个普通的圆筒，由哥伦比亚著名当代艺术家立于园区之内。您可以钻到井内向上抛出硬币对其许愿，但只会被下落的硬币砸醒。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true
+            },
+            {
+              "id": "UR-EX-8CM",
+              "operation": "突袭UR-EX-8",
+              "levelId": "activities/act47side/level_act47side_ex08",
+              "name": "天空井",
+              "description": "一个普通的圆筒，由哥伦比亚著名当代艺术家立于园区之内。您可以钻到井内向上抛出硬币对其许愿，但只会被下落的硬币砸醒。\\n<@lv.item><“可浮空区块”></>存在浮力时可浮空，置于其中的单位可以在浮空时阻挡空中敌人",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n【归于遗忘】命中时立即抵消1层浮力"
             }
           ]
         }
