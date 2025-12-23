@@ -15663,6 +15663,84 @@
               "challenge": "<@lv.fs>附加条件：</>\\n【归于遗忘】命中时立即抵消1层浮力"
             }
           ]
+        },
+        {
+          "id": "act6bossrush",
+          "episode": "引航者试炼#6",
+          "childNodes": [
+            {
+              "id": "act6bossrushTN-1",
+              "operation": "TN-1",
+              "levelId": "activities/act6bossrush/level_bossrush6_01",
+              "name": "睥睨夜幕",
+              "description": "浓浓的黑夜之中，上演着没有观众的决斗。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-2",
+              "operation": "TN-2",
+              "levelId": "activities/act6bossrush/level_bossrush6_02",
+              "name": "深度产业",
+              "description": "就算是吞噬一切的深渊，也无法阻止鸭爵过去赚上一笔。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-3",
+              "operation": "TN-3",
+              "levelId": "activities/act6bossrush/level_bossrush6_03",
+              "name": "荒沙剑影",
+              "description": "当视野之中只有蒸气和沙海，杀戮的脚步就将不期而至。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-4",
+              "operation": "TN-4",
+              "levelId": "activities/act6bossrush/level_bossrush6_04",
+              "name": "凋零奏鸣",
+              "description": "那令人悚然的和弦进行，依然蚀刻着每一个胆敢靠近的灵魂。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-1EX",
+              "operation": "TN-1",
+              "levelId": "activities/act6bossrush/level_bossrush6_ex01",
+              "name": "睥睨夜幕 恢弘试炼",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“左手”泰特斯·白杨>降低攻击力的效果持续时间延长\\n\\n<翠梦祭祀>每次攻击攻击力提升幅度增加",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-2EX",
+              "operation": "TN-2",
+              "levelId": "activities/act6bossrush/level_bossrush6_ex02",
+              "name": "深度产业 恢弘试炼",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<流泪小子>、<高普尼克>以及<鸭爵>基础属性大幅提升\\n\\n<鸭爵>等待时间缩短",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-3EX",
+              "operation": "TN-3",
+              "levelId": "activities/act6bossrush/level_bossrush6_ex03",
+              "name": "荒沙剑影 恢弘试炼",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<圆岩巨像>的移动速度及攻击力提升\\n\\n<晶珑兽>与<晶玲兽>的最大生命值提升\\n\\n<安娜斯塔西奥，赎罪者>的最大生命值及攻击力提升，，且首次被击倒后会跃至不同的位置",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-4EX",
+              "operation": "TN-4",
+              "levelId": "activities/act6bossrush/level_bossrush6_ex04",
+              "name": "凋零奏鸣 恢弘试炼",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<赫尔昏佐伦，“巫王”>的攻击力与最大生命值提升\\n\\n<“放逐的黑棺”>的最大生命值提升\\n\\n场上留声机初始状态改变",
+              "hasChallenge": false
+            },
+            {
+              "id": "act6bossrushTN-4FIN",
+              "operation": "TN-4",
+              "levelId": "activities/act6bossrush/level_bossrush6_fin04",
+              "name": "凋零奏鸣 最终试炼",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n场上出现额外敌人，所有敌人的攻击力和最大生命值提升",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
