@@ -211056,6 +211056,100 @@
     ]
   },
   {
+    "Key": "enemy_7027_xbbtl_2",
+    "Levels": [
+      {
+        "key": "enemy_7027_xbbtl_2",
+        "attributes": {
+          "maxHp": 350000,
+          "atk": 800,
+          "def": 150,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": 2,
+        "level": 0,
+        "applyWay": 2,
+        "motion": 1,
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "ShieldTrigger.interval",
+            "value": 120
+          },
+          {
+            "key": "TraceTime.duration",
+            "value": 20
+          },
+          {
+            "key": "Trace.view_radius",
+            "value": 2
+          },
+          {
+            "key": "StartRun.move_speed",
+            "value": 1
+          },
+          {
+            "key": "StartRun.duration",
+            "value": 2
+          },
+          {
+            "key": "Trace.range_radius",
+            "value": 2.5
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Shield",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 60
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CNName": "晶玲兽",
+    "JPName": "晶玲兽",
+    "ENName": "晶玲兽",
+    "KRName": "晶玲兽"
+  },
+  {
     "Key": "enemy_7028_xbscp",
     "Levels": [
       {
@@ -211219,6 +211313,111 @@
         "textFormat": "NORMAL"
       }
     ]
+  },
+  {
+    "Key": "enemy_7028_xbscp_2",
+    "Levels": [
+      {
+        "key": "enemy_7028_xbscp_2",
+        "attributes": {
+          "maxHp": 450000,
+          "atk": 800,
+          "def": 2000,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": 2,
+        "level": 0,
+        "applyWay": 1,
+        "motion": 0,
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "TraceTime.duration",
+            "value": 20
+          },
+          {
+            "key": "Trace.view_radius",
+            "value": 2
+          },
+          {
+            "key": "DefDown.def",
+            "value": -100
+          },
+          {
+            "key": "t.move_speed",
+            "value": 3
+          },
+          {
+            "key": "t.duration",
+            "value": 4
+          },
+          {
+            "key": "Trace.range_radius",
+            "value": 5
+          },
+          {
+            "key": "t.range_radius",
+            "value": 0.5
+          },
+          {
+            "key": "Shield.cnt",
+            "value": 80
+          },
+          {
+            "key": "Shield.max_stack.cnt",
+            "value": 1
+          },
+          {
+            "key": "Shield.interval",
+            "value": 120
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Eat",
+            "priority": 0,
+            "cooldown": 5,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ]
+      }
+    ],
+    "CNName": "晶珑兽",
+    "JPName": "晶珑兽",
+    "ENName": "晶珑兽",
+    "KRName": "晶珑兽"
   },
   {
     "Key": "enemy_7029_pilot",
