@@ -24,16 +24,37 @@ const parsedEnemies: ParsedEnemy[] = [];
 
 const parseCNData = async () => {
   const enemy_database = await import(`@/database/cn/enemy_database.json`) as any;
-  const enemies = enemy_database.enemies;
+  let enemies;
+  if(enemy_database.enemies){
+    //模式1
+    enemies = enemy_database.enemies;
+  }else{
+    //模式2
+    enemies = Object.keys(enemy_database);
+  }
+  
   const {enemyHandbook} = await importJSON("CN");
   enemies.forEach((enemy: any) => {
+    
+    let key, value;
+    if(typeof enemy === "string"){
+      //模式2
+      key = enemy;
+      value = enemy_database[key];
+    }else{
+      //模式1
+      key = enemy.key;
+      value = enemy.value;
+    }
     //如果使用的是ES6模块，那么当你导入一个模块时，如果该模块使用了export default
     //那么导入的对象会有一个default属性，指向默认导出的内容
-    const key = enemy.key;
-    const value = enemy.value;
+    if(key === "default") return;
 
     const Levels: EnemyData[] = [];
     
+    if(!value || !value[0]){
+      console.log(`${key}没有数据！`)
+    }
     const sourceData = value[0].enemyData;
     if(!sourceData){
       console.error(`Enemy ${key} 数据不存在！`);

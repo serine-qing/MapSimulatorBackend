@@ -15705,7 +15705,7 @@
               "operation": "TN-1",
               "levelId": "activities/act6bossrush/level_bossrush6_ex01",
               "name": "睥睨夜幕 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“左手”泰特斯·白杨>降低攻击力的效果持续时间延长\\n\\n<翠梦祭祀>每次攻击攻击力提升幅度增加",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“左手”泰特斯·白杨>降低攻击力的效果持续时间延长\\n\\n<翠梦祭司>每次攻击攻击力提升幅度增加",
               "hasChallenge": false
             },
             {
@@ -15721,7 +15721,7 @@
               "operation": "TN-3",
               "levelId": "activities/act6bossrush/level_bossrush6_ex03",
               "name": "荒沙剑影 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<圆岩巨像>的移动速度及攻击力提升\\n\\n<晶珑兽>与<晶玲兽>的最大生命值提升\\n\\n<安娜斯塔西奥，赎罪者>的最大生命值及攻击力提升，，且首次被击倒后会跃至不同的位置",
+              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<圆岩巨像>的移动速度及攻击力提升\\n\\n<晶珑兽>与<晶玲兽>的最大生命值提升\\n\\n<安纳斯塔西奥，赎罪者>的最大生命值及攻击力提升，且首次被击倒后会跃至不同的位置",
               "hasChallenge": false
             },
             {
@@ -15738,6 +15738,84 @@
               "levelId": "activities/act6bossrush/level_bossrush6_fin04",
               "name": "凋零奏鸣 最终试炼",
               "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n场上出现额外敌人，所有敌人的攻击力和最大生命值提升",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
+          "id": "act48side",
+          "episode": "雅赛努斯复仇记",
+          "childNodes": [
+            {
+              "id": "ME-TR-1",
+              "operation": "ME-TR-1",
+              "levelId": "activities/act48side/level_act48side_tr01",
+              "name": "入境随俗",
+              "description": "在米诺斯，就要表现得像个米诺斯人。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-1",
+              "operation": "ME-1",
+              "levelId": "activities/act48side/level_act48side_01",
+              "name": "工作与时日",
+              "description": "神殿即将落成，祭司匆忙奔走，而悼亡之人还沉浸在旧梦中。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-2",
+              "operation": "ME-2",
+              "levelId": "activities/act48side/level_act48side_02",
+              "name": "命定的终点",
+              "description": "即使是再看不到终点的道路，也终有要人停下来的时候。只是有时，我们不会察觉路已到了尽头。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-3",
+              "operation": "ME-3",
+              "levelId": "activities/act48side/level_act48side_03",
+              "name": "无解的谜题",
+              "description": "它在路上，在梦中，它无处不在，只为向你提出诘问。它让你惊醒，让你知道自己是谁，让你发现美好的想象只是泡影。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-4",
+              "operation": "ME-4",
+              "levelId": "activities/act48side/level_act48side_04",
+              "name": "失手",
+              "description": "总有一些无法承受的重量，会在你无法承受的时刻自手中落下。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-5",
+              "operation": "ME-5",
+              "levelId": "activities/act48side/level_act48side_05",
+              "name": "汇流",
+              "description": "人来人往，形势将超出你的掌控。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-6",
+              "operation": "ME-6",
+              "levelId": "activities/act48side/level_act48side_06",
+              "name": "旧日诗篇",
+              "description": "一段尘封的传奇，一些无法忘却的往事，它们化作诗篇，在你耳边缭绕，呢喃不止。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-7",
+              "operation": "ME-7",
+              "levelId": "activities/act48side/level_act48side_07",
+              "name": "奔袭",
+              "description": "你永远不会知道，会有什么从远方一路狂奔而来，冲散一切精心的布置，冲散所有和解或告别。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": false
+            },
+            {
+              "id": "ME-8",
+              "operation": "ME-8",
+              "levelId": "activities/act48side/level_act48side_08",
+              "name": "神谕示显",
+              "description": "愤怒始终在他心中奔涌，寻求着一个出口。这是萨尔贡人欠米诺斯的一场战斗。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
               "hasChallenge": false
             }
           ]
