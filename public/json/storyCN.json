@@ -21765,6 +21765,14 @@
           "description": "实验室投放的信标侦测到了紊乱的洋流，海嗣正从巢穴中蔓延而出，逐渐将整片海盆淹没。潜入幽邃的深渊，矫正这股暗流吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><赘生甲壳></>可部署高台干员\\n<@lv.item><航道信标></>需要高台单位充能；开启后使我方单位获得灼燃损伤能力\\n<@lv.item><小帮手></>可清除<赘生甲壳>和<溟痕>",
           "levelId": "obt/campaign/level_camp_r_30",
           "hasChallenge": false
+        },
+        {
+          "id": "camp_r_32",
+          "operation": "神秘泄露剿灭",
+          "name": "",
+          "description": "",
+          "levelId": "obt/campaign/level_camp_r_32",
+          "hasChallenge": false
         }
       ]
     }
