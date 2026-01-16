@@ -15817,6 +15817,142 @@
               "name": "神谕示显",
               "description": "愤怒始终在他心中奔涌，寻求着一个出口。这是萨尔贡人欠米诺斯的一场战斗。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
               "hasChallenge": false
+            },
+            {
+              "id": "ME-EX-1",
+              "operation": "ME-EX-1",
+              "levelId": "activities/act48side/level_act48side_ex01",
+              "name": "进场歌",
+              "description": "演员入场就位。克瑞斯拉握紧了她的竖琴。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-1CM",
+              "operation": "突袭ME-EX-1",
+              "levelId": "activities/act48side/level_act48side_ex01",
+              "name": "进场歌",
+              "description": "演员入场就位。克瑞斯拉握紧了她的竖琴。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的见习祭司学徒"
+            },
+            {
+              "id": "ME-EX-2",
+              "operation": "ME-EX-2",
+              "levelId": "activities/act48side/level_act48side_ex02",
+              "name": "背景",
+              "description": "我们已在山间建造了神殿，如今便能用神谕与英雄的故事将族人集结，共同抵御异邦人的进犯。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-2CM",
+              "operation": "突袭ME-EX-2",
+              "levelId": "activities/act48side/level_act48side_ex02",
+              "name": "背景",
+              "description": "我们已在山间建造了神殿，如今便能用神谕与英雄的故事将族人集结，共同抵御异邦人的进犯。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n提供的障碍物数量大幅减少"
+            },
+            {
+              "id": "ME-EX-3",
+              "operation": "ME-EX-3",
+              "levelId": "activities/act48side/level_act48side_ex03",
+              "name": "主题",
+              "description": "何为米诺斯？那些在山岩缝隙中不断讲述的、我们所不知道的地方发生的英雄故事，又是如何塑造了我们，使我们成为整体？\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-3CM",
+              "operation": "突袭ME-EX-3",
+              "levelId": "activities/act48side/level_act48side_ex03",
+              "name": "主题",
+              "description": "何为米诺斯？那些在山岩缝隙中不断讲述的、我们所不知道的地方发生的英雄故事，又是如何塑造了我们，使我们成为整体？\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n失望的雕像攻击范围大幅提升"
+            },
+            {
+              "id": "ME-EX-4",
+              "operation": "ME-EX-4",
+              "levelId": "activities/act48side/level_act48side_ex04",
+              "name": "转折",
+              "description": "我们没法让所有人相信语言表述的信念，总有人会有别的想法。队伍的人数增多，我们前进的速度便会因此而减慢。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-4CM",
+              "operation": "突袭ME-EX-4",
+              "levelId": "activities/act48side/level_act48side_ex04",
+              "name": "转折",
+              "description": "我们没法让所有人相信语言表述的信念，总有人会有别的想法。队伍的人数增多，我们前进的速度便会因此而减慢。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n伊利昂的铁驮兽生命值上升"
+            },
+            {
+              "id": "ME-EX-5",
+              "operation": "ME-EX-5",
+              "levelId": "activities/act48side/level_act48side_ex05",
+              "name": "铺陈",
+              "description": "在难以抉择的时刻，作出艰难的选择。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-5CM",
+              "operation": "突袭ME-EX-5",
+              "levelId": "activities/act48side/level_act48side_ex05",
+              "name": "铺陈",
+              "description": "在难以抉择的时刻，作出艰难的选择。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的敌人"
+            },
+            {
+              "id": "ME-EX-6",
+              "operation": "ME-EX-6",
+              "levelId": "activities/act48side/level_act48side_ex06",
+              "name": "对驳",
+              "description": "讲故事就能抵御敌人？听传说能够填饱肚子？我们还能倚仗什么？我们所信的胜利与未来又在哪里？那一刻，就连她自己，心中也产生了怀疑。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-6CM",
+              "operation": "突袭ME-EX-6",
+              "levelId": "activities/act48side/level_act48side_ex06",
+              "name": "对驳",
+              "description": "讲故事就能抵御敌人？听传说能够填饱肚子？我们还能倚仗什么？我们所信的胜利与未来又在哪里？那一刻，就连她自己，心中也产生了怀疑。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n狙击与术师干员部署费用提升至3倍"
+            },
+            {
+              "id": "ME-EX-7",
+              "operation": "ME-EX-7",
+              "levelId": "activities/act48side/level_act48side_ex07",
+              "name": "高潮",
+              "description": "异邦人自远处涌来，我们用血肉之躯抵挡。同胞们的鲜血正在流淌，但我们别无选择。至少我们还有骄傲，米诺斯人绝不会接受奴役。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-7CM",
+              "operation": "突袭ME-EX-7",
+              "levelId": "activities/act48side/level_act48side_ex07",
+              "name": "高潮",
+              "description": "异邦人自远处涌来，我们用血肉之躯抵挡。同胞们的鲜血正在流淌，但我们别无选择。至少我们还有骄傲，米诺斯人绝不会接受奴役。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的失望的雕像"
+            },
+            {
+              "id": "ME-EX-8",
+              "operation": "ME-EX-8",
+              "levelId": "activities/act48side/level_act48side_ex08",
+              "name": "合唱歌",
+              "description": "只有战斗才能慰藉死亡带来的苦痛，只有异邦人的血才能让愤怒平息。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true
+            },
+            {
+              "id": "ME-EX-8CM",
+              "operation": "突袭ME-EX-8",
+              "levelId": "activities/act48side/level_act48side_ex08",
+              "name": "合唱歌",
+              "description": "只有战斗才能慰藉死亡带来的苦痛，只有异邦人的血才能让愤怒平息。\\n<@lv.item><拘谨></>干员施放技能所需技力提升\\n<@lv.item><喷泉水池></>可被治疗，相连的所有喷泉水池满后使相邻地块“花香弥散”，使干员和敌人“入戏”\\n<@lv.item><入戏></>干员会快速回复技力并周期性召唤“英雄的呼唤”，敌人会降低命中率和移动速度",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n赞索斯，复仇者与“无数的伊萨科斯”路线改变，部分敌人有所不同"
             }
           ]
         }
@@ -21764,14 +21900,6 @@
           "name": "",
           "description": "实验室投放的信标侦测到了紊乱的洋流，海嗣正从巢穴中蔓延而出，逐渐将整片海盆淹没。潜入幽邃的深渊，矫正这股暗流吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><赘生甲壳></>可部署高台干员\\n<@lv.item><航道信标></>需要高台单位充能；开启后使我方单位获得灼燃损伤能力\\n<@lv.item><小帮手></>可清除<赘生甲壳>和<溟痕>",
           "levelId": "obt/campaign/level_camp_r_30",
-          "hasChallenge": false
-        },
-        {
-          "id": "camp_r_32",
-          "operation": "神秘泄露剿灭",
-          "name": "",
-          "description": "",
-          "levelId": "obt/campaign/level_camp_r_32",
           "hasChallenge": false
         }
       ]
