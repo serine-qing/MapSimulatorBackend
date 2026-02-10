@@ -15955,6 +15955,164 @@
               "challenge": "<@lv.fs>附加条件：</>\\n赞索斯，复仇者与“无数的伊萨科斯”路线改变，部分敌人有所不同"
             }
           ]
+        },
+        {
+          "id": "act49side",
+          "episode": "辞岁行",
+          "childNodes": [
+            {
+              "id": "???-1",
+              "operation": "???-1",
+              "levelId": "activities/act49side/level_act49side_01",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-2",
+              "operation": "???-2",
+              "levelId": "activities/act49side/level_act49side_02",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-3",
+              "operation": "???-3",
+              "levelId": "activities/act49side/level_act49side_03",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-4",
+              "operation": "???-4",
+              "levelId": "activities/act49side/level_act49side_04",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-5",
+              "operation": "???-5",
+              "levelId": "activities/act49side/level_act49side_05",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-6",
+              "operation": "???-6",
+              "levelId": "activities/act49side/level_act49side_06",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-7",
+              "operation": "???-7",
+              "levelId": "activities/act49side/level_act49side_07",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-8",
+              "operation": "???-8",
+              "levelId": "activities/act49side/level_act49side_08",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-9",
+              "operation": "???-9",
+              "levelId": "activities/act49side/level_act49side_09",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-10",
+              "operation": "???-10",
+              "levelId": "activities/act49side/level_act49side_10",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-11",
+              "operation": "???-11",
+              "levelId": "activities/act49side/level_act49side_11",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-1",
+              "operation": "???-EX-1",
+              "levelId": "activities/act49side/level_act49side_ex01",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-2",
+              "operation": "???-EX-2",
+              "levelId": "activities/act49side/level_act49side_ex02",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-3",
+              "operation": "???-EX-3",
+              "levelId": "activities/act49side/level_act49side_ex03",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-4",
+              "operation": "???-EX-4",
+              "levelId": "activities/act49side/level_act49side_ex04",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-5",
+              "operation": "???-EX-5",
+              "levelId": "activities/act49side/level_act49side_ex05",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-6",
+              "operation": "???-EX-6",
+              "levelId": "activities/act49side/level_act49side_ex06",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-7",
+              "operation": "???-EX-7",
+              "levelId": "activities/act49side/level_act49side_ex07",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            },
+            {
+              "id": "???-EX-8",
+              "operation": "???-EX-8",
+              "levelId": "activities/act49side/level_act49side_ex08",
+              "name": "????",
+              "description": "暂无数据",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
