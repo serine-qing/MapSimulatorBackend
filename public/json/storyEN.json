@@ -15961,156 +15961,236 @@
           "episode": "辞岁行",
           "childNodes": [
             {
-              "id": "???-1",
-              "operation": "???-1",
+              "id": "TA-1",
+              "operation": "TA-1",
               "levelId": "activities/act49side/level_act49side_01",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "激石波",
+              "description": "你看那水中的巨石，水流们叮嘱你绕开走，可你偏偏不信邪，非要撞上去试试。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-2",
-              "operation": "???-2",
+              "id": "TA-TR-1",
+              "operation": "TA-TR-1",
+              "levelId": "activities/act49side/level_act49side_tr01",
+              "name": "乌金拓",
+              "description": "拓本黝然，色浓如漆。这厚实的质感，一如典籍与历史本身，典雅庄重、沁人骨髓。\\n<@lv.item><兵>、<财>、<食></>被拓印后生成操戈、饷事或炊事\\n<@lv.item><山></>被拓印后生成山脊，可部署高台干员\\n<@lv.item><友></>被拓印后使最近的友方地面干员再部署于其上\\n<@lv.item><印></>其上有友方单位或敌人时，直接触发拓印，再次触发有间隔",
+              "hasChallenge": false
+            },
+            {
+              "id": "TA-2",
+              "operation": "TA-2",
               "levelId": "activities/act49side/level_act49side_02",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "大头鬼",
+              "description": "“岁”为鬼，“月”为鬼，“岁月”何尝不为鬼。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-3",
-              "operation": "???-3",
+              "id": "TA-3",
+              "operation": "TA-3",
               "levelId": "activities/act49side/level_act49side_03",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "聚墨痕",
+              "description": "运笔镜阁，落墨浓重。中锋所过处，一道深痕逐渐凝形，力透纸背。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-4",
-              "operation": "???-4",
+              "id": "TA-4",
+              "operation": "TA-4",
               "levelId": "activities/act49side/level_act49side_04",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "小雪崩",
+              "description": "将人间佳酿喝到尽兴，赴一场无边缥缈的梦，负一片压垮肩头的雪。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-5",
-              "operation": "???-5",
+              "id": "TA-5",
+              "operation": "TA-5",
               "levelId": "activities/act49side/level_act49side_05",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "双飞燕",
+              "description": "帷幕后的弈者亦已执子入局，是共谋伐岁的“友”？还是别有用心的“敌”？\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-6",
-              "operation": "???-6",
+              "id": "TA-6",
+              "operation": "TA-6",
               "levelId": "activities/act49side/level_act49side_06",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "裹锋",
+              "description": "欲上先下，欲左先右。众人皆有自己的盘算，众人皆被裹挟其中。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-7",
-              "operation": "???-7",
+              "id": "TA-7",
+              "operation": "TA-7",
               "levelId": "activities/act49side/level_act49side_07",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "相思断",
+              "description": "牢形竭思，千虑万计。别枰中子，隙中身，念中人。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-8",
-              "operation": "???-8",
+              "id": "TA-8",
+              "operation": "TA-8",
               "levelId": "activities/act49side/level_act49side_08",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "金错刀",
+              "description": "书刀可删其文，烛火能焚其页。史稿何其脆弱，史稿所承载的历史，同样何其脆弱。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-9",
-              "operation": "???-9",
+              "id": "TA-9",
+              "operation": "TA-9",
               "levelId": "activities/act49side/level_act49side_09",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "气合",
+              "description": "一意孤行？落子无悔。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
               "hasChallenge": false
             },
             {
-              "id": "???-10",
-              "operation": "???-10",
+              "id": "TA-10",
+              "operation": "TA-10",
               "levelId": "activities/act49side/level_act49side_10",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "镇神头",
+              "description": "沙场三日雨，天喟一枰明。\\n<@lv.item><镇岁柱></>开启周围镇岁柱，前往对应区域削弱岁，开启中央镇岁柱，直面岁",
               "hasChallenge": false
             },
             {
-              "id": "???-11",
-              "operation": "???-11",
+              "id": "TA-11",
+              "operation": "TA-11",
               "levelId": "activities/act49side/level_act49side_11",
-              "name": "????",
-              "description": "暂无数据",
+              "name": "长生劫",
+              "description": "你这么聪明，那你告诉我——“人”这种生灵啊，为何始终在追寻明知无望的团圆？",
               "hasChallenge": false
             },
             {
-              "id": "???-EX-1",
-              "operation": "???-EX-1",
+              "id": "TA-EX-1",
+              "operation": "TA-EX-1",
               "levelId": "activities/act49side/level_act49side_ex01",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《谈轶》",
+              "description": "《谈轶》十卷，尚蜀知府采进本。载尚蜀武林中事，更辑仙人锻铸神兵之法。虽稗官野乘，真伪相伴，然其中掌故，口耳相传，已历百载。于当地江湖习气影响至深。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-2",
-              "operation": "???-EX-2",
+              "id": "TA-EX-1CM",
+              "operation": "突袭TA-EX-1",
+              "levelId": "activities/act49side/level_act49side_ex01",
+              "name": "《谈轶》",
+              "description": "《谈轶》十卷，尚蜀知府采进本。载尚蜀武林中事，更辑仙人锻铸神兵之法。虽稗官野乘，真伪相伴，然其中掌故，口耳相传，已历百载。于当地江湖习气影响至深。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n敌方生命值大幅提升"
+            },
+            {
+              "id": "TA-EX-2",
+              "operation": "TA-EX-2",
               "levelId": "activities/act49side/level_act49side_ex02",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《夜话》",
+              "description": "《夜话》一卷，邙山镇蒲氏家藏本。收《游人列传》，专述古人夜游寻仙、幽径逢鬼之事，兼录百种伥怪形迹。语近荒诞，文意晦涩，以其虚妄惑人，为官方禁绝。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-3",
-              "operation": "???-EX-3",
+              "id": "TA-EX-2CM",
+              "operation": "突袭TA-EX-2",
+              "levelId": "activities/act49side/level_act49side_ex02",
+              "name": "《夜话》",
+              "description": "《夜话》一卷，邙山镇蒲氏家藏本。收《游人列传》，专述古人夜游寻仙、幽径逢鬼之事，兼录百种伥怪形迹。语近荒诞，文意晦涩，以其虚妄惑人，为官方禁绝。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n活字印章拓印伤害提升"
+            },
+            {
+              "id": "TA-EX-3",
+              "operation": "TA-EX-3",
               "levelId": "activities/act49side/level_act49side_ex03",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《逸闻》",
+              "description": "《逸闻》二卷，丹燕知府采进本。专录丹燕百年间诸桩旧案，依编年体次第叙之。各案本末详具，兼附裁断之法，足资为刑案参鉴。近岁为坊间所采，编为戏剧，流播内外。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-4",
-              "operation": "???-EX-4",
+              "id": "TA-EX-3CM",
+              "operation": "突袭TA-EX-3",
+              "levelId": "activities/act49side/level_act49side_ex03",
+              "name": "《逸闻》",
+              "description": "《逸闻》二卷，丹燕知府采进本。专录丹燕百年间诸桩旧案，依编年体次第叙之。各案本末详具，兼附裁断之法，足资为刑案参鉴。近岁为坊间所采，编为戏剧，流播内外。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<扶潮·归>"
+            },
+            {
+              "id": "TA-EX-4",
+              "operation": "TA-EX-4",
               "levelId": "activities/act49side/level_act49side_ex04",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《蒙尘录》",
+              "description": "《蒙尘录》一卷，塞北天机阁藏本。载百年间天师北抗邪魔事。笔锋所至，惨烈异常，纵沙场甲士，亦不忍复观。所录年月偶有舛讹，然记事详实，足资考证。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-5",
-              "operation": "???-EX-5",
+              "id": "TA-EX-4CM",
+              "operation": "突袭TA-EX-4",
+              "levelId": "activities/act49side/level_act49side_ex04",
+              "name": "《蒙尘录》",
+              "description": "《蒙尘录》一卷，塞北天机阁藏本。载百年间天师北抗邪魔事。笔锋所至，惨烈异常，纵沙场甲士，亦不忍复观。所录年月偶有舛讹，然记事详实，足资考证。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n<书刀>消耗部署费用提升"
+            },
+            {
+              "id": "TA-EX-5",
+              "operation": "TA-EX-5",
               "levelId": "activities/act49side/level_act49side_ex05",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《发迹考》",
+              "description": "《发迹考》一卷，龙门总督采进本。不著撰人名氏。叙一行商发迹始末，铺陈颇似小说家言，笔涉荒诞。后经商贾刊刻，佐以隐士丹青，迅即风行南北，购者竞逐，纸为之贵。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-6",
-              "operation": "???-EX-6",
+              "id": "TA-EX-5CM",
+              "operation": "突袭TA-EX-5",
+              "levelId": "activities/act49side/level_act49side_ex05",
+              "name": "《发迹考》",
+              "description": "《发迹考》一卷，龙门总督采进本。不著撰人名氏。叙一行商发迹始末，铺陈颇似小说家言，笔涉荒诞。后经商贾刊刻，佐以隐士丹青，迅即风行南北，购者竞逐，纸为之贵。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始字格上的字变化"
+            },
+            {
+              "id": "TA-EX-6",
+              "operation": "TA-EX-6",
               "levelId": "activities/act49side/level_act49side_ex06",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《杨柳见闻》",
+              "description": "《杨柳见闻》一卷，玉门守将采进本。撰者系行伍小卒，考其生平，或为百灶籍人。载三将戍边事，文笔流畅，纪事近实。然彼三将之名，未录于书。致使稽考无凭，诚为后世之憾。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-7",
-              "operation": "???-EX-7",
+              "id": "TA-EX-6CM",
+              "operation": "突袭TA-EX-6",
+              "levelId": "activities/act49side/level_act49side_ex06",
+              "name": "《杨柳见闻》",
+              "description": "《杨柳见闻》一卷，玉门守将采进本。撰者系行伍小卒，考其生平，或为百灶籍人。载三将戍边事，文笔流畅，纪事近实。然彼三将之名，未录于书。致使稽考无凭，诚为后世之憾。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的<霜劫·争>"
+            },
+            {
+              "id": "TA-EX-7",
+              "operation": "TA-EX-7",
               "levelId": "activities/act49side/level_act49side_ex07",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《小史摘钞》",
+              "description": "《小史摘钞》二卷，百灶鼎丰楼藏本。前录食客巷议，多谬妄不足辨。中为庖厨文章，借肴馔讥史事。末乃席间致辞，附有庖人评点，尤见谐趣。是书文思新颖，议论生风，流传市井，颇得众好。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
             },
             {
-              "id": "???-EX-8",
-              "operation": "???-EX-8",
+              "id": "TA-EX-7CM",
+              "operation": "突袭TA-EX-7",
+              "levelId": "activities/act49side/level_act49side_ex07",
+              "name": "《小史摘钞》",
+              "description": "《小史摘钞》二卷，百灶鼎丰楼藏本。前录食客巷议，多谬妄不足辨。中为庖厨文章，借肴馔讥史事。末乃席间致辞，附有庖人评点，尤见谐趣。是书文思新颖，议论生风，流传市井，颇得众好。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始字格上的字变化"
+            },
+            {
+              "id": "TA-EX-8",
+              "operation": "TA-EX-8",
               "levelId": "activities/act49side/level_act49side_ex08",
-              "name": "????",
-              "description": "暂无数据",
-              "hasChallenge": false
+              "name": "《朝野汇编》",
+              "description": "《朝野汇编》二十卷，百灶天镜阁藏本。分《编年》《列传》《定论》诸目，杂采乡野传闻之说，不为信史。卷首序谓撰者乃司岁台秉烛人，尤无忌惮矣。\\n<@lv.item><镇岁柱></>开启周围镇岁柱，前往对应区域削弱岁，开启中央镇岁柱，直面岁",
+              "hasChallenge": true
+            },
+            {
+              "id": "TA-EX-8CM",
+              "operation": "突袭TA-EX-8",
+              "levelId": "activities/act49side/level_act49side_ex08",
+              "name": "《朝野汇编》",
+              "description": "《朝野汇编》二十卷，百灶天镜阁藏本。分《编年》《列传》《定论》诸目，杂采乡野传闻之说，不为信史。卷首序谓撰者乃司岁台秉烛人，尤无忌惮矣。\\n<@lv.item><镇岁柱></>开启周围镇岁柱，前往对应区域削弱岁，开启中央镇岁柱，直面岁",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n<@lv.item>岁会额外召唤敌人"
             }
           ]
         }
