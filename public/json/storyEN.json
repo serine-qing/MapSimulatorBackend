@@ -1173,7 +1173,7 @@
               "operation": "SV-6",
               "levelId": "activities/act10d5/level_act10d5_06",
               "name": "Tattered Rags",
-              "description": "The best defense is a good offense, and our enemies sometimes share the same sentiment.\n<@lv.item><Corrosive Ground></>Reduces the defense of Operators deployed upon this tile by 50%.\n<@lv.item><Disruption Mine></>Upon explosion, deals heavy damage to enemies in the surrounding 4 tiles and amplifies the damage they take for 15 seconds.\n<@act.timeLimit>Stage available from 6/18 4:00 P.M. to 6/25 3:59 A.M.</>",
+              "description": "The best defense is a good offense, and our enemies sometimes share the same sentiment.\n<@lv.item><Corrosive Ground></>Reduces the defense of Operators deployed upon this tile by 50%.\n<@lv.item><Disruption Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.\n<@act.timeLimit>Stage available from 6/18 4:00 P.M. to 6/25 3:59 A.M.</>",
               "hasChallenge": true
             },
             {
@@ -1181,7 +1181,7 @@
               "operation": "CM SV-6",
               "levelId": "activities/act10d5/level_act10d5_06",
               "name": "Tattered Rags",
-              "description": "The best defense is a good offense, and our enemies sometimes share the same sentiment.\n<@lv.item><Corrosive Ground></>Reduces the defense of Operators deployed upon this tile by 50%.\n<@lv.item><Disruption Mine></>Upon explosion, deals heavy damage to enemies in the surrounding 4 tiles and amplifies the damage they take for 15 seconds.\n<@act.timeLimit>Stage available from 6/18 4:00 P.M. to 6/25 3:59 A.M.</>",
+              "description": "The best defense is a good offense, and our enemies sometimes share the same sentiment.\n<@lv.item><Corrosive Ground></>Reduces the defense of Operators deployed upon this tile by 50%.\n<@lv.item><Disruption Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.\n<@act.timeLimit>Stage available from 6/18 4:00 P.M. to 6/25 3:59 A.M.</>",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nSkullshatterer and Acid Originium Slugs have increased attack range.\n<@act.timeLimit>Stage available from 9/29 10:00 A.M. to 10/9 3:59 A.M.</>"
             },
@@ -1990,7 +1990,7 @@
               "operation": "MN-EX-6",
               "levelId": "activities/act13d5/level_act13d5_ex06",
               "name": "Bomb Maze",
-              "description": "A terrifying competition rule used in some arenas. The audience votes on the placement of bombs and obstacles. This is one of the most undignified competitions for the knights. No, it doesn't have much to do with competition anymore, but it does bring in a lot of money. \n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding 4 tiles and amplifies the damage they take for 15 seconds.",
+              "description": "A terrifying competition rule used in some arenas. The audience votes on the placement of bombs and obstacles. This is one of the most undignified competitions for the knights. No, it doesn't have much to do with competition anymore, but it does bring in a lot of money. \n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.",
               "hasChallenge": true
             },
             {
@@ -1998,7 +1998,7 @@
               "operation": "CM MN-EX-6",
               "levelId": "activities/act13d5/level_act13d5_ex06",
               "name": "Bomb Maze",
-              "description": "A terrifying competition rule used in some arenas. The audience votes on the placement of bombs and obstacles. This is one of the most undignified competitions for the knights. No, it doesn't have much to do with competition anymore, but it does bring in a lot of money. \n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding 4 tiles and amplifies the damage they take for 15 seconds.",
+              "description": "A terrifying competition rule used in some arenas. The audience votes on the placement of bombs and obstacles. This is one of the most undignified competitions for the knights. No, it doesn't have much to do with competition anymore, but it does bring in a lot of money. \n<@lv.item><Interference Mine></>Upon explosion, deals heavy damage to enemies in the surrounding tiles and amplifies the damage they take for 15 seconds.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nAll enemies have increased Movement Speed."
             },
@@ -3577,7 +3577,7 @@
               "operation": "DH-TR-1",
               "levelId": "activities/act12side/level_act12side_tr01",
               "name": "Just Arrived",
-              "description": "When arriving at an unfamiliar place, it's always better to have a local guide one around. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "When arriving at an unfamiliar place, it's always better to have a local guide one around. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3585,7 +3585,7 @@
               "operation": "DH-1",
               "levelId": "activities/act12side/level_act12side_01",
               "name": "Accidental Participation",
-              "description": "Ch'en had a hunch she'd encounter Lin Yühsia in this city for some reason or other. She just didn't expect it to be this early, and in such a way. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Ch'en had a hunch she'd encounter Lin Yühsia in this city for some reason or other. She just didn't expect it to be this early, and in such a way. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3593,7 +3593,7 @@
               "operation": "DH-2",
               "levelId": "activities/act12side/level_act12side_02",
               "name": "First Round",
-              "description": "Ch'en's opposition here is not those surrounding her, but the unfamiliar weapon in her hand, and her uncooperative teammates. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Ch'en's opposition here is not those surrounding her, but the unfamiliar weapon in her hand, and her uncooperative teammates. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3601,7 +3601,7 @@
               "operation": "DH-3",
               "levelId": "activities/act12side/level_act12side_03",
               "name": "Timely Assistance",
-              "description": "To Ch'en, there's never anything more important than helping others. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "To Ch'en, there's never anything more important than helping others. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3609,7 +3609,7 @@
               "operation": "DH-4",
               "levelId": "activities/act12side/level_act12side_04",
               "name": "Triathlon",
-              "description": "A game requires rules, yet what the audience most wishes for tends to be that which breaks the rules. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "A game requires rules, yet what the audience most wishes for tends to be that which breaks the rules. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3617,7 +3617,7 @@
               "operation": "DH-5",
               "levelId": "activities/act12side/level_act12side_05",
               "name": "Winding Path to Victory",
-              "description": "Some take shortcuts for the sake of victory, while others have no choice but to do so. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Some take shortcuts for the sake of victory, while others have no choice but to do so. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             },
             {
@@ -3733,7 +3733,7 @@
               "operation": "DH-EX-5",
               "levelId": "activities/act12side/level_act12side_ex05",
               "name": "Seaside Vantage Point",
-              "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Yühsia disagrees. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Yühsia disagrees. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": true
             },
             {
@@ -3741,7 +3741,7 @@
               "operation": "CM DH-EX-5",
               "levelId": "activities/act12side/level_act12side_ex05",
               "name": "Seaside Vantage Point",
-              "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Yühsia disagrees. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Yühsia disagrees. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nUnmanned Heavy Explosive Boats have increased explosion damage"
             },
@@ -3750,7 +3750,7 @@
               "operation": "DH-EX-6",
               "levelId": "activities/act12side/level_act12side_ex06",
               "name": "Beach Gathering",
-              "description": "Several gang members occupy an open-air bar to hold a party. Their greatest mistake was snatching Hoshiguma's wineglass. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Several gang members occupy an open-air bar to hold a party. Their greatest mistake was snatching Hoshiguma's wineglass. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": true
             },
             {
@@ -3758,7 +3758,7 @@
               "operation": "CM DH-EX-6",
               "levelId": "activities/act12side/level_act12side_ex06",
               "name": "Beach Gathering",
-              "description": "Several gang members occupy an open-air bar to hold a party. Their greatest mistake was snatching Hoshiguma's wineglass. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Several gang members occupy an open-air bar to hold a party. Their greatest mistake was snatching Hoshiguma's wineglass. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nDuring high tide, allied units continually receive increased Corrosion Damage"
             },
@@ -3835,7 +3835,7 @@
               "operation": "DH-S-3",
               "levelId": "activities/act12side/level_act12side_sub-1-3",
               "name": "Reunion of Old Friends",
-              "description": "As long as the uncooperative bodyguards are taken care of, Swire doesn't lack methods to make one talk. \n<@lv.item><Deep Water Zone></>Unable to deploy on these tiles. Enemies on these tiles have reduced ASPD and Movement Speed, and continually lose HP\n<@lv.rem>Condition:</>Tidal Leaders and Tidal Leader Speedboats have reduced ATK, but deal greatly increased Corrosion Damage",
+              "description": "As long as the uncooperative bodyguards are taken care of, Swire doesn't lack methods to make one talk. \n<@lv.item><Deep Water Zone></>Unable to deploy on these tiles. Enemies on these tiles have reduced ASPD and Movement Speed, and continually lose HP\n<@lv.rem>Condition:</>Tidal Leaders and Tidal Leader Speedboats have reduced ATK, but deal greatly increased Corrosion",
               "hasChallenge": true
             },
             {
@@ -3843,7 +3843,7 @@
               "operation": "CM DH-S-3",
               "levelId": "activities/act12side/level_act12side_sub-1-3",
               "name": "Reunion of Old Friends",
-              "description": "As long as the uncooperative bodyguards are taken care of, Swire doesn't lack methods to make one talk. \n<@lv.item><Deep Water Zone></>Unable to deploy on these tiles. Enemies on these tiles have reduced ASPD and Movement Speed, and continually lose HP\n<@lv.rem>Condition:</>Tidal Leaders and Tidal Leader Speedboats have reduced ATK, but deal greatly increased Corrosion Damage",
+              "description": "As long as the uncooperative bodyguards are taken care of, Swire doesn't lack methods to make one talk. \n<@lv.item><Deep Water Zone></>Unable to deploy on these tiles. Enemies on these tiles have reduced ASPD and Movement Speed, and continually lose HP\n<@lv.rem>Condition:</>Tidal Leaders and Tidal Leader Speedboats have reduced ATK, but deal greatly increased Corrosion",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nUnable to use Custom Aquatic Platforms"
             },
@@ -3852,7 +3852,7 @@
               "operation": "DH-S-4",
               "levelId": "activities/act12side/level_act12side_sub-1-4",
               "name": "Final Investigation",
-              "description": "The investigation goes well with the presence of old comrades. It seems the former superintendent and elites of the L.G.D. are unstoppable. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion'\n<@lv.rem>Condition:</>All allied units receive increased Corrosion damage and have further ASPD reduction from 'Erosion'; All enemies have greatly increased base stats and deal increased Corrosion Damage",
+              "description": "The investigation goes well with the presence of old comrades. It seems the former superintendent and elites of the L.G.D. are unstoppable. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion'\n<@lv.rem>Condition:</>All allied units receive increased Corrosion and have further ASPD reduction from 'Erosion'; All enemies have greatly increased base stats and deal increased Corrosion",
               "hasChallenge": true
             },
             {
@@ -3860,7 +3860,7 @@
               "operation": "CM DH-S-4",
               "levelId": "activities/act12side/level_act12side_sub-1-4",
               "name": "Final Investigation",
-              "description": "The investigation goes well with the presence of old comrades. It seems the former superintendent and elites of the L.G.D. are unstoppable. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion'\n<@lv.rem>Condition:</>All allied units receive increased Corrosion damage and have further ASPD reduction from 'Erosion'; All enemies have greatly increased base stats and deal increased Corrosion Damage",
+              "description": "The investigation goes well with the presence of old comrades. It seems the former superintendent and elites of the L.G.D. are unstoppable. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion'\n<@lv.rem>Condition:</>All allied units receive increased Corrosion and have further ASPD reduction from 'Erosion'; All enemies have greatly increased base stats and deal increased Corrosion",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nDockworker Leaders have increased HP and do not lose additional HP from 'Erosion'"
             },
@@ -3869,7 +3869,7 @@
               "operation": "DH-MO-1",
               "levelId": "activities/act12side/level_act12side_mo01",
               "name": "Dossoles Northern Suburbs",
-              "description": "Far away from the hustle and bustle of Dossoles' city center, the diehards among Pancho's underlings ensconce themselves here. Please look for a way to defeat them amidst the ever changing tide. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+              "description": "Far away from the hustle and bustle of Dossoles' city center, the diehards among Pancho's underlings ensconce themselves here. Please look for a way to defeat them amidst the ever changing tide. \n<@lv.item><High Tide></>Unable to deploy on flooded tiles. Allied units and enemies in the water will suffer from 'Erosion': Allied units have reduced ASPD, continually receive Corrosion and receive additional Corrosion when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
               "hasChallenge": false
             }
           ]
@@ -5978,7 +5978,7 @@
               "operation": "TC-7",
               "levelId": "activities/act11mini/level_act11mini_07",
               "name": "Ormai",
-              "description": "It's not like these old friends of yours were just stagnating. At this point, the only choice is to get stronger! Tougher!\n<@lv.rem><Command Terminal></> Depletes 1 HP Seal when destroyed.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
+              "description": "It's not like these old friends of yours were just stagnating. At this point, the only choice is to get stronger! Tougher!\n<@lv.rem><Command Terminal></> Depletes 1 Life Point when destroyed.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
               "hasChallenge": true
             },
             {
@@ -5986,7 +5986,7 @@
               "operation": "CM TC-7",
               "levelId": "activities/act11mini/level_act11mini_07",
               "name": "Ormai",
-              "description": "It's not like these old friends of yours were just stagnating. At this point, the only choice is to get stronger! Tougher!\n<@lv.rem><Command Terminal></> Depletes 1 HP Seal when destroyed.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
+              "description": "It's not like these old friends of yours were just stagnating. At this point, the only choice is to get stronger! Tougher!\n<@lv.rem><Command Terminal></> Depletes 1 Life Point when destroyed.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nEnemies have significantly increased HP."
             },
@@ -6619,7 +6619,7 @@
               "operation": "BW-4",
               "levelId": "activities/act13mini/level_act13mini_04",
               "name": "Neon Nights",
-              "description": "Unrest roils in the shadows of the neon-lit nights.\n<@lv.rem> <Command Terminal></>Depletes 1 Life Points when destroyed.",
+              "description": "Unrest roils in the shadows of the neon-lit nights.\n<@lv.rem> <Command Terminal></>Depletes 1 Life Point when destroyed.",
               "hasChallenge": true
             },
             {
@@ -6627,7 +6627,7 @@
               "operation": "CM BW-4",
               "levelId": "activities/act13mini/level_act13mini_04",
               "name": "Neon Nights",
-              "description": "Unrest roils in the shadows of the neon-lit nights.\n<@lv.rem> <Command Terminal></>Depletes 1 Life Points when destroyed.",
+              "description": "Unrest roils in the shadows of the neon-lit nights.\n<@lv.rem> <Command Terminal></>Depletes 1 Life Point when destroyed.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition: </>\nBullies are invisible."
             },
@@ -7381,7 +7381,7 @@
               "name": "Unto Death",
               "description": "The fire of hatred has been lit by the arrogant. It will not die easily.\n<@lv.item><Mire> </>Gradually reduces the ASPD of Operators within, and the ASPD and Movement Speed of enemies within.\n<@lv.item><Reed Beds> </>Operators within gain Camouflage.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition: </>\nBurning Reed Beds deal more Arts and Burn damage."
+              "challenge": "<@lv.fs>Condition: </>\nBurning Reed Beds deal more Arts and Burn."
             },
             {
               "id": "FC-EX-6",
@@ -9133,7 +9133,7 @@
               "operation": "TN-2",
               "levelId": "activities/act3bossrush/level_bossrush3_ex02",
               "name": "Blood and Terror Spectacular Trial",
-              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<'The Last Kheshig', Tola> has increased ATK and HP\n\n<The Blood Knight Dikaiopolis> summons more <Bloodblades>, and <Bloodblades> have increased ATK and HP\n\n<'Damazti Cluster'> inflicts more Corrosion damage with its attacks and has +1 Isomorphic Fragment",
+              "description": "<color=#EC1F1FFF>Condition:</color>\n\n<'The Last Kheshig', Tola> has increased ATK and HP\n\n<The Blood Knight Dikaiopolis> summons more <Bloodblades>, and <Bloodblades> have increased ATK and HP\n\n<'Damazti Cluster'> inflicts more Corrosion with its attacks and has +1 Isomorphic Fragment",
               "hasChallenge": false
             },
             {
@@ -11000,7 +11000,7 @@
               "operation": "BP-TR-1",
               "levelId": "activities/act34side/level_act34side_tr01",
               "name": "Beacon Deployment Drill",
-              "description": "Learn how the Seaborn form carapaces and how to operate beacons.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "Learn how the Seaborn form carapaces and how to operate beacons.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": false
             },
             {
@@ -11016,7 +11016,7 @@
               "operation": "BP-3",
               "levelId": "activities/act34side/level_act34side_03",
               "name": "Like the Marine Snow",
-              "description": "When the blood of our brethren and the flesh of the Seaborn become mixed in the water, only our will keeps us human.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "When the blood of our brethren and the flesh of the Seaborn become mixed in the water, only our will keeps us human.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": false
             },
             {
@@ -11024,7 +11024,7 @@
               "operation": "BP-4",
               "levelId": "activities/act34side/level_act34side_04",
               "name": "Price and Sacrifice",
-              "description": "A life given willingly is a sacrifice; a live given unwillingly is a price. Both are burdens to bear for the one who ordered them.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "A life given willingly is a sacrifice; a live given unwillingly is a price. Both are burdens to bear for the one who ordered them.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": false
             },
             {
@@ -11048,7 +11048,7 @@
               "operation": "BP-7",
               "levelId": "activities/act34side/level_act34side_07",
               "name": "From History",
-              "description": "And so the forefather passed into history, from whence came the Seaborn, and for the first time his teachings were understood.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "And so the forefather passed into history, from whence came the Seaborn, and for the first time his teachings were understood.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": false
             },
             {
@@ -11056,7 +11056,7 @@
               "operation": "BP-8",
               "levelId": "activities/act34side/level_act34side_08",
               "name": "What is Survival?",
-              "description": "Is it the survival of life, or of civilization?\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "Is it the survival of life, or of civilization?\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": false
             },
             {
@@ -11082,14 +11082,14 @@
               "name": "Pillar of Shame - Meaningless Conflict",
               "description": "Every civilization must walk the path of chaos and conflict, no matter how advanced. The Ægir have simply realized the futility of conflict, while remembering the price.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear."
+              "challenge": "<@lv.fs>Condition: </>\nMore enemies will appear."
             },
             {
               "id": "BP-EX-2",
               "operation": "BP-EX-2",
               "levelId": "activities/act34side/level_act34side_ex02",
               "name": "Memorial Altar - Pax Ægir",
-              "description": "The Ægir have come to a consensus that the wealth of resources they possess should be used for the growth of civilization, rather than its destruction.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Ægir have come to a consensus that the wealth of resources they possess should be used for the growth of civilization, rather than its destruction.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true
             },
             {
@@ -11097,7 +11097,7 @@
               "operation": "CM BP-EX-2",
               "levelId": "activities/act34side/level_act34side_ex02",
               "name": "Memorial Altar - Pax Ægir",
-              "description": "The Ægir have come to a consensus that the wealth of resources they possess should be used for the growth of civilization, rather than its destruction.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Ægir have come to a consensus that the wealth of resources they possess should be used for the growth of civilization, rather than its destruction.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nAllotropic Nurses have increased ASPD, Movement Speed, and HP."
             },
@@ -11123,7 +11123,7 @@
               "operation": "BP-EX-4",
               "levelId": "activities/act34side/level_act34side_ex04",
               "name": "Lava Bridge - Mantle's Pulse",
-              "description": "Every generation of Ægir keeps digging downwards in search of the relics of prehistory, and pumping out the planet's boiling blood from the mantle in the process.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "Every generation of Ægir keeps digging downwards in search of the relics of prehistory, and pumping out the planet's boiling blood from the mantle in the process.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true
             },
             {
@@ -11131,7 +11131,7 @@
               "operation": "CM BP-EX-4",
               "levelId": "activities/act34side/level_act34side_ex04",
               "name": "Lava Bridge - Mantle's Pulse",
-              "description": "Every generation of Ægir keeps digging downwards in search of the relics of prehistory, and pumping out the planet's boiling blood from the mantle in the process.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "Every generation of Ægir keeps digging downwards in search of the relics of prehistory, and pumping out the planet's boiling blood from the mantle in the process.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear."
             },
@@ -11157,7 +11157,7 @@
               "operation": "BP-EX-6",
               "levelId": "activities/act34side/level_act34side_ex06",
               "name": "Survey Station - Gate of Conundrum",
-              "description": "The Ægir have never stopped sending probes onto land, but what they found was not resources, but puzzles waiting to be solved on this planet.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Ægir have never stopped sending probes onto land, but what they found was not resources, but puzzles waiting to be solved on this planet.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true
             },
             {
@@ -11165,7 +11165,7 @@
               "operation": "CM BP-EX-6",
               "levelId": "activities/act34side/level_act34side_ex06",
               "name": "Survey Station - Gate of Conundrum",
-              "description": "The Ægir have never stopped sending probes onto land, but what they found was not resources, but puzzles waiting to be solved on this planet.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Ægir have never stopped sending probes onto land, but what they found was not resources, but puzzles waiting to be solved on this planet.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\n'The Cursed' has increased ATK and HP."
             },
@@ -11174,7 +11174,7 @@
               "operation": "BP-EX-7",
               "levelId": "activities/act34side/level_act34side_ex07",
               "name": "Gene Bank - Hall of Everything",
-              "description": "The Seaborn are the second species to engage in the modification of other organisms after humankind. Perhaps 'ecological protection' is just a battle over the definition of life.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Seaborn are the second species to engage in the modification of other organisms after humankind. Perhaps 'ecological protection' is just a battle over the definition of life.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true
             },
             {
@@ -11182,7 +11182,7 @@
               "operation": "CM BP-EX-7",
               "levelId": "activities/act34side/level_act34side_ex07",
               "name": "Gene Bank - Hall of Everything",
-              "description": "The Seaborn are the second species to engage in the modification of other organisms after humankind. Perhaps 'ecological protection' is just a battle over the definition of life.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+              "description": "The Seaborn are the second species to engage in the modification of other organisms after humankind. Perhaps 'ecological protection' is just a battle over the definition of life.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn when activated.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\n1 tile on the battlefield is no longer available for deployment."
             },
@@ -11581,7 +11581,7 @@
               "name": "The Uncrowned King and the Pilgrim",
               "description": "The wind refuses to blow where the boat wants to go.\n<@lv.item><Pure Crystal> </>Connects surrounding Crystal areas.\n<@lv.item><Decrystallizing Totem> </>Removes all Crystal in a line.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition:</>\nSpecialist Operators cannot be deployed"
+              "challenge": "<@lv.fs>Condition: </>\nSpecialist Operators cannot be deployed"
             },
             {
               "id": "AS-S-1",
@@ -12159,7 +12159,7 @@
               "name": "Frequency Jamming",
               "description": "Disrupt the enemy's communications and reach out to all those who would stand with us.\n<@lv.item><Munitions Factory Command Center></> When skill is activated, begins manufacturing equipment and becomes the endpoint for all freight cars; once SP gauge is full, deploys random equipment on the surrounding 8 Low Ground and deployable High Ground tiles",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>Condition: </>\n'Millscar' Elite Mercenaries and Heavy Transport Vessels have increased HP."
+              "challenge": "<@lv.fs>Condition: </>\n'Millscar' Elite Mercenaries and Heavy Transport Vessels have increased Max HP."
             },
             {
               "id": "GO-EX-5",
@@ -13281,7 +13281,7 @@
               "operation": "EA-4",
               "levelId": "activities/act41side/level_act41side_04",
               "name": "That Old Dance",
-              "description": "'You satisfy yourself with remorse and yearning, yet ask for nothing more?'\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "'You satisfy yourself with remorse and yearning, yet ask for nothing more?'\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": false
             },
             {
@@ -13313,7 +13313,7 @@
               "operation": "EA-8",
               "levelId": "activities/act41side/level_act41side_08",
               "name": "At the End of the Night",
-              "description": "Await the deluge, and when the sun rises, we shall have surpassed both life and death.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "Await the deluge, and when the sun rises, we shall have surpassed both life and death.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": false
             },
             {
@@ -13321,7 +13321,7 @@
               "operation": "EA-EX-1",
               "levelId": "activities/act41side/level_act41side_ex01",
               "name": "The Other Side of the Curtain",
-              "description": "Legend has it that within the thin fog of a Samhain night, one can spot phantoms of the departed, and hear their voices. Of course, this is but a folk tale.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "Legend has it that within the thin fog of a Samhain night, one can spot phantoms of the departed, and hear their voices. Of course, this is but a folk tale.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": true
             },
             {
@@ -13329,7 +13329,7 @@
               "operation": "CM EA-EX-1",
               "levelId": "activities/act41side/level_act41side_ex01",
               "name": "The Other Side of the Curtain",
-              "description": "Legend has it that within the thin fog of a Samhain night, one can spot phantoms of the departed, and hear their voices. Of course, this is but a folk tale.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "Legend has it that within the thin fog of a Samhain night, one can spot phantoms of the departed, and hear their voices. Of course, this is but a folk tale.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units.\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\n<Empty Shells> will no longer appear on the battlefield"
             },
@@ -13389,7 +13389,7 @@
               "operation": "EA-EX-5",
               "levelId": "activities/act41side/level_act41side_ex05",
               "name": "May Tree",
-              "description": "Amber flowers bloom one after another on trees on Bealtaine, reaching full bloom near the festival's end. Candle flame is fire, as are flowers.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "Amber flowers bloom one after another on trees on Bealtaine, reaching full bloom near the festival's end. Candle flame is fire, as are flowers.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": true
             },
             {
@@ -13397,7 +13397,7 @@
               "operation": "CM EA-EX-5",
               "levelId": "activities/act41side/level_act41side_ex05",
               "name": "May Tree",
-              "description": "Amber flowers bloom one after another on trees on Bealtaine, reaching full bloom near the festival's end. Candle flame is fire, as are flowers.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn damage.",
+              "description": "Amber flowers bloom one after another on trees on Bealtaine, reaching full bloom near the festival's end. Candle flame is fire, as are flowers.\n<@lv.item><Meadows></> Can grow into <Thickets>, and units deployed on them take continuous Arts damage.\n<@lv.item><Thicket></> Cannot be attacked, and blocks the vision of your units\n<@lv.item><Empty Shell></> When an Operator is deployed on an <Empty Shell>, another <Empty Shell> on the field will copy that Operator but faced in the opposite direction and deal Burn.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\n4 more <Shield and Walls> appear on the battlefield"
             },
@@ -13786,7 +13786,7 @@
               "operation": "VEC-02",
               "levelId": "activities/act1break/level_act1break_02",
               "name": "Traffic Interception",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -13794,7 +13794,7 @@
               "operation": "VEC-03",
               "levelId": "activities/act1break/level_act1break_03",
               "name": "Roaring Tides",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -13802,7 +13802,7 @@
               "operation": "VEC-04",
               "levelId": "activities/act1break/level_act1break_04",
               "name": "Mechanical Errors",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion",
               "hasChallenge": false
             },
             {
@@ -13842,7 +13842,7 @@
               "operation": "VEC-09",
               "levelId": "activities/act1break/level_act1break_09",
               "name": "Sandcastle Sorrows",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -13858,7 +13858,7 @@
               "operation": "VEC-11",
               "levelId": "activities/act1break/level_act1break_11",
               "name": "Blurred Seasons",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -13866,7 +13866,7 @@
               "operation": "VEC-12",
               "levelId": "activities/act1break/level_act1break_12",
               "name": "Existential Argumentation",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\n<@vecbreakv2.highlight><Lava Crack></> Sprays out lava periodically, dealing massive damage to friendly units on the surrounding 8 tiles and melting down Roadblocks\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -13882,7 +13882,7 @@
               "operation": "VEC-B",
               "levelId": "activities/act1break/level_act1break_14",
               "name": "Rumbling Wheels",
-              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion Damage\nIncreases some enemies' base stats",
+              "description": "<@vecbreakv2.highlight><High Tide></> Unable to deploy on flooded tiles. Allied units in the water have reduced ASPD and continually receive Corrosion\nIncreases some enemies' base stats",
               "hasChallenge": false
             },
             {
@@ -14033,979 +14033,979 @@
         },
         {
           "id": "act43side",
-          "episode": "红丝绒",
+          "episode": "Act or Die",
           "childNodes": [
             {
               "id": "AD-TR-1",
               "operation": "AD-TR-1",
               "levelId": "activities/act43side/level_act43side_tr01",
-              "name": "幕间曲",
-              "description": "入戏者们，请尽情表演，如痴如醉！\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Entr'acte",
+              "description": "Those joining the show, please, act to your heart's content! Enrapture yourself in drama!\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-1",
               "operation": "AD-1",
               "levelId": "activities/act43side/level_act43side_01",
-              "name": "彩排日",
-              "description": "如心中情绪一般沉重的匕首，从未褪色的回忆，倒下的尸体......都是无声的邀请。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Rehearsal Day",
+              "description": "A dagger as heavy as your heart, memories that shall never fade, a fallen corpse... These are all silent invitations.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": false
             },
             {
               "id": "AD-2",
               "operation": "AD-2",
               "levelId": "activities/act43side/level_act43side_02",
-              "name": "排演一出悲剧",
-              "description": "看，踏着死亡的节拍，他们开始一步步地走向已经敲定的、最终的结局。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Rehearsing a Tragedy",
+              "description": "Look. Stepping to the beat of death, they begin walking towards their predestined endings.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-3",
               "operation": "AD-3",
               "levelId": "activities/act43side/level_act43side_03",
-              "name": "戏剧性",
-              "description": "挑选合适的困境，欣赏角色沉溺其中，为其辗转反侧，为其呕心沥血......这难道不令人着迷吗？\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Dramatique",
+              "description": "Select a suitable crisis and admire the characters as they wallow within. Their restlessness, their desperate struggles... How could you not be fascinated by it?\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": false
             },
             {
               "id": "AD-4",
               "operation": "AD-4",
               "levelId": "activities/act43side/level_act43side_04",
-              "name": "一个荒唐的早晨",
-              "description": "“荒唐”？不，不要急着现在就给出评价。这出剧目仍未完成，死亡会赋予角色们新生。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "An Absurd Morning",
+              "description": "'Absurd'? No, do not give your evaluation so hastily. This play is yet incomplete. Death shall grant the characters new life.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": false
             },
             {
               "id": "AD-5",
               "operation": "AD-5",
               "levelId": "activities/act43side/level_act43side_05",
-              "name": "终将重逢",
-              "description": "我最青睐的主演......你曾离开，但我们终会重逢。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Promises of Reunion",
+              "description": "My favorite lead... You once left, but we shall be reunited once more.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-6",
               "operation": "AD-6",
               "levelId": "activities/act43side/level_act43side_06",
-              "name": "倒带独白",
-              "description": "她在起舞。无论结局为何，她的灵魂已体悟过千百种人生。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Rewind the Monologue",
+              "description": "She dances. Regardless of her ultimate fate, her soul has experienced a hundred thousand lives.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-7",
               "operation": "AD-7",
               "levelId": "activities/act43side/level_act43side_07",
-              "name": "“血钻”的歌声",
-              "description": "我已迫不及待。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Blood Diamond's Song",
+              "description": "I cannot hold back any longer.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-8",
               "operation": "AD-8",
               "levelId": "activities/act43side/level_act43side_08",
-              "name": "登台致礼",
-              "description": "卢西恩，我的“血钻”，我的孩子——与我登台，与我谢幕，与我共赴新生。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Take a Bow",
+              "description": "Lucian, my Blood Diamond, my child... Take the stage with me, bow for the curtain call, and let us live a new life, together.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": false
             },
             {
               "id": "AD-EX-1",
               "operation": "AD-EX-1",
               "levelId": "activities/act43side/level_act43side_ex01",
-              "name": "灰尘道具间",
-              "description": "劳累了一整天的工作人员会在这里蹲下，拌着遥不可及的梦想，咀嚼自己早已冰凉的晚餐。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Dusty Prop Room",
+              "description": "After a long day's work, worn-out crew members squat here, ruminating over dreams far out of reach as they chew on their long-cold dinners.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-1CM",
-              "operation": "突袭AD-EX-1",
+              "operation": "CM AD-EX-1",
               "levelId": "activities/act43side/level_act43side_ex01",
-              "name": "灰尘道具间",
-              "description": "劳累了一整天的工作人员会在这里蹲下，拌着遥不可及的梦想，咀嚼自己早已冰凉的晚餐。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Dusty Prop Room",
+              "description": "After a long day's work, worn-out crew members squat here, ruminating over dreams far out of reach as they chew on their long-cold dinners.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n部署费用的回复速度降低"
+              "challenge": "<@lv.fs>Condition: </>\nDP regeneration rate is decreased."
             },
             {
               "id": "AD-EX-2",
               "operation": "AD-EX-2",
               "levelId": "activities/act43side/level_act43side_ex02",
-              "name": "演员化妆间",
-              "description": "从这里走出去的演员，只会展现出他们最好的那一面。真实与虚假早已不重要，重要的只是吸引观众的目光。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Actors' Makeup Room",
+              "description": "The performers who leave this place show only their best sides. Truth and lies don't matter anymore. The only thing that matters is captivating the audience.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-2CM",
-              "operation": "突袭AD-EX-2",
+              "operation": "CM AD-EX-2",
               "levelId": "activities/act43side/level_act43side_ex02",
-              "name": "演员化妆间",
-              "description": "从这里走出去的演员，只会展现出他们最好的那一面。真实与虚假早已不重要，重要的只是吸引观众的目光。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Actors' Makeup Room",
+              "description": "The performers who leave this place show only their best sides. Truth and lies don't matter anymore. The only thing that matters is captivating the audience.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n特种干员的部署费用提升至1.5倍"
+              "challenge": "<@lv.fs>Condition: </>\nThe DP Cost of Specialist Operators is increased by x1.5"
             },
             {
               "id": "AD-EX-3",
               "operation": "AD-EX-3",
               "levelId": "activities/act43side/level_act43side_ex03",
-              "name": "摄影棚场区",
-              "description": "主角与反派在镜头前激烈地争斗，莫伊拉被工作人员们挤到一角，踮起脚欣喜地发现，自己制作的道具有了一秒钟的镜头。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Studio Area",
+              "description": "The lead and the villain are locked in a vicious struggle in front of the lens. Moira is shoved into a corner by the rest of the crew. Standing on tiptoes, she is happy to see the props she made get a second of screentime.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-3CM",
-              "operation": "突袭AD-EX-3",
+              "operation": "CM AD-EX-3",
               "levelId": "activities/act43side/level_act43side_ex03",
-              "name": "摄影棚场区",
-              "description": "主角与反派在镜头前激烈地争斗，莫伊拉被工作人员们挤到一角，踮起脚欣喜地发现，自己制作的道具有了一秒钟的镜头。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Studio Area",
+              "description": "The lead and the villain are locked in a vicious struggle in front of the lens. Moira is shoved into a corner by the rest of the crew. Standing on tiptoes, she is happy to see the props she made get a second of screentime.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的顺从内心的设计师"
+              "challenge": "<@lv.fs>Condition: </>\nMore Anguished Designers will appear"
             },
             {
               "id": "AD-EX-4",
               "operation": "AD-EX-4",
               "levelId": "activities/act43side/level_act43side_ex04",
-              "name": "外景拍摄区",
-              "description": "米兰妮有时会想，外景地里散落一地的汗水，它们的结晶比领奖台上的聚光灯更加耀眼。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Outdoor Shooting Area",
+              "description": "At times, Melanie thinks the sweat studding the ground of the outdoor shooting area is more dazzling than the spotlights of an award ceremony.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-4CM",
-              "operation": "突袭AD-EX-4",
+              "operation": "CM AD-EX-4",
               "levelId": "activities/act43side/level_act43side_ex04",
-              "name": "外景拍摄区",
-              "description": "米兰妮有时会想，外景地里散落一地的汗水，它们的结晶比领奖台上的聚光灯更加耀眼。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Outdoor Shooting Area",
+              "description": "At times, Melanie thinks the sweat studding the ground of the outdoor shooting area is more dazzling than the spotlights of an award ceremony.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的沉浸艺术的群演，且沉浸艺术的群演获得隐匿"
+              "challenge": "<@lv.fs>Condition: </>\nMore Artistic Extras will appear, and Artistic Extras are invisible"
             },
             {
               "id": "AD-EX-5",
               "operation": "AD-EX-5",
               "levelId": "activities/act43side/level_act43side_ex05",
-              "name": "电影放映房",
-              "description": "也许是少有的，众人会不分彼此一同端坐凝神观看电影的地方。平日里双眼会被其他污浊侵占，但此时眼中的光很难作假。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Film Screening Room",
+              "description": "It's rare to have a place where everyone gathers to watch a movie together with rapt attention, looking past whatever separates them outside this room. Most days, murky thoughts cloud their eyes, but the way their eyes shine now is hard to fake.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-5CM",
-              "operation": "突袭AD-EX-5",
+              "operation": "CM AD-EX-5",
               "levelId": "activities/act43side/level_act43side_ex05",
-              "name": "电影放映房",
-              "description": "也许是少有的，众人会不分彼此一同端坐凝神观看电影的地方。平日里双眼会被其他污浊侵占，但此时眼中的光很难作假。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Film Screening Room",
+              "description": "It's rare to have a place where everyone gathers to watch a movie together with rapt attention, looking past whatever separates them outside this room. Most days, murky thoughts cloud their eyes, but the way their eyes shine now is hard to fake.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n战场上额外出现<打光道具>"
+              "challenge": "<@lv.fs>Condition: </>\nAdditional <Lighting Props> will appear on the battlefield"
             },
             {
               "id": "AD-EX-6",
               "operation": "AD-EX-6",
               "levelId": "activities/act43side/level_act43side_ex06",
-              "name": "自助移动酒吧",
-              "description": "令人感到迷狂与欢愉的液体下肚，在这个充满着梦想与黑暗的地方，也许不用旁人拨弄，人们也会轻而易举地下坠，坠入无尽深渊。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Mobile Self-Service Bar",
+              "description": "Here, in this place of dreams and darkness, the liquid that brings delusion and joy is consumed. Even without meddlesome onlookers, the people here will easily fall, fall into an endless abyss.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-6CM",
-              "operation": "突袭AD-EX-6",
+              "operation": "CM AD-EX-6",
               "levelId": "activities/act43side/level_act43side_ex06",
-              "name": "自助移动酒吧",
-              "description": "令人感到迷狂与欢愉的液体下肚，在这个充满着梦想与黑暗的地方，也许不用旁人拨弄，人们也会轻而易举地下坠，坠入无尽深渊。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "Mobile Self-Service Bar",
+              "description": "Here, in this place of dreams and darkness, the liquid that brings delusion and joy is consumed. Even without meddlesome onlookers, the people here will easily fall, fall into an endless abyss.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<打光道具>的生命值提升"
+              "challenge": "<@lv.fs>Condition: </>\n<Lighting Props> have increased Max HP"
             },
             {
               "id": "AD-EX-7",
               "operation": "AD-EX-7",
               "levelId": "activities/act43side/level_act43side_ex07",
-              "name": "群演集合区",
-              "description": "这里从来不缺乏下一个渺小的梦想。一点微小的“鼓励”，足以让一个灵魂对凭空捏造的悲喜，生出无穷的渴望。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Extras Gathering Area",
+              "description": "There is never a lack of tiny dreams lining up to take the stage here. A little bit of 'encouragement' is all it takes for a soul to develop an endless longing for joy and sorrow based on baseless lies.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-7CM",
-              "operation": "突袭AD-EX-7",
+              "operation": "CM AD-EX-7",
               "levelId": "activities/act43side/level_act43side_ex07",
-              "name": "群演集合区",
-              "description": "这里从来不缺乏下一个渺小的梦想。一点微小的“鼓励”，足以让一个灵魂对凭空捏造的悲喜，生出无穷的渴望。\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。",
+              "name": "Extras Gathering Area",
+              "description": "There is never a lack of tiny dreams lining up to take the stage here. A little bit of 'encouragement' is all it takes for a soul to develop an endless longing for joy and sorrow based on baseless lies.\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上有1个位置无法部署，且意识自由的假人移动速度提升"
+              "challenge": "<@lv.fs>Condition: </>\n1 tile on the battlefield is no longer available for deployment, and Sentient Mannequins have increased Movement Speed"
             },
             {
               "id": "AD-EX-8",
               "operation": "AD-EX-8",
               "levelId": "activities/act43side/level_act43side_ex08",
-              "name": "舞台与无尽的阶梯",
-              "description": "舞台永远可望而不可即，即使无尽的追随者们都已经倒下，它也会将那混杂着美梦的一切，传播，传播......\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "The Stage and the Endless Stairs",
+              "description": "The stage is eternally just out of reach. Even though its countless adherents have collapsed, it will still take everything entangled in those beautiful dreams, and spread, and spread...\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true
             },
             {
               "id": "AD-EX-8CM",
-              "operation": "突袭AD-EX-8",
+              "operation": "CM AD-EX-8",
               "levelId": "activities/act43side/level_act43side_ex08",
-              "name": "舞台与无尽的阶梯",
-              "description": "舞台永远可望而不可即，即使无尽的追随者们都已经倒下，它也会将那混杂着美梦的一切，传播，传播......\\n<@lv.item><摄影机></>干员面向摄影机部署在其周围四格，即可沿干员面向的方向照射出摄影区域。\\n<@lv.item><打光道具></>会遮挡摄影区域，需要10次伤害拆除。",
+              "name": "The Stage and the Endless Stairs",
+              "description": "The stage is eternally just out of reach. Even though its countless adherents have collapsed, it will still take everything entangled in those beautiful dreams, and spread, and spread...\n<@lv.item><Camera> </>Operators deployed on a Camera's four adjacent tiles and facing it will create a Filming Area in the direction the Operator is facing.\n<@lv.item><Lighting Prop> </>Blocks Filming Area and requires 10 instances of damage to tear down.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n部分敌人有所不同"
+              "challenge": "<@lv.fs>Condition:</>\nDifferent enemies will appear."
             }
           ]
         },
         {
           "id": "act5bossrush",
-          "episode": "引航者试炼#5",
+          "episode": "Trials for Navigator#5",
           "childNodes": [
             {
               "id": "act5bossrushTN-1",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_01",
-              "name": "严寒骤血",
-              "description": "刺骨的风雪夹道，为他献上喝彩。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退",
+              "name": "Cold and Blood",
+              "description": "Chilling wind and snow cheer him along his path.\n\n<color=#FFA300><Danger Zone> </color>Operators in the Danger Zone retreat at the end of the wave.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-2",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_02",
-              "name": "无声破裂",
-              "description": "失去声音者抗拒一个结局犹如抗拒死亡本身，但那萦绕不散的歌声依然将她拽向生命的浅滩。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "name": "Silent Crack",
+              "description": "The voiceless trying to resist the ending is like trying to resist death itself, but the lingering song continues to draw her towards the shoals of life.\n\n<color=#FFA300><Danger Zone> </color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program> </color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-3",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_03",
-              "name": "幕间重影",
-              "description": "无人报幕，无人攻讦，无人知晓。\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "name": "Interlude of Shadows",
+              "description": "There is no announcement, no criticism, no audience.\n\n<color=#FFA300><Danger Zone> </color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program> </color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-4",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_04",
-              "name": "沸海遮日",
-              "description": "那从无穷的海中升起的巨影遮尽了光亮，在它背后熊熊燃烧的，究竟是太阳还是海洋？\\n\\n<color=#FFA300><危险区域></color>危险区域内的干员会在波次转换时撤退\\n\\n<color=#FFA300><实体程式></color>已完成波次再次挑战时可以激活，激活后本波次内我方干员获得大幅强化",
+              "name": "Ocean Rising",
+              "description": "The vast silhouette rising from the endless oceans has blocked out the light. Is it the sun burning bright behind it, or the ocean itself?\n\n<color=#FFA300><Danger Zone> </color>Operators in the Danger Zone retreat at the end of the wave.\n\n<color=#FFA300><Entitative Program> </color>Available when retrying a wave that you have completed. Greatly strengthens your Operators for the wave.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-1EX",
               "operation": "TN-1",
               "levelId": "activities/act5bossrush/level_bossrush5_ex01",
-              "name": "严寒骤血 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<“霜牡”“雪牝”>在彼此死亡后的攻击速度额外提升\\n\\n<卢西恩，“猩红血钻”>未被阻挡时闪避物理与法术攻击的几率提升",
+              "name": "Cold and Blood Spectacular Trial",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<'Frost Buck' and 'Snow Doe'> gain increased ASPD when the other dies.\n\n<Lucian, 'Blood Diamond'> has an increased chance to dodge Physical and Arts attacks when unblocked.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-2EX",
               "operation": "TN-2",
               "levelId": "activities/act5bossrush/level_bossrush5_ex02",
-              "name": "无声破裂 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<延命塑路者>塑路者分形获得和本体相同的防御力和法术抗性\\n\\n<接潮主教和接潮斥亡体>接潮斥亡体复活速度提升\\n\\n<“偏执泡影”>攻击力和最大生命值提升，防御力大幅提升",
+              "name": "Silent Crack Spectacular Trial",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Lingering Pathshaper> Pathshaper Fractals gain the same DEF and RES as the original.\n\n<Tidelinked Bishop and Tidelinked Immortal> Tidelinked Immortal revives quicker.\n\n<'Paranoia Illusion'> has increased ATK and Max HP, and greatly increased DEF.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-3EX",
               "operation": "TN-3",
               "levelId": "activities/act5bossrush/level_bossrush5_ex03",
-              "name": "幕间重影 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伤心的大锁>最大生命值大幅提升\\n\\n<“剧团喉舌”>攻击范围增加\\n\\n<“剧作家”>释放法术使干员离场后的再部署时间大幅延长",
+              "name": "Interlude of Shadows Spectacular Trial",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Big Sad Lock> has greatly increased Max HP.\n\n<'Troupe Mouthpiece'> has increased Attack Range.\n\n<'Playwright'> casts Arts to greatly increase the Redeployment Time of any Operators removed from the battlefield.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-4EX",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_ex04",
-              "name": "沸海遮日 恢弘试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<最后的骑士>防御力和法术抗性大幅提升\\n\\n<伊莎玛拉，腐化之心><伊莎玛拉之泪>的攻击力和召唤频率提升\\n\\n<伊祖米克，生态泉源>出现更多<伊祖米克的子代>\\n\\n所有领袖敌人最大生命值提升",
+              "name": "Ocean Rising Spectacular Trial",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<The Last Knight> has greatly increased DEF and RES.\n\n<Ishar'mla, Heart of Corruption> <Ishar'mla's Tears> have increased ATK and summon frequency.\n\n<Izumik, Source of Ecology> spawns more <Izumik's Offspring>.\n\nAll leader enemies have increased Max HP.",
               "hasChallenge": false
             },
             {
               "id": "act5bossrushTN-4FIN",
               "operation": "TN-4",
               "levelId": "activities/act5bossrush/level_bossrush5_fin04",
-              "name": "沸海遮日 最终试炼",
-              "description": "<color=#EC1F1FFF>附加条件：</color>\\n\\n<伊莎玛拉，腐化之心>攻击力大幅上升的生命值阈值提升\\n\\n<伊祖米克，生态泉源>最大生命值、攻击力、防御力和法术抗性提升，<伊祖米克的子代>的防御力和法术抗性提升\\n\\n所有领袖敌人最大生命值提升，所有敌人的攻击力和最大生命值进一步提升",
+              "name": "Ocean Rising Ultimate Trial",
+              "description": "<color=#EC1F1FFF>Condition: </color>\n\n<Ishar'mla, Heart of Corruption> has an increased HP threshold for gaining greatly increased ATK.\n\n<Izumik, Source of Ecology> has increased Max HP, ATK, DEF, and RES, <Izumik's Offspring> has increased DEF and RES.\n\nAll leader enemies have increased Max HP, all enemies have further increased ATK and Max HP.",
               "hasChallenge": false
             }
           ]
         },
         {
           "id": "act19mini",
-          "episode": "镜中集",
+          "episode": "Fantasy in the Mirage",
           "childNodes": [
             {
               "id": "FM-1",
               "operation": "FM-1",
               "levelId": "activities/act19mini/level_act19mini_01",
-              "name": "求同则塞",
-              "description": "路朝八方，世间人物秉性本来不相同。何必强求事事如一，反倒失了乐趣？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性",
+              "name": "Seek Unity and Lose Routes",
+              "description": "Roads lead in every direction, and the natures of all things are different. Why force unity and lose the spice of life?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it gain a Hui-Ming Attribute.",
               "hasChallenge": true
             },
             {
               "id": "FM-1CM",
-              "operation": "突袭FM-1",
+              "operation": "CM FM-1",
               "levelId": "activities/act19mini/level_act19mini_01",
-              "name": "求同则塞",
-              "description": "路朝八方，世间人物秉性本来不相同。何必强求事事如一，反倒失了乐趣？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性",
+              "name": "Seek Unity and Lose Routes",
+              "description": "Roads lead in every direction, and the natures of all things are different. Why force unity and lose the spice of life?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it gain a Hui-Ming Attribute.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear."
             },
             {
               "id": "FM-2",
               "operation": "FM-2",
               "levelId": "activities/act19mini/level_act19mini_02",
-              "name": "求异则悖",
-              "description": "海纳百川，世间总有不言自明的公理。何必强求特立独行，反倒失了本心？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><特种战术点></>置于其中的我方单位在推动或拉动敌方单位时力度增大",
+              "name": "Seek Difference and Lose the Way",
+              "description": "All rivers flow into the sea, and certain laws of the world need not be said. Why force difference, and lose sight of who you are?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it gain a Hui-Ming Attribute.\n<@lv.item><Mark of Dusk and Dawn></> On first passing through, enemies will change attribute.\n<@lv.item><Specialist Tactical Point></> Operators deployed on this tile gain additional shift strength.",
               "hasChallenge": true
             },
             {
               "id": "FM-2CM",
-              "operation": "突袭FM-2",
+              "operation": "CM FM-2",
               "levelId": "activities/act19mini/level_act19mini_02",
-              "name": "求异则悖",
-              "description": "海纳百川，世间总有不言自明的公理。何必强求特立独行，反倒失了本心？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><特种战术点></>置于其中的我方单位在推动或拉动敌方单位时力度增大",
+              "name": "Seek Difference and Lose the Way",
+              "description": "All rivers flow into the sea, and certain laws of the world need not be said. Why force difference, and lose sight of who you are?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it gain a Hui-Ming Attribute.\n<@lv.item><Mark of Dusk and Dawn></> On first passing through, enemies will change attribute.\n<@lv.item><Specialist Tactical Point></> Operators deployed on this tile gain additional shift strength.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n“得意”的移动速度大幅增加"
+              "challenge": "<@lv.fs>Condition:</>\n'Smarties' have greatly increased Movement Speed."
             },
             {
               "id": "FM-3",
               "operation": "FM-3",
               "levelId": "activities/act19mini/level_act19mini_03",
-              "name": "求遐则失",
-              "description": "步踏不过五尺，世间难有一蹴而至的山岳。何必强求运筹千里，反倒忘了眼前？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek the Distant and Lose the Near",
+              "description": "A mountain is not climbed in a single step. Why focus so much on the big picture that you lose sight of the present?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true
             },
             {
               "id": "FM-3CM",
-              "operation": "突袭FM-3",
+              "operation": "CM FM-3",
               "levelId": "activities/act19mini/level_act19mini_03",
-              "name": "求遐则失",
-              "description": "步踏不过五尺，世间难有一蹴而至的山岳。何必强求运筹千里，反倒忘了眼前？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek the Distant and Lose the Near",
+              "description": "A mountain is not climbed in a single step. Why focus so much on the big picture that you lose sight of the present?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n<田地>病害造成的伤害增加"
+              "challenge": "<@lv.fs>Condition:</>\n<Farmland> Blight damage increased."
             },
             {
               "id": "FM-4",
               "operation": "FM-4",
               "levelId": "activities/act19mini/level_act19mini_04",
-              "name": "求迩则乱",
-              "description": "举目可观千山，世间常有走不通的断头路。何必强求步步为营，反倒忘了初衷？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek a Path and Lose the Goal",
+              "description": "There are many dead ends, but mountains aplenty when you look up. Why focus so much on taking one step at a time that you forget your goal?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true
             },
             {
               "id": "FM-4CM",
-              "operation": "突袭FM-4",
+              "operation": "CM FM-4",
               "levelId": "activities/act19mini/level_act19mini_04",
-              "name": "求迩则乱",
-              "description": "举目可观千山，世间常有走不通的断头路。何必强求步步为营，反倒忘了初衷？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek a Path and Lose the Goal",
+              "description": "There are many dead ends, but mountains aplenty when you look up. Why focus so much on taking one step at a time that you forget your goal?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n田鼷和田鼷飞贼的生命值和移动速度大幅增加"
+              "challenge": "<@lv.fs>Condition:</>\nFieldmus and Fieldmus Flying Thief have greatly increased HP and Movement Speed."
             },
             {
               "id": "FM-5",
               "operation": "FM-5",
               "levelId": "activities/act19mini/level_act19mini_05",
-              "name": "求缓则迟",
-              "description": "笋一夕成竹，槿花一日而落。何必强求事缓则圆，反倒失了良机？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+              "name": "Seek Caution and Lose the Chance",
+              "description": "It takes only a single night for a bamboo shoot to grow tall, and a day for an althea flower to fall. Why insist that everything be slow and steady, and let opportunity slip away?\n<@lv.item><Yumen Catastrophe Defenses></> Units placed here deal more damage to ground units and take less damage from ground units\n<@lv.item><Defensive Barricade></> Blocks multiple enemies",
               "hasChallenge": true
             },
             {
               "id": "FM-5CM",
-              "operation": "突袭FM-5",
+              "operation": "CM FM-5",
               "levelId": "activities/act19mini/level_act19mini_05",
-              "name": "求缓则迟",
-              "description": "笋一夕成竹，槿花一日而落。何必强求事缓则圆，反倒失了良机？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+              "name": "Seek Caution and Lose the Chance",
+              "description": "It takes only a single night for a bamboo shoot to grow tall, and a day for an althea flower to fall. Why insist that everything be slow and steady, and let opportunity slip away?\n<@lv.item><Yumen Catastrophe Defenses></> Units placed here deal more damage to ground units and take less damage from ground units\n<@lv.item><Defensive Barricade></> Blocks multiple enemies",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n我方近战单位阻挡数-1，远程单位阻挡数+1"
+              "challenge": "<@lv.fs>Condition:</>\nMelee units have -1 Block, and ranged units have +1 Block."
             },
             {
               "id": "FM-6",
               "operation": "FM-6",
               "levelId": "activities/act19mini/level_act19mini_06",
-              "name": "求速则贪",
-              "description": "铁百炼成钢，大泽万年方涸。何必强求一挥而就，反倒欠了火候？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+              "name": "Seek Speed and Lose Quality",
+              "description": "Iron must be heated hundreds of times to become steel, and a great marsh takes thousands of years to dry. Why insist on reaching the target in a single leap, and compromise its quality?\n<@lv.item><Yumen Catastrophe Defenses></> Units placed here deal more damage to ground units and take less damage from ground units\n<@lv.item><Defensive Barricade></> Blocks multiple enemies",
               "hasChallenge": true
             },
             {
               "id": "FM-6CM",
-              "operation": "突袭FM-6",
+              "operation": "CM FM-6",
               "levelId": "activities/act19mini/level_act19mini_06",
-              "name": "求速则贪",
-              "description": "铁百炼成钢，大泽万年方涸。何必强求一挥而就，反倒欠了火候？\\n<@lv.item><玉门天灾工事></>置于其中的单位对地面单位造成的伤害提升，受到来自地面单位的伤害降低\\n<@lv.item><城防路障></>可以阻挡多名敌人",
+              "name": "Seek Speed and Lose Quality",
+              "description": "Iron must be heated hundreds of times to become steel, and a great marsh takes thousands of years to dry. Why insist on reaching the target in a single leap, and compromise its quality?\n<@lv.item><Yumen Catastrophe Defenses></> Units placed here deal more damage to ground units and take less damage from ground units\n<@lv.item><Defensive Barricade></> Blocks multiple enemies",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n可部署人数-2"
+              "challenge": "<@lv.fs>Condition:</>\nDeployment Limit -2."
             },
             {
               "id": "FM-7",
               "operation": "FM-7",
               "levelId": "activities/act19mini/level_act19mini_07",
-              "name": "求退则惘",
-              "description": "百草向阳，木争高而成林。何必强求与世无争，反倒亏了根本？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek Harmony and Lose Ground",
+              "description": "Trees form forests by competing with one another. Why insist on removing oneself from conflict, and end up losing what is most important?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true
             },
             {
               "id": "FM-7CM",
-              "operation": "突袭FM-7",
+              "operation": "CM FM-7",
               "levelId": "activities/act19mini/level_act19mini_07",
-              "name": "求退则惘",
-              "description": "百草向阳，木争高而成林。何必强求与世无争，反倒亏了根本？\\n<@lv.item><田地></>根据病害程度使部署其上的干员恢复生命/受到伤害\\n<@lv.item><阻流阀></>阻止病害传播\\n<@lv.item><泵站></>将身后一格的水泵至前方，净化/传播病害",
+              "name": "Seek Harmony and Lose Ground",
+              "description": "Trees form forests by competing with one another. Why insist on removing oneself from conflict, and end up losing what is most important?\n<@lv.item><Farmland></> Operators on Farmland recover HP or take damage based on Blight level.\n<@lv.item><Throttle Valve></> Stops Blight from spreading.\n<@lv.item><Pumping Station></> Pumps water from one tile behind toward the front, cleansing or spreading Blight.",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n不再持有<泵站>"
+              "challenge": "<@lv.fs>Condition:</>\n<Pumping Station> is no longer available."
             },
             {
               "id": "FM-8",
               "operation": "FM-8",
               "levelId": "activities/act19mini/level_act19mini_08",
-              "name": "求进则愎",
-              "description": "万兽竞猎，羽弃陆而翔空。何必强求破釜沉舟，反倒绝了生路？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><改良型二踢脚></>对周围四格的敌人造成法术伤害，效果范围内晦明属性变化",
+              "name": "Seek Progress and Lose an Out",
+              "description": "When all the other beasts fought over prey, the fowl chose to abandon the ground for the skies. Why insist on not taking a single step back, and cutting of your own path of life?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it will earn a Hui-Ming attribute\n<@lv.item><Mark of Dusk and Dawn></> On first passing through, enemies will change attribute\n<@lv.item><Two-Step Firecracker mk2></> Deals Arts damage to enemies in the four adjacent tiles, changing Hui-Ming attributes within its range",
               "hasChallenge": true
             },
             {
               "id": "FM-8CM",
-              "operation": "突袭FM-8",
+              "operation": "CM FM-8",
               "levelId": "activities/act19mini/level_act19mini_08",
-              "name": "求进则愎",
-              "description": "万兽竞猎，羽弃陆而翔空。何必强求破釜沉舟，反倒绝了生路？\\n<@lv.item><晦明之印></>部署在其上的干员获得晦明属性\\n<@lv.item><朝暮之印></>敌人首次经过后属性变化\\n<@lv.item><改良型二踢脚></>对周围四格的敌人造成法术伤害，效果范围内晦明属性变化",
+              "name": "Seek Progress and Lose an Out",
+              "description": "When all the other beasts fought over prey, the fowl chose to abandon the ground for the skies. Why insist on not taking a single step back, and cutting of your own path of life?\n<@lv.item><Mark of Hui and Ming></> Operators deployed on it will earn a Hui-Ming attribute\n<@lv.item><Mark of Dusk and Dawn></> On first passing through, enemies will change attribute\n<@lv.item><Two-Step Firecracker mk2></> Deals Arts damage to enemies in the four adjacent tiles, changing Hui-Ming attributes within its range",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n“自在”【破桎而出】屏障吸收伤害量提升，【纬地经天】伤害大幅提升"
+              "challenge": "<@lv.fs>Condition:</>\n'Free' [Break the Chains] barrier value increased, [Weft and Warp] damage greatly increased"
             },
             {
               "id": "FM-S-1",
               "operation": "FM-S-1",
               "levelId": "activities/act19mini/level_act19mini_sub-1-1",
-              "name": "有求则苦",
-              "description": "万般欲求，无外乎求得或求失。得失之间，遗漏了多少，又背负了多少？\\n<@lv.item><血债账簿></>“血债账簿”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”",
+              "name": "Seek and You Shall Suffer",
+              "description": "All desires are about gain and loss. But what did you miss in between, and how much did you shoulder?\n<@lv.item><Blood Ledger></> All enemies are boosted and Famiglia Silencer is summoned when Blood Debt is at max.",
               "hasChallenge": false
             },
             {
               "id": "FM-S-2",
               "operation": "FM-S-2",
               "levelId": "activities/act19mini/level_act19mini_sub-2-1",
-              "name": "莫向外求",
-              "description": "因心生缘，因缘而至。随性而为，顺手办事。不为得失所累，不被爱憎所困，方能心清目明，不忘自己最初的选择以及如此选择的原因。",
+              "name": "Seek Not From the Outside",
+              "description": "Come because of fate, which stems from the heart. Go along with one's heart, and let neither gain nor loss, nor love nor hate bind you, so that your heart and eyes are clear, lest you ever forget what you chose and why you chose it.",
               "hasChallenge": false
             }
           ]
         },
         {
           "id": "act44side",
-          "episode": "墟",
+          "episode": "Ato",
           "childNodes": [
             {
               "id": "AT-TR-1",
               "operation": "AT-TR-1",
               "levelId": "activities/act44side/level_act44side_tr01",
-              "name": "天命滚滚",
-              "description": "每一声“叮当”都是它替人间轻按一次删除键。你听不懂这轻响的语法，但总会在翌日的街角发现，昨夜那条本该通向你的人生岔路，已被悄悄擦去。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Roiling Fate",
+              "description": "Every ring is a press of the Delete key in the mortal realm. You do not understand its language, but you always find out the next day that a fork in life that should have led to you has been quietly wiped away.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-1",
               "operation": "AT-1",
               "levelId": "activities/act44side/level_act44side_01",
-              "name": "极道作风",
-              "description": "清扫结束，将目标人物的残余装入后备箱，上车，离开。查看后视镜，安全，没有被跟踪。等等，为什么背后还有呼吸声？\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "The Yakuza Way",
+              "description": "The cleanup is done. Load the remains into the trunk, get in the driver's seat, and leave. Nothing in the rearview mirror. You are not being followed. Why, then, do you hear the sound of breathing from behind you?\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-2",
               "operation": "AT-2",
               "levelId": "activities/act44side/level_act44side_02",
-              "name": "灵异特辑",
-              "description": "和无数个寻常夜晚一样，剪辑师寻常地加班，寻常地检阅素材，却发现画面中始终有一个黑影。逐帧播放，黑影渐近，面带微笑。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Tales of the Supernatural",
+              "description": "It is an ordinary evening. The video editor is doing overtime as usual. He spots a black shadow in the footage. As he plays it frame by frame, the black shadow slowly approaches with a smile on its face.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-3",
               "operation": "AT-3",
               "levelId": "activities/act44side/level_act44side_03",
-              "name": "夜逃通告",
-              "description": "喧嚣街巷，碎砖忽然错落移动，人行道上冒出一圈黑洞，只等逃亡者一跃而下。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Notice: Nighttime Runaway",
+              "description": "Rubble starts to move itself in a noisy street, revealing a black hole on the sidewalk, waiting for the fugitive to leap in.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-4",
               "operation": "AT-4",
               "levelId": "activities/act44side/level_act44side_04",
-              "name": "百物语",
-              "description": "每翻开一页风化日记，便有一位参与者的名字映入眼帘。在最后一个故事讲完，最后一页日记翻过，最后一根蜡烛吹熄时——\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Hyakumonogatari",
+              "description": "Every page of the old diary records the name of a participant. When the last story is told, the last page is turned, and the last candle is blown out—\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-TR-2",
               "operation": "AT-TR-2",
               "levelId": "activities/act44side/level_act44side_tr02",
-              "name": "雪花屏",
-              "description": "细雪般的小点翻涌，仿佛被禁锢的记忆仍在屏幕内不断敲打，寻找出路。躁动倏然止息，冷冽的面孔自裂痕中悄然显现。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力舒缓帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Snowflake Screen",
+              "description": "Snowflake-like dots roil, like a trapped memory knocking on the screen from inside, looking for a way out. The agitation ceases, and a cold face emerges from the crack.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Stress-Relief Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": false
             },
             {
               "id": "AT-5",
               "operation": "AT-5",
               "levelId": "activities/act44side/level_act44side_05",
-              "name": "遗祸",
-              "description": "种子既已种下，那么其后种种，都只能是为了更盛大、更美的牺牲。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力舒缓帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Legacy of Ruin",
+              "description": "The seed has been planted. All that follows is in the name of a greater, more beautiful sacrifice.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Stress-Relief Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": false
             },
             {
               "id": "AT-6",
               "operation": "AT-6",
               "levelId": "activities/act44side/level_act44side_06",
-              "name": "漩涡",
-              "description": "被卷入，被吞噬，无法可依，无路可走，无处可逃......为什么逃？\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力舒缓帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Maelstrom",
+              "description": "Dragged in, swallowed, no way out, no escape, nowhere to run... why run?\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Stress-Relief Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": false
             },
             {
               "id": "AT-7",
               "operation": "AT-7",
               "levelId": "activities/act44side/level_act44side_07",
-              "name": "冷月",
-              "description": "或许全心全意地冷血无情才是最好的选择，或许那个“家”从一开始就不该存在。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Cold Moonlight",
+              "description": "Perhaps it is best to be cold and heartless through and through. Perhaps that 'home' should never have existed in the first place.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": false
             },
             {
               "id": "AT-8",
               "operation": "AT-8",
               "levelId": "activities/act44side/level_act44side_08",
-              "name": "逝川",
-              "description": "流水会将一切冲刷殆尽，但水淹没一切之前的样子，总会有人在乎，有人怀念，有人记得。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力舒缓帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Flowing River",
+              "description": "The water will wash everything away, but the ways things were before will live on in memory.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Stress-Relief Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": false
             },
             {
               "id": "AT-EX-1",
               "operation": "AT-EX-1",
               "levelId": "activities/act44side/level_act44side_ex01",
-              "name": "青叶撞球场",
-              "description": "旧街的撞球场。绿呢台在昏灯下呈旧茶色，据说午夜若是听见桌球轻撞，那是旧友在替你补上最后一杆。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Aoba Billiards Hall",
+              "description": "A billiards hall in the old district. The green felt table looks brown in the dim light. If you hear the sound of balls hitting each other at midnight, it is an old friend putting in one last shot for you.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-1CM",
-              "operation": "突袭AT-EX-1",
+              "operation": "CM AT-EX-1",
               "levelId": "activities/act44side/level_act44side_ex01",
-              "name": "青叶撞球场",
-              "description": "旧街的撞球场。绿呢台在昏灯下呈旧茶色，据说午夜若是听见桌球轻撞，那是旧友在替你补上最后一杆。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Aoba Billiards Hall",
+              "description": "A billiards hall in the old district. The green felt table looks brown in the dim light. If you hear the sound of balls hitting each other at midnight, it is an old friend putting in one last shot for you.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n“某种天命”撞击敌人获得的“眷顾”大幅下降"
+              "challenge": "<@lv.fs>Condition: </>\nFavor earned from 'Certain Fates' hitting enemies is greatly reduced"
             },
             {
               "id": "AT-EX-2",
               "operation": "AT-EX-2",
               "levelId": "activities/act44side/level_act44side_ex02",
-              "name": "疾风速滑道",
-              "description": "旧街的速滑道。传说滑过其尽头就能见到“反向的街景”，只不过在尽头处回首的人，再没有找到过起点。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Shippuu Skating Rink",
+              "description": "A skating rink in the old district. They say you can see the mirror image of the streets if you make it past the end, but those who turn back at the end never find the beginning again.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-2CM",
-              "operation": "突袭AT-EX-2",
+              "operation": "CM AT-EX-2",
               "levelId": "activities/act44side/level_act44side_ex02",
-              "name": "疾风速滑道",
-              "description": "旧街的速滑道。传说滑过其尽头就能见到“反向的街景”，只不过在尽头处回首的人，再没有找到过起点。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Shippuu Skating Rink",
+              "description": "A skating rink in the old district. They say you can see the mirror image of the streets if you make it past the end, but those who turn back at the end never find the beginning again.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n风遁宗师更快起飞"
+              "challenge": "<@lv.fs>Condition: </>\nFuuton Masters take flight sooner"
             },
             {
               "id": "AT-EX-3",
               "operation": "AT-EX-3",
               "levelId": "activities/act44side/level_act44side_ex03",
-              "name": "浪切浴场",
-              "description": "旧街的浴场。你正欲离去，热泉突然涌动成手掌，缠住你的脚踝，逼你与池心的幽影共舞。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Namikiri Bathhouse",
+              "description": "A bathhouse in the old district. As you are about to leave, the hot water forms a hand that grabs your ankle, forcing you to dance with the shadow in the middle of the bath.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-3CM",
-              "operation": "突袭AT-EX-3",
+              "operation": "CM AT-EX-3",
               "levelId": "activities/act44side/level_act44side_ex03",
-              "name": "浪切浴场",
-              "description": "旧街的浴场。你正欲离去，热泉突然涌动成手掌，缠住你的脚踝，逼你与池心的幽影共舞。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Namikiri Bathhouse",
+              "description": "A bathhouse in the old district. As you are about to leave, the hot water forms a hand that grabs your ankle, forcing you to dance with the shadow in the middle of the bath.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n触发“强运”所需的“眷顾”增加"
+              "challenge": "<@lv.fs>Condition: </>\nMore Favor required to trigger Lucksack"
             },
             {
               "id": "AT-EX-4",
               "operation": "AT-EX-4",
               "levelId": "activities/act44side/level_act44side_ex04",
-              "name": "鸣瓶坂保龄球馆",
-              "description": "旧街的保龄球馆。最后一支球瓶应声倒下时，你发现自己抬不起脚步，抬眼望见对面竟是正准备扔球的自己。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Nakikamezaka Bowling Alley",
+              "description": "A bowling alley in the old district. When the last pin falls, you find your feet nailed to the ground, and look up to see yourself preparing to deliver the ball towards yourself.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-4CM",
-              "operation": "突袭AT-EX-4",
+              "operation": "CM AT-EX-4",
               "levelId": "activities/act44side/level_act44side_ex04",
-              "name": "鸣瓶坂保龄球馆",
-              "description": "旧街的保龄球馆。最后一支球瓶应声倒下时，你发现自己抬不起脚步，抬眼望见对面竟是正准备扔球的自己。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Nakikamezaka Bowling Alley",
+              "description": "A bowling alley in the old district. When the last pin falls, you find your feet nailed to the ground, and look up to see yourself preparing to deliver the ball towards yourself.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n天命来袭开启时所需技力增加"
+              "challenge": "<@lv.fs>Condition: </>\nFate Striker SP requirement increased"
             },
             {
               "id": "AT-EX-5",
               "operation": "AT-EX-5",
               "levelId": "activities/act44side/level_act44side_ex05",
-              "name": "锻魂街机厅",
-              "description": "旧街的街机厅。即便切断了电源，机腔里仍在敲打节拍，仿佛有个身影被永远锁在虚拟关卡中。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Tankon Arcade",
+              "description": "An arcade in the old district. The machines continue to emit rhythms even when the power is cut off, as though someone is forever trapped in the virtual stages.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-5CM",
-              "operation": "突袭AT-EX-5",
+              "operation": "CM AT-EX-5",
               "levelId": "activities/act44side/level_act44side_ex05",
-              "name": "锻魂街机厅",
-              "description": "旧街的街机厅。即便切断了电源，机腔里仍在敲打节拍，仿佛有个身影被永远锁在虚拟关卡中。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Tankon Arcade",
+              "description": "An arcade in the old district. The machines continue to emit rhythms even when the power is cut off, as though someone is forever trapped in the virtual stages.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear"
             },
             {
               "id": "AT-EX-6",
               "operation": "AT-EX-6",
               "levelId": "activities/act44side/level_act44side_ex06",
-              "name": "在你的时代之上",
-              "description": "旧街的一切都带着旧街的气息，而新时代不需要这样的气息。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Upon Your Era",
+              "description": "Everything in the old district carries an aura of age. The new age does not need it.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-6CM",
-              "operation": "突袭AT-EX-6",
+              "operation": "CM AT-EX-6",
               "levelId": "activities/act44side/level_act44side_ex06",
-              "name": "在你的时代之上",
-              "description": "旧街的一切都带着旧街的气息，而新时代不需要这样的气息。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Upon Your Era",
+              "description": "Everything in the old district carries an aura of age. The new age does not need it.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n水遁宗师的生命值大幅提升"
+              "challenge": "<@lv.fs>Condition: </>\nSuiton Master HP greatly increased"
             },
             {
               "id": "AT-EX-7",
               "operation": "AT-EX-7",
               "levelId": "activities/act44side/level_act44side_ex07",
-              "name": "盛放的泡沫",
-              "description": "旧街总是要被拆掉的，明天也总会无可避免地到来。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Blooming Bubble",
+              "description": "What is old must go. Tomorrow must come.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-7CM",
-              "operation": "突袭AT-EX-7",
+              "operation": "CM AT-EX-7",
               "levelId": "activities/act44side/level_act44side_ex07",
-              "name": "盛放的泡沫",
-              "description": "旧街总是要被拆掉的，明天也总会无可避免地到来。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Blooming Bubble",
+              "description": "What is old must go. Tomorrow must come.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n澪的攻击力与生命值提升"
+              "challenge": "<@lv.fs>Condition: </>\nMio has increased ATK and HP"
             },
             {
               "id": "AT-EX-8",
               "operation": "AT-EX-8",
               "levelId": "activities/act44side/level_act44side_ex08",
-              "name": "碎裂的梦",
-              "description": "仅仅只是他一个人的梦。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Broken Dream",
+              "description": "It is only his own dream.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-EX-8CM",
-              "operation": "突袭AT-EX-8",
+              "operation": "CM AT-EX-8",
               "levelId": "activities/act44side/level_act44side_ex08",
-              "name": "碎裂的梦",
-              "description": "仅仅只是他一个人的梦。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Broken Dream",
+              "description": "It is only his own dream.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n“斩”所需费用提升"
+              "challenge": "<@lv.fs>Condition: </>\n'Zan' cost increased"
             },
             {
               "id": "AT-S-1",
               "operation": "AT-S-1",
               "levelId": "activities/act44side/level_act44side_sub-1-1",
-              "name": "神签",
-              "description": "签落为尘，诸缘已定。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Omikuji",
+              "description": "The tidings of fate are determined.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-S-1CM",
-              "operation": "突袭AT-S-1",
+              "operation": "CM AT-S-1",
               "levelId": "activities/act44side/level_act44side_sub-1-1",
-              "name": "神签",
-              "description": "签落为尘，诸缘已定。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Omikuji",
+              "description": "The tidings of fate are determined.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n土遁宗师更早行动"
+              "challenge": "<@lv.fs>Condition: </>\nDoton Masters move quicker"
             },
             {
               "id": "AT-S-2",
               "operation": "AT-S-2",
               "levelId": "activities/act44side/level_act44side_sub-1-2",
-              "name": "祓雨",
-              "description": "清雨过身，心尘难祓。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Haraiame",
+              "description": "The rain cannot cleanse the dust that pervades the mind.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true
             },
             {
               "id": "AT-S-2CM",
-              "operation": "突袭AT-S-2",
+              "operation": "CM AT-S-2",
               "levelId": "activities/act44side/level_act44side_sub-1-2",
-              "name": "祓雨",
-              "description": "清雨过身，心尘难祓。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”",
+              "name": "Haraiame",
+              "description": "The rain cannot cleanse the dust that pervades the mind.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n雷遁宗师获得隐匿"
+              "challenge": "<@lv.fs>Condition: </>\nRaiton Masters are invisible"
             },
             {
               "id": "AT-S-3",
               "operation": "AT-S-3",
               "levelId": "activities/act44side/level_act44side_sub-1-3",
-              "name": "逢魔",
-              "description": "昼夜交隙，百魅争途。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Ouma",
+              "description": "The fabric of the mortal realm is lifted when day meets night.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true
             },
             {
               "id": "AT-S-3CM",
-              "operation": "突袭AT-S-3",
+              "operation": "CM AT-S-3",
               "levelId": "activities/act44side/level_act44side_sub-1-3",
-              "name": "逢魔",
-              "description": "昼夜交隙，百魅争途。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Ouma",
+              "description": "The fabric of the mortal realm is lifted when day meets night.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上两个位置不可部署"
+              "challenge": "<@lv.fs>Condition: </>\n2 tiles on the battlefield are no longer available for deployment"
             },
             {
               "id": "AT-S-4",
               "operation": "AT-S-4",
               "levelId": "activities/act44side/level_act44side_sub-1-4",
-              "name": "罪业",
-              "description": "灯火既熄，业焰自明。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Zaigou",
+              "description": "The candle may go out, but the flames of karma burn bright.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true
             },
             {
               "id": "AT-S-4CM",
-              "operation": "突袭AT-S-4",
+              "operation": "CM AT-S-4",
               "levelId": "activities/act44side/level_act44side_sub-1-4",
-              "name": "罪业",
-              "description": "灯火既熄，业焰自明。\\n<@lv.item><天命来袭></>开启后不断召唤“某种天命”\\n<@lv.item><压力归零帮手></>反弹“某种天命”，一段时间后激活",
+              "name": "Zaigou",
+              "description": "The candle may go out, but the flames of karma burn bright.\n<@lv.item><Fate Striker></> Continuously summons 'Certain Fates' when activated\n<@lv.item><Zero-Stress Helper></> Reflects 'Certain Fates', activated after some time",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n三船光平更频繁的使用“握筹布画”"
+              "challenge": "<@lv.fs>Condition: </>\nKouhei Mifune uses 'Canvas of Strategy' more frequently"
             },
             {
               "id": "AT-P-1",
               "operation": "AT-P-1",
               "levelId": "activities/act44side/level_act44side_sp01",
-              "name": "起点",
-              "description": "松开发射杆的瞬间，你分明听见弹簧说了声“再见”。\\n<@lv.item>将敌人推入坑中获取高分！</>\\n<@lv.item>我方单位再部署时间大幅降低</>",
+              "name": "Starting Point",
+              "description": "You swear you heard the spring say 'goodbye' when you released the switch.\n<@lv.item>Push enemies into the pit to earn points!</>\n<@lv.item>Your units have greatly reduced Redeployment Time</>",
               "hasChallenge": false
             },
             {
               "id": "AT-P-2",
               "operation": "AT-P-2",
               "levelId": "activities/act44side/level_act44side_sp02",
-              "name": "回弹角",
-              "description": "你以为角度算尽，命运却折向背后，精准敲击空椅的木背，打出心跳的节拍。\\n<@lv.item>将敌人推入坑中获取高分！</>\\n<@lv.item>我方单位再部署时间大幅降低</>",
+              "name": "Bounceback",
+              "description": "You thought you had the perfect angle, but fate had different ideas. The sound of the back of the empty chair being hit is the rhythm of a heartbeat.\n<@lv.item>Push enemies into the pit to earn points!</>\n<@lv.item>Your units have greatly reduced Redeployment Time</>",
               "hasChallenge": false
             },
             {
               "id": "AT-P-3",
               "operation": "AT-P-3",
               "levelId": "activities/act44side/level_act44side_sp03",
-              "name": "满弧闭环",
-              "description": "你祈求的所有，都如天命一般降临，计分灯一齐熄灭，只有写着你名字的那一格在漆黑里闪个不停。\\n<@lv.item>将敌人推入坑中获取高分！</>\\n<@lv.item>我方单位再部署时间大幅降低</>",
+              "name": "Full Circle",
+              "description": "You pray that everything will descend like fate. The scoring lights go out at the same time, and only the one with your name on it flashes in the darkness.\n<@lv.item>Push enemies into the pit to earn points!</>\n<@lv.item>Your units have greatly reduced Redeployment Time</>",
               "hasChallenge": false
             }
           ]
         },
         {
           "id": "act45side",
-          "episode": "无忧梦呓",
+          "episode": "Somniloquium Serenum",
           "childNodes": [
             {
               "id": "SS-TR-1",
               "operation": "SS-TR-1",
               "levelId": "activities/act45side/level_act45side_tr01",
-              "name": "吊桥外的月光",
-              "description": "巨大的绞盘转动一周，通向正门的吊桥缓缓放下。现在，向前迈步，去探索清冷月光下的城堡吧。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Moonlight Beyond the Bridge",
+              "description": "The winch is turned, and the drawbridge is lowered. Step forward and explore the castle in the pale moonlight.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-1",
               "operation": "SS-1",
               "levelId": "activities/act45side/level_act45side_01",
-              "name": "花格窗边的梦想",
-              "description": "这里有怀抱着探险精神的访客，也有不小心误入的来宾。暗色金属的窗格内，他们将见证同一个童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Dream of the Lattice Window",
+              "description": "Some are adventurous visitors, others accidental guests, but they bear witness to the same fairy tale within the dark metal windows.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-2",
               "operation": "SS-2",
               "levelId": "activities/act45side/level_act45side_02",
-              "name": "寂静长廊的两端",
-              "description": "你们刚才有没有看到走廊尽头的那只娃娃睁眼？错觉？那我们身后这一只娃娃又是什么时候出现的？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Quiet Hallway's End",
+              "description": "Did that doll at the end of the corridor just open its eyes? Am I imagining things? Then when did this doll behind us appear?\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-3",
               "operation": "SS-3",
               "levelId": "activities/act45side/level_act45side_03",
-              "name": "音乐室内的光芒",
-              "description": "月光恰好洒在管风琴前的琴凳上，就像是城堡发出的一份特殊邀请，期盼有人能将赞颂永夜的旋律奏响。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Music Room's Radiance",
+              "description": "The moonlight shines upon the organ bench, an invitation from the castle to play the melody of evernight.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-4",
               "operation": "SS-4",
               "levelId": "activities/act45side/level_act45side_04",
-              "name": "名为客房区的迷宫",
-              "description": "每一扇门都没有任何标识，每一间客房的布置都完全一样。迷失对于访客来说是折磨，但对梦的主人而言却是乐趣。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Guest Room Maze",
+              "description": "None of the doors are marked, the layout of every room identical. Losing one's way is torturous for guests, to the enjoyment of the host.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-5",
               "operation": "SS-5",
               "levelId": "activities/act45side/level_act45side_05",
-              "name": "通往舞会的邀请函",
-              "description": "衣帽已穿戴妥当，仪容也整理完毕，只差一封邀请函，就能参加童话中的舞会。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Invitation to the Ball",
+              "description": "Hat, check. Dress, check. All you need is an invitation to the ball.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-6",
               "operation": "SS-6",
               "levelId": "activities/act45side/level_act45side_06",
-              "name": "回声飘荡的大厅",
-              "description": "驻足看看那些带有雕刻的立柱，还有脚下的花纹地板。仔细听，这回荡的脚步声是从何而来？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Echoing Hall",
+              "description": "Stay a while and watch the engraved pillars, and the patterned floor beneath your feet. Listen—where do these echoing footsteps come from?\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-7",
               "operation": "SS-7",
               "levelId": "activities/act45side/level_act45side_07",
-              "name": "永恒绚烂的藏品",
-              "description": "在不醒童话之中，一切美好都是永恒。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Relic of Eternal Splendor",
+              "description": "All things fine and beautiful are eternal in the never-waking story.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": false
             },
             {
               "id": "SS-8",
               "operation": "SS-8",
               "levelId": "activities/act45side/level_act45side_08",
-              "name": "童话的开场",
-              "description": "童话的台本已然写就，舞台的布景已等候多时。别着急离开——精彩的故事将由你们来演绎。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光\\n<@lv.rem>远程干员可部署于部分近战位</>",
+              "name": "Fairytale Beginning",
+              "description": "The fairy tale is written, and the stage awaits. Do not hasten to leave, for you have a story to play.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight\n<@lv.rem>Ranged Operators can be deployed on some melee tiles</>",
               "hasChallenge": false
             },
             {
               "id": "SS-EX-1",
               "operation": "SS-EX-1",
               "levelId": "activities/act45side/level_act45side_ex01",
-              "name": "第一篇·糖果小屋",
-              "description": "一篇无需担忧疾病的甜蜜童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 1: Candy House",
+              "description": "A sweet fairy tale where there is no illness.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-1CM",
-              "operation": "突袭SS-EX-1",
+              "operation": "CM SS-EX-1",
               "levelId": "activities/act45side/level_act45side_ex01",
-              "name": "第一篇·糖果小屋",
-              "description": "一篇无需担忧疾病的甜蜜童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 1: Candy House",
+              "description": "A sweet fairy tale where there is no illness.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n敌人处于月光下提升更多攻击速度，且布景大师吹起气球后获得屏障大幅提升"
+              "challenge": "<@lv.fs>Condition: </>\nEnemies gain even more ASPD under Moonlight, and Background Masters gain greatly increased Barrier when their balloon is inflated"
             },
             {
               "id": "SS-EX-2",
               "operation": "SS-EX-2",
               "levelId": "activities/act45side/level_act45side_ex02",
-              "name": "第二篇·玩具盒子",
-              "description": "一篇无需担忧孤独的欢快童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 2: Toy Box",
+              "description": "A joyful fairy tale where there is no loneliness.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-2CM",
-              "operation": "突袭SS-EX-2",
+              "operation": "CM SS-EX-2",
               "levelId": "activities/act45side/level_act45side_ex02",
-              "name": "第二篇·玩具盒子",
-              "description": "一篇无需担忧孤独的欢快童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 2: Toy Box",
+              "description": "A joyful fairy tale where there is no loneliness.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的暗黑发条仆从且其防御力提升"
+              "challenge": "<@lv.fs>Condition: </>\nMore Dark Clockwork Servants appear and they have increased DEF"
             },
             {
               "id": "SS-EX-3",
               "operation": "SS-EX-3",
               "levelId": "activities/act45side/level_act45side_ex03",
-              "name": "第三篇·闪亮翅膀",
-              "description": "一篇无需担忧沉沦的轻松童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 3: Gleaming Wing",
+              "description": "A lighthearted fairy tale where there is no despair.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-3CM",
-              "operation": "突袭SS-EX-3",
+              "operation": "CM SS-EX-3",
               "levelId": "activities/act45side/level_act45side_ex03",
-              "name": "第三篇·闪亮翅膀",
-              "description": "一篇无需担忧沉沦的轻松童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 3: Gleaming Wing",
+              "description": "A lighthearted fairy tale where there is no despair.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n欢快的卡尔顿生命值大幅提升"
+              "challenge": "<@lv.fs>Condition: </>\nJoyful Coretton HP greatly increased"
             },
             {
               "id": "SS-EX-4",
               "operation": "SS-EX-4",
               "levelId": "activities/act45side/level_act45side_ex04",
-              "name": "第四篇·轻轻眨眼",
-              "description": "一篇无需担忧喧嚣的静谧童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 4: Light Wink",
+              "description": "A quiet fairy tale where there is no noise.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-4CM",
-              "operation": "突袭SS-EX-4",
+              "operation": "CM SS-EX-4",
               "levelId": "activities/act45side/level_act45side_ex04",
-              "name": "第四篇·轻轻眨眼",
-              "description": "一篇无需担忧喧嚣的静谧童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 4: Light Wink",
+              "description": "A quiet fairy tale where there is no noise.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n沃尔夫幽影的攻击范围扩大，但攻击速度降低"
+              "challenge": "<@lv.fs>Condition: </>\nWolff Phantom Attack Range increased, ASPD reduced"
             },
             {
               "id": "SS-EX-5",
               "operation": "SS-EX-5",
               "levelId": "activities/act45side/level_act45side_ex05",
-              "name": "第五篇·羽绒被褥",
-              "description": "一篇无需担忧困倦的安详童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 5: Velvet Comforter",
+              "description": "A peaceful fairy tale where there is no fatigue.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-5CM",
-              "operation": "突袭SS-EX-5",
+              "operation": "CM SS-EX-5",
               "levelId": "activities/act45side/level_act45side_ex05",
-              "name": "第五篇·羽绒被褥",
-              "description": "一篇无需担忧困倦的安详童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 5: Velvet Comforter",
+              "description": "A peaceful fairy tale where there is no fatigue.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n沉眠伴随兽的移动速度提升，关卡内一个部署位无法部署"
+              "challenge": "<@lv.fs>Condition: </>\nOne tile becomes unavailable for deployment, and Slumber Companion Beasts have increased Movement Speed"
             },
             {
               "id": "SS-EX-6",
               "operation": "SS-EX-6",
               "levelId": "activities/act45side/level_act45side_ex06",
-              "name": "第六篇·镜中茶会",
-              "description": "一篇无需担忧烦闷的热情童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 6: Tea Party in the Mirror",
+              "description": "A passionate fairy tale where there is no boredom.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-6CM",
-              "operation": "突袭SS-EX-6",
+              "operation": "CM SS-EX-6",
               "levelId": "activities/act45side/level_act45side_ex06",
-              "name": "第六篇·镜中茶会",
-              "description": "一篇无需担忧烦闷的热情童话。\\n<@lv.item><月光></>一段时间后顺时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 6: Tea Party in the Mirror",
+              "description": "A passionate fairy tale where there is no boredom.\n<@lv.item><Moonlight></>Begins turning clockwise after some time, revealing invisible units and increasing their Movement Speed and ASPD \n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的“羽化之梦”"
+              "challenge": "<@lv.fs>Condition: </>\nMore 'Dreams of Metamorphosis' appear"
             },
             {
               "id": "SS-EX-7",
               "operation": "SS-EX-7",
               "levelId": "activities/act45side/level_act45side_ex07",
-              "name": "第七篇·月下幻梦",
-              "description": "一篇无需担忧悲伤的梦幻童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 7: Dream Under the Moon",
+              "description": "A dreamy fairy tale where there is no sorrow.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-7CM",
-              "operation": "突袭SS-EX-7",
+              "operation": "CM SS-EX-7",
               "levelId": "activities/act45side/level_act45side_ex07",
-              "name": "第七篇·月下幻梦",
-              "description": "一篇无需担忧悲伤的梦幻童话。\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Chapter 7: Dream Under the Moon",
+              "description": "A dreamy fairy tale where there is no sorrow.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n沉眠伴随兽的移动速度和最大生命值大幅提升"
+              "challenge": "<@lv.fs>Condition: </>\nSlumber Companion Beast Movement Speed and Max HP greatly increased"
             },
             {
               "id": "SS-EX-8",
               "operation": "SS-EX-8",
               "levelId": "activities/act45side/level_act45side_ex08",
-              "name": "童话的结局",
-              "description": "他们幸福又快乐，就这样永远留在了童话里。世上何处还有比这更好的结局？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Fairytale Ending",
+              "description": "...And they lived happily ever after in the fairy tale.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true
             },
             {
               "id": "SS-EX-8CM",
-              "operation": "突袭SS-EX-8",
+              "operation": "CM SS-EX-8",
               "levelId": "activities/act45side/level_act45side_ex08",
-              "name": "童话的结局",
-              "description": "他们幸福又快乐，就这样永远留在了童话里。世上何处还有比这更好的结局？\\n<@lv.item><月光></>一段时间后逆时针旋转，照耀的单位隐匿失效且移动和攻击速度提升 \\n<@lv.item><月影之茧></>可以阻挡月光",
+              "name": "Fairytale Ending",
+              "description": "...And they lived happily ever after in the fairy tale.\n<@lv.item><Moonlight></> Periodically rotates clockwise, revealing invisible units and increasing their Movement Speed and ASPD\n<@lv.item><Moonlight Cocoon></> Blocks Moonlight",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n莫菲丝释放“梦境的演变”获得屏障大幅提升，“幻梦的纠缠”伤害大幅提升且击倒的单位受困时间大幅延长"
+              "challenge": "<@lv.fs>Condition:</>\nMorpheus gains greatly increased Barrier from 'Evolution of Dream'; 'Binding Dream' damage greatly increased, and defeated units are trapped for much longer"
             }
           ]
         },
@@ -18317,7 +18317,7 @@
               "operation": "R8-6",
               "levelId": "obt/main/level_main_08-06",
               "name": "War, Sprawling Without Cease",
-              "description": "The mightiest and meekest both share the same tenacity. \n<@lv.item><Talulah, the Fighter></> Life Points will be deducted by 1 when killed by an enemy.\n<@lv.item><Patriot's Originium Altar></> Periodically releases gas in the surrounding 4 tiles, inflicting heavy damage to enemies.",
+              "description": "The mightiest and meekest both share the same tenacity. \n<@lv.item><Talulah, the Fighter></> Life Points will be deducted by 1 when killed by an enemy.\n<@lv.item><Patriot's Originium Altar></> Periodically releases gas in the surrounding tiles, inflicting heavy damage to enemies.",
               "hasChallenge": true
             },
             {
@@ -18325,7 +18325,7 @@
               "operation": "CM R8-6",
               "levelId": "obt/main/level_main_08-06",
               "name": "War, Sprawling Without Cease",
-              "description": "The mightiest and meekest both share the same tenacity. \n<@lv.item><Talulah, the Fighter></> Life Points will be deducted by 1 when killed by an enemy.\n<@lv.item><Patriot's Originium Altar></> Periodically releases gas in the surrounding 4 tiles, inflicting heavy damage to enemies.",
+              "description": "The mightiest and meekest both share the same tenacity. \n<@lv.item><Talulah, the Fighter></> Life Points will be deducted by 1 when killed by an enemy.\n<@lv.item><Patriot's Originium Altar></> Periodically releases gas in the surrounding tiles, inflicting heavy damage to enemies.",
               "hasChallenge": true,
               "challenge": "<@lv.fs>Condition:</>\nUrsus Armored Casters have significantly increased attack range."
             },
@@ -19173,7 +19173,7 @@
               "operation": "H10-1",
               "levelId": "obt/hard/level_hard_10-01",
               "name": "Operation Helios-1",
-              "description": "In every alley and byway of Sudean were soldiers fighting with their lives. \n<@lv.item><Londinium Secondary Defense Artillery></> Once fully charged, deals area True damage to both allies and enemies, centered on the friendly unit with the highest Block. \n<@lv.fs>Abilities of Manfred: </>\nDeals additional Necrosis damage, and recovers his [Military Training] effect significantly faster.",
+              "description": "In every alley and byway of Sudean were soldiers fighting with their lives. \n<@lv.item><Londinium Secondary Defense Artillery></> Once fully charged, deals area True damage to both allies and enemies, centered on the friendly unit with the highest Block. \n<@lv.fs>Abilities of Manfred: </>\nDeals additional Necrosis, and recovers his [Military Training] effect significantly faster.",
               "hasChallenge": false
             },
             {
@@ -19793,7 +19793,7 @@
               "operation": "H12-1",
               "levelId": "obt/hard/level_hard_12-01",
               "name": "Operation Astrape-1",
-              "description": "'Who ever said that the battlefield is only where the cannon fire reaches?'\nAllies have greatly reduced cost limit.\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal increased Corrosion Damage.",
+              "description": "'Who ever said that the battlefield is only where the cannon fire reaches?'\nAllies have greatly reduced cost limit.\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal increased Corrosion.",
               "hasChallenge": false
             },
             {
@@ -19809,7 +19809,7 @@
               "operation": "H12-3",
               "levelId": "obt/hard/level_hard_12-03",
               "name": "Operation Astrape-3",
-              "description": "The tide of battle can change in an instant, but the gushing tides of people is the greatest cover for the Sarkaz.\nAllies have greatly reduced cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal increased Corrosion Damage; Isomorphic Fragments +1.",
+              "description": "The tide of battle can change in an instant, but the gushing tides of people is the greatest cover for the Sarkaz.\nAllies have greatly reduced cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal increased Corrosion; Isomorphic Fragments +1.",
               "hasChallenge": false
             },
             {
@@ -19817,7 +19817,7 @@
               "operation": "H12-4",
               "levelId": "obt/hard/level_hard_12-04",
               "name": "Operation Astrape-4",
-              "description": "The thunder is silent, and the long night is without light, but Victoria's glory must stand eternal.\nAllies have greatly reduced cost limit.\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal heavy Corrosion Damage; Isomorphic Fragments +1. [Lifeline Burst] discharge frequency is greatly increased.",
+              "description": "The thunder is silent, and the long night is without light, but Victoria's glory must stand eternal.\nAllies have greatly reduced cost limit.\n<@lv.item><Roadside Emergency Reserves></> When destroyed, grants a certain amount of DP and cost limit.\n<@lv.fs>Abilities of 'Damazti Cluster':</> Attacks deal heavy Corrosion; Isomorphic Fragments +1. [Lifeline Burst] discharge frequency is greatly increased.",
               "hasChallenge": false
             }
           ]
@@ -22006,7 +22006,7 @@
         },
         {
           "id": "camp_r_14",
-          "operation": "Columbia Research Base Hanger",
+          "operation": "Columbia Research Base Hangar",
           "name": "",
           "description": "The prototype power armors stored in Test Site 359's hanger have suddenly reactivated during the cleanup work. The Rhodes Island operators present must quickly intervene and bring this incident to a close.\n<@lv.rem><Special Conditions></>DP will not regenerate naturally.\n<@lv.item><R-Series Power Armor></>Absorbs nearby experimental products to recover SP. Activates when SP is full.",
           "levelId": "obt/campaign/level_camp_r_14",
@@ -22038,7 +22038,7 @@
         },
         {
           "id": "camp_r_18",
-          "operation": "Sargon The Special Little Aquapit'",
+          "operation": "Sargon 'The Special Little Aquapit'",
           "name": "",
           "description": "The Durins who miss 'The Great Aquapit' so much have constructed new aquatic amusement facilities on the surface. All the tribes of Acahualla have received invitations to join the carnival, and crates of alcoholic beverages are being delivered...Rhodes Island, please, lend a hand in maintaining order!\n<@lv.rem><Special Condition></>DP will not regenerate naturally.",
           "levelId": "obt/campaign/level_camp_r_18",
@@ -22126,9 +22126,9 @@
         },
         {
           "id": "camp_r_29",
-          "operation": "伊比利亚 鳞骸盐漠 ",
+          "operation": "Iberia Saltfin Graveyard",
           "name": "",
-          "description": "寻找黄金时代遗物的商队误闯了盐鳞的巢穴，凶暴的盐鳞将他们围困在盐漠中，不怀好意的海盗们也正驾驶着盐船逼近。向罗德岛求援的信号不停催促，即刻启航前往吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><盐漠></>经过的敌人移动速度降低，停留一段时间后会摔落至远处直接被击倒\\n<@lv.item><盐坨子炮></>周期性发射炮弹造成物理溅射伤害，可以将周围1名重量小于等于3的地面敌人传送至爆炸中心",
+          "description": "A caravan searching for artifacts from the Golden Age has accidentally stumbled upon a saltfin nest. The vicious saltfins have them pinned down in the Salt Flat, while dastardly pirates are closing in on them with their salt ships. They've been sending distress signals to Rhodes Island the entire time, so go and save them already!\n<@lv.rem><Special Condition></> DP will not regenerate naturally.\n<@lv.item><Salt Flat></> Enemies passing through have reduced Movement Speed; after stopping for long enough, they will sink in and be defeated\n<@lv.item><Saltheap Cannon></> Periodically fires a shell forward, dealing Physical splash damage; can launch a nearby ground enemy of 3 Weight or less to the center of the explosion",
           "levelId": "obt/campaign/level_camp_r_29",
           "hasChallenge": false
         },

@@ -1,0 +1,1 @@
+export type Lang = "CN" | "EN" | "JP" | "KR";

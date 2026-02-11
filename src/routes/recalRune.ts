@@ -1,18 +1,7 @@
+import { Lang } from "@/types/localization";
 import { accuracyNum } from "../utilities";
 import express from "express";
 const router = express.Router();
-const recalRuneData: any = require("../database/cn/crisis_v2_table.json").recalRuneData.seasons;
-
-const levels: {[key: string]: any} = {};
-const parseLevelData = (data: {[key: string]: any}) => {
-  const {stageId, runes, levelName, levelCode, levelDesc, fixedRuneSeriesName} = data;
-  const parsedRunes = Object.values(runes).map(rune => parseRune(rune))
-
-  levels[stageId] = {
-    stageId, levelName, levelCode, levelDesc,
-    fixedRuneSeriesName, parsedRunes
-  }
-}
 
 const blue = "#0080ff";
 const red = "#ff2020";
@@ -70,16 +59,46 @@ const parseDescription = (descArr: any[], runes: any[]) => {
   })
 }
 
-Object.values(recalRuneData).forEach((season: any) => {
-  Object.values(season.stages).forEach((data: any) => {
-    parseLevelData(data);
+
+const recalData: Record<Lang, {[key: string]: any}> = {
+  "CN": {},
+  "EN": {},
+  "JP": {},
+  "KR": {},
+};
+
+const parseLevelData = (data: {[key: string]: any}, lang: Lang) => {
+  const {stageId, runes, levelName, levelCode, levelDesc, fixedRuneSeriesName} = data;
+  const parsedRunes = Object.values(runes).map(rune => parseRune(rune))
+
+  recalData[lang][stageId] = {
+    stageId, levelName, levelCode, levelDesc,
+    fixedRuneSeriesName, parsedRunes
+  }
+}
+
+
+const parseDatas = (lang: Lang) => {
+  const recalRuneData: any = require(`../database/${lang.toLowerCase()}/crisis_v2_table.json`).recalRuneData.seasons;
+  Object.values(recalRuneData).forEach((season: any) => {
+    Object.values(season.stages).forEach((data: any) => {
+      parseLevelData(data, lang);
+    })
   })
-})
+}
+
+parseDatas("CN");
+// parseDatas("EN");
+// parseDatas("JP");
+// parseDatas("KR");
 
 router.post("/getData", (req: any, res: any) => {
   const levelId = req.body.levelId;
+  // const language: Lang = req.body.language;
+  const language: Lang = "CN";
+  
   res.send({
-    data: levelId? levels[levelId] : null
+    data: levelId && recalData[language]? recalData[language][levelId] : null
   })
 })
 
