@@ -86,6 +86,7 @@ const parseCNData = async () => {
       notCountInTotal: sourceData.notCountInTotal.m_value,
       talentBlackboard,
       skills: sourceData.skills,
+      enemyTags: sourceData.enemyTags?.m_value
     }
     
     //将rangeRadius放到属性里，更符合逻辑

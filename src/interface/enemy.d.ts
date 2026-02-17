@@ -19,6 +19,7 @@ interface EnemyData{
   lifePointReduce: number,    //目标价值
   talentBlackboard: any[],   //天赋
   skills: any[],              //技能
+  enemyTags: string[]        //敌人分类
 }
 
 interface LocalEnemyData extends EnemyData{
