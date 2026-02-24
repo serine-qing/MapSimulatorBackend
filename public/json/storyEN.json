@@ -16191,6 +16191,256 @@
               "description": "《朝野汇编》二十卷，百灶天镜阁藏本。分《编年》《列传》《定论》诸目，杂采乡野传闻之说，不为信史。卷首序谓撰者乃司岁台秉烛人，尤无忌惮矣。\\n<@lv.item><镇岁柱></>开启周围镇岁柱，前往对应区域削弱岁，开启中央镇岁柱，直面岁",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n<@lv.item>岁会额外召唤敌人"
+            },
+            {
+              "id": "TA-S-1",
+              "operation": "TA-S-1",
+              "levelId": "activities/act49side/level_act49side_sub-1-1",
+              "name": "《幄机》",
+              "description": "幄者，帐也，大将所居；机者，谋也，策士之言。《幄机》者，论军中谋略。虽年代久远、词意陈旧，犹非漫无经略、高谈阔论者也。谈兵之家恒相称述，后世应武考者必通其文。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
+            },
+            {
+              "id": "TA-S-1CM",
+              "operation": "突袭TA-S-1",
+              "levelId": "activities/act49side/level_act49side_sub-1-1",
+              "name": "《幄机》",
+              "description": "幄者，帐也，大将所居；机者，谋也，策士之言。《幄机》者，论军中谋略。虽年代久远、词意陈旧，犹非漫无经略、高谈阔论者也。谈兵之家恒相称述，后世应武考者必通其文。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分字格无法部署干员与字"
+            },
+            {
+              "id": "TA-S-2",
+              "operation": "TA-S-2",
+              "levelId": "activities/act49side/level_act49side_sub-1-2",
+              "name": "《山河武略》",
+              "description": "兵法常与风水、气色、占候诸说相系。考是书所载，专论大炎境内地域形势。所言道里山川，今日考之，仍多合契。依余所见，若撰者意欲于炎国境内肇乱生事，其所引之祸，必深重难测。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
+            },
+            {
+              "id": "TA-S-2CM",
+              "operation": "突袭TA-S-2",
+              "levelId": "activities/act49side/level_act49side_sub-1-2",
+              "name": "《山河武略》",
+              "description": "兵法常与风水、气色、占候诸说相系。考是书所载，专论大炎境内地域形势。所言道里山川，今日考之，仍多合契。依余所见，若撰者意欲于炎国境内肇乱生事，其所引之祸，必深重难测。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n干员技能技力消耗大幅提升"
+            },
+            {
+              "id": "TA-S-3",
+              "operation": "TA-S-3",
+              "levelId": "activities/act49side/level_act49side_sub-1-3",
+              "name": "《塞语》",
+              "description": "旧本题玉门策士撰，悉言为将用兵之法。考其十五篇，大抵剽袭《幄机》之文，又附以迂陋浅论，盖妄人伪作，殊不足观。然其行文笔法极类《幄机》，稍不察，则鳞目混珠矣。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
+            },
+            {
+              "id": "TA-S-3CM",
+              "operation": "突袭TA-S-3",
+              "levelId": "activities/act49side/level_act49side_sub-1-3",
+              "name": "《塞语》",
+              "description": "旧本题玉门策士撰，悉言为将用兵之法。考其十五篇，大抵剽袭《幄机》之文，又附以迂陋浅论，盖妄人伪作，殊不足观。然其行文笔法极类《幄机》，稍不察，则鳞目混珠矣。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+            },
+            {
+              "id": "TA-S-4",
+              "operation": "TA-S-4",
+              "levelId": "activities/act49side/level_act49side_sub-1-4",
+              "name": "《经纬运筹》",
+              "description": "以棋法比兵法，尤重于阴阳、心术、形势。凡卦象、星辰、日月、气候以及臧否奖惩、医药之用诸说，莫不具载。读之似见将军出塞，用之可拟猛士临边。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true
+            },
+            {
+              "id": "TA-S-4CM",
+              "operation": "突袭TA-S-4",
+              "levelId": "activities/act49side/level_act49side_sub-1-4",
+              "name": "《经纬运筹》",
+              "description": "以棋法比兵法，尤重于阴阳、心术、形势。凡卦象、星辰、日月、气候以及臧否奖惩、医药之用诸说，莫不具载。读之似见将军出塞，用之可拟猛士临边。\\n<@lv.item><特殊条件></>部署费用自然回复速度降低\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n<椿>释放【代序】的频率增加"
+            },
+            {
+              "id": "TA-MO-1",
+              "operation": "TA-MO-1",
+              "levelId": "activities/act49side/level_act49side_mo01",
+              "name": "待启封的锦囊",
+              "description": "形容枯槁的谋士消失在漆黑的雪夜里。你拆开他留下的最后一枚锦囊，嚯，又是一手冰冷的杀招。可于你而言，这杀招，何尝不是一份温暖的“祝福”呢？\\n<@lv.item><特殊条件></>部署费用不再自然回复\\n<@lv.item><书刀></>可以调整字的位置\\n<@lv.item><字格></>一定间隔后落下活字印章，对敌我造成真实伤害，若有字则产生对应效果",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
+          "id": "act2break",
+          "episode": "矢量突破#2 巫术之夜",
+          "childNodes": [
+            {
+              "id": "VEC-01",
+              "operation": "VEC-01",
+              "levelId": "activities/act2break/level_act2break_01",
+              "name": "此面朝上",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-02",
+              "operation": "VEC-02",
+              "levelId": "activities/act2break/level_act2break_02",
+              "name": "高心率追逐",
+              "description": null,
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-03",
+              "operation": "VEC-03",
+              "levelId": "activities/act2break/level_act2break_03",
+              "name": "蜿蜒单行道",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-04",
+              "operation": "VEC-04",
+              "levelId": "activities/act2break/level_act2break_04",
+              "name": "空间盲点",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-05",
+              "operation": "VEC-05",
+              "levelId": "activities/act2break/level_act2break_05",
+              "name": "一线胜机",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-06",
+              "operation": "VEC-06",
+              "levelId": "activities/act2break/level_act2break_06",
+              "name": "灰烬游行团",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-07",
+              "operation": "VEC-07",
+              "levelId": "activities/act2break/level_act2break_07",
+              "name": "真光层下",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-08",
+              "operation": "VEC-08",
+              "levelId": "activities/act2break/level_act2break_08",
+              "name": "脉冲隔绝术",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-09",
+              "operation": "VEC-09",
+              "levelId": "activities/act2break/level_act2break_09",
+              "name": "紧急逃生",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-10",
+              "operation": "VEC-10",
+              "levelId": "activities/act2break/level_act2break_10",
+              "name": "涣散喧嚣",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-11",
+              "operation": "VEC-11",
+              "levelId": "activities/act2break/level_act2break_11",
+              "name": "生人勿近",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-12",
+              "operation": "VEC-12",
+              "levelId": "activities/act2break/level_act2break_12",
+              "name": "维度误导",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP01",
+              "operation": "VEC-SP01",
+              "levelId": "activities/act2break/level_act2break_sp01",
+              "name": "自有方圆",
+              "description": "不骄不躁，方为处事之道。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP02",
+              "operation": "VEC-SP02",
+              "levelId": "activities/act2break/level_act2break_sp02",
+              "name": "物归原主",
+              "description": "在特定情况下，等待对方自投绝路反而是更好的策略。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP03",
+              "operation": "VEC-SP03",
+              "levelId": "activities/act2break/level_act2break_sp03",
+              "name": "心中一泓",
+              "description": "攻守强弱之间自有平衡可言，不必因为对方威势汹汹就惶恐不安。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP04",
+              "operation": "VEC-SP04",
+              "levelId": "activities/act2break/level_act2break_sp04",
+              "name": "蜂鸣不绝",
+              "description": "也许还有别的办法避免战斗，不过当下除了清除它们已经别无选择了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP05",
+              "operation": "VEC-SP05",
+              "levelId": "activities/act2break/level_act2break_sp05",
+              "name": "污染危机",
+              "description": "你不是第一个希望自己可以避免沾染这片污秽的人，任谁看到面前这糟透了的景象都会这么想。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP06",
+              "operation": "VEC-SP06",
+              "levelId": "activities/act2break/level_act2break_sp06",
+              "name": "躁动冲刺",
+              "description": "有些事情发展起来就会变成这样——看上去有点机会，急匆匆冲过去却发现根本来不及。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP07",
+              "operation": "VEC-SP07",
+              "levelId": "activities/act2break/level_act2break_sp07",
+              "name": "慧眼如炬",
+              "description": "很多时候精心策划的战术就是会被一眼看穿，没办法，只能说努力过了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP13",
+              "operation": "VEC-SP13",
+              "levelId": "activities/act2break/level_act2break_sp08",
+              "name": "南辕北辙",
+              "description": "明明想走向目的地，最后却发现自己越走离目标越远，这样的迷失并不少见。",
+              "hasChallenge": false
+            },
+            {
+              "id": "VEC-SP14",
+              "operation": "VEC-SP14",
+              "levelId": "activities/act2break/level_act2break_sp09",
+              "name": "刺骨苦难",
+              "description": "这种攻击方式看起来很吓人，实际上也很痛苦，而且对战斗双方来说都是如此。",
+              "hasChallenge": false
             }
           ]
         }

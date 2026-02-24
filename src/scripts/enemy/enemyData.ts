@@ -43,8 +43,8 @@ const parseCNData = async () => {
       value = enemy_database[key];
     }else{
       //模式1
-      key = enemy.key;
-      value = enemy.value;
+      key = enemy.key || enemy.Key;
+      value = enemy.value || enemy.Value;
     }
     //如果使用的是ES6模块，那么当你导入一个模块时，如果该模块使用了export default
     //那么导入的对象会有一个default属性，指向默认导出的内容

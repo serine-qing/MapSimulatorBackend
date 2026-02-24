@@ -12,7 +12,7 @@
     "isPredefinedCardsSelectable": false,
     "displayRestTime": false,
     "maxPlayTime": -1.0,
-    "functionDisableMask": 0,
+    "functionDisableMask": "NONE",
     "configBlackBoard": [
       {
         "key": "dialog_before_battle",
@@ -24,8 +24,7 @@
         "value": 0.0,
         "valueStr": ""
       }
-    ],
-    "enemyTauntLevelPow": 0
+    ]
   },
   "levelId": null,
   "mapId": null,
@@ -172,10 +171,10 @@
     "tiles": [
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -183,14 +182,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -198,14 +197,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -213,14 +212,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -228,14 +227,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -243,14 +242,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -258,14 +257,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -273,14 +272,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -288,14 +287,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -303,14 +302,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -318,14 +317,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -333,14 +332,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -348,14 +347,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -363,14 +362,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -378,14 +377,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -393,14 +392,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -408,14 +407,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -423,14 +422,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -438,14 +437,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -453,14 +452,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -468,14 +467,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -483,14 +482,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -498,14 +497,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -513,14 +512,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -528,14 +527,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -543,14 +542,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -558,14 +557,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -573,14 +572,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -588,14 +587,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -603,14 +602,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -618,14 +617,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -633,14 +632,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -648,14 +647,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -663,14 +662,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -678,14 +677,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -693,14 +692,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -708,14 +707,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -723,14 +722,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -738,14 +737,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -753,14 +752,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -768,14 +767,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -783,14 +782,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -798,14 +797,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -813,14 +812,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -828,14 +827,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -843,14 +842,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -858,14 +857,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -873,14 +872,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -888,14 +887,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -903,14 +902,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -918,14 +917,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -933,14 +932,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -948,14 +947,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -963,14 +962,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -978,14 +977,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -993,14 +992,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1008,14 +1007,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1023,14 +1022,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1038,14 +1037,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1053,14 +1052,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1068,14 +1067,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1083,14 +1082,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1098,14 +1097,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1113,14 +1112,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1128,14 +1127,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1143,14 +1142,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1158,14 +1157,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1173,14 +1172,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1188,14 +1187,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1203,14 +1202,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1218,14 +1217,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1233,14 +1232,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1248,14 +1247,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1263,14 +1262,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1278,14 +1277,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1293,14 +1292,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1308,14 +1307,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1323,14 +1322,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1338,14 +1337,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1353,14 +1352,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1368,14 +1367,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1383,14 +1382,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1398,14 +1397,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1413,14 +1412,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_road",
-        "heightType": 0,
-        "buildableType": 1,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "MELEE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1428,14 +1427,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1443,14 +1442,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1458,14 +1457,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1473,14 +1472,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1488,14 +1487,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1503,14 +1502,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1518,14 +1517,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1533,14 +1532,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1548,14 +1547,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1563,14 +1562,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1578,14 +1577,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1593,14 +1592,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1608,14 +1607,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1623,14 +1622,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1638,14 +1637,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1653,14 +1652,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
-        "heightType": 0,
-        "buildableType": 0,
-        "passableMask": 3,
-        "playerSideMask": 0,
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1668,14 +1667,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1683,14 +1682,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1698,14 +1697,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1713,14 +1712,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1728,14 +1727,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1743,14 +1742,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1758,14 +1757,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1773,14 +1772,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1788,14 +1787,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1803,14 +1802,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1818,14 +1817,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1833,14 +1832,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1848,14 +1847,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1863,14 +1862,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1878,14 +1877,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1893,14 +1892,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1908,14 +1907,14 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
-        "buildableType": 0,
-        "passableMask": 2,
-        "playerSideMask": 0,
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
         "blackboard": [
           {
             "key": "act49side_boss_level_tile_mark",
@@ -1923,21 +1922,21 @@
             "valueStr": "main_field"
           }
         ],
-        "effects": []
+        "effects": null
       }
     ],
-    "blockEdges": [],
-    "tags": [],
-    "effects": [],
-    "layerRects": []
+    "blockEdges": null,
+    "tags": null,
+    "effects": null,
+    "layerRects": null
   },
   "tilesDisallowToLocate": [],
-  "runes": [],
-  "optionalRunes": {},
-  "globalBuffs": [],
+  "runes": null,
+  "optionalRunes": null,
+  "globalBuffs": null,
   "routes": [
     {
-      "motionMode": 0,
+      "motionMode": "WALK",
       "startPosition": {
         "row": 6,
         "col": 6
@@ -2035,7 +2034,7 @@
           "preDelay": 0.0,
           "actions": [
             {
-              "actionType": 0,
+              "actionType": "SPAWN",
               "managedByScheduler": true,
               "key": "enemy_1586_suiy",
               "count": 1,
@@ -2049,15 +2048,11 @@
               "hiddenGroup": null,
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
-              "randomType": 0,
-              "refreshType": 0,
+              "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": false,
-              "forceBlockWaveInBranch": false,
-              "isValid": false,
-              "notCountInTotal": false,
-              "extraMeta": null,
-              "actionId": null
+              "forceBlockWaveInBranch": false
             }
           ]
         }
@@ -2065,7 +2060,7 @@
       "advancedWaveTag": null
     }
   ],
-  "branches": {},
+  "branches": null,
   "predefines": {
     "characterInsts": [],
     "tokenInsts": [
@@ -2074,16 +2069,16 @@
           "row": 2,
           "col": 6
         },
-        "direction": 0,
+        "direction": "UP",
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_330_ycwang",
           "level": 1,
-          "phase": 0,
+          "phase": "PHASE_0",
           "favorPoint": 0,
           "potentialRank": 0
         },
@@ -2091,7 +2086,7 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null
       }
     ],
     "characterCards": [],
@@ -2100,13 +2095,13 @@
         "initialCnt": 0,
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_287_baizi",
           "level": 1,
-          "phase": 0,
+          "phase": "PHASE_0",
           "favorPoint": 0,
           "potentialRank": 0
         },
@@ -2114,19 +2109,19 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null
       },
       {
         "initialCnt": 0,
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_293_suishan",
           "level": 1,
-          "phase": 0,
+          "phase": "PHASE_0",
           "favorPoint": 0,
           "potentialRank": 0
         },
@@ -2134,7 +2129,7 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null
       }
     ]
   },
@@ -2144,9 +2139,8 @@
     "characterCards": [],
     "tokenCards": []
   },
-  "excludeCharIdList": [],
+  "excludeCharIdList": null,
   "randomSeed": 643680670,
   "operaConfig": null,
-  "cameraPlugin": "",
-  "runtimeData": null
+  "cameraPlugin": ""
 }

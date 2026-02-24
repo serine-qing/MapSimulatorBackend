@@ -1538,7 +1538,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false
             }
-          ]
+            ]
         }
       ],
       "advancedWaveTag": null
