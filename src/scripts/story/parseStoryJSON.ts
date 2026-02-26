@@ -5,6 +5,7 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
   const sixStarRuneData = stage_table.sixStarRuneData;
   const keys = Object.keys(stageDatabase);
   const isBossrush = episode.includes("bossrush");
+  const isVecBreak = episode.match(/act(\d+)break/)
   const childNodes: any[] = [];
 
   //三种不同的突袭名
@@ -87,6 +88,8 @@ const parseStoryJSON = (stage_table: any, episode: string, lang: "CN" | "JP" | "
           name += " " + zuizhong;
         }
 
+      }else if(isVecBreak){
+        id = episode + findStage.code;
       }
       
       const stage:{[key: string]: any} = {

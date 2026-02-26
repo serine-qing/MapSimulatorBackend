@@ -13774,7 +13774,7 @@
           "episode": "Vector Breakthrough - Inorganic Matters",
           "childNodes": [
             {
-              "id": "VEC-01",
+              "id": "act1breakVEC-01",
               "operation": "VEC-01",
               "levelId": "activities/act1break/level_act1break_01",
               "name": "Forward Charge",
@@ -13782,7 +13782,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-02",
+              "id": "act1breakVEC-02",
               "operation": "VEC-02",
               "levelId": "activities/act1break/level_act1break_02",
               "name": "Traffic Interception",
@@ -13790,7 +13790,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-03",
+              "id": "act1breakVEC-03",
               "operation": "VEC-03",
               "levelId": "activities/act1break/level_act1break_03",
               "name": "Roaring Tides",
@@ -13798,7 +13798,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-04",
+              "id": "act1breakVEC-04",
               "operation": "VEC-04",
               "levelId": "activities/act1break/level_act1break_04",
               "name": "Mechanical Errors",
@@ -13806,7 +13806,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-05",
+              "id": "act1breakVEC-05",
               "operation": "VEC-05",
               "levelId": "activities/act1break/level_act1break_05",
               "name": "Deathly Pause",
@@ -13814,7 +13814,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-06",
+              "id": "act1breakVEC-06",
               "operation": "VEC-06",
               "levelId": "activities/act1break/level_act1break_06",
               "name": "Double Firing",
@@ -13822,7 +13822,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-07",
+              "id": "act1breakVEC-07",
               "operation": "VEC-07",
               "levelId": "activities/act1break/level_act1break_07",
               "name": "Fruity Ragout",
@@ -13830,7 +13830,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-08",
+              "id": "act1breakVEC-08",
               "operation": "VEC-08",
               "levelId": "activities/act1break/level_act1break_08",
               "name": "Structured Mentality",
@@ -13838,7 +13838,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-09",
+              "id": "act1breakVEC-09",
               "operation": "VEC-09",
               "levelId": "activities/act1break/level_act1break_09",
               "name": "Sandcastle Sorrows",
@@ -13846,7 +13846,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-10",
+              "id": "act1breakVEC-10",
               "operation": "VEC-10",
               "levelId": "activities/act1break/level_act1break_10",
               "name": "Welcome Contingent",
@@ -13854,7 +13854,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-11",
+              "id": "act1breakVEC-11",
               "operation": "VEC-11",
               "levelId": "activities/act1break/level_act1break_11",
               "name": "Blurred Seasons",
@@ -13862,7 +13862,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-12",
+              "id": "act1breakVEC-12",
               "operation": "VEC-12",
               "levelId": "activities/act1break/level_act1break_12",
               "name": "Existential Argumentation",
@@ -13870,7 +13870,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-A",
+              "id": "act1breakVEC-A",
               "operation": "VEC-A",
               "levelId": "activities/act1break/level_act1break_13",
               "name": "Passionate Threat",
@@ -13878,7 +13878,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-B",
+              "id": "act1breakVEC-B",
               "operation": "VEC-B",
               "levelId": "activities/act1break/level_act1break_14",
               "name": "Rumbling Wheels",
@@ -13886,7 +13886,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-C",
+              "id": "act1breakVEC-C",
               "operation": "VEC-C",
               "levelId": "activities/act1break/level_act1break_15",
               "name": "Inverted Thoughts",
@@ -13894,7 +13894,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-D",
+              "id": "act1breakVEC-D",
               "operation": "VEC-D",
               "levelId": "activities/act1break/level_act1break_16",
               "name": "Bounded Rationality",
@@ -13902,7 +13902,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP01",
+              "id": "act1breakVEC-SP01",
               "operation": "VEC-SP01",
               "levelId": "activities/act1break/level_act1break_sp01",
               "name": "Why Rush?",
@@ -13910,7 +13910,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP02",
+              "id": "act1breakVEC-SP02",
               "operation": "VEC-SP02",
               "levelId": "activities/act1break/level_act1break_sp02",
               "name": "No Time For Distractions",
@@ -13918,7 +13918,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP03",
+              "id": "act1breakVEC-SP03",
               "operation": "VEC-SP03",
               "levelId": "activities/act1break/level_act1break_sp03",
               "name": "Covering Fire",
@@ -13926,7 +13926,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP04",
+              "id": "act1breakVEC-SP04",
               "operation": "VEC-SP04",
               "levelId": "activities/act1break/level_act1break_sp04",
               "name": "Gnawed-Out Holes",
@@ -13934,7 +13934,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP05",
+              "id": "act1breakVEC-SP05",
               "operation": "VEC-SP05",
               "levelId": "activities/act1break/level_act1break_sp05",
               "name": "Gnawbeast Tsunami",
@@ -13942,7 +13942,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP06",
+              "id": "act1breakVEC-SP06",
               "operation": "VEC-SP06",
               "levelId": "activities/act1break/level_act1break_sp06",
               "name": "Consumption Choice",
@@ -13950,7 +13950,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP07",
+              "id": "act1breakVEC-SP07",
               "operation": "VEC-SP07",
               "levelId": "activities/act1break/level_act1break_sp07",
               "name": "Investment Returns",
@@ -13958,7 +13958,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP08",
+              "id": "act1breakVEC-SP08",
               "operation": "VEC-SP08",
               "levelId": "activities/act1break/level_act1break_sp08",
               "name": "Venture Capital",
@@ -13966,7 +13966,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP09",
+              "id": "act1breakVEC-SP09",
               "operation": "VEC-SP09",
               "levelId": "activities/act1break/level_act1break_sp09",
               "name": "Long Journey",
@@ -13974,7 +13974,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP10",
+              "id": "act1breakVEC-SP10",
               "operation": "VEC-SP10",
               "levelId": "activities/act1break/level_act1break_sp10",
               "name": "Hurry Everywhere",
@@ -13982,7 +13982,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP11",
+              "id": "act1breakVEC-SP11",
               "operation": "VEC-SP11",
               "levelId": "activities/act1break/level_act1break_sp11",
               "name": "Explosion Scene",
@@ -13990,7 +13990,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP12",
+              "id": "act1breakVEC-SP12",
               "operation": "VEC-SP12",
               "levelId": "activities/act1break/level_act1break_sp12",
               "name": "Witchcraft Rehearsal",
@@ -13998,7 +13998,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP13",
+              "id": "act1breakVEC-SP13",
               "operation": "VEC-SP13",
               "levelId": "activities/act1break/level_act1break_sp13",
               "name": "Witchcraft Performance",
@@ -14006,7 +14006,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP14",
+              "id": "act1breakVEC-SP14",
               "operation": "VEC-SP14",
               "levelId": "activities/act1break/level_act1break_sp14",
               "name": "No Escape",
@@ -14014,7 +14014,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP15",
+              "id": "act1breakVEC-SP15",
               "operation": "VEC-SP15",
               "levelId": "activities/act1break/level_act1break_sp15",
               "name": "Wall Opening",
@@ -14022,7 +14022,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP16",
+              "id": "act1breakVEC-SP16",
               "operation": "VEC-SP16",
               "levelId": "activities/act1break/level_act1break_sp16",
               "name": "One Way Out",
@@ -16275,7 +16275,7 @@
           "episode": "矢量突破#2 巫术之夜",
           "childNodes": [
             {
-              "id": "VEC-01",
+              "id": "act2breakVEC-01",
               "operation": "VEC-01",
               "levelId": "activities/act2break/level_act2break_01",
               "name": "此面朝上",
@@ -16283,7 +16283,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-02",
+              "id": "act2breakVEC-02",
               "operation": "VEC-02",
               "levelId": "activities/act2break/level_act2break_02",
               "name": "高心率追逐",
@@ -16291,7 +16291,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-03",
+              "id": "act2breakVEC-03",
               "operation": "VEC-03",
               "levelId": "activities/act2break/level_act2break_03",
               "name": "蜿蜒单行道",
@@ -16299,7 +16299,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-04",
+              "id": "act2breakVEC-04",
               "operation": "VEC-04",
               "levelId": "activities/act2break/level_act2break_04",
               "name": "空间盲点",
@@ -16307,7 +16307,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-05",
+              "id": "act2breakVEC-05",
               "operation": "VEC-05",
               "levelId": "activities/act2break/level_act2break_05",
               "name": "一线胜机",
@@ -16315,7 +16315,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-06",
+              "id": "act2breakVEC-06",
               "operation": "VEC-06",
               "levelId": "activities/act2break/level_act2break_06",
               "name": "灰烬游行团",
@@ -16323,7 +16323,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-07",
+              "id": "act2breakVEC-07",
               "operation": "VEC-07",
               "levelId": "activities/act2break/level_act2break_07",
               "name": "真光层下",
@@ -16331,7 +16331,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-08",
+              "id": "act2breakVEC-08",
               "operation": "VEC-08",
               "levelId": "activities/act2break/level_act2break_08",
               "name": "脉冲隔绝术",
@@ -16339,7 +16339,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-09",
+              "id": "act2breakVEC-09",
               "operation": "VEC-09",
               "levelId": "activities/act2break/level_act2break_09",
               "name": "紧急逃生",
@@ -16347,7 +16347,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-10",
+              "id": "act2breakVEC-10",
               "operation": "VEC-10",
               "levelId": "activities/act2break/level_act2break_10",
               "name": "涣散喧嚣",
@@ -16355,7 +16355,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-11",
+              "id": "act2breakVEC-11",
               "operation": "VEC-11",
               "levelId": "activities/act2break/level_act2break_11",
               "name": "生人勿近",
@@ -16363,7 +16363,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-12",
+              "id": "act2breakVEC-12",
               "operation": "VEC-12",
               "levelId": "activities/act2break/level_act2break_12",
               "name": "维度误导",
@@ -16371,7 +16371,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP01",
+              "id": "act2breakVEC-SP01",
               "operation": "VEC-SP01",
               "levelId": "activities/act2break/level_act2break_sp01",
               "name": "自有方圆",
@@ -16379,7 +16379,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP02",
+              "id": "act2breakVEC-SP02",
               "operation": "VEC-SP02",
               "levelId": "activities/act2break/level_act2break_sp02",
               "name": "物归原主",
@@ -16387,7 +16387,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP03",
+              "id": "act2breakVEC-SP03",
               "operation": "VEC-SP03",
               "levelId": "activities/act2break/level_act2break_sp03",
               "name": "心中一泓",
@@ -16395,7 +16395,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP04",
+              "id": "act2breakVEC-SP04",
               "operation": "VEC-SP04",
               "levelId": "activities/act2break/level_act2break_sp04",
               "name": "蜂鸣不绝",
@@ -16403,7 +16403,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP05",
+              "id": "act2breakVEC-SP05",
               "operation": "VEC-SP05",
               "levelId": "activities/act2break/level_act2break_sp05",
               "name": "污染危机",
@@ -16411,7 +16411,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP06",
+              "id": "act2breakVEC-SP06",
               "operation": "VEC-SP06",
               "levelId": "activities/act2break/level_act2break_sp06",
               "name": "躁动冲刺",
@@ -16419,7 +16419,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP07",
+              "id": "act2breakVEC-SP07",
               "operation": "VEC-SP07",
               "levelId": "activities/act2break/level_act2break_sp07",
               "name": "慧眼如炬",
@@ -16427,7 +16427,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP13",
+              "id": "act2breakVEC-SP13",
               "operation": "VEC-SP13",
               "levelId": "activities/act2break/level_act2break_sp08",
               "name": "南辕北辙",
@@ -16435,7 +16435,7 @@
               "hasChallenge": false
             },
             {
-              "id": "VEC-SP14",
+              "id": "act2breakVEC-SP14",
               "operation": "VEC-SP14",
               "levelId": "activities/act2break/level_act2break_sp09",
               "name": "刺骨苦难",
