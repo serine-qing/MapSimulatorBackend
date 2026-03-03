@@ -420071,7 +420071,9 @@
             },
             "enemyTags": {
               "m_defined": true,
-              "m_value": []
+              "m_value": [
+                "sarkaz"
+              ]
             },
             "lifePointReduce": {
               "m_defined": true,
@@ -420411,7 +420413,9 @@
             },
             "enemyTags": {
               "m_defined": true,
-              "m_value": []
+              "m_value": [
+                "sarkaz"
+              ]
             },
             "lifePointReduce": {
               "m_defined": true,
@@ -420751,7 +420755,9 @@
             },
             "enemyTags": {
               "m_defined": true,
-              "m_value": []
+              "m_value": [
+                "sarkaz"
+              ]
             },
             "lifePointReduce": {
               "m_defined": true,
@@ -421091,7 +421097,9 @@
             },
             "enemyTags": {
               "m_defined": true,
-              "m_value": []
+              "m_value": [
+                "sarkaz"
+              ]
             },
             "lifePointReduce": {
               "m_defined": true,
@@ -421431,7 +421439,9 @@
             },
             "enemyTags": {
               "m_defined": true,
-              "m_value": []
+              "m_value": [
+                "sarkaz"
+              ]
             },
             "lifePointReduce": {
               "m_defined": true,

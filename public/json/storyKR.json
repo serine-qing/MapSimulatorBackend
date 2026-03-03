@@ -16371,6 +16371,38 @@
               "hasChallenge": false
             },
             {
+              "id": "act2breakVEC-A",
+              "operation": "VEC-A",
+              "levelId": "activities/act2break/level_act2break_13",
+              "name": "可变性方程",
+              "description": "<@vecbreakv2.highlight><降雪></>周期性对所有单位施加寒冷\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-B",
+              "operation": "VEC-B",
+              "levelId": "activities/act2break/level_act2break_14",
+              "name": "十九号车道",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-C",
+              "operation": "VEC-C",
+              "levelId": "activities/act2break/level_act2break_15",
+              "name": "自适应悖论",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-D",
+              "operation": "VEC-D",
+              "levelId": "activities/act2break/level_act2break_16",
+              "name": "认知剥离界域",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
               "id": "act2breakVEC-SP01",
               "operation": "VEC-SP01",
               "levelId": "activities/act2break/level_act2break_sp01",
@@ -16440,6 +16472,62 @@
               "levelId": "activities/act2break/level_act2break_sp09",
               "name": "刺骨苦难",
               "description": "这种攻击方式看起来很吓人，实际上也很痛苦，而且对战斗双方来说都是如此。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP08",
+              "operation": "VEC-SP08",
+              "levelId": "activities/act2break/level_act2break_sp10",
+              "name": "速递怪谈",
+              "description": "偶尔有些信件会拖很久才能送到，派送方究竟把它们运到哪里去了？",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP09",
+              "operation": "VEC-SP09",
+              "levelId": "activities/act2break/level_act2break_sp11",
+              "name": "向死而生",
+              "description": "勇气不是决定一位战士能否胜任的唯一要素，但总归是一个要素。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP10",
+              "operation": "VEC-SP10",
+              "levelId": "activities/act2break/level_act2break_sp12",
+              "name": "狭岸相逢",
+              "description": "无赖们学会两路包夹战术确实令人头疼，在敌人合流之前将他们逐个击破吧！",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP11",
+              "operation": "VEC-SP11",
+              "levelId": "activities/act2break/level_act2break_sp13",
+              "name": "过度狂热",
+              "description": "换作别的场合可能会有人建议为了自身安全不要挡路，不过看看周围，眼下似乎无法采纳这个提议。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP12",
+              "operation": "VEC-SP12",
+              "levelId": "activities/act2break/level_act2break_sp14",
+              "name": "水土不服",
+              "description": "无论能不能适应，总得找到适合自己的位置。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP15",
+              "operation": "VEC-SP15",
+              "levelId": "activities/act2break/level_act2break_sp15",
+              "name": "殊途同归",
+              "description": "话虽这么说，但选好了要走的路可别后悔，犹犹豫豫的话会得不偿失哦。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act2breakVEC-SP16",
+              "operation": "VEC-SP16",
+              "levelId": "activities/act2break/level_act2break_sp16",
+              "name": "夺命光影",
+              "description": "炫目的亮光可以是希望的象征，也可以是毁灭的前兆。",
               "hasChallenge": false
             }
           ]
