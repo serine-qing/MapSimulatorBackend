@@ -16531,6 +16531,164 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act20mini",
+          "episode": "十字路口",
+          "childNodes": [
+            {
+              "id": "CG-1",
+              "operation": "CG-1",
+              "levelId": "activities/act20mini/level_act20mini_01",
+              "name": "掌声之外",
+              "description": "演出谢幕的方式，不会写在任何一张节目单上。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-1CM",
+              "operation": "突袭CG-1",
+              "levelId": "activities/act20mini/level_act20mini_01",
+              "name": "掌声之外",
+              "description": "演出谢幕的方式，不会写在任何一张节目单上。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<@lv.item><弩炮台></>"
+            },
+            {
+              "id": "CG-2",
+              "operation": "CG-2",
+              "levelId": "activities/act20mini/level_act20mini_02",
+              "name": "高脚杯中的泡影",
+              "description": "举杯时所有人都在微笑，那些气泡升起又破碎，像一些不必成真的祝词。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-2CM",
+              "operation": "突袭CG-2",
+              "levelId": "activities/act20mini/level_act20mini_02",
+              "name": "高脚杯中的泡影",
+              "description": "举杯时所有人都在微笑，那些气泡升起又破碎，像一些不必成真的祝词。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分西西里人替换为家族士兵"
+            },
+            {
+              "id": "CG-3",
+              "operation": "CG-3",
+              "levelId": "activities/act20mini/level_act20mini_03",
+              "name": "立约的艺术",
+              "description": "必要的承诺，合理的愿景，以及达成的方式——三者往往不会写在同一张纸上。\\n<@lv.item><道路障碍物></>可以阻挡乌萨斯平民与斗士塔露拉前进，可被我方单位击毁",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-3CM",
+              "operation": "突袭CG-3",
+              "levelId": "activities/act20mini/level_act20mini_03",
+              "name": "立约的艺术",
+              "description": "必要的承诺，合理的愿景，以及达成的方式——三者往往不会写在同一张纸上。\\n<@lv.item><道路障碍物></>可以阻挡乌萨斯平民与斗士塔露拉前进，可被我方单位击毁",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n射手的攻击力提升"
+            },
+            {
+              "id": "CG-4",
+              "operation": "CG-4",
+              "levelId": "activities/act20mini/level_act20mini_04",
+              "name": "醒酒之后",
+              "description": "酒客们也许会想起来承诺过什么，也许不会，真正的谈判可从来不在酒桌上进行，不关酒的事情。\\n<@lv.item><废热喷口></>造成无视敌我的法术伤害并减速敌人，但会使敌人能量增加",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-4CM",
+              "operation": "突袭CG-4",
+              "levelId": "activities/act20mini/level_act20mini_04",
+              "name": "醒酒之后",
+              "description": "酒客们也许会想起来承诺过什么，也许不会，真正的谈判可从来不在酒桌上进行，不关酒的事情。\\n<@lv.item><废热喷口></>造成无视敌我的法术伤害并减速敌人，但会使敌人能量增加",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n匪帮防御者的生命值大幅提升"
+            },
+            {
+              "id": "CG-5",
+              "operation": "CG-5",
+              "levelId": "activities/act20mini/level_act20mini_05",
+              "name": "种豆得豆",
+              "description": "不必在意成熟结果的那颗种子经历了什么，大多数人只会在收割的季节恰如其分地出现，迫不及待而又......充满希望。\\n<@lv.item><深水区></>无法部署，其中的敌方攻击速度和移动速度降低，持续流失生命\\n<@lv.item><特制水上平台></>可部署在深水区，之后该格可部署任意单位，部署的单位撤退时平台损坏",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-5CM",
+              "operation": "突袭CG-5",
+              "levelId": "activities/act20mini/level_act20mini_05",
+              "name": "种豆得豆",
+              "description": "不必在意成熟结果的那颗种子经历了什么，大多数人只会在收割的季节恰如其分地出现，迫不及待而又......充满希望。\\n<@lv.item><深水区></>无法部署，其中的敌方攻击速度和移动速度降低，持续流失生命\\n<@lv.item><特制水上平台></>可部署在深水区，之后该格可部署任意单位，部署的单位撤退时平台损坏",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n控潮术师替换为术师快艇"
+            },
+            {
+              "id": "CG-6",
+              "operation": "CG-6",
+              "levelId": "activities/act20mini/level_act20mini_06",
+              "name": "定价",
+              "description": "当外来的酒比本地的水还便宜时，人们很快就会忘记自己清醒的样子。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><道路障碍物></>可以阻挡乌萨斯平民与斗士塔露拉前进，可被我方单位击毁",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-6CM",
+              "operation": "突袭CG-6",
+              "levelId": "activities/act20mini/level_act20mini_06",
+              "name": "定价",
+              "description": "当外来的酒比本地的水还便宜时，人们很快就会忘记自己清醒的样子。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><道路障碍物></>可以阻挡乌萨斯平民与斗士塔露拉前进，可被我方单位击毁",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n家族角头光环内被击倒的敌人使“血债帐款”额外增加"
+            },
+            {
+              "id": "CG-7",
+              "operation": "CG-7",
+              "levelId": "activities/act20mini/level_act20mini_07",
+              "name": "轻便的行李",
+              "description": "几件旧衣，一把提琴，以及一个不再被追问的名字。\\n<@lv.item><深水区></>无法部署，其中的敌方攻击速度和移动速度降低，持续流失生命\\n<@lv.item><特制水上平台></>可部署在深水区，之后该格可部署任意单位，部署的单位撤退时平台损坏",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-7CM",
+              "operation": "突袭CG-7",
+              "levelId": "activities/act20mini/level_act20mini_07",
+              "name": "轻便的行李",
+              "description": "几件旧衣，一把提琴，以及一个不再被追问的名字。\\n<@lv.item><深水区></>无法部署，其中的敌方攻击速度和移动速度降低，持续流失生命\\n<@lv.item><特制水上平台></>可部署在深水区，之后该格可部署任意单位，部署的单位撤退时平台损坏",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<@lv.item><特制水上平台></>"
+            },
+            {
+              "id": "CG-8",
+              "operation": "CG-8",
+              "levelId": "activities/act20mini/level_act20mini_08",
+              "name": "准入许可",
+              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": true
+            },
+            {
+              "id": "CG-8CM",
+              "operation": "突袭CG-8",
+              "levelId": "activities/act20mini/level_act20mini_08",
+              "name": "准入许可",
+              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的<@lv.item><弩炮台></>，且<@lv.item><弩炮台></>造成的伤害提高"
+            },
+            {
+              "id": "CG-S-1",
+              "operation": "CG-S-1",
+              "levelId": "activities/act20mini/level_act20mini_sub-1-1",
+              "name": "新风向",
+              "description": "风向改变时总是悄无声息，直到所有旗帜都指向同一个方向，人们才后知后觉。",
+              "hasChallenge": false
+            },
+            {
+              "id": "CG-S-2",
+              "operation": "CG-S-2",
+              "levelId": "activities/act20mini/level_act20mini_sub-2-1",
+              "name": "授信之人",
+              "description": "他站在天平的另一端，同样是风险的承担者。他深知，信任不只是出现在赌桌上的筹码。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
