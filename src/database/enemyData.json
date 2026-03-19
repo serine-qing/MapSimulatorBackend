@@ -172391,39 +172391,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "运输汽艇",
-    "JPDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "JPName": "輸送艇",
+    "JPDescription": "水路の埠頭間を行き来しながら素早く資源を分配する動力船。ロドスの識別色に塗られている。「本艦」という概念が拡張、細分化されつつある今、輸送という言葉もその現状に適応し、道路と川の間に反映されている。",
     "JPAbilityList": [
       {
-        "text": "不可阻挡，会受到敌人攻击",
+        "text": "ブロック不可。敵の攻撃の対象になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "text": "目的地に到達すると報酬を獲得できる。航行距離が一定以上の場合、さらに追加の報酬を獲得",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "运输汽艇",
-    "ENDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "ENName": "Transport Boat",
+    "ENDescription": "Boat that distributes resources through the waterways, painted with Rhodes Island's colors. As the concept of 'landship' is deconstructed, transportation becomes more localized, belonging to the roads and rivers.",
     "ENAbilityList": [
       {
-        "text": "不可阻挡，会受到敌人攻击",
+        "text": "Unblockable; can be attacked by enemies",
         "textFormat": "NORMAL"
       },
       {
-        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "text": "Grants rewards when arriving at its destination, and extra rewards for long distance traveled",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "运输汽艇",
-    "KRDescription": "在水网码头间快速分配资源的汽艇，已涂上罗德岛标识颜色。在“本舰”概念被放大肢解的当下，运输这一词汇也随之在地化，反应在道路与河流间。",
+    "KRName": "수송 보트",
+    "KRDescription": "수로망의 항구 사이에서 신속하게 자원을 분배하는 모터보트, 이미 로도스 아일랜드 색상으로 색칠되어 있다. '본함'의 개념이 확대되고 해체된 지금, 수송이라는 단어 역시 지역화되어 도로와 강 사이에서 구현되고 있다.",
     "KRAbilityList": [
       {
-        "text": "不可阻挡，会受到敌人攻击",
+        "text": "저지 불가, 적에게 피격됨",
         "textFormat": "NORMAL"
       },
       {
-        "text": "抵达目的地时有奖励，若航行距离够长有额外奖励",
+        "text": "목적지 도달 시 보상 획득, 이동 거리가 충분히 길면 추가 보상 획득",
         "textFormat": "NORMAL"
       }
     ]
@@ -172498,27 +172498,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "小颚虫",
-    "JPDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "JPName": "コアゴムシ",
+    "JPDescription": "群居性の生物。死ぬ際に特殊なフェロモンを発し、仲間を引き寄せて凶暴化させる。頭部の顎は戦闘に使うだけでなく、交流や環境認識に使われるほか、地位の証としても重要な器官である。とても可愛らしいため、しばしばペットとして飼われている。",
     "JPAbilityList": [
       {
-        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "text": "撃破されると、その作戦中全ての<コアゴムシ>の攻撃力が上昇する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "小颚虫",
-    "ENDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "ENName": "Pincerbug",
+    "ENDescription": "A sociable creature which releases special pheromones upon death, drawing its own kind and increasing their aggression. The pincer on its head is not just used for fighting, but also for communicating, sensing the environment, and determining status. A popular pet due to its cuteness.",
     "ENAbilityList": [
       {
-        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "text": "When defeated, all <Pincerbugs> gain increased ATK for the rest of the operation",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "小颚虫",
-    "KRDescription": "一种群居性生物，死亡时会散发出特殊信息素，吸引同类并令其狂躁。头顶的颚既用于战斗，也是交流、感知环境、确认地位的重要器官。由于很可爱，经常被当做宠物饲养。",
+    "KRName": "집게벌레",
+    "KRDescription": "군집생물의 일종으로, 죽을 때 특수한 페로몬을 방출하여 동족을 끌어들여 흥분하게 만든다. 머리 위의 턱은 전투뿐만 아니라, 의사소통, 환경 감지, 위치 확인 등에 사용되는 중요한 기관이기도 하다. 귀여운 외형 덕분에 애완동물로도 길러진다.",
     "KRAbilityList": [
       {
-        "text": "被击倒后，使本次作战中所有<小颚虫>攻击力提高",
+        "text": "쓰러진 후, 이번 작전에서 모든 <집게벌레>의 공격력 증가",
         "textFormat": "NORMAL"
       }
     ]
@@ -172618,27 +172618,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "吸气乱动机",
-    "JPDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "JPName": "吸い込み暴走マシン",
+    "JPDescription": "前代未聞のアイデアが、何でも受け入れるマネージャー、いい加減な監査員、金儲けに必死な担当者、自主性のない労働者を経由した結果誕生した機械。そこに道理など有りはしない。",
     "JPAbilityList": [
       {
-        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "text": "近くの【エリート】【ボス】以外の敵1体を呑み込み、自身が占めるステージ敵上限+1、最大HPと防御力が上昇（最大3回まで）",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "吸气乱动机",
-    "ENDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "ENName": "Rampaging Vacuum",
+    "ENDescription": "This is what happens when an outlandish idea meets an unscrupulous manager, careless auditors, lazy officers, and workers who do not bother to think about what they are making. Do not expect to find rhyme or reason in it.",
     "ENAbilityList": [
       {
-        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "text": "Devours a nearby non-elite or leader enemy, counting +1 towards stage enemy limit and increasing Max HP and DEF (max 3 times)",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "吸气乱动机",
-    "KRDescription": "破天荒的点子遇上不挑食的经理、懒得看的审计、用力捞的专员和只干活的工人就是这么个结果。不要试图从中找个所以然。",
+    "KRName": "불안한 흡입기",
+    "KRDescription": "황당한 아이디어가 아무거나 받아들이는 관리자, 보는 둥 마는 둥 하는 감사, 열심히 챙기기만 하는 전문가, 자기 일만 하는 직원을 만나면 이런 결과가 나온다. 이유 따위를 찾으려 하지 마라.",
     "KRAbilityList": [
       {
-        "text": "吞下一个附近的非精英或领袖敌人，自身占用关卡敌人上限+1，最大生命值与防御力提高（最多3次）",
+        "text": "주변의 정예 또는 리더가 아닌 적을 삼켜, 자신이 차지하는 스테이지 적 수량 +1, 최대 HP와 방어력 증가 (최대 3회)",
         "textFormat": "NORMAL"
       }
     ]
@@ -172737,39 +172737,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "巨锹虫",
-    "JPDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "JPName": "オオクワムシ",
+    "JPDescription": "アゴムシの群れの中で強い個体だけが群れによって養われ、最終的にオオクワムシへと変化を遂げる。そうした個体は食物を探す役目を負わず、巣の防衛と幼虫の繁殖に専念する。その極めて堅い盾のような鞘翅から、虫好きの間では「盾虫」の名で親しまれている。",
     "JPAbilityList": [
       {
-        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "text": "周囲の敵が<オオクワムシ>の防御力の100%の防御力上昇効果を獲得する（重複不可）",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤两个<小颚虫>",
+        "text": "周期的に<コアゴムシ>を2体召喚する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "巨锹虫",
-    "ENDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "ENName": "Giant Pincerbug",
+    "ENDescription": "The strongest pincerbugs become the pride of their colony. The others bring food to them, while they focus on protecting the colony and producing offspring. Their tough, shield-like elytra have earned them the moniker 'shield-bug'.",
     "ENAbilityList": [
       {
-        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "text": "Nearby enemies gain DEF equal to 100% of <Giant Pincerbug's> DEF (same type of effect does not stack)",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤两个<小颚虫>",
+        "text": "Periodically summons two <Pincerbugs>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "巨锹虫",
-    "KRDescription": "一个颚虫种群中只有强大的个体才会被集体供养并最终变化为巨锹虫，他们不承担寻找食物的责任，而是专注于保护巢穴与生产幼虫。其鞘翅极为坚硬，如同盾牌一般，因此在虫类爱好者中也有“盾虫”的称呼。",
+    "KRName": "거대 집게벌레",
+    "KRDescription": "집게벌레 무리에서도 가장 강한 개체들만이 집단으로 사육되어 거대 집게벌레가 된다. 이들은 먹이를 찾는 책임이 없고, 그저 둥지 보호와 유충의 생산에만 집중한다. 녀석들의 딱딱한 날개집은 방패처럼 단단하여, 곤충 애호가들 사이에서 '방패벌레'라고도 불린다.",
     "KRAbilityList": [
       {
-        "text": "周围敌人获得等于<巨锹虫>防御力100%的防御力加成（同类效果不可叠加）",
+        "text": "주변의 적이 <거대 집게벌레> 방어력의 100%만큼 방어력 획득 (동종 효과 중첩 불가)",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤两个<小颚虫>",
+        "text": "주기적으로 <집게벌레> 2마리 소환",
         "textFormat": "NORMAL"
       }
     ]
@@ -172984,51 +172984,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“徘徊者”",
-    "JPDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "JPName": "「徘徊者」",
+    "JPDescription": "血縁が近かったからか、あるいは同じ境遇にあったからか、いずれにせよ彼とその兄弟は最終的に同じ道を辿り、荒野における怪談の一部となった。命を拒絶し、源石を受け入れる存在と化したのだ。",
     "JPAbilityList": [
       {
-        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "text": "ブロックされていないとき、徐々に防御力と術耐性が上昇し、攻撃力が低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "text": "ブロックされているとき、徐々に攻撃力と攻撃速度が上昇し、防御力と術耐性が低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "text": "数回攻撃後、次の攻撃で対象を<$ba.stun>スタン</>させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“徘徊者”",
-    "ENDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "ENName": "'Wanderer'",
+    "ENDescription": "Be it the guidance of blood or fate, he and his brothers eventually walked the same path, becoming another barrenlands horror story, rejecting life and embracing Originium.",
     "ENAbilityList": [
       {
-        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "text": "When unblocked, DEF and RES gradually increase while ATK decreases",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "text": "When blocked, ATK and ASPD gradually increase while DEF and RES decrease",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "text": "After several attacks, the next attack <$ba.stun>Stuns</> its target",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“徘徊者”",
-    "KRDescription": "无论血缘相近，还是遭遇相同，他与他的兄弟最终都踏上了同样一条路，成为了荒野怪谈的一部分，成为了斥绝生命，拥抱源石的存在。",
+    "KRName": "'배회자'",
+    "KRDescription": "가까운 혈연관계든 같은 불행을 겪었든, 그와 그의 형제는 결국 같은 길을 걷게 되었고, 황야 괴담의 일부가 되어 생명을 거부하고 오리지늄을 끌어안은 존재가 되었다.",
     "KRAbilityList": [
       {
-        "text": "未被阻挡时，逐渐提升防御力和法术抗性，降低攻击力",
+        "text": "저지당하고 있지 않을 때 방어력, 마법 저항 점차 증가, 공격력 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被阻挡时，逐渐提升攻击力和攻击速度，降低防御力和法术抗性",
+        "text": "저지당하고 있을 때 공격력, 공격 속도 점차 증가, 방어력, 마법 저항 점차 감소",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击数次后，下一次攻击会<$ba.stun>晕眩</>目标",
+        "text": "몇 차례 공격 후 다음 공격이 목표를 <$ba.stun>기절</>시킴",
         "textFormat": "NORMAL"
       }
     ]
@@ -173184,99 +173184,99 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "恩慈祷者",
-    "JPDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "JPName": "恩慈の祈祷者",
+    "JPDescription": "彼女の敬虔さと慈愛は誰もが認めるところであり、その手で救われ、生き延びた人々は数知れない。しかし精神の強さも肉体の変化には抗えず、彼女が棺から目覚めた時、救済してきた人々は、彼女にとっての食糧となるだろう。",
     "JPAbilityList": [
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "使周围所有敌人最大生命值提高",
+        "text": "周囲の敵全員の最大HPを上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "text": "周囲に他の敵がいる場合、周期的に周囲の敵3体のHPを一定量回復する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "text": "HPが0になると一度だけ、HPが徐々に回復し、一定時間経過すると第二形態になる。その間、周囲の敵が撃破不可になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "停止治疗其他敌人",
+        "text": "他の敵への治療を停止する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "text": "周期的に周囲の味方ユニットに術ダメージと一定割合の<$ba.dt.neural>神経損傷</>を与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "恩慈祷者",
-    "ENDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "ENName": "Praying Benefactor",
+    "ENDescription": "Her piety and kindness were widely praised, and many owed their lives to her generosity. But that strength of spirit could not fend off physical transformation, and she shall feed upon those whom she saved when she awakens from her coffin.",
     "ENAbilityList": [
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "使周围所有敌人最大生命值提高",
+        "text": "Increases the Max HP of nearby enemies",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "text": "When there are other enemies nearby, periodically heals 3 nearby enemies",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "text": "Slowly recovers HP when defeated for the first time, and switches to 2nd form after some time; nearby enemies cannot be defeated during this time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "停止治疗其他敌人",
+        "text": "Stops healing other enemies",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "text": "Periodically deals Arts damage to nearby allied units and inflicts <$ba.dt.neural>Nervous Impairment</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "恩慈祷者",
-    "KRDescription": "她的虔诚与仁爱有口皆碑，无数人因其施以援手而得以幸存。然而心灵的坚韧敌不过生理的转变，当她从棺椁中醒来时，她所拯救的，也将由她吃食。",
+    "KRName": "은총의 기도자",
+    "KRDescription": "그녀의 경건함과 자애로움은 널리 알려졌고, 수많은 사람이 그녀의 도움으로 살아남을 수 있었다. 그러나 마음의 굳건함도 육체의 변화 앞에서 무너지고 말았다. 관에서 깨어난 순간, 그녀가 구했던 이들은 이제 그녀의 먹잇감이 될 것이다.",
     "KRAbilityList": [
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "使周围所有敌人最大生命值提高",
+        "text": "주변 모든 적의 최대 HP 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周围有其他敌人时，周期性为周围3名敌人回复一定生命值",
+        "text": "주변에 다른 적이 있을 시 주기적으로 주변의 적 3명의 HP를 회복",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态，期间周围敌人无法被击倒",
+        "text": "최초로 쓰러진 후 천천히 HP 회복, 일정 시간 후 제2형태 진입, 해당 기간 동안 주변 적이 쓰러지지 않음",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "停止治疗其他敌人",
+        "text": "다른 적 치료 중단",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性对周围我方单位造成法术伤害，并附带一定比例的<$ba.dt.neural>神经损伤</>",
+        "text": "주기적으로 주변의 아군 유닛에게 마법 대미지를 입히고, 동시에 <$ba.dt.neural>신경 손상</>을 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -173435,111 +173435,111 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "斑斓虫",
-    "JPDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "JPName": "ナナイロムシ",
+    "JPDescription": "アゴムシの群れの中に稀に見られる女王虫。オオクワムシは護衛、コアゴムシは臣民であり、彼女のフェロモンを受け取ったアゴムシは一切を顧みず命令に従うという。通常、一つの群れに女王虫は一匹だけ存在し、新たな女王虫が現れると、先代の個体は自ら退化する。ナナイロムシと呼ばれるゆえんは、彼女を怒らせれば自ずと理解できるはずだ。",
     "JPAbilityList": [
       {
-        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "text": "戦場滞在中、<コアゴムシ>が撃破されると、その周囲の味方ユニットに高い物理ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤一个<巨锹虫>",
+        "text": "周期的に<オオクワムシ>を1体召喚する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "text": "戦場に存在する<オオクワムシ>1体につき、一定割合の物理・術の被ダメージ軽減効果を得る",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "HPが0になると一度だけ、即座に<オオクワムシ>を2体召喚し、HPが徐々に回復し、一定時間経過すると第二形態に移行する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "text": "飛行ユニットになり、攻撃間隔が大幅に短縮し、移動速度が上昇し、攻撃力が大幅に上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "使场上其他感染生物最大生命值大幅提高",
+        "text": "戦場にいる他の【感染生物】の最大HPが大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "斑斓虫",
-    "ENDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "ENName": "Kaleidoqueen",
+    "ENDescription": "The queen of the pincerbugs, protected by giant pincerbugs, and reigning over the smaller pincerbugs. Her pheromone commands other pincerbugs to her will. There is typically only one queen in a colony, as the previous queen will devolve when a new queen emerges. The reason why people call her 'Kaleidoqueen' will become apparent if you anger her.",
     "ENAbilityList": [
       {
-        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "text": "Deals heavy Physical damage to surrounding allied units when all <Pincerbugs> are defeated",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤一个<巨锹虫>",
+        "text": "Periodically summons a <Giant Pincerbug>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "text": "Physical and Arts damage taken is reduced by a certain percentage for each <Giant Pincerbug> on the field",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "Summons 2 <Giant Pincerbugs> and slowly recovers HP when defeated for the first time, then switches to 2nd form after some time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "text": "Becomes Aerial, Attack Interval greatly reduced, Movement Speed increased, and ATK greatly increased",
         "textFormat": "NORMAL"
       },
       {
-        "text": "使场上其他感染生物最大生命值大幅提高",
+        "text": "Greatly increases the Max HP of other Infected Creatures on the field",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "斑斓虫",
-    "KRDescription": "颚虫种群中稀少的王虫，巨锹虫是她的卫士，小颚虫是她的子民，接受到其信息素的颚虫会不顾一切地执行指令。通常一个种群中只会有一只王虫，若有新王虫出现，老王虫会自我退化。而其被称作斑斓虫的原因，在激怒她后便可知晓。",
+    "KRName": "알록달록 벌레",
+    "KRDescription": "집게벌레 무리에서 매우 드물게 존재하는 왕벌레. 거대 집게벌레가 수호자라면, 일반 집게벌레는 그녀의 백성이다. 그녀의 페로몬을 받은 집게벌레들은 어떤 대가를 치르더라도 명령을 수행한다. 보통 한 무리에 왕벌레가 1마리 존재하며, 새로운 왕벌레가 나타나면 기존의 왕벌레는 스스로 퇴화한다. 그리고 왜 '알록달록 벌레'라 불리는지는 화나게 하면 알 수 있을 것이다.",
     "KRAbilityList": [
       {
-        "text": "在场时，所有<小颚虫>被击倒后，对周围我方单位造成大量物理伤害",
+        "text": "모든 <집게벌레>가 쓰러지면 주변의 아군 유닛에게 대량의 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性召唤一个<巨锹虫>",
+        "text": "주기적으로 <거대 집게벌레> 1마리 소환",
         "textFormat": "NORMAL"
       },
       {
-        "text": "场上每有一个<巨锹虫>，都会使自身获得一定比例的物理法术伤害减免",
+        "text": "전장에 있는 <거대 집게벌레> 1마리당 자신은 일정량의 물리 및 마법 대미지 감소 효과 획득",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "首次被击倒后，立即召唤两个<巨锹虫>，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "최초로 쓰러진 후 즉시 <거대 집게벌레> 2마리 소환, 천천히 HP 회복, 일정 시간 후 제2형태 진입",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "变为飞行单位，攻击间隔大幅缩短，移动速度提高，攻击力大幅提高",
+        "text": "공중 유닛으로 변경, 공격 딜레이 대폭 감소, 이동 속도 증가, 공격력 대폭 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "使场上其他感染生物最大生命值大幅提高",
+        "text": "전장 내 모든 감염 생물의 최대 HP를 대폭 증가시킴",
         "textFormat": "NORMAL"
       }
     ]
@@ -173706,111 +173706,111 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“老尖牙”",
-    "JPDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "JPName": "「老いた牙」",
+    "JPDescription": "人以外の生物も同じように感染に苛まれる。命の終わり際では、いかに誇り高き狩人もやがては地に倒れ、最後には塵と化すだろう。しかし、ロドスが沈み、創造主が目覚めた後、いくつかの永久不変の理にもひそかに変化が生じ始めていた。",
     "JPAbilityList": [
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "text": "<$ba.invisible>ステルス</>。攻撃対象を中心とした十字範囲攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "text": "HPが一定割合まで低下するごとに、自身の周囲の配置条件を満たすマスに<源石クラスター>を生成する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "HPが0になると一度だけ、HPが徐々に回復し、一定時間経過すると第二形態になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "text": "第二形態移行後、即座にフィールド上の撤退可能なマスをすべて除去し、その後一定時間配置可能な全てのオペレーターと地形を、ランダムな配置可能マスにランダムな向きで配置し続ける",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "text": "<$ba.invisible>ステルス</>状態が解除され、術ダメージの遠距離攻撃を行うようになる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "text": "攻撃するたびに、戦場の<源石クラスター>が周囲の味方ユニットにダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“老尖牙”",
-    "ENDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "ENName": "'Old Fanged One'",
+    "ENDescription": "Other creatures are just as susceptible to infection as humans. Even the proudest hunter will turn to dust when its life comes to an end. With Rhodes Island sunk and the Creator awakened, however, even the oldest laws have begun to change.",
     "ENAbilityList": [
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "text": "<$ba.invisible>Invisible</>; attacks deal splash damage in a cross area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "text": "After losing a certain percentage of HP, creates [Originium Formations] on deployable tiles around itself",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "Slowly recovers HP when defeated for the first time, and switches to 2nd form after some time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "text": "Upon entering 2nd form, clears all retreatable tiles, and continuously moves deployable Operators and tiles to random deployable positions in random directions for a period of time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "text": "Loses <$ba.invisible>Invisibility</> and performs ranged attacks, dealing Arts damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "text": "On attack, [Originium Formations] deal damage to your nearby units",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“老尖牙”",
-    "KRDescription": "生物与人一样会遭受感染，当生命步入末期时，再高傲的猎手也终将躺倒在地，化作尘齑。然而，在罗德岛沉没，造物主苏醒的时刻之后，有一些亘古不变的常理，也悄然发生了变化。",
+    "KRName": "'늙은 송곳니'",
+    "KRDescription": "생물도 인간처럼 감염에 시달리며, 생명이 말기에 이르면 아무리 오만한 사냥꾼이라도 결국 쓰러져 먼지가 된다. 그러나 로도스 아일랜드가 침몰하고 조물주가 깨어난 이후, 영원불변이라 여겨졌던 몇 가지 이치도 서서히 바뀌기 시작했다.",
     "KRAbilityList": [
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "<$ba.invisible>隐匿</>，攻击造成十字溅射伤害",
+        "text": "<$ba.invisible>은신</> 효과 획득, 공격 시 십자 스플래시 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每当生命值降低一定比例后，在自身周围满足部署条件的地块生成【源石晶簇】",
+        "text": "HP가 일정량 감소할 때마다 자기 주변의 배치 조건을 충족하는 칸에 [오리지늄 결정 군집] 생성",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后，缓慢回复生命值，一段时间后切换至第二形态",
+        "text": "최초로 쓰러진 후 천천히 HP 회복, 일정 시간 후 제2형태 진입",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入第二形态后，立即清空场上可撤退地块，并在一段时间内不断将玩家可部署的干员和地块随机部署至可部署的位置，且朝向随机",
+        "text": "제2형태 진입 후, 즉시 전장 내 모든 철수 가능한 시설을 철수하고, 일정 시간 동안 미배치 오퍼레이터와 시설을 무작위로 배치",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失去<$ba.invisible>隐匿</>，进行远程攻击，并造成法术伤害",
+        "text": "<$ba.invisible>은신</> 효과 무효화, 원거리 공격을 시전해 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每次攻击时，场上的【源石晶簇】会对周围的我方单位造成伤害",
+        "text": "공격할 때마다 전장의 [오리지늄 결정 군집]이 주변의 아군 유닛에게 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -238101,7 +238101,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238117,7 +238117,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238133,7 +238133,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238149,7 +238149,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238282,7 +238282,15 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将获得<“斩胄之剑”>和<“破胄之锤”>以完全形态登场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>初始无敌；被击落时受到伤害以一定比例传递给<假想敌：胄>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>周期性飞向场上攻击力最低的一名干员并自爆，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒受到物理伤害，随后返回<假想敌：胄>身边；飞行途中失去无敌且受到一定次数伤害后会被击落；被击落后，视为地面单位且受到的伤害增加",
         "textFormat": "NORMAL"
       }
     ],
@@ -238310,7 +238318,15 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将获得<“斩胄之剑”>和<“破胄之锤”>以完全形态登场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>初始无敌；被击落时受到伤害以一定比例传递给<假想敌：胄>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>周期性飞向场上攻击力最低的一名干员并自爆，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒受到物理伤害，随后返回<假想敌：胄>身边；飞行途中失去无敌且受到一定次数伤害后会被击落；被击落后，视为地面单位且受到的伤害增加",
         "textFormat": "NORMAL"
       }
     ],
@@ -238338,7 +238354,15 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将获得<“斩胄之剑”>和<“破胄之锤”>以完全形态登场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>初始无敌；被击落时受到伤害以一定比例传递给<假想敌：胄>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>周期性飞向场上攻击力最低的一名干员并自爆，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒受到物理伤害，随后返回<假想敌：胄>身边；飞行途中失去无敌且受到一定次数伤害后会被击落；被击落后，视为地面单位且受到的伤害增加",
         "textFormat": "NORMAL"
       }
     ],
@@ -238366,7 +238390,15 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将展现它的完全形态",
+        "text": "【旧日的剑与锤】在模拟中达成特定条件并进入隐秘核心回合时，<假想敌：胄>将获得<“斩胄之剑”>和<“破胄之锤”>以完全形态登场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>初始无敌；被击落时受到伤害以一定比例传递给<假想敌：胄>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<“斩胄之剑”>和<“破胄之锤”>周期性飞向场上攻击力最低的一名干员并自爆，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒受到物理伤害，随后返回<假想敌：胄>身边；飞行途中失去无敌且受到一定次数伤害后会被击落；被击落后，视为地面单位且受到的伤害增加",
         "textFormat": "NORMAL"
       }
     ]

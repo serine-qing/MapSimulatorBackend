@@ -15017,120 +15017,120 @@
               "id": "RM-TR-1",
               "operation": "RM-TR-1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
-              "name": "荒地前哨",
-              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "name": "Wildland Outpost",
+              "description": "This place used to be one of our outposts on the edge of the barrens. Time, beasts, and scavengers have taken their toll, but it is a good starting point for a factory base that can support further expansion into the wildland.",
               "hasChallenge": false
             },
             {
               "id": "RM-1",
               "operation": "RM-1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
-              "name": "旧城遗址",
-              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "Ruined City",
+              "description": "We found a scrapped plate of unknown affiliation. The marks of battle upon it show the reason it was abandoned. Exercise caution, as there may be more than meets the eye within.\n\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores].",
               "hasChallenge": false
             },
             {
               "id": "RM-2",
               "operation": "RM-2",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
-              "name": "风号峡谷",
-              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "Wailing Canyon",
+              "description": "We found a canyon with roaring winds. The good news is that the area is rich in resources. The bad news is that the resources seem to have been placed there by someone, and that someone is after us.\n\n<@level.highlight>[Ruins]</>When destroyed, turns its own tile into an [Outpost] (deployable for high ground units), with a chance to drop a Basic Armory Plug-in.\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores]",
               "hasChallenge": false
             },
             {
               "id": "RM-3",
               "operation": "RM-3",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
-              "name": "坍塌矿区",
-              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "Collapsed Mines",
+              "description": "We found a devastated mine. The trail of human remains extends from the collapsed tunnels all the way to the surface. It was no mundane mine accident that destroyed this place, and horror stories about shambling wanderers continue to be told.\n\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores]",
               "hasChallenge": false
             },
             {
               "id": "RM-4",
               "operation": "RM-4",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
-              "name": "沉积河床",
-              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "Sedimentary Riverbed",
+              "description": "We found a riverbed with a heavy sediment layer. The salt grains in the mud indicate that seawater was once present in the river. There may be more than just resources buried within the sediment.\n\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores]",
               "hasChallenge": false
             },
             {
               "id": "RM-5",
               "operation": "RM-5",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
-              "name": "斑斓巢穴",
-              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "Kaleidoscopic Nest",
+              "description": "We found a colorful nest belonging to some kind of creature. Samples indicate that the colors are produced by an unusual scale powder, but the creature it came from does not appear in any known records. Its behavior and threat level are unknown at this time.\n\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores]",
               "hasChallenge": false
             },
             {
               "id": "RM-6",
               "operation": "RM-6",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
-              "name": "猎骨荒野",
-              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "name": "Bone-Strewn Wilds",
+              "description": "We found a wasteland littered with carcasses. This place is undoubtedly ruled by an apex predator. The abnormally high levels of Originium activity signify danger, but also the potential for rich Originium deposits.\n\n<@level.highlight>[Rich Vein]</>Deploy a [Surveyor] on it to turn it into an [Originium Mine] that produces [Packaged Cores]\n<@level.highlight>[Active Originium]</>Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and ASPD will be increased significantly.",
               "hasChallenge": false
             },
             {
               "id": "RM-H1",
               "operation": "RM-H1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
-              "name": "岩溶险地",
-              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "name": "Treacherous Karst",
+              "description": "A treacherous environment filled with karsts and deep valleys. We would not tread here unless absolutely necessary. From above, it seems there are only a few stone columns strong enough to provide steady footing. Be careful about what's under your feet.",
               "hasChallenge": false
             },
             {
               "id": "RM-H2",
               "operation": "RM-H2",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
-              "name": "裂壕险地",
-              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "name": "Treacherous Ditches",
+              "description": "A treacherous environment where the ground is full of ditches. We would not tread here unless absolutely necessary. Sharp claws have left their mark on the ground, perhaps trying to dig something up—or keep it hidden.",
               "hasChallenge": false
             },
             {
               "id": "RM-H3",
               "operation": "RM-H3",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
-              "name": "孤隘险地",
-              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "name": "Treacherous Pass",
+              "description": "A treacherous environment with tall peaks surrounding a pass. We would not tread here unless absolutely necessary. Common sense indicates that this place is easy to defend and hard to attack, but there are many around these parts who do not operate according to common sense.",
               "hasChallenge": false
             },
             {
               "id": "RM-H4",
               "operation": "RM-H4",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
-              "name": "断岭险地",
-              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "name": "Treacherous Cliffs",
+              "description": "A treacherous environment where the mountains are separated by sheer cliffs. We would not tread here unless absolutely necessary. The winding mountains beyond the cliffs have created a maze. What you believe to be the sound of thunder could very well be caused by falling rocks.",
               "hasChallenge": false
             },
             {
               "id": "RM-H5",
               "operation": "RM-H5",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
-              "name": "迷窟险地",
-              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "name": "Treacherous Caverns",
+              "description": "A treacherous environment of winding caves. We would not tread here unless absolutely necessary. The tunnel walls carry the sound of small critters moving as a pack, and there is rot and decay in the air.",
               "hasChallenge": false
             },
             {
               "id": "RM-H6",
               "operation": "RM-H6",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
-              "name": "蚀林险地",
-              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "name": "Treacherous Spires",
+              "description": "A treacherous environment of rock formations corroded by wind and sand. We would not tread here unless absolutely necessary. This place lacks many of the conditions necessary for life, but the bleached bones and blood trails demonstrate that life has established its own form of order in this place of death.",
               "hasChallenge": false
             },
             {
               "id": "RM-H7",
               "operation": "RM-H7",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
-              "name": "雾城险地",
-              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "name": "Treacherous City",
+              "description": "A treacherous miasma-filled city ruin. We would not tread here unless absolutely necessary. Catastrophe has caused these broken walls and roads to fade from the memories of those who built them, and a curse has befallen this place. The ruined city is a deadly trap, and we find ourselves in its presence.",
               "hasChallenge": false
             },
             {
               "id": "RM-H8",
               "operation": "RM-H8",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
-              "name": "湖骸险地",
-              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "name": "Treacherous Lake",
+              "description": "A treacherous, dried, collapsed lake bed. We would not tread here unless absolutely necessary. An enormous concrete dome is hidden beneath the bottom of the lake. An explosion of unknown cause has turned this heavily guarded base into a slaughter ground where it is every survivor for themselves, and deadly weapons unbound by rule or reason are now pointed at us.",
               "hasChallenge": false
             }
           ]

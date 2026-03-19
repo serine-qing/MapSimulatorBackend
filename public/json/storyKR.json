@@ -15017,120 +15017,120 @@
               "id": "RM-TR-1",
               "operation": "RM-TR-1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_tr01",
-              "name": "荒地前哨",
-              "description": "这是我们曾经在荒地边缘建立的据点，时间、野兽和游荡的窥伺者们摧毁了它，但它仍可作为一个不错的起点。我们会在这里建立起一座高效运转的生产基地，并由此向荒地深处拓展更多支点。",
+              "name": "황무지 전초기지",
+              "description": "이곳은 예전에 우리가 황무지 경계에 세웠던 거점이다. 지금은 세월과 야수, 그리고 염탐꾼들에 의해 파괴되었지만, 여전히 괜찮은 출발점이 될 수 있다. 우리는 이곳에 효율적인 생산 기지를 세우고, 이를 기반으로 황무지 깊숙한 곳까지 확장할 수 있다.",
               "hasChallenge": false
             },
             {
               "id": "RM-1",
               "operation": "RM-1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_01",
-              "name": "旧城遗址",
-              "description": "我们发现了一座无法确认归属的报废地块。从惨烈的战斗痕迹中不难看出它当初被遗弃的原因，也许其中还躲藏着些什么，务必小心。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "옛 성의 유적지",
+              "description": "우리는 소유주를 알 수 없는 섹터를 하나 발견했다. 처참한 전투 흔적에서 우리는 이 섹터가 버려진 이유를 짐작할 수 있다. 뭐가 숨어 있을지도 모르니, 조심하는 게 좋을 것이다\n\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공",
               "hasChallenge": false
             },
             {
               "id": "RM-2",
               "operation": "RM-2",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_02",
-              "name": "风号峡谷",
-              "description": "我们发现了一处狂风呼啸的峡谷。好消息是，那里资源丰富颇具开采价值，坏消息是，那些资源似乎是被谁刻意藏在那儿的，我们已经被盯上了。\\n\\n<@level.highlight>【废墟】</>被击破后，将自身所部署地块变为【岗哨】（可以部署高台单位），并有概率获得一件低级战术插件\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "바람의 협곡",
+              "description": "우리는 광풍이 휘몰아치는 협곡을 발견했다. 좋은 소식은 그곳에 자원이 풍부해 채굴 가치가 있다는 것이다. 나쁜 소식은 누군가가 의도적으로 그곳에 자원을 숨겨놓은 것 같다는 것과 우리는 이미 표적이 되었다는 사실이다\n\n<@level.highlight>[폐허]</> 격파 시 해당 칸이 [초소]로 변하고(고지대 유닛 배치 가능), 확률적으로 하급 전술 플러그인 획득\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공",
               "hasChallenge": false
             },
             {
               "id": "RM-3",
               "operation": "RM-3",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_03",
-              "name": "坍塌矿区",
-              "description": "我们发现了一片遭到严重破坏的矿区。残存的尸骨从塌方的坑道一直延伸到了地表，摧毁这里的绝非只是一场简单的矿难，关于徘徊之人的恐怖传说至今还在流传。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "무너진 광산",
+              "description": "우리는 심각하게 파괴된 광산을 발견했는데, 유골이 갱도 안쪽에서부터 지상까지 쭉 이어져 있었다. 이곳은 단순한 광산 사고 때문에 파괴된 것이 절대 아니다. 이곳을 배회하는 사람에 관한 무서운 전설은 지금까지 전해지고 있다\n\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공",
               "hasChallenge": false
             },
             {
               "id": "RM-4",
               "operation": "RM-4",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_04",
-              "name": "沉积河床",
-              "description": "我们发现了一段泥沙沉积板结的河床。土壤中的盐粒暗示着这条河流可能曾受海水影响，淤积在河床深处的不止丰富的资源，恐怕还有些别的。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "퇴적된 강바닥",
+              "description": "우리는 진흙과 모래가 퇴적되어 굳은 강바닥을 발견했다. 토양 속 소금 알갱이가 이 강줄기가 해수의 영향을 받았을 가능성을 암시했다. 강바닥 깊은 곳에는 풍부한 자원뿐만 아니라, 아마 다른 것도 침적되어 있을 것이다\n\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공",
               "hasChallenge": false
             },
             {
               "id": "RM-5",
               "operation": "RM-5",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_05",
-              "name": "斑斓巢穴",
-              "description": "我们发现了一个色彩鲜艳的生物巢穴。从采集到的样本来看，艳丽的色彩来自一种奇特的鳞粉，可产生它的生物却从未被任何档案记录过，习性未知，危险性未知。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。",
+              "name": "화려한 둥지",
+              "description": "우리는 색채가 매우 화려한 어떤 생물의 둥지를 발견했다. 채취한 샘플을 살펴본 결과, 그 아름다운 색채는 특이한 비늘 가루에서 비롯된 것이었다. 하지만 그것을 만들어낸 생물은 그 어떤 문서에도 기록된 적 없으며, 그 습성과 위험성 또한 미지수다\n\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공",
               "hasChallenge": false
             },
             {
               "id": "RM-6",
               "operation": "RM-6",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_06",
-              "name": "猎骨荒野",
-              "description": "我们发现了一片铺满猎物骨骸的荒野。占据这里的毫无疑问是一位顶级猎食者。源石活性异常的环境不仅提示着危险，也提示着此处富集源石矿的可能性。\\n\\n<@level.highlight>【富集矿区】</>在其上部署【勘探器】将变为成【源石矿场】，提供【封装矿核】。\\n<@level.highlight>【活性源石】</>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "name": "해골의 황무지",
+              "description": "우리는 해골로 뒤덮인 황무지를 발견했다. 이곳을 차지한 건 먹이사슬의 정점에 오른 포식자임이 분명하다. 오리지늄이 비정상적으로 활성화된 환경은 그 위험성뿐만 아니라, 이곳에 풍부한 오리지늄이 있을 가능성 또한 암시하고 있다\n\n<@level.highlight>[광맥 지대]</> [탐사기] 배치 시 [오리지늄 광산]으로 변하여 [밀봉된 광핵] 제공\n<@level.highlight>[활성 오리지늄]</> 배치된 아군과 통과하는 적은 지속적으로 대미지를 입지만, 공격력과 공격 속도 대폭 증가",
               "hasChallenge": false
             },
             {
               "id": "RM-H1",
               "operation": "RM-H1",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_01",
-              "name": "岩溶险地",
-              "description": "溶洞与深谷密布的艰险环境，如非必要我们绝不会踏足这里。从高处看，仅有几处还算稳固的石柱可供落脚，最好站稳了。",
+              "name": "카르스트 험지",
+              "description": "석회굴과 깊은 계곡이 뒤엉킨 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 높은 곳에서 봐도 발들 디딜 수 있는 석회 기둥이 몇 개 없다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H2",
               "operation": "RM-H2",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_02",
-              "name": "裂壕险地",
-              "description": "地面被深壕撕裂的艰险环境，如非必要我们绝不会踏足这里。土层上残留着尖爪刮过的痕迹，也许它们想在这里挖掘什么，或者，试图掩埋什么。",
+              "name": "깊숙한 참호 험지",
+              "description": "땅이 깊숙이 파인 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 바닥에는 날카로운 발톱 흔적이 남아 있다. 어쩌면 녀석들은 무언가를 파내려 했거나, 무언가를 묻으려 했을지도 모른다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H3",
               "operation": "RM-H3",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_03",
-              "name": "孤隘险地",
-              "description": "群峰环绕着隘口的艰险环境，如非必要我们绝不会踏足这里。按常理说，这样的地形易守难攻，可问题就是这附近的家伙都不太按常理来。",
+              "name": "고립된 관문 험지",
+              "description": "험준한 산들이 관문을 둘러싸고 있는 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 상식적으로 이런 지형은 공격하기 어렵고 방어에 쉽지만, 문제는 이 근처의 녀석들은 그다지 상식적이지 않는 것이다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H4",
               "operation": "RM-H4",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_04",
-              "name": "断岭险地",
-              "description": "深壑截断了峻岭的艰险环境，如非必要我们绝不会踏足这里。在悬崖峭壁的另一侧，褶皱扭曲的山体构造出了一片迷宫，如果听到雷声轰鸣，那很可能是一块落石。",
+              "name": "끊어진 산릉 험지",
+              "description": "깊은 골짜기가 준령을 가로막은 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 절벽 너머에는 주름지고 비틀린 산체가 미로를 이루고 있다. 만약 천둥 같은 굉음이 들린다면, 그건 아마 떨어지는 바위일 것이다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H5",
               "operation": "RM-H5",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_05",
-              "name": "迷窟险地",
-              "description": "洞穴纵横交错的艰险环境，如非必要我们绝不会踏足这里。小型生物密集移动的声音沿着岩壁传播，空气中弥漫着腥腐的气息。",
+              "name": "미로의 동굴 험지",
+              "description": "동굴이 복잡하게 얽히고설킨 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 작은 생물들이 무리 지어 이동하는 소리가 암벽을 따라 퍼지고, 공기 중에는 비린내와 썩은 내가 짙게 배어 있다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H6",
               "operation": "RM-H6",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_06",
-              "name": "蚀林险地",
-              "description": "风沙侵蚀着石林的艰险环境，如非必要我们绝不会踏足这里。这里缺乏生物生存的诸多必要条件，但遍地的白骨与血痕证明，一些生物在死亡中建立起了秩序。",
+              "name": "침식의 숲 험지",
+              "description": "모래바람이 돌숲을 침식하고 있는 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 이곳은 생물이 살아가기 위한 많은 필수 조건들이 결핍하지만, 곳곳에 흩어진 해골과 혈흔은 일부 생물들이 죽음 속에서도 질서를 세웠음을 증명한다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H7",
               "operation": "RM-H7",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_07",
-              "name": "雾城险地",
-              "description": "瘴雾笼罩着废城的艰险环境，如非必要我们绝不会踏足这里。无论是何人曾在此建起围墙和甬道，天灾都已将此地驱逐出他们的回忆。毁坏的墙与路已被诅咒，废城变成了一座致命的陷阱，而我们走到了它的面前。",
+              "name": "안개의 성 험지",
+              "description": "독가스가 폐성을 뒤덮고 있는 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 누가 이곳에 성벽과 회랑을 세웠든 간에, 재앙은 이미 그들을 기억 속에서 몰아냈다. 무너진 벽과 파괴된 길은 저주를 받았고, 폐허가 된 성은 치명적인 함정이 되었다. 그리고 우리는 지금, 그 앞에 서 있다.",
               "hasChallenge": false
             },
             {
               "id": "RM-H8",
               "operation": "RM-H8",
               "levelId": "activities/act1vhalfidle/level_act1vhalfidle_hard_08",
-              "name": "湖骸险地",
-              "description": "干涸湖塌陷的艰险环境，如非必要我们绝不会踏足这里。湖底藏匿着巨大的混凝土穹顶，而一场原因不明的爆炸后，曾经守卫严密的基地变为了幸存者互相残杀的屠宰场，不受理智驱使的致命武器正指向我们。",
+              "name": "해골 호수 험지",
+              "description": "메마른 호수가 붕괴된 험난한 환경. 꼭 필요한 게 아니었다면 우리는 결코 이곳에 발을 들이지 않았을 것이다. 호수 바닥에는 거대한 콘크리트 돔이 숨겨져 있고, 원인불명의 폭발로 과거 경비가 삼엄하던 기지는 현재 생존자들이 서로를 죽이는 도살장으로 변했다. 이성이 잃은 치명적인 무기들이 지금 우리를 겨누고 있다.",
               "hasChallenge": false
             }
           ]
