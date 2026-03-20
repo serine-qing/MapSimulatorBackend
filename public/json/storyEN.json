@@ -21666,42 +21666,42 @@
         },
         {
           "id": "main_16",
-          "episode": "反常光谱",
+          "episode": "Abnormal Spectrum",
           "childNodes": [
             {
               "id": "16-2",
               "operation": "16-2",
               "levelId": "obt/main/level_main_16-01",
-              "name": "晨曦遥远",
-              "description": "此处无光可作见证。",
+              "name": "Distant Dawn",
+              "description": "There is no light to bear witness here.",
               "hasChallenge": false
             },
             {
               "id": "16-2CM",
-              "operation": "险地16-2",
+              "operation": "CM 16-2",
               "levelId": "obt/main/level_main_16-01",
-              "name": "晨曦遥远",
-              "description": "此处无光可作见证。\\n<@lv.fs>附加条件：</>\\n矿工游击队的生命值下降",
+              "name": "Distant Dawn",
+              "description": "There is no light to bear witness here.\n<@lv.fs>Condition: </>\nMiner Guerrillas have less HP",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-01_1a",
-                  "runeDesc": "感染者纠察官和感染者高级纠察官生命值提升",
+                  "runeDesc": "Infected Patrol Captain and Elite Infected Patrol Captain have increased HP",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-01_1b",
-                  "runeDesc": "感染者纠察官和感染者高级纠察官攻击力提升",
+                  "runeDesc": "Infected Patrol Captain and Elite Infected Patrol Captain have increased ATK",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-01_2a",
-                  "runeDesc": "可同时部署单位数-2",
+                  "runeDesc": "Deployment Limit -2",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-01_2b",
-                  "runeDesc": "所有我方单位阻挡数-1",
+                  "runeDesc": "Allies have -1 Block",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21710,36 +21710,36 @@
               "id": "16-3",
               "operation": "16-3",
               "levelId": "obt/main/level_main_16-02",
-              "name": "道路以目",
-              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Path in Sight",
+              "description": "Life is a bog that you keep sinking deeper and deeper into, until it swallows you.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-3CM",
-              "operation": "险地16-3",
+              "operation": "CM 16-3",
               "levelId": "obt/main/level_main_16-02",
-              "name": "道路以目",
-              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位再部署时间大幅提升",
+              "name": "Path in Sight",
+              "description": "Life is a bog that you keep sinking deeper and deeper into, until it swallows you.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nAllied units have greatly increased Redeployment Time",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-02_1a",
-                  "runeDesc": "乌萨斯突袭弩手攻击力提升",
+                  "runeDesc": "Ursus Assault Crossbowman ATK increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-02_1b",
-                  "runeDesc": "集团军潜行兵生命值提升",
+                  "runeDesc": "Army Infiltrator HP increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-02_2a",
-                  "runeDesc": "乌萨斯突袭弩手攻击范围提升",
+                  "runeDesc": "Ursus Assault Crossbowman Attack Range increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-02_2b",
-                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeDesc": "More Army Infiltrators appear",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21748,36 +21748,36 @@
               "id": "16-4",
               "operation": "16-4",
               "levelId": "obt/main/level_main_16-03",
-              "name": "友人成众",
-              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Strength in Numbers",
+              "description": "Old friends, new friends... let's start by saying hello.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             },
             {
               "id": "16-4CM",
-              "operation": "险地16-4",
+              "operation": "CM 16-4",
               "levelId": "obt/main/level_main_16-03",
-              "name": "友人成众",
-              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n远程干员部署费用提升",
+              "name": "Strength in Numbers",
+              "description": "Old friends, new friends... let's start by saying hi.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.fs>Condition: </>\nRanged Operators have increased DP Cost",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-03_1a",
-                  "runeDesc": "集团军机动弩手攻击速度提升",
+                  "runeDesc": "Army Mobile Crossbowman ASPD increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-03_1b",
-                  "runeDesc": "集团军机动弩手攻击力提升",
+                  "runeDesc": "Army Mobile Crossbowman ATK increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-03_2a",
-                  "runeDesc": "我方单位攻击速度下降",
+                  "runeDesc": "Allies have reduced ASPD",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-03_2b",
-                  "runeDesc": "我方单位攻击力下降",
+                  "runeDesc": "Allies have reduced ATK",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21786,36 +21786,36 @@
               "id": "16-5",
               "operation": "16-5",
               "levelId": "obt/main/level_main_16-04",
-              "name": "分水岭线",
-              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Dividing Line",
+              "description": "The time has come. Those who stay shall suffer, and even those who leave are not immune.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-5CM",
-              "operation": "险地16-5",
+              "operation": "CM 16-5",
               "levelId": "obt/main/level_main_16-04",
-              "name": "分水岭线",
-              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位最大生命值降低",
+              "name": "Dividing Line",
+              "description": "The time has come. Those who stay shall suffer, and even those who leave are not immune.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nAllied units have reduced max HP",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-04_1a",
-                  "runeDesc": "所有我方单位部署费用+3",
+                  "runeDesc": "Ally DP cost +3",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-04_1b",
-                  "runeDesc": "我方单位再部署时间大幅增加",
+                  "runeDesc": "Allies have greatly increased Redeployment Time",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-04_2a",
-                  "runeDesc": "集团军轻型火炮攻击速度提升",
+                  "runeDesc": "Army Light Artillery ASPD increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-04_2b",
-                  "runeDesc": "集团军轻型火炮生命值大幅提升",
+                  "runeDesc": "Army Light Artillery HP greatly increased",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21824,36 +21824,36 @@
               "id": "16-6",
               "operation": "16-6",
               "levelId": "obt/main/level_main_16-05",
-              "name": "痛觉明灭",
-              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Flickering Pain",
+              "description": "Fear forces a swift decision, whether correct or not.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-6CM",
-              "operation": "险地16-6",
+              "operation": "CM 16-6",
               "levelId": "obt/main/level_main_16-05",
-              "name": "痛觉明灭",
-              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方干员的防御力降低",
+              "name": "Flickering Pain",
+              "description": "Fear forces a swift decision, whether correct or not.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nAllied Operators have reduced DEF",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-05_1a",
-                  "runeDesc": "费用自然回复速度下降",
+                  "runeDesc": "DP regeneration reduced",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-05_1b",
-                  "runeDesc": "出现额外破城者",
+                  "runeDesc": "More Fortbreakers appear",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-05_2a",
-                  "runeDesc": "重装干员的部署费用变为3倍",
+                  "runeDesc": "Defender Operator DP tripled",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-05_2b",
-                  "runeDesc": "破城者会更频繁施放技能",
+                  "runeDesc": "Fortbreakers use their skill more often",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21862,36 +21862,36 @@
               "id": "16-7",
               "operation": "16-7",
               "levelId": "obt/main/level_main_16-06",
-              "name": "最后欢愉",
-              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Final Ecstasy",
+              "description": "Everyone knows that happiness is neither lasting nor eternal. So what?\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             },
             {
               "id": "16-7CM",
-              "operation": "险地16-7",
+              "operation": "CM 16-7",
               "levelId": "obt/main/level_main_16-06",
-              "name": "最后欢愉",
-              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n集团军前线指挥员的生命值大幅提升",
+              "name": "Final Ecstasy",
+              "description": "Everyone knows that happiness is neither lasting nor eternal. So what?\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.fs>Condition: </>\nArmy Frontline Commander has greatly increased HP",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-06_1a",
-                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeDesc": "More Army Infiltrators appear",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-06_1b",
-                  "runeDesc": "出现额外集团军轻型火炮",
+                  "runeDesc": "More Army Light Artillery appear",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-06_2a",
-                  "runeDesc": "战场左侧4个地面位置变为不可部署",
+                  "runeDesc": "4 low-ground tiles on the left side of the map are no longer available for deployment",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-06_2b",
-                  "runeDesc": "战场中央4个地面位置变为不可部署",
+                  "runeDesc": "4 low-ground tiles in the center of the map are no longer available for deployment",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21900,36 +21900,36 @@
               "id": "16-8",
               "operation": "16-8",
               "levelId": "obt/main/level_main_16-07",
-              "name": "无处可寻",
-              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Nowhere to Find",
+              "description": "A bonfire, a house, an answer, or perhaps a love that can be felt.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile",
               "hasChallenge": false
             },
             {
               "id": "16-8CM",
-              "operation": "险地16-8",
+              "operation": "CM 16-8",
               "levelId": "obt/main/level_main_16-07",
-              "name": "无处可寻",
-              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n异质源石虫的屏障量大幅提升",
+              "name": "Nowhere to Find",
+              "description": "A bonfire, a house, an answer, or perhaps a love that can be felt.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nAbnormal Originium Slugs have greatly increased barriers",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-07_1a",
-                  "runeDesc": "初始在场地中的异质源石虫会更早行动",
+                  "runeDesc": "Starting Abnormal Originium Slugs move sooner",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-07_1b",
-                  "runeDesc": "异质源石虫生命值大幅提升",
+                  "runeDesc": "Abnormal Originium Slug HP greatly increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-07_2a",
-                  "runeDesc": "我方单位最大生命值下降",
+                  "runeDesc": "Allies have reduced max HP",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-07_2b",
-                  "runeDesc": "战场中2个地面位置变为不可部署",
+                  "runeDesc": "2 low-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21938,44 +21938,44 @@
               "id": "16-9",
               "operation": "16-9",
               "levelId": "obt/main/level_main_16-08",
-              "name": "疯人的辩护",
-              "description": "谎言，就是你正坚信的事实。",
+              "name": "Defense of the Mad",
+              "description": "The definition of a lie is the truth you believe in.",
               "hasChallenge": false
             },
             {
               "id": "16-10",
               "operation": "16-10",
               "levelId": "obt/main/level_main_16-09",
-              "name": "哭声渐息",
-              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Silenced Cries",
+              "description": "The saddest thing is that sorrow teaches us nothing.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             },
             {
               "id": "16-10CM",
-              "operation": "险地16-10",
+              "operation": "CM 16-10",
               "levelId": "obt/main/level_main_16-09",
-              "name": "哭声渐息",
-              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n可部署单位上限-2",
+              "name": "Silenced Cries",
+              "description": "The saddest thing is that sorrow teaches us nothing.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.fs>Condition: </>\nDeployment Limit -2",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-09_1a",
-                  "runeDesc": "异质源石虫的外壳需要矿工游击队更多次的攻击破除",
+                  "runeDesc": "More Miner Guerrilla attacks required to destroy Abnormal Originium Slug shells",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-09_1b",
-                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeDesc": "Abnormal Originium Slug shell reflect effect increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-09_2a",
-                  "runeDesc": "异质裂兽的外壳需要矿工游击队更多次的攻击破除",
+                  "runeDesc": "More Miner Guerrilla attacks required to destroy Abnormal Manglerbeast shells",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-09_2b",
-                  "runeDesc": "集团军幽灵兵变为可以阻挡2名矿工游击队",
+                  "runeDesc": "Army Phantoms can block 2 Miner Guerrillas",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21984,36 +21984,36 @@
               "id": "16-11",
               "operation": "16-11",
               "levelId": "obt/main/level_main_16-10",
-              "name": "来到坟茔",
-              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。",
+              "name": "Tombstone",
+              "description": "Those who have lost their souls greet you here.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.",
               "hasChallenge": false
             },
             {
               "id": "16-11CM",
-              "operation": "险地16-11",
+              "operation": "CM 16-11",
               "levelId": "obt/main/level_main_16-10",
-              "name": "来到坟茔",
-              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.fs>附加条件：</>\\n出现额外敌人",
+              "name": "Tombstone",
+              "description": "Those who have lost their souls greet you here.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.fs>Condition: </>\nMore enemies will appear",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-10_1a",
-                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeDesc": "Abnormal Originium Slug shell reflect effect increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-10_1b",
-                  "runeDesc": "异质裂兽的外壳额外减少物理与法术伤害",
+                  "runeDesc": "Abnormal Manglerbeast shells reduce additional Physical and Arts damage",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-10_2a",
-                  "runeDesc": "战场中3个地面位置变为不可部署",
+                  "runeDesc": "3 low-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-10_2b",
-                  "runeDesc": "我方单位攻击力下降",
+                  "runeDesc": "Allies have reduced ATK",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22022,36 +22022,36 @@
               "id": "16-12",
               "operation": "16-12",
               "levelId": "obt/main/level_main_16-11",
-              "name": "深埋地底",
-              "description": "从前，你我创造；而今，你我毁灭。",
+              "name": "Six Feet Under",
+              "description": "Once, we created. Now, we destroy.",
               "hasChallenge": false
             },
             {
               "id": "16-12CM",
-              "operation": "险地16-12",
+              "operation": "CM 16-12",
               "levelId": "obt/main/level_main_16-11",
-              "name": "深埋地底",
-              "description": "从前，你我创造；而今，你我毁灭。\\n<@lv.fs>附加条件：</>\\n狂躁异质裂兽的生命值大幅提升",
+              "name": "Six Feet Under",
+              "description": "Once, we created. Now, we destroy.\n<@lv.fs>Condition: </>\nRampaging Abnormal Manglerbeast has greatly increased HP",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-11_1a",
-                  "runeDesc": "狂躁异质裂兽攻击力提升",
+                  "runeDesc": "Rampaging Abnormal Manglerbeast ATK increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-11_1b",
-                  "runeDesc": "狂躁异质裂兽首次逃跑时会强制保留更多比例生命值",
+                  "runeDesc": "Rampaging Abnormal Manglerbeast retains more HP when it runs away for the first time",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-11_2a",
-                  "runeDesc": "无法部署狙击和术师干员",
+                  "runeDesc": "Sniper and Caster Operators cannot be deployed",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-11_2b",
-                  "runeDesc": "无法部署重装和医疗干员",
+                  "runeDesc": "Defender and Medic Operators cannot be deployed",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22060,36 +22060,36 @@
               "id": "16-13",
               "operation": "16-13",
               "levelId": "obt/main/level_main_16-12",
-              "name": "不曾遗忘",
-              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Never Forgotten",
+              "description": "The unbeliever says that religion is bare-handed violence.\nDeactivated ■■:\nA piece of home that <@lv.sp>Retreating Miners</> took with them.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             },
             {
               "id": "16-13CM",
-              "operation": "险地16-13",
+              "operation": "CM 16-13",
               "levelId": "obt/main/level_main_16-12",
-              "name": "不曾遗忘",
-              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n严重污染设施的生命值大幅提升",
+              "name": "Never Forgotten",
+              "description": "The unbeliever says that religion is bare-handed violence.\nDeactivated ■■: \nA piece of home that <@lv.sp>Retreating Miners</> took with them.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.fs>Condition: </>\nHeavily Polluted Facility has greatly increased HP",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-12_1a",
-                  "runeDesc": "出现额外集团军盾卫",
+                  "runeDesc": "More Army Shieldguards appear",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-12_1b",
-                  "runeDesc": "可同时部署单位数-2",
+                  "runeDesc": "Deployment Limit -2",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-12_2a",
-                  "runeDesc": "出现额外严重污染设施",
+                  "runeDesc": "More Heavily Polluted Facilities appear",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-12_2b",
-                  "runeDesc": "“惘核”攻击力大幅提升",
+                  "runeDesc": "'Core of Stupor' ATK greatly increased",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22098,36 +22098,36 @@
               "id": "16-14",
               "operation": "16-14",
               "levelId": "obt/main/level_main_16-13",
-              "name": "唯有坦途",
-              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Lone Path",
+              "description": "Get up, follow the road, go south. Do not forget home, do not go back home.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             },
             {
               "id": "16-14CM",
-              "operation": "险地16-14",
+              "operation": "CM 16-14",
               "levelId": "obt/main/level_main_16-13",
-              "name": "唯有坦途",
-              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n出现额外集团军中坚盾卫",
+              "name": "Lone Path",
+              "description": "Get up, follow the road, go south. Do not forget home, do not go back home.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.fs>Condition: </>\nMore Army Veteran Shieldguards appear",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-13_1a",
-                  "runeDesc": "集团军幽灵兵生命值提升",
+                  "runeDesc": "Army Phantom HP increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-13_1b",
-                  "runeDesc": "集团军中坚盾卫生命值提升",
+                  "runeDesc": "Army Veteran Shieldguard HP increased",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-13_2a",
-                  "runeDesc": "战场右侧2个高台位置变为不可部署",
+                  "runeDesc": "2 high-ground tiles on the right side of the map are no longer available for deployment",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-13_2b",
-                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeDesc": "Abnormal Manglerbeast α ATK increased",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22136,36 +22136,36 @@
               "id": "16-15",
               "operation": "16-15",
               "levelId": "obt/main/level_main_16-14",
-              "name": "旷野轰鸣",
-              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Roaring Wilds",
+              "description": "They tread upon home, upon family, upon foe. They salted the soil, dumped bodies in the river... They are everywhere.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-15CM",
-              "operation": "险地16-15",
+              "operation": "CM 16-15",
               "levelId": "obt/main/level_main_16-14",
-              "name": "旷野轰鸣",
-              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n出现额外集团军重型火炮",
+              "name": "Roaring Wilds",
+              "description": "They tread upon home, upon family, upon foe. They salted the soil, dumped bodies in the river... They are everywhere.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nMore Army Heavy Artillery appear",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-14_1a",
-                  "runeDesc": "费用自然回复速率降低",
+                  "runeDesc": "Natural DP regeneration rate reduced",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-14_1b",
-                  "runeDesc": "战场中3个位置变为不可部署",
+                  "runeDesc": "3 tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-14_2a",
-                  "runeDesc": "集团军重型火炮攻击速度提升",
+                  "runeDesc": "Army Heavy Artillery ASPD increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-14_2b",
-                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeDesc": "Abnormal Manglerbeast α ATK increased",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22174,36 +22174,36 @@
               "id": "16-16",
               "operation": "16-16",
               "levelId": "obt/main/level_main_16-15",
-              "name": "示我以真",
-              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Revealing the Truth",
+              "description": "I shall not accept fiction, nor elaborately dressed falsehood.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-16CM",
-              "operation": "险地16-16",
+              "operation": "CM 16-16",
               "levelId": "obt/main/level_main_16-15",
-              "name": "示我以真",
-              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n“惘核”获得隐匿",
+              "name": "Revealing the Truth",
+              "description": "I shall not accept fiction, nor elaborately dressed falsehood.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\n'Cores of Stupor' are invisible",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-15_1a",
-                  "runeDesc": "狙击、辅助干员部署费用提升至3倍",
+                  "runeDesc": "Sniper and Supporter Operator DP cost tripled",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-15_1b",
-                  "runeDesc": "特种、术师干员部署费用提升至3倍",
+                  "runeDesc": "Specialist and Caster Operator DP cost tripled",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-15_2a",
-                  "runeDesc": "圣愚生命值提升和攻击速度提升",
+                  "runeDesc": "Yurodstvo HP and ASPD increased",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-15_2b",
-                  "runeDesc": "出现额外破城者·Ⅱ型",
+                  "runeDesc": "More Fortbreaker Mk.IIs appear",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22212,36 +22212,36 @@
               "id": "16-17",
               "operation": "16-17",
               "levelId": "obt/main/level_main_16-16",
-              "name": "力竭声嘶",
-              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Voices Unheard",
+              "description": "Hear the weeping, hear the cries, hear the echoes of the declaration that they will endure no more.\nA Forgotten ■■: \nLost behind a battered <@lv.sp>Rock Wall</>.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "16-17CM",
-              "operation": "险地16-17",
+              "operation": "CM 16-17",
               "levelId": "obt/main/level_main_16-16",
-              "name": "力竭声嘶",
-              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n费用不再自然回复，但初始费用提升",
+              "name": "Voices Unheard",
+              "description": "Hear the weeping, hear the cries, hear the echoes of the declaration that they will endure no more.\nA Forgotten ■■: \nLost behind a battered <@lv.sp>Rock Wall</>.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.\n<@lv.fs>Condition: </>\nDP no longer regenerates naturally, but starting DP is increased",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-16_1a",
-                  "runeDesc": "阻道岩壁生命值大幅提升",
+                  "runeDesc": "Rock Wall HP greatly increased",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-16_1b",
-                  "runeDesc": "战场中8个地面位置变为不可部署",
+                  "runeDesc": "8 low-ground tiles on the map are no longer available for deployment",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-16_2a",
-                  "runeDesc": "所有敌人生命值提升",
+                  "runeDesc": "All enemies have increased HP",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-16_2b",
-                  "runeDesc": "帝国炮火中枢先兆者等待时间减少",
+                  "runeDesc": "Imperial Artillery Core Targeteer wait time reduced",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22250,40 +22250,40 @@
               "id": "16-18",
               "operation": "16-18",
               "levelId": "obt/main/level_main_16-17",
-              "name": "红日留驻",
-              "description": "即使那太阳与月亮皆可停留，这愤怒......永不止息。\\n一枚未爆的■■：\\n<@lv.sp>反抗</>了它的使用者。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "The Red Sun Lingers",
+              "description": "Even should the sun and moons stand still, this rage will never end.\nUnexploded ■■:\n<@lv.sp>Resisted</> its user.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "H16-1",
               "operation": "H16-1",
               "levelId": "obt/hard/level_hard_16-01",
-              "name": "异常预案-1",
-              "description": "无声也无踪迹的战友会为你指明前路。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Abnormal Contingency - 1",
+              "description": "Unseen and unheard, your comrades will guide your path.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "H16-2",
               "operation": "H16-2",
               "levelId": "obt/hard/level_hard_16-02",
-              "name": "异常预案-2",
-              "description": "因痛苦而发狂的怪物会让你认清现实。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Abnormal Contingency - 2",
+              "description": "Enraged by pain, the monster will reveal the truth.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "H16-3",
               "operation": "H16-3",
               "levelId": "obt/hard/level_hard_16-03",
-              "name": "异常预案-3",
-              "description": "神出鬼没的对手会使你时刻保持警惕。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "Abnormal Contingency - 3",
+              "description": "Elusive and unpredictable, your foe will keep you on your toes.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.\n<@lv.item><Rock Wall></> Units cannot be deployed on this tile.",
               "hasChallenge": false
             },
             {
               "id": "H16-4",
               "operation": "H16-4",
               "levelId": "obt/hard/level_hard_16-04",
-              "name": "异常预案-4",
-              "description": "无穷无尽的敌人会与你周旋到底。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "Abnormal Contingency - 4",
+              "description": "Endless and inexorable, the enemy will fight to the bitter end.\n<@lv.item><Hidden Tunnel></> Toggles the standby/deployed status of Miner Guerrillas assembled here.\n<@lv.item><Heavily Polluted Facility></> Creates Toxic Pollution around it that prevents deployment and makes enemies invisible.",
               "hasChallenge": false
             }
           ]

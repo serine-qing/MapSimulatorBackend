@@ -21666,42 +21666,42 @@
         },
         {
           "id": "main_16",
-          "episode": "反常光谱",
+          "episode": "비정상 스펙트럼",
           "childNodes": [
             {
               "id": "16-2",
               "operation": "16-2",
               "levelId": "obt/main/level_main_16-01",
-              "name": "晨曦遥远",
-              "description": "此处无光可作见证。",
+              "name": "아득한 새벽빛",
+              "description": "이곳에서는 빛조차 증명해 줄 수 없다.",
               "hasChallenge": false
             },
             {
               "id": "16-2CM",
-              "operation": "险地16-2",
+              "operation": "CM 16-2",
               "levelId": "obt/main/level_main_16-01",
-              "name": "晨曦遥远",
-              "description": "此处无光可作见证。\\n<@lv.fs>附加条件：</>\\n矿工游击队的生命值下降",
+              "name": "아득한 새벽빛",
+              "description": "이곳에서는 빛조차 증명해 줄 수 없다.\n<@lv.fs>제한 조건:</>\n광부 유격대의 HP 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-01_1a",
-                  "runeDesc": "感染者纠察官和感染者高级纠察官生命值提升",
+                  "runeDesc": "감염자 감시관과 감염자 감시관 리더의 HP 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-01_1b",
-                  "runeDesc": "感染者纠察官和感染者高级纠察官攻击力提升",
+                  "runeDesc": "감염자 감시관과 감염자 감시관 리더의 공격력 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-01_2a",
-                  "runeDesc": "可同时部署单位数-2",
+                  "runeDesc": "배치 가능 인원수 -2",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-01_2b",
-                  "runeDesc": "所有我方单位阻挡数-1",
+                  "runeDesc": "모든 아군 유닛의 저지 가능 수 -1",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21710,36 +21710,36 @@
               "id": "16-3",
               "operation": "16-3",
               "levelId": "obt/main/level_main_16-02",
-              "name": "道路以目",
-              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "도로이목",
+              "description": "삶은 늪이다. 그저 빠지고, 또 빠지며, 결국 삼켜질 뿐이다!\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-3CM",
-              "operation": "险地16-3",
+              "operation": "CM 16-3",
               "levelId": "obt/main/level_main_16-02",
-              "name": "道路以目",
-              "description": "生活是沼泽，唯有陷落，陷落，直到被吞没！\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位再部署时间大幅提升",
+              "name": "도로이목",
+              "description": "삶은 늪이다. 그저 빠지고, 또 빠지며, 결국 삼켜질 뿐이다!\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n아군 유닛의 재배치 시간 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-02_1a",
-                  "runeDesc": "乌萨斯突袭弩手攻击力提升",
+                  "runeDesc": "우르수스 석궁 돌격병의 공격력 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-02_1b",
-                  "runeDesc": "集团军潜行兵生命值提升",
+                  "runeDesc": "군단 잠입병의 HP 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-02_2a",
-                  "runeDesc": "乌萨斯突袭弩手攻击范围提升",
+                  "runeDesc": "우르수스 석궁 돌격병의 공격 범위 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-02_2b",
-                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeDesc": "군단 잠입병 추가 등장",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21748,36 +21748,36 @@
               "id": "16-4",
               "operation": "16-4",
               "levelId": "obt/main/level_main_16-03",
-              "name": "友人成众",
-              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "우정 무리",
+              "description": "새로운 친구, 오래된 벗…… 아무튼, 먼저 인사부터 나누자.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             },
             {
               "id": "16-4CM",
-              "operation": "险地16-4",
+              "operation": "CM 16-4",
               "levelId": "obt/main/level_main_16-03",
-              "name": "友人成众",
-              "description": "新朋与旧友......总之，先打个招呼吧。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n远程干员部署费用提升",
+              "name": "우정 무리",
+              "description": "새로운 친구, 오래된 벗…… 아무튼, 먼저 인사부터 나누자.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.fs>제한 조건:</>\n원거리 오퍼레이터의 배치 코스트 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-03_1a",
-                  "runeDesc": "集团军机动弩手攻击速度提升",
+                  "runeDesc": "군단 기동 석궁병의 공격 속도 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-03_1b",
-                  "runeDesc": "集团军机动弩手攻击力提升",
+                  "runeDesc": "군단 기동 석궁병의 공격력 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-03_2a",
-                  "runeDesc": "我方单位攻击速度下降",
+                  "runeDesc": "아군 유닛의 공격 속도 감소",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-03_2b",
-                  "runeDesc": "我方单位攻击力下降",
+                  "runeDesc": "아군 유닛의 공격력 감소",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21786,36 +21786,36 @@
               "id": "16-5",
               "operation": "16-5",
               "levelId": "obt/main/level_main_16-04",
-              "name": "分水岭线",
-              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "분수령",
+              "description": "시간이 됐다. 남은 사람은 계속 고통받게 될 것이고, 떠난 사람도 화를 피하진 못할 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-5CM",
-              "operation": "险地16-5",
+              "operation": "CM 16-5",
               "levelId": "obt/main/level_main_16-04",
-              "name": "分水岭线",
-              "description": "时间到了。选择留下的人必将继续受苦，选择离开的人却也不能免于遭害。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方单位最大生命值降低",
+              "name": "분수령",
+              "description": "시간이 됐다. 남은 사람은 계속 고통받게 될 것이고, 떠난 사람도 화를 피하진 못할 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n아군 유닛의 최대 HP 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-04_1a",
-                  "runeDesc": "所有我方单位部署费用+3",
+                  "runeDesc": "모든 아군 유닛의 배치 코스트 +3",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-04_1b",
-                  "runeDesc": "我方单位再部署时间大幅增加",
+                  "runeDesc": "아군 유닛의 재배치 시간 대폭 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-04_2a",
-                  "runeDesc": "集团军轻型火炮攻击速度提升",
+                  "runeDesc": "군단 경량형 화포의 공격 속도 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-04_2b",
-                  "runeDesc": "集团军轻型火炮生命值大幅提升",
+                  "runeDesc": "군단 경량형 화포의 HP 대폭 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21824,36 +21824,36 @@
               "id": "16-6",
               "operation": "16-6",
               "levelId": "obt/main/level_main_16-05",
-              "name": "痛觉明灭",
-              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "통각 명멸",
+              "description": "두려움은 빠른 결정을 내리게 한다. 비록 그 결정이 언제나 옳은 것은 아니지만.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-6CM",
-              "operation": "险地16-6",
+              "operation": "CM 16-6",
               "levelId": "obt/main/level_main_16-05",
-              "name": "痛觉明灭",
-              "description": "恐惧常使人迅速做出决策，即使这决策并不总是正确。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n我方干员的防御力降低",
+              "name": "통각 명멸",
+              "description": "두려움은 빠른 결정을 내리게 한다. 비록 그 결정이 언제나 옳은 것은 아니지만.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n아군 오퍼레이터의 방어력 감소",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-05_1a",
-                  "runeDesc": "费用自然回复速度下降",
+                  "runeDesc": "배치 코스트 자연 회복 속도 감소",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-05_1b",
-                  "runeDesc": "出现额外破城者",
+                  "runeDesc": "포트브레이커 추가 등장",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-05_2a",
-                  "runeDesc": "重装干员的部署费用变为3倍",
+                  "runeDesc": "디펜더 오퍼레이터의 배치 코스트가 3배로 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-05_2b",
-                  "runeDesc": "破城者会更频繁施放技能",
+                  "runeDesc": "포트브레이커의 스킬 시전 빈도 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21862,36 +21862,36 @@
               "id": "16-7",
               "operation": "16-7",
               "levelId": "obt/main/level_main_16-06",
-              "name": "最后欢愉",
-              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "마지막 기쁨",
+              "description": "모두가 이 기쁨은 잠시일 뿐, 영원과는 거리가 멀다는 걸 안다. 하지만 그게 어때서?\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             },
             {
               "id": "16-7CM",
-              "operation": "险地16-7",
+              "operation": "CM 16-7",
               "levelId": "obt/main/level_main_16-06",
-              "name": "最后欢愉",
-              "description": "所有人都知道这快乐不会长久，远非永恒，可是，那又怎样呢？\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n集团军前线指挥员的生命值大幅提升",
+              "name": "마지막 기쁨",
+              "description": "모두가 이 기쁨은 잠시일 뿐, 영원과는 거리가 멀다는 걸 안다. 하지만 그게 어때서?\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.fs>제한 조건:</>\n군단 전선 지휘관의 HP 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-06_1a",
-                  "runeDesc": "出现额外集团军潜行兵",
+                  "runeDesc": "군단 잠입병 추가 등장",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-06_1b",
-                  "runeDesc": "出现额外集团军轻型火炮",
+                  "runeDesc": "군단 경량형 화포 추가 등장",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-06_2a",
-                  "runeDesc": "战场左侧4个地面位置变为不可部署",
+                  "runeDesc": "전장 내 좌측 4개 지상 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-06_2b",
-                  "runeDesc": "战场中央4个地面位置变为不可部署",
+                  "runeDesc": "전장 내 중앙 4개 지상 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21900,36 +21900,36 @@
               "id": "16-8",
               "operation": "16-8",
               "levelId": "obt/main/level_main_16-07",
-              "name": "无处可寻",
-              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "사라진 흔적",
+              "description": "모닥불, 집, 해답, 혹은 마음이 느껴지는 깊은 사랑.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-8CM",
-              "operation": "险地16-8",
+              "operation": "CM 16-8",
               "levelId": "obt/main/level_main_16-07",
-              "name": "无处可寻",
-              "description": "一堆篝火、一间房屋、一个答案，又或者一份能够为人感知的深爱。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n异质源石虫的屏障量大幅提升",
+              "name": "사라진 흔적",
+              "description": "모닥불, 집, 해답, 혹은 마음이 느껴지는 깊은 사랑.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n변종 원석충의 보호막 수치 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-07_1a",
-                  "runeDesc": "初始在场地中的异质源石虫会更早行动",
+                  "runeDesc": "초기 전장에 있는 변종 원석충이 더 빨리 진격",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-07_1b",
-                  "runeDesc": "异质源石虫生命值大幅提升",
+                  "runeDesc": "변종 원석충의 HP 대폭 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-07_2a",
-                  "runeDesc": "我方单位最大生命值下降",
+                  "runeDesc": "아군 유닛의 최대 HP 감소",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-07_2b",
-                  "runeDesc": "战场中2个地面位置变为不可部署",
+                  "runeDesc": "전장 내 2개 지상 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21938,44 +21938,44 @@
               "id": "16-9",
               "operation": "16-9",
               "levelId": "obt/main/level_main_16-08",
-              "name": "疯人的辩护",
-              "description": "谎言，就是你正坚信的事实。",
+              "name": "미치광이의 변론",
+              "description": "거짓말이란, 당신이 굳게 믿고 있는 사실이다.",
               "hasChallenge": false
             },
             {
               "id": "16-10",
               "operation": "16-10",
               "levelId": "obt/main/level_main_16-09",
-              "name": "哭声渐息",
-              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "잦아든 울음소리",
+              "description": "진정으로 슬픈 것은, 슬픔이 우리에게 아무것도 가르쳐 주지 못한다는 사실이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             },
             {
               "id": "16-10CM",
-              "operation": "险地16-10",
+              "operation": "CM 16-10",
               "levelId": "obt/main/level_main_16-09",
-              "name": "哭声渐息",
-              "description": "真正令人悲伤的是，悲伤并不能教给我们任何东西。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n可部署单位上限-2",
+              "name": "잦아든 울음소리",
+              "description": "진정으로 슬픈 것은, 슬픔이 우리에게 아무것도 가르쳐 주지 못한다는 사실이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.fs>제한 조건:</>\n배치 가능 인원수 -2",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-09_1a",
-                  "runeDesc": "异质源石虫的外壳需要矿工游击队更多次的攻击破除",
+                  "runeDesc": "변종 원석충의 껍데기는 광부 유격대의 공격을 더 여러 번 받아야 파괴됨",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-09_1b",
-                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeDesc": "변종 원석충의 껍데기 반사 피해 효과 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-09_2a",
-                  "runeDesc": "异质裂兽的外壳需要矿工游击队更多次的攻击破除",
+                  "runeDesc": "변종 맹글러비스트의 껍데기는 광부 유격대의 공격을 더 여러 번 받아야 파괴됨",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-09_2b",
-                  "runeDesc": "集团军幽灵兵变为可以阻挡2名矿工游击队",
+                  "runeDesc": "군단 유령병이 광부 유격대 2명 저지 가능으로 변경",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -21984,36 +21984,36 @@
               "id": "16-11",
               "operation": "16-11",
               "levelId": "obt/main/level_main_16-10",
-              "name": "来到坟茔",
-              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。",
+              "name": "무덤 앞",
+              "description": "영혼을 잃은 많은 이들이 이곳에서 영혼을 맞이한다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환",
               "hasChallenge": false
             },
             {
               "id": "16-11CM",
-              "operation": "险地16-11",
+              "operation": "CM 16-11",
               "levelId": "obt/main/level_main_16-10",
-              "name": "来到坟茔",
-              "description": "许多失去灵魂的人，在此迎接。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.fs>附加条件：</>\\n出现额外敌人",
+              "name": "무덤 앞",
+              "description": "영혼을 잃은 많은 이들이 이곳에서 영혼을 맞이한다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.fs>제한 조건:</>\n적 추가 등장",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-10_1a",
-                  "runeDesc": "异质源石虫的外壳反伤效果提升",
+                  "runeDesc": "변종 원석충의 껍데기 반사 피해 효과 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-10_1b",
-                  "runeDesc": "异质裂兽的外壳额外减少物理与法术伤害",
+                  "runeDesc": "변종 맹글러비스트 껍데기의 물리 및 마법 대미지 추가 감소",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-10_2a",
-                  "runeDesc": "战场中3个地面位置变为不可部署",
+                  "runeDesc": "전장 내 3개 지상 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-10_2b",
-                  "runeDesc": "我方单位攻击力下降",
+                  "runeDesc": "아군 유닛의 공격력 감소",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22022,36 +22022,36 @@
               "id": "16-12",
               "operation": "16-12",
               "levelId": "obt/main/level_main_16-11",
-              "name": "深埋地底",
-              "description": "从前，你我创造；而今，你我毁灭。",
+              "name": "깊이 매장",
+              "description": "한때 우리는 함께 창조했으나, 이제 우리는 함께 무너뜨린다.",
               "hasChallenge": false
             },
             {
               "id": "16-12CM",
-              "operation": "险地16-12",
+              "operation": "CM 16-12",
               "levelId": "obt/main/level_main_16-11",
-              "name": "深埋地底",
-              "description": "从前，你我创造；而今，你我毁灭。\\n<@lv.fs>附加条件：</>\\n狂躁异质裂兽的生命值大幅提升",
+              "name": "깊이 매장",
+              "description": "한때 우리는 함께 창조했으나, 이제 우리는 함께 무너뜨린다.\n<@lv.fs>제한 조건:</>\n광란의 변종 맹글러비스트의 HP 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-11_1a",
-                  "runeDesc": "狂躁异质裂兽攻击力提升",
+                  "runeDesc": "광란의 변종 맹글러비스트의 공격력 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-11_1b",
-                  "runeDesc": "狂躁异质裂兽首次逃跑时会强制保留更多比例生命值",
+                  "runeDesc": "광란의 변종 맹글러비스트가 최초 도주 시 더 많은 HP 유지",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-11_2a",
-                  "runeDesc": "无法部署狙击和术师干员",
+                  "runeDesc": "스나이퍼, 캐스터 오퍼레이터 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-11_2b",
-                  "runeDesc": "无法部署重装和医疗干员",
+                  "runeDesc": "디펜더, 메딕 오퍼레이터 배치 불가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22060,36 +22060,36 @@
               "id": "16-13",
               "operation": "16-13",
               "levelId": "obt/main/level_main_16-12",
-              "name": "不曾遗忘",
-              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "불망",
+              "description": "불신자: “신앙은 맨손으로 휘두르는 폭력이다.”\n활성을 잃은 ■■:\n<@lv.sp>철수한 광부</>들이 지닌 고향의 조각.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             },
             {
               "id": "16-13CM",
-              "operation": "险地16-13",
+              "operation": "CM 16-13",
               "levelId": "obt/main/level_main_16-12",
-              "name": "不曾遗忘",
-              "description": "不信者说：“信仰是赤手空拳的暴力。”\\n一块失去活性的■■：\\n由<@lv.sp>撤离的矿工</>所携带的一片故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n严重污染设施的生命值大幅提升",
+              "name": "불망",
+              "description": "불신자: “신앙은 맨손으로 휘두르는 폭력이다.”\n활성을 잃은 ■■:\n<@lv.sp>철수한 광부</>들이 지닌 고향의 조각.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.fs>제한 조건:</>\n고위험 오염 시설의 HP 대폭 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-12_1a",
-                  "runeDesc": "出现额外集团军盾卫",
+                  "runeDesc": "군단 방패병 추가 등장",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-12_1b",
-                  "runeDesc": "可同时部署单位数-2",
+                  "runeDesc": "배치 가능 인원수 -2",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-12_2a",
-                  "runeDesc": "出现额外严重污染设施",
+                  "runeDesc": "고위험 오염 시설 추가 생성",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-12_2b",
-                  "runeDesc": "“惘核”攻击力大幅提升",
+                  "runeDesc": "'망핵'의 공격력 대폭 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22098,36 +22098,36 @@
               "id": "16-14",
               "operation": "16-14",
               "levelId": "obt/main/level_main_16-13",
-              "name": "唯有坦途",
-              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "오로지 순탄한 길뿐",
+              "description": "일어나라, 그 길을 따라 남쪽으로 가라. 고향을 잊지 말되, 고향으로 돌아가지도 마라.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             },
             {
               "id": "16-14CM",
-              "operation": "险地16-14",
+              "operation": "CM 16-14",
               "levelId": "obt/main/level_main_16-13",
-              "name": "唯有坦途",
-              "description": "你且起来，顺着那路，往南走。别遗忘故土，别回到故土。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.fs>附加条件：</>\\n出现额外集团军中坚盾卫",
+              "name": "오로지 순탄한 길뿐",
+              "description": "일어나라, 그 길을 따라 남쪽으로 가라. 고향을 잊지 말되, 고향으로 돌아가지도 마라.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.fs>제한 조건:</>\n군단 중견 방패병 추가 등장",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-13_1a",
-                  "runeDesc": "集团军幽灵兵生命值提升",
+                  "runeDesc": "군단 유령병의 HP 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-13_1b",
-                  "runeDesc": "集团军中坚盾卫生命值提升",
+                  "runeDesc": "군단 중견 방패병의 HP 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-13_2a",
-                  "runeDesc": "战场右侧2个高台位置变为不可部署",
+                  "runeDesc": "전장 내 우측 2개 고지대 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-13_2b",
-                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeDesc": "변종 맹글러비스트 α의 공격력 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22136,36 +22136,36 @@
               "id": "16-15",
               "operation": "16-15",
               "levelId": "obt/main/level_main_16-14",
-              "name": "旷野轰鸣",
-              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "광야의 굉음",
+              "description": "그들은 고향을 짓밟았고, 가족을 짓밟았으며, 원수도 짓밟았다. 그들은 땅에 소금을 뿌리고, 시체를 강물로 내던졌다…… 그들은 어디에나 있다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-15CM",
-              "operation": "险地16-15",
+              "operation": "CM 16-15",
               "levelId": "obt/main/level_main_16-14",
-              "name": "旷野轰鸣",
-              "description": "他们向家园碾去，向亲人碾去，向仇敌碾去；他们在土地上撒盐，将尸身赶进河流中......他们无处不在。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n出现额外集团军重型火炮",
+              "name": "광야의 굉음",
+              "description": "그들은 고향을 짓밟았고, 가족을 짓밟았으며, 원수도 짓밟았다. 그들은 땅에 소금을 뿌리고, 시체를 강물로 내던졌다…… 그들은 어디에나 있다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n군단 중형 화포 추가 등장",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-14_1a",
-                  "runeDesc": "费用自然回复速率降低",
+                  "runeDesc": "배치 코스트 자연 회복 속도 감소",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-14_1b",
-                  "runeDesc": "战场中3个位置变为不可部署",
+                  "runeDesc": "전장 내 3개 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-14_2a",
-                  "runeDesc": "集团军重型火炮攻击速度提升",
+                  "runeDesc": "군단 중형 화포의 공격 속도 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-14_2b",
-                  "runeDesc": "异质裂兽·α攻击力提升",
+                  "runeDesc": "변종 맹글러비스트 α의 공격력 증가",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22174,36 +22174,36 @@
               "id": "16-16",
               "operation": "16-16",
               "levelId": "obt/main/level_main_16-15",
-              "name": "示我以真",
-              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "진실의 계시",
+              "description": "나는 철저한 허구도, 교묘한 포장도 절대 받아들이지 않는다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-16CM",
-              "operation": "险地16-16",
+              "operation": "CM 16-16",
               "levelId": "obt/main/level_main_16-15",
-              "name": "示我以真",
-              "description": "我决不接受彻底的虚构，也决不接受精巧的粉饰。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n“惘核”获得隐匿",
+              "name": "진실의 계시",
+              "description": "나는 철저한 허구도, 교묘한 포장도 절대 받아들이지 않는다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n'망핵'이 은신 효과 획득",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-15_1a",
-                  "runeDesc": "狙击、辅助干员部署费用提升至3倍",
+                  "runeDesc": "스나이퍼, 서포터 오퍼레이터의 배치 코스트가 3배로 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-15_1b",
-                  "runeDesc": "特种、术师干员部署费用提升至3倍",
+                  "runeDesc": "스페셜리스트, 캐스터 오퍼레이터의 배치 코스트가 3배로 증가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-15_2a",
-                  "runeDesc": "圣愚生命值提升和攻击速度提升",
+                  "runeDesc": "유로지비의 HP, 공격 속도 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-15_2b",
-                  "runeDesc": "出现额外破城者·Ⅱ型",
+                  "runeDesc": "포트브레이커 Ⅱ형 추가 등장",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22212,36 +22212,36 @@
               "id": "16-17",
               "operation": "16-17",
               "levelId": "obt/main/level_main_16-16",
-              "name": "力竭声嘶",
-              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "처절한 절규",
+              "description": "우리는 애처로운 울음을, 힘찬 외침을, 인내하지 않겠다고 선언한 모든 말의 메아리를 들어야 한다.\n버려진 ■■:\n무너진 <@lv.sp>암벽</> 뒤에서 잊혔다.\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "16-17CM",
-              "operation": "险地16-17",
+              "operation": "CM 16-17",
               "levelId": "obt/main/level_main_16-16",
-              "name": "力竭声嘶",
-              "description": "要听见哀鸣，听见呐喊，听见一切宣告决不忍耐的话语的回音。\\n一盏被遗弃的■■：\\n失落在残破的<@lv.sp>岩壁</>之后。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。\\n<@lv.fs>附加条件：</>\\n费用不再自然回复，但初始费用提升",
+              "name": "처절한 절규",
+              "description": "우리는 애처로운 울음을, 힘찬 외침을, 인내하지 않겠다고 선언한 모든 말의 메아리를 들어야 한다.\n버려진 ■■:\n무너진 <@lv.sp>암벽</> 뒤에서 잊혔다.\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가\n<@lv.fs>제한 조건:</>\n배치 코스트 자연 회복 불가, 단 초기 배치 코스트 증가",
               "hasChallenge": false,
               "sandTable": [
                 {
                   "runeId": "main_16-16_1a",
-                  "runeDesc": "阻道岩壁生命值大幅提升",
+                  "runeDesc": "차단암벽의 HP 대폭 증가",
                   "runeKey": "rune_level1_1"
                 },
                 {
                   "runeId": "main_16-16_1b",
-                  "runeDesc": "战场中8个地面位置变为不可部署",
+                  "runeDesc": "전장 내 8개 지상 위치에 아군 유닛 배치 불가",
                   "runeKey": "rune_level1_2"
                 },
                 {
                   "runeId": "main_16-16_2a",
-                  "runeDesc": "所有敌人生命值提升",
+                  "runeDesc": "모든 적의 HP 증가",
                   "runeKey": "rune_level2_1"
                 },
                 {
                   "runeId": "main_16-16_2b",
-                  "runeDesc": "帝国炮火中枢先兆者等待时间减少",
+                  "runeDesc": "제국 아틸러리 코어 타게티어 대기 시간 감소",
                   "runeKey": "rune_level2_2"
                 }
               ]
@@ -22250,40 +22250,40 @@
               "id": "16-18",
               "operation": "16-18",
               "levelId": "obt/main/level_main_16-17",
-              "name": "红日留驻",
-              "description": "即使那太阳与月亮皆可停留，这愤怒......永不止息。\\n一枚未爆的■■：\\n<@lv.sp>反抗</>了它的使用者。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "붉은 해가 머무는 곳",
+              "description": "해와 달이 멈출지라도, 이 분노는…… 영원히 멈추지 않는다.\n폭발하지 않은 ■■:\n그 사용자에게 <@lv.sp>저항</>했다.\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "H16-1",
               "operation": "H16-1",
               "levelId": "obt/hard/level_hard_16-01",
-              "name": "异常预案-1",
-              "description": "无声也无踪迹的战友会为你指明前路。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "비정상 대비책-1",
+              "description": "소리도 흔적도 없는 전우가 당신의 앞길을 밝혀 줄 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "H16-2",
               "operation": "H16-2",
               "levelId": "obt/hard/level_hard_16-02",
-              "name": "异常预案-2",
-              "description": "因痛苦而发狂的怪物会让你认清现实。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "비정상 대비책-2",
+              "description": "고통에 미쳐 날뛰는 괴물이 당신을 현실로 이끌어줄 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "H16-3",
               "operation": "H16-3",
               "levelId": "obt/hard/level_hard_16-03",
-              "name": "异常预案-3",
-              "description": "神出鬼没的对手会使你时刻保持警惕。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。\\n<@lv.item><阻道岩壁></>无法在所处地块部署单位。",
+              "name": "비정상 대비책-3",
+              "description": "신출귀몰한 상대가 당신을 항상 경계하게 만들 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득\n<@lv.item><차단암벽></> 해당 위치에 아군 유닛 배치 불가",
               "hasChallenge": false
             },
             {
               "id": "H16-4",
               "operation": "H16-4",
               "levelId": "obt/hard/level_hard_16-04",
-              "name": "异常预案-4",
-              "description": "无穷无尽的敌人会与你周旋到底。\\n<@lv.item><隐蔽矿道></>激活后切换在此集结的矿工游击队的待命/出击状态。\\n<@lv.item><严重污染设施></>使周围地块弥漫高危污染，无法在其中部署且敌人获得隐匿。",
+              "name": "비정상 대비책-4",
+              "description": "끝없이 몰려오는 적들이 끝까지 당신과 대치할 것이다.\n<@lv.item><비밀 갱도></> 발동 시 광부 유격대의 대기/출격 상태 전환\n<@lv.item><고위험 오염 시설></> 주위에 고위험 오염을 퍼뜨려 아군 유닛 배치 불가, 적은 은신 효과 획득",
               "hasChallenge": false
             }
           ]

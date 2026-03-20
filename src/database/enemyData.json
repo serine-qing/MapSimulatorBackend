@@ -28861,39 +28861,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军潜行兵",
-    "JPDescription": "乌萨斯集团军潜行部队的成员，在大部队到达之前，他们早已悄无声息地渗透到战场的每个角落，伺机而动。",
+    "JPName": "ウルサス軍スニーク兵",
+    "JPDescription": "ウルサス軍の潜行部隊の一員。主力部隊が到着する前に、彼らはすでに音もなく戦場の隅々にまで潜り込み、機をうかがっている。",
     "JPAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "ブロック不可",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "最大1人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军潜行兵",
-    "ENDescription": "乌萨斯集团军潜行部队的成员，在大部队到达之前，他们早已悄无声息地渗透到战场的每个角落，伺机而动。",
+    "ENName": "Army Infiltrator",
+    "ENDescription": "Members of the Ursus Infiltrator Squad. They have already infiltrated every corner of the battlefield, waiting for a chance to strike when the main Army arrives.",
     "ENAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "Cannot be blocked.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "Can fight 1 <Miner Guerrilla> at a time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军潜行兵",
-    "KRDescription": "乌萨斯集团军潜行部队的成员，在大部队到达之前，他们早已悄无声息地渗透到战场的每个角落，伺机而动。",
+    "KRName": "군단 잠입병",
+    "KRDescription": "우르수스 군단의 잠입 부대 병사. 본대가 도착하기 전부터 이미 전장 구석구석에 조용히 침투해 기회를 엿보고 있다.",
     "KRAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "저지 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "<광부 유격대> 1명과 교전 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -28974,39 +28974,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军幽灵兵",
-    "JPDescription": "乌萨斯集团军幽灵潜行部队的成员，配备高性能隐蔽装备，只为在战争打响的第一时间完成斩首行动。",
+    "JPName": "ウルサス軍ゴースト兵",
+    "JPDescription": "ウルサス軍の幽霊潜行部隊の一員。戦争が始まると同時に要人を仕留めるために、高性能のステルス装備が配給されている。",
     "JPAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "ブロック不可",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "最大1人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军幽灵兵",
-    "ENDescription": "乌萨斯集团军幽灵潜行部队的成员，配备高性能隐蔽装备，只为在战争打响的第一时间完成斩首行动。",
+    "ENName": "Army Phantom",
+    "ENDescription": "Members of the Ursus Phantom Infiltrator Squad. Equipped with advanced stealth gear, they are tasked with performing the decapitation strike when battle begins.",
     "ENAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "Cannot be blocked.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "Can fight 1 <Miner Guerrilla> at a time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军幽灵兵",
-    "KRDescription": "乌萨斯集团军幽灵潜行部队的成员，配备高性能隐蔽装备，只为在战争打响的第一时间完成斩首行动。",
+    "KRName": "군단 유령병",
+    "KRDescription": "우르수스 군단의 유령 잠입 부대 병사. 고성능 은신 장비를 갖추고 있으며, 이는 전쟁이 시작되는 즉시 참수 작전을 완수하기 위함이다.",
     "KRAbilityList": [
       {
-        "text": "无法被阻挡",
+        "text": "저지 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "<광부 유격대> 1명과 교전 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -29087,39 +29087,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军机动弩手",
-    "JPDescription": "乌萨斯集团军的机动弩手，能快速穿插战场侧翼，持续影响对方的战场决策。机动弩手招募和训练的成本极低，故被乌萨斯军队大批投入各种战场。",
+    "JPName": "ウルサス軍機動狙撃兵",
+    "JPDescription": "ウルサス軍の機動狙撃兵。戦場の側面に素早く割って入り、敵の戦術判断を持続的に乱す。機動狙撃兵の招集や訓練にかかるコストは極めて低いため、ウルサス軍によって大量に各戦場へと投入されている。",
     "JPAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "周囲に味方ユニットか<坑夫遊撃隊員>がいると干渉を受け、遠距離攻撃ができなくなる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "指揮官の<@eb.key>指令</>を受けると、干渉を受ける範囲が縮小する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军机动弩手",
-    "ENDescription": "乌萨斯集团军的机动弩手，能快速穿插战场侧翼，持续影响对方的战场决策。机动弩手招募和训练的成本极低，故被乌萨斯军队大批投入各种战场。",
+    "ENName": "Army Mobile Crossbowman",
+    "ENDescription": "Mobile crossbowmen of the Ursus Army, pushing on the flanks to disrupt and contain the enemy. Cheap to recruit and train, they are often deployed in large numbers.",
     "ENAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "Cannot perform ranged attacks if allied units or <Miner Guerrillas> are nearby",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "Interference area decreased when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军机动弩手",
-    "KRDescription": "乌萨斯集团军的机动弩手，能快速穿插战场侧翼，持续影响对方的战场决策。机动弩手招募和训练的成本极低，故被乌萨斯军队大批投入各种战场。",
+    "KRName": "군단 기동 석궁병",
+    "KRDescription": "우르수스 군단의 기동 석궁병. 전장의 측면을 빠르게 파고들어 상대의 전술에 지속적인 영향을 줄 수 있다. 기동 석궁병의 모집과 훈련에 드는 비용은 매우 낮으며, 이 때문에 우르수스 군대는 이들을 각종 전장에 대규모로 투입한다.",
     "KRAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "주변에 아군 유닛 또는 <광부 유격대>가 있을 시 방해를 받아 원거리 공격 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 방해 범위 축소",
         "textFormat": "NORMAL"
       }
     ]
@@ -29200,39 +29200,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军精锐弩手",
-    "JPDescription": "乌萨斯集团军的精锐弩手，标准配备的重型铳械可贯穿高防御护甲。一名精锐弩手通常会与多名机动弩手编队行动，以保证充足的火力输出。",
+    "JPName": "ウルサス軍精鋭狙撃兵",
+    "JPDescription": "ウルサス軍の精鋭狙撃兵。標準装備の大型クロスボウは分厚い防具をも貫く力を持つ。精鋭狙撃兵は通常、十分な火力を確保するために、複数の機動狙撃兵とチームで行動している。",
     "JPAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "周囲に味方ユニットか<坑夫遊撃隊員>がいると干渉を受け、遠距離攻撃ができなくなる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "指揮官の<@eb.key>指令</>を受けると、干渉を受ける範囲が縮小する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军精锐弩手",
-    "ENDescription": "乌萨斯集团军的精锐弩手，标准配备的重型铳械可贯穿高防御护甲。一名精锐弩手通常会与多名机动弩手编队行动，以保证充足的火力输出。",
+    "ENName": "Army Elite Crossbowman",
+    "ENDescription": "Elite crossbowmen of the Ursus Army, equipped with heavy weapons that can penetrate thick armor. They typically operate in a squad with multiple mobile crossbowmen, ensuring plenty of firepower.",
     "ENAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "Cannot perform ranged attacks if allied units or <Miner Guerrillas> are nearby",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "Interference area decreased when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军精锐弩手",
-    "KRDescription": "乌萨斯集团军的精锐弩手，标准配备的重型铳械可贯穿高防御护甲。一名精锐弩手通常会与多名机动弩手编队行动，以保证充足的火力输出。",
+    "KRName": "군단 정예 석궁병",
+    "KRDescription": "우르수스 군단의 정예 석궁병. 이들의 표준 장비인 중형 석궁은 방어력이 높은 갑옷도 관통할 수 있다. 정예 석궁병 1명은 보통 기동 석궁병 여러 명과 함께 움직이며, 충분한 화력을 보장한다.",
     "KRAbilityList": [
       {
-        "text": "周围有我方单位或<矿工游击队>时被干扰，无法进行远程攻击",
+        "text": "주변에 아군 유닛 또는 <광부 유격대>가 있을 시 방해를 받아 원거리 공격 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时干扰范围缩小",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 방해 범위 축소",
         "textFormat": "NORMAL"
       }
     ]
@@ -29313,39 +29313,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军轻型火炮",
-    "JPDescription": "乌萨斯集团军统一配备的轻型火炮，一般用于城防系统，部分达到使用年限退役的轻型火炮会移交给纠察队，用它们来镇压叛乱已是绰绰有余。",
+    "JPName": "ウルサス軍軽野砲",
+    "JPDescription": "ウルサス軍で統一配備されている軽量型の野砲。通常は都市防衛システムに組み込まれるが、寿命を迎えて戦線を退いた一部の野砲は監視隊に引き渡され、反乱の鎮圧において十分すぎる力を発揮することとなる。",
     "JPAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "攻撃先に燃焼エリアを生成する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "指揮官の<@eb.key>指令</>を受けると、<坑夫遊撃隊員>を優先的に攻撃する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军轻型火炮",
-    "ENDescription": "乌萨斯集团军统一配备的轻型火炮，一般用于城防系统，部分达到使用年限退役的轻型火炮会移交给纠察队，用它们来镇压叛乱已是绰绰有余。",
+    "ENName": "Army Light Artillery",
+    "ENDescription": "Standard-issue light artillery of the Ursus Army, typically used for city defense. Aging artillery are passed down to the Patrol Units, as they are still perfectly adequate for the task of suppressing rebellions.",
     "ENAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "Attacks leave behind a burning area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "Prioritizes <Miner Guerrillas> when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军轻型火炮",
-    "KRDescription": "乌萨斯集团军统一配备的轻型火炮，一般用于城防系统，部分达到使用年限退役的轻型火炮会移交给纠察队，用它们来镇压叛乱已是绰绰有余。",
+    "KRName": "군단 경량형 화포",
+    "KRDescription": "우르수스 군단이 일괄적으로 배치한 경량형 화포. 주로 도시 방어 시스템에 사용되며, 운용 수명이 다해 퇴역한 일부 경량형 화포는 감시팀 인계된다. 반란 진압용으로는 이것만 있어도 충분하다.",
     "KRAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "공격 후 연소 구역 생성",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 <광부 유격대>를 우선 공격",
         "textFormat": "NORMAL"
       }
     ]
@@ -29426,39 +29426,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军重型火炮",
-    "JPDescription": "乌萨斯集团军生产的重型火炮，于五年前的圣骏堡大阅兵首次亮相。据传闻，它发射一颗炮弹就能让整个街区陷入火海，但具体的装备数量至今依然是个谜。",
+    "JPName": "ウルサス軍重野砲",
+    "JPDescription": "ウルサス軍が製造した重量型の野砲。五年前のサンクト・グリファーブルクの軍事パレードで初めてお披露目された。噂によれば、砲弾一発で市街地全体を火の海に変えることができるそうだが、具体的な配備数はいまだ謎に包まれている。",
     "JPAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "攻撃先に燃焼エリアを生成する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "指揮官の<@eb.key>指令</>を受けると、<坑夫遊撃隊員>を優先的に攻撃する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军重型火炮",
-    "ENDescription": "乌萨斯集团军生产的重型火炮，于五年前的圣骏堡大阅兵首次亮相。据传闻，它发射一颗炮弹就能让整个街区陷入火海，但具体的装备数量至今依然是个谜。",
+    "ENName": "Army Heavy Artillery",
+    "ENDescription": "Heavy artillery manufactured by the Ursus Army, first revealed at the Grypherburg Grand Parade five years ago. Rumors say that a single shell from one can engulf an entire city block in flames, but the number of units in service remains unknown.",
     "ENAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "Attacks leave behind a burning area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "Prioritizes <Miner Guerrillas> when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军重型火炮",
-    "KRDescription": "乌萨斯集团军生产的重型火炮，于五年前的圣骏堡大阅兵首次亮相。据传闻，它发射一颗炮弹就能让整个街区陷入火海，但具体的装备数量至今依然是个谜。",
+    "KRName": "군단 중형 화포",
+    "KRDescription": "우르수스 군단이 생산한 중형 화포. 5년 전 디에티 그라이퍼부르크 열병식에서 처음으로 공개됐다. 소문에 따르면, 포탄 1발만으로도 거리 전체를 불바다로 만들 수 있다고 한다. 하지만 실제 배치 수량은 여전히 수수께끼다.",
     "KRAbilityList": [
       {
-        "text": "攻击会留下燃烧区域",
+        "text": "공격 후 연소 구역 생성",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时优先攻击<矿工游击队>",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 <광부 유격대>를 우선 공격",
         "textFormat": "NORMAL"
       }
     ]
@@ -29558,51 +29558,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "破城者",
-    "JPDescription": "乌萨斯第一军工厂研发的战争机器，代表着乌萨斯最先进的武器技术，由于破城者能耗巨大，一般只在极其重要的战役中使用。",
+    "JPName": "フォートブレイカー",
+    "JPDescription": "ウルサス第一軍事工場が開発した戦争兵器。ウルサス最先端の兵器技術の結晶であるが、膨大なエネルギーを消費するため、極めて重大な戦いにのみ投入される。",
     "JPAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "必要ブロック数3。最大3人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "ミサイルを数発発射し範囲ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "指揮官の<@eb.key>指令</>を受けると、ミサイルの発射数が増加する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "破城者",
-    "ENDescription": "乌萨斯第一军工厂研发的战争机器，代表着乌萨斯最先进的武器技术，由于破城者能耗巨大，一般只在极其重要的战役中使用。",
+    "ENName": "Fortbreaker",
+    "ENDescription": "War machine developed by the First Arsenal of Ursus, representing the cutting-edge of Ursus's military technology. Only used in important battles due to massive energy requirements.",
     "ENAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "Can only be blocked by units with at least 3 Block; can fight 3 <Miner Guerrillas> at a time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "Fires several rockets, dealing AoE damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "Fires more rockets when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "破城者",
-    "KRDescription": "乌萨斯第一军工厂研发的战争机器，代表着乌萨斯最先进的武器技术，由于破城者能耗巨大，一般只在极其重要的战役中使用。",
+    "KRName": "포트브레이커",
+    "KRDescription": "우르수스 제1군수공장에서 연구 개발한 전쟁 기계, 우르수스의 첨단 무기 기술의 상징이다. 포트브레이커는 막대한 에너지를 소모하기에, 일반적으로 매우 중요한 전투에만 투입된다.",
     "KRAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "저지 가능 수가 3 이상인 유닛만 저지 가능, <광부 유격대> 3명과 교전 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "유도탄을 여러 발 발사해 광역 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 유도탄 수량 증가",
         "textFormat": "NORMAL"
       }
     ]
@@ -29718,51 +29718,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "破城者·Ⅱ型",
-    "JPDescription": "乌萨斯第一军工厂研发的新一代战争机器，相比于前代，提升了喷气量以及载弹量。工程师依然要在多方面进行取舍，于是，他们取消了驾驶员的逃生舱。",
+    "JPName": "フォートブレイカーⅡ",
+    "JPDescription": "ウルサス第一軍事工場が開発した次世代の戦争兵器。旧型と比べて、噴射量と弾薬の積載量が向上している。しかし例に漏れず技術者たちが多方面での取捨選択を迫られた結果、操縦者の脱出ポッドが廃止された。",
     "JPAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "必要ブロック数3。最大3人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "ミサイルを数発発射し範囲ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "指揮官の<@eb.key>指令</>を受けると、ミサイルの発射数が増加する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "破城者·Ⅱ型",
-    "ENDescription": "乌萨斯第一军工厂研发的新一代战争机器，相比于前代，提升了喷气量以及载弹量。工程师依然要在多方面进行取舍，于是，他们取消了驾驶员的逃生舱。",
+    "ENName": "Fortbreaker Mk-II",
+    "ENDescription": "Next-generation war machine developed by the First Arsenal of Ursus, with increased power output and ammo capacity. The trade-off is that the pilot's escape pod was removed.",
     "ENAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "Can only be blocked by units with at least 3 Block; can fight 3 <Miner Guerrillas> at a time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "Fires several rockets, dealing AoE damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "Fires more rockets when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "破城者·Ⅱ型",
-    "KRDescription": "乌萨斯第一军工厂研发的新一代战争机器，相比于前代，提升了喷气量以及载弹量。工程师依然要在多方面进行取舍，于是，他们取消了驾驶员的逃生舱。",
+    "KRName": "포트브레이커 Ⅱ형",
+    "KRDescription": "우르수스 제1군수공장에서 연구 개발한 신형 전쟁 기계, 이전 세대에 비해 분사량과 탄약 적재량이 향상됐다. 그러나 엔지니어는 여전히 여러 측면에서 타협해야 했고, 결국 조종사의 탈출 포트를 포기했다.",
     "KRAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡，能和3名<矿工游击队>交战",
+        "text": "저지 가능 수가 3 이상인 유닛만 저지 가능, <광부 유격대> 3명과 교전 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "发射数枚飞弹造成范围伤害",
+        "text": "유도탄을 여러 발 발사해 광역 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时飞弹数量增加",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 유도탄 수량 증가",
         "textFormat": "NORMAL"
       }
     ]
@@ -29847,39 +29847,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军盾卫",
-    "JPDescription": "乌萨斯集团军的盾卫，远处，一条若隐若现的黑线正在向前缓缓推进，人们无从知晓那一面面巨盾意味着什么，只知道它们的背后飞尘漫天，哀嚎不绝。",
+    "JPName": "ウルサス軍盾兵",
+    "JPDescription": "ウルサス軍の盾兵。はるか遠く、黒い線のようなものが見え隠れしながら前方へとゆっくりと進んでいく。人々はその巨大な盾の隊列が意味するものを知る由もなく、ただその後方に舞い上がる塵と、尽きぬ悲鳴を記憶に留めた。",
     "JPAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "味方ユニットから狙われやすい。最大3人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "指揮官の<@eb.key>指令</>を受けると、被ダメージが減少する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军盾卫",
-    "ENDescription": "乌萨斯集团军的盾卫，远处，一条若隐若现的黑线正在向前缓缓推进，人们无从知晓那一面面巨盾意味着什么，只知道它们的背后飞尘漫天，哀嚎不绝。",
+    "ENName": "Army Shieldguard",
+    "ENDescription": "Shieldguards of the Ursus Army. In the distance, a faint black line presses slowly forward. No one knows what their massive shields signify, only that screams keep coming from the cloud of dust in their wake.",
     "ENAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "More likely to be attacked by friendly units; can fight 3 <Miner Guerrillas> at a time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "Takes less damage when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军盾卫",
-    "KRDescription": "乌萨斯集团军的盾卫，远处，一条若隐若现的黑线正在向前缓缓推进，人们无从知晓那一面面巨盾意味着什么，只知道它们的背后飞尘漫天，哀嚎不绝。",
+    "KRName": "군단 방패병",
+    "KRDescription": "우르수스 군단의 방패병. 멀리서 나타났다 사라졌다 하는 검은 선이 앞으로 나아간다. 사람들은 거대한 방패가 무엇을 의미하는지 모른다. 그저 그 뒤로 하늘을 뒤덮는 먼지가 일고, 끊임없는 비명만 울릴 뿐.",
     "KRAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "아군 유닛에게 쉽게 피격됨, <광부 유격대> 3명과 교전 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 받는 대미지 감소",
         "textFormat": "NORMAL"
       }
     ]
@@ -29964,39 +29964,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军中坚盾卫",
-    "JPDescription": "乌萨斯集团军的中坚盾卫，负责守卫整支军队的中央指挥部。敌人也许能侥幸突破至此，但绝跨不过这最后一道防线。",
+    "JPName": "ウルサス軍中堅盾兵",
+    "JPDescription": "ウルサス軍の中堅盾兵。軍全体の中央司令部を守る役目を担っている。運良く彼らの眼前までたどり着く敵がいたとしても、決してこの最終防衛線を越えることはできない。",
     "JPAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "味方ユニットから狙われやすい。最大3人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "指揮官の<@eb.key>指令</>を受けると、被ダメージが減少する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军中坚盾卫",
-    "ENDescription": "乌萨斯集团军的中坚盾卫，负责守卫整支军队的中央指挥部。敌人也许能侥幸突破至此，但绝跨不过这最后一道防线。",
+    "ENName": "Army Veteran Shieldguard",
+    "ENDescription": "Veteran Shieldguards of the Ursus army, responsible for defending the command headquarters. Any enemy that makes it that far will not make it past the final line of defense.",
     "ENAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "More likely to be attacked by friendly units; can fight 3 <Miner Guerrillas> at a time",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "Takes less damage when under a commander's <@eb.key>orders</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军中坚盾卫",
-    "KRDescription": "乌萨斯集团军的中坚盾卫，负责守卫整支军队的中央指挥部。敌人也许能侥幸突破至此，但绝跨不过这最后一道防线。",
+    "KRName": "군단 중견 방패병",
+    "KRDescription": "우르수스 군단의 중견 방패병. 부대의 중앙 지휘부 방어를 담당한다. 적이 운 좋게 중앙까지 파고들어도, 이 마지막 방어선만큼은 절대 넘을 수 없다.",
     "KRAbilityList": [
       {
-        "text": "容易受到我方单位的攻击，能和3名<矿工游击队>交战",
+        "text": "아군 유닛에게 쉽게 피격됨, <광부 유격대> 3명과 교전 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到指挥官<@eb.key>指令</>时受到伤害降低",
+        "text": "지휘관의 <@eb.key>명령</>을 받을 시 받는 대미지 감소",
         "textFormat": "NORMAL"
       }
     ]
@@ -30077,39 +30077,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军前线指挥员",
-    "JPDescription": "乌萨斯集团军的前线指挥员，他们从小就在军校接受严苛的训练和教育，乌萨斯以此来确保每一名指挥员都誓死忠于帝国。",
+    "JPName": "ウルサス軍前線指揮兵",
+    "JPDescription": "ウルサス軍の前線指揮兵。ウルサスはすべての指揮兵が帝国に忠誠を誓い、命を捧げるように仕向けるために、幼少の頃から軍学校で過酷な訓練と教育を施している。",
     "JPAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "戦場にいるウルサス軍の敵に<@eb.key>指令</>を与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "最大1人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军前线指挥员",
-    "ENDescription": "乌萨斯集团军的前线指挥员，他们从小就在军校接受严苛的训练和教育，乌萨斯以此来确保每一名指挥员都誓死忠于帝国。",
+    "ENName": "Army Frontline Commander",
+    "ENDescription": "Frontline commanders of the Ursus Army, who have received rigorous training and education from the military academy from a young age, ensuring their absolute loyalty to the empire.",
     "ENAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "Gives <@eb.key>orders</> to Army enemies on the field",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "Can fight 1 <Miner Guerrilla> at a time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军前线指挥员",
-    "KRDescription": "乌萨斯集团军的前线指挥员，他们从小就在军校接受严苛的训练和教育，乌萨斯以此来确保每一名指挥员都誓死忠于帝国。",
+    "KRName": "군단 전선 지휘관",
+    "KRDescription": "우르수스 군단의 전선 지휘관. 이들은 어릴 때부터 군사 학원에서 엄격한 훈련과 교육을 받아 왔으며, 우르수스는 이를 통해 모든 지휘관들이 제국에 충성하도록 한다.",
     "KRAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "전장의 군단 적에게 <@eb.key>명령</>을 내림",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "<광부 유격대> 1명과 교전 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -30190,39 +30190,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "集团军核心指挥官",
-    "JPDescription": "乌萨斯集团军的核心指挥官，没有人会怀疑他们对乌萨斯的忠心，军装上的贵族徽章已经说明了一切。",
+    "JPName": "ウルサス軍中枢指揮官",
+    "JPDescription": "ウルサス軍の中枢指揮官。彼らのウルサスへの忠誠を疑う者はいない。軍服に刻まれた貴族の紋章が、その理由をはっきりと物語っているのだ。",
     "JPAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "戦場にいるウルサス軍の敵に<@eb.key>指令</>を与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "最大1人の<坑夫遊撃隊員>と交戦できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "集团军核心指挥官",
-    "ENDescription": "乌萨斯集团军的核心指挥官，没有人会怀疑他们对乌萨斯的忠心，军装上的贵族徽章已经说明了一切。",
+    "ENName": "Army Senior Commander",
+    "ENDescription": "Senior commanders of the Ursus Army. Their loyalty to Ursus is beyond doubt, signified by the emblems of nobility on their uniform.",
     "ENAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "Gives <@eb.key>orders</> to Army enemies on the field",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "Can fight 1 <Miner Guerrilla> at a time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "集团军核心指挥官",
-    "KRDescription": "乌萨斯集团军的核心指挥官，没有人会怀疑他们对乌萨斯的忠心，军装上的贵族徽章已经说明了一切。",
+    "KRName": "군단 핵심 지휘관",
+    "KRDescription": "우르수스 군단의 핵심 지휘관. 우르수스를 향한 이들의 충성을 의심할 수 있는 사람은 아무도 없다. 이들의 군복 위에 달린 귀족 배지가 이를 증명한다.",
     "KRAbilityList": [
       {
-        "text": "给予战场中集团军敌人<@eb.key>指令</>",
+        "text": "전장의 군단 적에게 <@eb.key>명령</>을 내림",
         "textFormat": "NORMAL"
       },
       {
-        "text": "能和1名<矿工游击队>交战",
+        "text": "<광부 유격대> 1명과 교전 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -30326,39 +30326,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "异质源石虫",
-    "JPDescription": "矿井中的变异生物，矿井深处的环境因不明物质发生了改变，变异源石虫的状态变得极其不稳定，必须对它们保持警惕。",
+    "JPName": "変質オリジムシ",
+    "JPDescription": "坑道に潜む変異生物。坑道奥深くの環境は正体不明の物質によって変質し、変異したオリジムシたちも極めて不安定な状態にある。常に警戒を怠ってはならない。",
     "JPAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "味方ユニットから狙われやすい。被ダメージが減少し、攻撃を受けると、攻撃者に一定の術ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<坑夫遊撃隊員>から数回攻撃を受けると、能力を失う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "异质源石虫",
-    "ENDescription": "矿井中的变异生物，矿井深处的环境因不明物质发生了改变，变异源石虫的状态变得极其不稳定，必须对它们保持警惕。",
+    "ENName": "Abnormal Originium Slug",
+    "ENDescription": "These Originium slugs have mutated due to the environmental changes in the mines, caused by an unknown substance. Approach with care, as they are highly unstable.",
     "ENAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "More likely to be attacked by friendly units; takes less damage, and deals Arts damage to the attacker when attacked",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "Loses abilities after being attacked several times by <Miner Guerrillas>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "异质源石虫",
-    "KRDescription": "矿井中的变异生物，矿井深处的环境因不明物质发生了改变，变异源石虫的状态变得极其不稳定，必须对它们保持警惕。",
+    "KRName": "변종 원석충",
+    "KRDescription": "광산의 변이 생물. 지하의 환경이 알 수 없는 물질로 인해 변화했고, 그로 인해 원석충의 상태도 극히 불안정하게 변했다. 경계를 늦추지 말 것.",
     "KRAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "아군 유닛에게 쉽게 피격됨, 받는 대미지 감소, 피격 시 목표에게 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<광부 유격대>에게 몇 차례 피격 시 능력 무효화",
         "textFormat": "NORMAL"
       }
     ]
@@ -30462,39 +30462,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "异质源石虫·α",
-    "JPDescription": "矿井中的危险变异生物，发生巨变的地底环境正在加速它们的繁衍，基因的快速迭代无疑让它们变成了更可怕的威胁。",
+    "JPName": "変質オリジムシα",
+    "JPDescription": "坑道に潜む危険な変異生物。大きく変貌した地底環境がその繁殖を加速させ、速いサイクルで遺伝子の世代交代が行われたことにより、より恐ろしい脅威へと変化している。",
     "JPAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "味方ユニットから狙われやすい。被ダメージが減少し、攻撃を受けると、攻撃者に一定の術ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<坑夫遊撃隊員>から数回攻撃を受けると、能力を失う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "异质源石虫·α",
-    "ENDescription": "矿井中的危险变异生物，发生巨变的地底环境正在加速它们的繁衍，基因的快速迭代无疑让它们变成了更可怕的威胁。",
+    "ENName": "Abnormal Originium Slug α",
+    "ENDescription": "Dangerous mutated Originium slugs that are reproducing rapidly in the new underground environment. Rapid genetic iterations have increased their threat considerably.",
     "ENAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "More likely to be attacked by friendly units; takes less damage, and deals Arts damage to the attacker when attacked",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "Loses abilities after being attacked several times by <Miner Guerrillas>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "异质源石虫·α",
-    "KRDescription": "矿井中的危险变异生物，发生巨变的地底环境正在加速它们的繁衍，基因的快速迭代无疑让它们变成了更可怕的威胁。",
+    "KRName": "변종 원석충 α",
+    "KRDescription": "광산의 위험한 변이 생물. 급변한 지하 환경으로 인해 녀석들의 번식이 빨라졌고, 유전자의 빠른 진화는 녀석들을 더 무서운 위협으로 바꿔놓았다.",
     "KRAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，受到攻击时对目标造成法术伤害",
+        "text": "아군 유닛에게 쉽게 피격됨, 받는 대미지 감소, 피격 시 목표에게 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<광부 유격대>에게 몇 차례 피격 시 능력 무효화",
         "textFormat": "NORMAL"
       }
     ]
@@ -30598,39 +30598,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "异质裂兽",
-    "JPDescription": "盘踞在矿井深处的变异野兽，起初，无辜的野兽知晓如何避开那些奇怪的石头；后来，原本干枯的河道又蓄满了黑色的“河水”。饥渴的野兽饮下“河水”，倒在了碎石地上，数日后，它们又重新站起。",
+    "JPName": "変質裂獣",
+    "JPDescription": "坑道の奥深くに巣食う変異野獣。かつて、罪なき獣たちは奇妙な石を避けて暮らす術を心得ていた。しかし後に、干上がった川筋に黒い「川の水」が満ちると、渇きに耐えかねた獣たちはそれを飲み、砕けた石の地面に倒れ込んだ。数日後に再び立ち上がった彼らは、すでに元の姿ではなくなっていた。",
     "JPAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "味方ユニットから狙われやすい。被ダメージが減少し、攻撃速度が上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<坑夫遊撃隊員>から数回攻撃を受けると、能力を失う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "异质裂兽",
-    "ENDescription": "盘踞在矿井深处的变异野兽，起初，无辜的野兽知晓如何避开那些奇怪的石头；后来，原本干枯的河道又蓄满了黑色的“河水”。饥渴的野兽饮下“河水”，倒在了碎石地上，数日后，它们又重新站起。",
+    "ENName": "Abnormal Manglerbeast",
+    "ENDescription": "Mutated beast that dwells within the mines. It knew to avoid the strange rocks, but could not avoid drinking the black water. It lay on the gravel for several days, before standing up again.",
     "ENAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "More likely to be attacked by friendly units; takes less damage, and gains ASPD",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "Loses abilities after being attacked several times by <Miner Guerrillas>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "异质裂兽",
-    "KRDescription": "盘踞在矿井深处的变异野兽，起初，无辜的野兽知晓如何避开那些奇怪的石头；后来，原本干枯的河道又蓄满了黑色的“河水”。饥渴的野兽饮下“河水”，倒在了碎石地上，数日后，它们又重新站起。",
+    "KRName": "변종 맹글러비스트",
+    "KRDescription": "갱도 깊은 곳에 도사리고 있는 변이된 짐승. 처음에는 그 이상한 돌을 어떻게 피하는지 알 수 있었지만, 말라버린 강이 '검은 물'로 변하면서, 짐승은 그 '검은 물'을 마시고 바닥에 쓰러져 버렸다. 며칠 후, 녀석들은 기적처럼 다시 일어설 수 있었다.",
     "KRAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "아군 유닛에게 쉽게 피격됨, 받는 대미지 감소, 공격 속도 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<광부 유격대>에게 몇 차례 피격 시 능력 무효화",
         "textFormat": "NORMAL"
       }
     ]
@@ -30734,39 +30734,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "异质裂兽·α",
-    "JPDescription": "盘踞在矿井深处的变异野兽，地底的活物越来越少，饥饿至发狂的野兽在岩壁上划出了一道道爪印，黑色的矿石顺着血迹生长，直到爬上野兽消瘦的身躯。它们的身躯再次变得庞大而可怖。",
+    "JPName": "変質裂獣α",
+    "JPDescription": "坑道の奥深くに巣食う変異野獣。地下の生物が減り続けたことで、飢えに狂った獣たちは岩壁に無数の爪痕を刻んでいた。やがて黒い鉱石が血痕に沿って伸び広がると、やせ衰えた獣の身体を覆った。彼らの体躯は再び膨れ上がり、恐怖を呼ぶ巨大な存在へと変貌したのだった。",
     "JPAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "味方ユニットから狙われやすい。被ダメージが減少し、攻撃速度が上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<坑夫遊撃隊員>から数回攻撃を受けると、能力を失う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "异质裂兽·α",
-    "ENDescription": "盘踞在矿井深处的变异野兽，地底的活物越来越少，饥饿至发狂的野兽在岩壁上划出了一道道爪印，黑色的矿石顺着血迹生长，直到爬上野兽消瘦的身躯。它们的身躯再次变得庞大而可怖。",
+    "ENName": "Abnormal Manglerbeast α",
+    "ENDescription": "Mutated beast that dwells within the mines. As the number of living creatures dwindled, the starving beast cut deep claw marks on the rock walls. Black rocks grew along the blood, climbing up the beast's famished hide, making it massive and terrifying once more.",
     "ENAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "More likely to be attacked by friendly units; takes less damage, and gains ASPD",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "Loses abilities after being attacked several times by <Miner Guerrillas>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "异质裂兽·α",
-    "KRDescription": "盘踞在矿井深处的变异野兽，地底的活物越来越少，饥饿至发狂的野兽在岩壁上划出了一道道爪印，黑色的矿石顺着血迹生长，直到爬上野兽消瘦的身躯。它们的身躯再次变得庞大而可怖。",
+    "KRName": "변종 맹글러비스트 α",
+    "KRDescription": "갱도 깊은 곳에 도사리고 있는 변이된 짐승. 지하의 생물이 갈수록 줄어들자, 굶주림에 미쳐버린 녀석들은 암벽을 정신없이 긁어댔다. 그렇게 검은 광석이 핏자국을 따라 녀석들의 말라버린 몸까지 파고들었고, 이후 녀석들은 거대하고 무섭게 변했다.",
     "KRAbilityList": [
       {
-        "text": "更容易受到我方的攻击，受到伤害降低，攻击速度提升",
+        "text": "아군 유닛에게 쉽게 피격됨, 받는 대미지 감소, 공격 속도 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "被<矿工游击队>攻击数次后失去能力",
+        "text": "<광부 유격대>에게 몇 차례 피격 시 능력 무효화",
         "textFormat": "NORMAL"
       }
     ]
@@ -30931,39 +30931,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“惘核”",
-    "JPDescription": "源于思想最深处的愚昧与迷茫，它蚕食每个人的理智，直至将所有人拖入虚无的深渊。",
+    "JPName": "「惘核」",
+    "JPDescription": "思想の最深部に潜む愚かさと迷いから生まれた「惘核（もうかく）」。人々の理性を蝕み、やがてすべての者を虚無の深淵へと引きずり込む。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "接近我方单位时自毁并造成群体法术伤害，能使<矿工游击队>陷入<$ba.fear>恐惧</>",
+        "text": "味方ユニットに接触すると自爆し、範囲術ダメージを与え、<坑夫遊撃隊員>に命中すると対象を<$ba.fear>恐怖</>状態にする",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“惘核”",
-    "ENDescription": "源于思想最深处的愚昧与迷茫，它蚕食每个人的理智，直至将所有人拖入虚无的深渊。",
+    "ENName": "'Core of Stupor'",
+    "ENDescription": "Originating from the ignorance and confusion in the deepest depths of thought, it eats away at reason until all are dragged into the abyss of nothingness.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "接近我方单位时自毁并造成群体法术伤害，能使<矿工游击队>陷入<$ba.fear>恐惧</>",
+        "text": "Self-destructs when nearing allied units, dealing AoE Arts damage and afflicting <Miner Guerrillas> with <$ba.fear>Fear</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“惘核”",
-    "KRDescription": "源于思想最深处的愚昧与迷茫，它蚕食每个人的理智，直至将所有人拖入虚无的深渊。",
+    "KRName": "'망핵'",
+    "KRDescription": "생각의 가장 깊은 곳에 있는 우매함과 막연함. 사람들의 이성을 끊임없이 갉아먹어 허무의 심연으로 빠뜨린다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "接近我方单位时自毁并造成群体法术伤害，能使<矿工游击队>陷入<$ba.fear>恐惧</>",
+        "text": "아군 유닛에게 접근 시 자폭해 광역 마법 대미지를 입히고, <광부 유격대>를 <$ba.fear>공포</>에 빠뜨림",
         "textFormat": "NORMAL"
       }
     ]
@@ -167444,111 +167444,111 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "狂躁异质裂兽",
-    "JPDescription": "它早已失去神识，唯一支撑它的，只有求生的本能。",
+    "JPName": "狂乱の変質裂獣",
+    "JPDescription": "すでに理性を失い、生存本能のみがその身を突き動かしている。",
     "JPAbilityList": [
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "攻击为二连击，并使目标受到来自自身的伤害大幅提升",
+        "text": "二連撃の攻撃を行い、対象の自身から受けるダメージを大幅に上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "狂怒，攻击无视敌我，且会寻找并攻击对自身造成伤害的单位，受到的物理与法术伤害大幅降低，攻击速度和移动速度大幅提升",
+        "text": "激昂状態にあり、敵味方を問わず攻撃する。ダメージを受けると、自身にダメージを与えた対象を探して攻撃する。物理・術の被ダメージが大幅に減少し、攻撃速度と移動速度が大幅に上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续一定时间或生命值低于一定比例后退出狂怒状态并尝试逃跑",
+        "text": "一定時間が経過するか、HPが一定割合まで減少すると、激昂状態が終了し逃走を試みる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "短暂延迟后再度出现，维持一定时间的狂怒状态，期间受到的物理与法术伤害大幅降低，攻击力大幅提升",
+        "text": "しばらくすると再度出現し、一定時間激昂状態になる。その間、物理・術の被ダメージが大幅に減少し、攻撃力が大幅に上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击自身周围所有我方单位",
+        "text": "自身の周囲にいる全ての味方ユニットを攻撃する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【落石】向全场对自身造成最多伤害的单位造成物理伤害并造成<$ba.stun>晕眩</>",
+        "text": "【落石】：戦場で自身に最もダメージを与えたユニットに物理ダメージを与え、<$ba.stun>スタン</>させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "狂躁异质裂兽",
-    "ENDescription": "它早已失去神识，唯一支撑它的，只有求生的本能。",
+    "ENName": "Rampaging Abnormal Manglerbeast",
+    "ENDescription": "Has long lost its divinity. Only its survival instinct keeps it going.",
     "ENAbilityList": [
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "攻击为二连击，并使目标受到来自自身的伤害大幅提升",
+        "text": "Attacks hit twice and greatly increase the damage the target takes from this unit",
         "textFormat": "NORMAL"
       },
       {
-        "text": "狂怒，攻击无视敌我，且会寻找并攻击对自身造成伤害的单位，受到的物理与法术伤害大幅降低，攻击速度和移动速度大幅提升",
+        "text": "Enraged. Attacks both friend and foe, and seeks out units that have dealt damage to it; Physical and Arts damage taken greatly reduced, ASPD and Movement Speed greatly increased",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续一定时间或生命值低于一定比例后退出狂怒状态并尝试逃跑",
+        "text": "Loses rage and attempts to flee after some time, or if HP drops below a certain level",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "短暂延迟后再度出现，维持一定时间的狂怒状态，期间受到的物理与法术伤害大幅降低，攻击力大幅提升",
+        "text": "Reappears after a short delay, remaining enraged for a while; during this time, Physical and Arts damage taken is greatly reduced, while ATK is greatly increased",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击自身周围所有我方单位",
+        "text": "Attacks all nearby allied units",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【落石】向全场对自身造成最多伤害的单位造成物理伤害并造成<$ba.stun>晕眩</>",
+        "text": "[Rockfall] Deals Physical damage to the unit that has dealt the most damage to it, inflicting <$ba.stun>Stun</>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "狂躁异质裂兽",
-    "KRDescription": "它早已失去神识，唯一支撑它的，只有求生的本能。",
+    "KRName": "광란의 변종 맹글러비스트",
+    "KRDescription": "이미 자아의식을 잃은 지 오래됐다. 녀석을 지탱하는 건 오직 생존에 대한 본능일 뿐.",
     "KRAbilityList": [
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "攻击为二连击，并使目标受到来自自身的伤害大幅提升",
+        "text": "공격이 2연 공격으로 변경, 목표에게 입히는 대미지 대폭 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "狂怒，攻击无视敌我，且会寻找并攻击对自身造成伤害的单位，受到的物理与法术伤害大幅降低，攻击速度和移动速度大幅提升",
+        "text": "광폭화, 피아식별 없이 공격하며, 자신에게 대미지를 입힌 유닛을 찾아 공격, 받는 물리 및 마법 대미지 대폭 감소, 공격 속도 및 이동 속도 대폭 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续一定时间或生命值低于一定比例后退出狂怒状态并尝试逃跑",
+        "text": "일정 시간이 지나거나 HP가 일정량 이하로 감소할 시 광폭화 상태에서 벗어나 도주 시도",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "短暂延迟后再度出现，维持一定时间的狂怒状态，期间受到的物理与法术伤害大幅降低，攻击力大幅提升",
+        "text": "잠깐의 시간이 지난 후 다시 출현, 일정 시간 동안 광폭화 상태 유지, 지속 시간 동안 받는 물리 및 마법 대미지 대폭 감소, 공격력 대폭 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击自身周围所有我方单位",
+        "text": "자신 주변의 모든 아군 유닛을 공격",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【落石】向全场对自身造成最多伤害的单位造成物理伤害并造成<$ba.stun>晕眩</>",
+        "text": "[낙석] 자신에게 가장 많은 대미지를 입힌 유닛에게 물리 대미지를 입히고 <$ba.stun>기절</>시킴",
         "textFormat": "NORMAL"
       }
     ]
@@ -167911,123 +167911,123 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "圣愚",
-    "JPDescription": "不断忍耐，不做选择，不必挣扎......最后，接受它。",
+    "JPName": "佯狂者",
+    "JPDescription": "耐え続け、選択せず、足掻かず……最後には、ただ受け入れよ。",
     "JPAbilityList": [
       {
-        "text": "不可阻挡，自身位置持续弥漫<@eb.key>高危污染</>",
+        "text": "ブロック不可。自身を中心として広範囲に<@eb.key>高リスク汚染</>を拡散する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【愚昧的茧壳】对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "【愚かなる繭殻】：周囲の味方ユニットに術ダメージを与え、<坑夫遊撃隊員>に命中すると<$ba.fear>恐怖</>状態にして視界を失わせる。<坑夫遊撃隊員>はHPが最大値に達すると<$ba.fear>恐怖</>状態が解除される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【精神的重压】每第四次攻击提升攻击力，并在目标周围产生【国度】，如目标已经在【国度】中则强制击倒",
+        "text": "【精神の重圧】：4回攻撃するごとに攻撃力が上昇し、対象の周囲に【国土】を生成する。対象がすでに【国土】範囲内にいる場合、強制的に戦闘不能にする",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入新的场地作战并全场持续弥漫<@eb.key>高危污染</>",
+        "text": "新たな戦場に移行し、戦場全体に<@eb.key>高リスク汚染</>を拡散する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成5次法术伤害，优先攻击不同的目标",
+        "text": "異なる対象を優先して狙う5連撃の術攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【恐惧的蔓延】召唤一定数量的<“惘核”>",
+        "text": "【恐怖の蔓延】：一定数の<「惘核」>を召喚する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【虚无的混乱】每失去20%生命值，圣愚对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "【虚無の混乱】：HPを20%失うたびに、周囲の味方ユニットに術ダメージを与え、<坑夫遊撃隊員>に命中すると<$ba.fear>恐怖</>状態にして視界を失わせる。<坑夫遊撃隊員>はHPが最大値に達すると<$ba.fear>恐怖</>状態が解除される",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣愚",
-    "ENDescription": "不断忍耐，不做选择，不必挣扎......最后，接受它。",
+    "ENName": "Yurodstvo",
+    "ENDescription": "Do not complain. Do not hesitate. Do not struggle. Just accept it.",
     "ENAbilityList": [
       {
-        "text": "不可阻挡，自身位置持续弥漫<@eb.key>高危污染</>",
+        "text": "Cannot be blocked and spreads <@eb.key>Toxic Pollution</> at its location",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【愚昧的茧壳】对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "[Cocoon of Ignorance] Deals Arts damage to nearby allied units, inflicting <$ba.fear>Fear</> on <Miner Guerrillas> and causing them to lose visibility; <Miner Guerrillas> lose <$ba.fear>Fear</> when their HP is at max",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【精神的重压】每第四次攻击提升攻击力，并在目标周围产生【国度】，如目标已经在【国度】中则强制击倒",
+        "text": "[Spiritual Burden] Every 4th attack gains increased ATK and creates [Dominion] around the target; target is instantly defeated if already within [Dominion]",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入新的场地作战并全场持续弥漫<@eb.key>高危污染</>",
+        "text": "Enters a new battlefield and spreads <@eb.key>Toxic Pollution</> throughout the field",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成5次法术伤害，优先攻击不同的目标",
+        "text": "Attacks deal Arts damage 5 times, prioritizing different targets",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【恐惧的蔓延】召唤一定数量的<“惘核”>",
+        "text": "[Spreading Fear] Summons a number of <Cores of Stupor>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【虚无的混乱】每失去20%生命值，圣愚对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "[Vapid Chaos] For every 20% HP lost, Yurodstvo deals Arts damage to nearby allied units, inflicting <$ba.fear>Fear</> on <Miner Guerrillas> and causing them to lose visibility; <Miner Guerrillas> lose <$ba.fear>Fear</> when their HP is at max",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣愚",
-    "KRDescription": "不断忍耐，不做选择，不必挣扎......最后，接受它。",
+    "KRName": "유로지비",
+    "KRDescription": "계속 인내하며, 선택할 필요도 몸부림칠 필요도 없다…… 그저, 받아들여라.",
     "KRAbilityList": [
       {
-        "text": "不可阻挡，自身位置持续弥漫<@eb.key>高危污染</>",
+        "text": "저지 불가, 지속해서 자신 주변에 <@eb.key>고위험 오염</>을 퍼뜨림",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【愚昧的茧壳】对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "[우매함의 고치] 주변의 아군 유닛에게 마법 대미지를 입히고, <광부 유격대>에게 <$ba.fear>공포</> 효과를 부여해 시야를 상실시킴, <광부 유격대>의 HP가 가득 차면 <$ba.fear>공포</> 효과 해제",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【精神的重压】每第四次攻击提升攻击力，并在目标周围产生【国度】，如目标已经在【国度】中则强制击倒",
+        "text": "[정신적 중압감] 4번째 공격마다 공격력 증가, 목표 주변에 [국가] 생성, 목표가 이미 [국가] 범위 내에 있으면 강제로 쓰러뜨림",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "进入新的场地作战并全场持续弥漫<@eb.key>高危污染</>",
+        "text": "새로운 전장으로 이동하며, 지속해서 전장 전체에 <@eb.key>고위험 오염</>을 퍼뜨림",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成5次法术伤害，优先攻击不同的目标",
+        "text": "공격 시 마법 대미지를 5회 입힘, 다른 목표를 우선 공격",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【恐惧的蔓延】召唤一定数量的<“惘核”>",
+        "text": "[공포의 만연] 일정 수량의 <'망핵'> 소환",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【虚无的混乱】每失去20%生命值，圣愚对周围的我方单位造成法术伤害，使<矿工游击队><$ba.fear>恐惧</>并失去视野，<矿工游击队>生命值为满后解除<$ba.fear>恐惧</>",
+        "text": "[허무의 혼란] HP가 20% 감소할 때마다 주변의 아군 유닛에게 마법 대미지를 입히고, <광부 유격대>에게 <$ba.fear>공포</> 효과를 부여해 시야를 상실시킴, <광부 유격대>의 HP가 가득 차면 <$ba.fear>공포</> 효과 해제",
         "textFormat": "NORMAL"
       }
     ]
@@ -192649,123 +192649,123 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "后兽",
-    "JPDescription": "与地同形，与山同齐，万类难及，以后名之。",
+    "JPName": "後獣",
+    "JPDescription": "地と形を同じくし、山と斉しくす。万類及ぶこと難く、之を後と名づく。",
     "JPAbilityList": [
       {
-        "text": "第一形态",
+        "text": "第一形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【无为】无法被攻击，<矩兽>被击倒或退场，以及战斗经过一定时间后进入第二形态并激活场上所有的古雕伥",
+        "text": "【無為】：攻撃対象にならない。<矩獣>が撃破されるか撤退する、または戦闘開始から一定時間経過すると第二形態になり、戦場のすべての<いにしえの彫像器鬼>を起動する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，将自己转移至指定地块，并使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "【時移】：一定時間ごとに特定のマスに移動し、自身が移動した方向と逆方向に配置されている味方ユニットの攻撃速度を低下させ、正方向に移動している敵ユニットの移動速度を上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【自化】除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "【自化】：<矩獣>以外の敵が自身に接触した際、その敵を撤退させて耐久値を1減少させ、味方ユニット全員に術ダメージを与え、さらに自身の攻撃力を永続的に上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【并济】每隔一段时间，锁定与自身平行的一位我方干员进行一次直线攻击，对命中的首个干员造成法术溅射伤害并在其附近可通行地面上部署一个古雕伥",
+        "text": "【並済】：一定時間ごとに、自身と同じ行にいるオペレーター1名を対象として選択し、直線攻撃を1回行う。最初に命中したオペレーターに範囲術ダメージを与え、その近くの通行可能な地面マスに<いにしえの彫像器鬼>を1体生成する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "第二形態",
         "textFormat": "TITLE"
       },
       {
-        "text": "【自化】使场上除<矩兽>以外的敌人以自身为目标点移动，直到自身被击倒或退场，除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "【自化】：自身が撃破されるか撤退するまで、戦場の<矩獣>を除くすべての敵を、自身を目標地点として移動させる。<矩獣>以外の敵が自身に接触した際、その敵を撤退させて耐久値を1減少させ、味方ユニット全員に術ダメージを与え、さらに自身の攻撃力を永続的に上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "【時移】：一定時間ごとに、自身の移動した方向と逆方向に配置されている味方ユニットの攻撃速度を低下させ、正方向に移動している敵ユニットの移動速度を上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，消失，并扣除50点目标生命",
+        "text": "戦闘開始から長時間経過すると消滅し、耐久値を50減少させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "后兽",
-    "ENDescription": "与地同形，与山同齐，万类难及，以后名之。",
+    "ENName": "Bestial Hou",
+    "ENDescription": "Of the same form as the earth, of the same height as the mountains. None amongst the many are its equal, and its name is Hou.",
     "ENAbilityList": [
       {
-        "text": "第一形态",
+        "text": "First Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【无为】无法被攻击，<矩兽>被击倒或退场，以及战斗经过一定时间后进入第二形态并激活场上所有的古雕伥",
+        "text": "[Inaction] Cannot be attacked; enters 2nd form when <Bestial Ju> is defeated or leaves the field, or when enough time has elapsed, activating all Ancient Statuegeists on the field",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，将自己转移至指定地块，并使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "[Timeshift] Periodically teleports to a certain tile, reducing the ASPD of your units deployed in the opposite direction of its movement, and increasing the Movement Speed of enemy units moving in the same direction",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【自化】除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "[Transmogrification] When touched by an enemy other than <Bestial Ju>, removes them from the field, deducts 1 Life Point, deals Arts damage to all your units, and permanently gains increased ATK",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【并济】每隔一段时间，锁定与自身平行的一位我方干员进行一次直线攻击，对命中的首个干员造成法术溅射伤害并在其附近可通行地面上部署一个古雕伥",
+        "text": "[Altruism] Periodically locks on to one of your Operators parallel to it and attacks in a straight line, dealing splash Arts damage to the first Operator hit, and deploying an Ancient Statuegeist on a nearby passable tile",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "Second Form",
         "textFormat": "TITLE"
       },
       {
-        "text": "【自化】使场上除<矩兽>以外的敌人以自身为目标点移动，直到自身被击倒或退场，除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "[Transmogrification] Causes all enemies other than <Bestial Ju> to move towards this unit until it is defeated or leaves the field; when touched by an enemy other than <Bestial Ju>, removes them from the field, deducts 1 Life Point, deals Arts damage to all your units, and permanently gains increased ATK",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "[Timeshift] Periodically reduces the ASPD of your units deployed in the opposite direction of its movement, and increasing the Movement Speed of enemy units moving in the same direction",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，消失，并扣除50点目标生命",
+        "text": "When a long time has passed in the battle, disappears and drains 50 Life Points",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "后兽",
-    "KRDescription": "与地同形，与山同齐，万类难及，以后名之。",
+    "KRName": "후소우",
+    "KRDescription": "대지와 같은 형상을 하고 산과 나란히 서 있다. 그 어떤 종도 따라올 수 없으니, 이를 '후'라고 이름 지었다.",
     "KRAbilityList": [
       {
-        "text": "第一形态",
+        "text": "제1형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【无为】无法被攻击，<矩兽>被击倒或退场，以及战斗经过一定时间后进入第二形态并激活场上所有的古雕伥",
+        "text": "[무위] 공격을 받지 않음, <구소우>가 쓰러지거나 퇴각, 또는 일정 시간이 지나면 제2형태 진입, 전장의 모든 고대 디오창 활성화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，将自己转移至指定地块，并使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "[시이] 일정 시간마다 특정 위치로 이동, 배치 방향이 자신의 이동 방향과 반대인 모든 아군 유닛의 공격 속도 감소, 자신의 이동 방향과 같은 적의 이동 속도 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【自化】除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "[자화] <구소우> 이외의 적은 자신과 충돌 즉시 쓰러지며 스테이지 HP 1 차감, 동시에 모든 아군 유닛에게 마법 대미지를 입힘, 자신의 공격력 영구 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【并济】每隔一段时间，锁定与自身平行的一位我方干员进行一次直线攻击，对命中的首个干员造成法术溅射伤害并在其附近可通行地面上部署一个古雕伥",
+        "text": "[병제] 일정 시간마다 자신과 평행한 위치에 있는 아군 오퍼레이터 1명을 지정해 직선 공격 1회 시전, 적중한 첫 번째 오퍼레이터에게 스플래시 마법 대미지를 입히고 근처의 통행 가능한 지상에 고대 디오창 1개 배치",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "제2형태",
         "textFormat": "TITLE"
       },
       {
-        "text": "【自化】使场上除<矩兽>以外的敌人以自身为目标点移动，直到自身被击倒或退场，除<矩兽>以外的敌人触碰到自身时，使其退场并扣除1点目标生命，对全场我方单位造成法术伤害且自身攻击力永久增加",
+        "text": "[자화] 자신이 쓰러지거나 퇴각할 때까지 <구소우> 이외의 모든 적을 자신에게로 이동, <구소우> 이외의 적은 자신과 충돌 즉시 쓰러지며 스테이지 HP 1 차감, 동시에 모든 아군 유닛에게 마법 대미지를 입힘, 자신의 공격력 영구 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【时移】每隔一段时间，使场上所有部署方向与自身移动方向相反的我方单位攻击速度降低，使移动方向与自身相同的敌方单位移动速度增加",
+        "text": "[시이] 일정 시간마다 배치 방향이 자신의 이동 방향과 반대인 모든 아군 유닛의 공격 속도 감소, 자신의 이동 방향과 같은 적의 이동 속도 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，消失，并扣除50点目标生命",
+        "text": "비교적 긴 시간 전투 후 퇴장, 스테이지 HP 50 차감",
         "textFormat": "NORMAL"
       }
     ]
@@ -192902,63 +192902,63 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "矩兽",
-    "JPDescription": "溯合制序，止攻泯灾，刚而难曲，以矩名之。",
+    "JPName": "矩獣",
+    "JPDescription": "合を溯りて序を制し、攻を止めて災を泯ぼす。剛にして曲げ難く、之を矩と名づく。",
     "JPAbilityList": [
       {
-        "text": "【明力】晕眩、寒冷、冻结等异常状态的持续时间大幅降低，受到的物理与法术伤害大幅降低，被阻挡或停止移动时伤害降低效果减少",
+        "text": "【明力】：自身に対するスタン、寒冷、凍結などの状態異常の継続時間を大幅に短縮し、物理・術の被ダメージを大幅に減少させる。ブロックされるか、移動を止めている間は被ダメージ軽減効果が低下する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【尚同】持续对周围造成物理伤害，每次被阻挡时对周围额外造成一次高额物理伤害",
+        "text": "【尚同】：周囲に継続的に物理ダメージを与え、ブロックされるたびに、周囲に高い物理ダメージを追加で1回与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【非命】生命值首次低于50%时，自身占用阻挡数、攻击力与移动速度提升",
+        "text": "【非命】：初めてHPが最大値の50%未満になった際、自身の必要ブロック数、攻撃力、移動速度を上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【兼爱】自身被击倒或退场时，使场上除<后兽>以外的所有敌人退场，对场上所有友方单位造成一次无视隐匿的高额物理伤害",
+        "text": "【兼愛】：自身が撃破されるか撤退すると、戦場の<後獣>を除くすべての敵を撤退させ、味方ユニット全員にステルス状態を無視して高い物理ダメージを1回与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "矩兽",
-    "ENDescription": "溯合制序，止攻泯灾，刚而难曲，以矩名之。",
+    "ENName": "Bestial Ju",
+    "ENDescription": "Bring unity and order, halt conflict and quell disaster. It is upright and unyielding, and its name is Ju.",
     "ENAbilityList": [
       {
-        "text": "【明力】晕眩、寒冷、冻结等异常状态的持续时间大幅降低，受到的物理与法术伤害大幅降低，被阻挡或停止移动时伤害降低效果减少",
+        "text": "[Sober] Duration of negative statuses such as Stun, Cold, and Freeze greatly reduced; Physical and Arts damage taken greatly reduced; damage reduction effect reduced when blocked or prevented from moving",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【尚同】持续对周围造成物理伤害，每次被阻挡时对周围额外造成一次高额物理伤害",
+        "text": "[Concordance] Continuously deals Physical damage around itself, and deals one instance of heavy Physical damage around itself whenever it is blocked",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【非命】生命值首次低于50%时，自身占用阻挡数、攻击力与移动速度提升",
+        "text": "[Unlife] When HP drops below 50% for the first time, gains increased Block cost, ATK, and Movement Speed",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【兼爱】自身被击倒或退场时，使场上除<后兽>以外的所有敌人退场，对场上所有友方单位造成一次无视隐匿的高额物理伤害",
+        "text": "[Benevolence] When defeated or on leaving the field, removes all enemies other than <Bestial Hou> from the field, and deals one instance of heavy Physical damage to all your units, ignoring Invisibility",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "矩兽",
-    "KRDescription": "溯合制序，止攻泯灾，刚而难曲，以矩名之。",
+    "KRName": "구소우",
+    "KRDescription": "조화를 이루고 질서를 세우며, 공격을 멈추고 재난을 막는다. 강직하고 굽히기 어려우니, 이를 '구'라고 이름 지었다.",
     "KRAbilityList": [
       {
-        "text": "【明力】晕眩、寒冷、冻结等异常状态的持续时间大幅降低，受到的物理与法术伤害大幅降低，被阻挡或停止移动时伤害降低效果减少",
+        "text": "[명력] 기절, 냉기, 빙결 등의 상태 이상 지속 시간 대폭 감소, 받는 물리 및 마법 대미지 대폭 감소, 저지당하거나 이동을 멈출 시 대미지 감소 효과 저하",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【尚同】持续对周围造成物理伤害，每次被阻挡时对周围额外造成一次高额物理伤害",
+        "text": "[상동] 지속해서 주변에 물리 대미지를 입힘, 저지당할 때마다 추가로 주변에 대량의 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【非命】生命值首次低于50%时，自身占用阻挡数、攻击力与移动速度提升",
+        "text": "[비명] HP가 최초로 50% 미만이 될 시 필요 저지 가능 수, 공격력, 이동 속도 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【兼爱】自身被击倒或退场时，使场上除<后兽>以外的所有敌人退场，对场上所有友方单位造成一次无视隐匿的高额物理伤害",
+        "text": "[겸애] 자신이 쓰러지거나 퇴각 시 <후소우>를 제외한 모든 적 퇴각, 모든 아군 유닛에게 은신 효과를 무시하는 대량의 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -193171,39 +193171,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "小八界",
-    "JPDescription": "易自己创作的界园吉祥物，因众人的喜爱化成了伥，是极少数不受司岁台与天师府管束的伥怪之一。平日里流连在纪念品商店同游客互动，休园时则乐于跟行仪的队伍玩耍。",
+    "JPName": "八界くん",
+    "JPDescription": "イーが自らデザインした界園のマスコット。人々に愛されたことで器鬼となり、司歳台や天師府により管理されないごく少数の例外的な器鬼のひとつとなった。普段は土産物店をぶらつきながら観光客と交流し、閉園後は儀式を執り行う部隊と楽しそうに遊んでいる。",
     "JPAbilityList": [
       {
-        "text": "<$ba.float>近地悬浮</>",
+        "text": "<$ba.float>低空浮揚</>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到一定次数伤害后，立刻对大范围内所有我方单位造成法术伤害并使其<$ba.stun>晕眩</>",
+        "text": "数回攻撃を受けるたびに、広範囲にいる味方ユニット全員に術ダメージを与え、<$ba.stun>スタン</>させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "小八界",
-    "ENDescription": "易自己创作的界园吉祥物，因众人的喜爱化成了伥，是极少数不受司岁台与天师府管束的伥怪之一。平日里流连在纪念品商店同游客互动，休园时则乐于跟行仪的队伍玩耍。",
+    "ENName": "Little Ba'jie",
+    "ENDescription": "A mascot for the Garden of Grotesqueries that Yi made himself, transformed into a geist from the adoration of visitors. One of the few geists not under the supervision of the Sui Regulator or Tianshi Bureaus. It spends its days interacting with visitors at the souvenir shop, or playing with ritual processions on the days when the garden is closed.",
     "ENAbilityList": [
       {
-        "text": "<$ba.float>近地悬浮</>",
+        "text": "<$ba.float>Low-Altitude Hovering</>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到一定次数伤害后，立刻对大范围内所有我方单位造成法术伤害并使其<$ba.stun>晕眩</>",
+        "text": "After receiving a certain number of hits, deals Arts damage to all allied units in a large area and <$ba.stun>stuns</> them",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "小八界",
-    "KRDescription": "易自己创作的界园吉祥物，因众人的喜爱化成了伥，是极少数不受司岁台与天师府管束的伥怪之一。平日里流连在纪念品商店同游客互动，休园时则乐于跟行仪的队伍玩耍。",
+    "KRName": "꼬마 팔계",
+    "KRDescription": "이가 만든 계원의 마스코트. 모두의 사랑을 받아 창괴가 되었고, 사세대와 천사부의 통제를 받지 않는 극소수의 창괴 중 하나다. 평소에는 기념품 가게의 손님들과 어울리다가, 계원이 쉴 때는 의식을 행하는 사람들과 노는 것을 좋아한다.",
     "KRAbilityList": [
       {
-        "text": "<$ba.float>近地悬浮</>",
+        "text": "<$ba.float>공중 부양</>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受到一定次数伤害后，立刻对大范围内所有我方单位造成法术伤害并使其<$ba.stun>晕眩</>",
+        "text": "일정 횟수의 대미지를 받으면 즉시 넓은 범위 내의 모든 아군 유닛에게 마법 대미지를 입히고 <$ba.stun>기절</>시킴",
         "textFormat": "NORMAL"
       }
     ]
@@ -195781,27 +195781,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "矿工游击队",
-    "JPDescription": "矿工们自发组织的反抗队伍，成员多是青壮年。他们并非失去理智的暴民，他们只是想保护仍躲在地下的亲人。",
+    "JPName": "坑夫遊撃隊員",
+    "JPDescription": "坑夫たちが自発的に結成した反抗部隊。ほとんどが青壮年で構成されている。彼らは理性を失った暴徒ではなく、ただ地下に身を隠す家族を守りたい一心で戦う者たちなのだ。",
     "JPAbilityList": [
       {
-        "text": "友方单位，在医疗干员攻击范围内可恢复生命",
+        "text": "味方ユニット。【医療】の攻撃範囲内でHPが回復できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "矿工游击队",
-    "ENDescription": "矿工们自发组织的反抗队伍，成员多是青壮年。他们并非失去理智的暴民，他们只是想保护仍躲在地下的亲人。",
+    "ENName": "Miner Guerrilla",
+    "ENDescription": "Resistance unit formed by miners, many of whom are still relatively young. They are not a rampaging mob: all they want to do is protect their families who are still underground.",
     "ENAbilityList": [
       {
-        "text": "友方单位，在医疗干员攻击范围内可恢复生命",
+        "text": "Allied unit; recovers HP when within any Medic Operator's Attack Range",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "矿工游击队",
-    "KRDescription": "矿工们自发组织的反抗队伍，成员多是青壮年。他们并非失去理智的暴民，他们只是想保护仍躲在地下的亲人。",
+    "KRName": "광부 유격대",
+    "KRDescription": "광부들이 자발적으로 조직한 저항 단체, 구성원 대다수가 청년이다. 이들은 결코 이성을 잃은 폭도가 아니다. 그저 여전히 지하에 숨어 있는 가족을 지키려는 평범한 사람일 뿐.",
     "KRAbilityList": [
       {
-        "text": "友方单位，在医疗干员攻击范围内可恢复生命",
+        "text": "우호 유닛, 메딕 오퍼레이터 공격 범위 내에서 HP 회복 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -195889,15 +195889,15 @@
     "CNName": "“皇帝的利刃”，折戟者",
     "CNDescription": "他的行动本代表乌萨斯的意志。而利刃崩断，也许喻示着意志已摇摇欲坠。",
     "CNAbilityList": [],
-    "JPName": "“皇帝的利刃”，折戟者",
-    "JPDescription": "他的行动本代表乌萨斯的意志。而利刃崩断，也许喻示着意志已摇摇欲坠。",
-    "JPAbilityList": [],
-    "ENName": "“皇帝的利刃”，折戟者",
-    "ENDescription": "他的行动本代表乌萨斯的意志。而利刃崩断，也许喻示着意志已摇摇欲坠。",
-    "ENAbilityList": [],
-    "KRName": "“皇帝的利刃”，折戟者",
-    "KRDescription": "他的行动本代表乌萨斯的意志。而利刃崩断，也许喻示着意志已摇摇欲坠。",
-    "KRAbilityList": []
+    "JPName": "「皇帝の利刃」、断刃者",
+    "JPDescription": "彼の行動は本来ウルサスの意志を体現していた。しかし彼の利刃が折れたことは、その意志がすでに揺らぎつつあることを示しているのかもしれない。",
+    "JPAbilityList": {},
+    "ENName": "'Emperor's Blade', Halberd Breaker",
+    "ENDescription": "His actions are the will of Ursus. The breaking of a Blade perhaps signifies that this will is wavering.",
+    "ENAbilityList": {},
+    "KRName": "'황제의 칼날', 패배자",
+    "KRDescription": "그의 행동은 본디 우르수스 의지의 상징이었으나, 부러진 칼날은 그 의지의 추락을 암시하고 있는 걸지도 모른다.",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_3012_tjgcb",
