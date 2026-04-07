@@ -15368,7 +15368,7 @@
               "operation": "OS-S-1",
               "levelId": "activities/act46side/level_act46side_sub-1-1",
               "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
               "hasChallenge": true
             },
             {
@@ -15376,7 +15376,7 @@
               "operation": "突袭OS-S-1",
               "levelId": "activities/act46side/level_act46side_sub-1-1",
               "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的位置变换"
             },
@@ -16660,7 +16660,7 @@
               "operation": "CG-8",
               "levelId": "activities/act20mini/level_act20mini_08",
               "name": "准入许可",
-              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
               "hasChallenge": true
             },
             {
@@ -16668,7 +16668,7 @@
               "operation": "突袭CG-8",
               "levelId": "activities/act20mini/level_act20mini_08",
               "name": "准入许可",
-              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><血债账簿></>“血债帐款”累计满后，所有敌人获得加强，并召唤出“家族灭迹人”\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
+              "description": "在接受新事物之前，新沃尔西尼还在学习该如何拒绝，有些事必须被允许发生，人们才能看清谁会站出来阻止。\\n<@lv.item><弩炮台></>会定期射出弩箭对我方单位造成物理伤害",
               "hasChallenge": true,
               "challenge": "<@lv.fs>附加条件：</>\\n出现额外的<@lv.item><弩炮台></>，且<@lv.item><弩炮台></>造成的伤害提高"
             },
@@ -16686,6 +16686,84 @@
               "levelId": "activities/act20mini/level_act20mini_sub-2-1",
               "name": "授信之人",
               "description": "他站在天平的另一端，同样是风险的承担者。他深知，信任不只是出现在赌桌上的筹码。",
+              "hasChallenge": false
+            }
+          ]
+        },
+        {
+          "id": "act51side",
+          "episode": "人们，我们",
+          "childNodes": [
+            {
+              "id": "PA-1",
+              "operation": "PA-1",
+              "levelId": "activities/act51side/level_act51side_01",
+              "name": "“卡托加区欢迎你”",
+              "description": "我向你转述一个支离的夜晚，青春在雪地里熄灭，朽木在壁炉中苟延残喘。",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-TR-1",
+              "operation": "PA-TR-1",
+              "levelId": "activities/act51side/level_act51side_tr01",
+              "name": "卑劣与繁荣",
+              "description": "我向你献上一座锈蚀的地块，这里曾是圣骏堡喘鸣不止的工业肺脏，但现在，它只是一个等待被切除的器官。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人\\n<@lv.item><禁闭所></>仅能被周围四格的干员攻击，破坏后获得伪装工具与部署费用并吸引附近的警戒塔",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-2",
+              "operation": "PA-2",
+              "levelId": "activities/act51side/level_act51side_02",
+              "name": "枷锁之中",
+              "description": "我向你追偿一笔陈旧的血债，你鞭打驱赶那些被编号的兽群，任由他们哭号怒骂，直到他们想起自己曾为人类。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-3",
+              "operation": "PA-3",
+              "levelId": "activities/act51side/level_act51side_03",
+              "name": "阳光照耀圣骏堡",
+              "description": "我向你乞求一个清朗的夜晚，只需要一点星火，就足以点燃这片干枯而痛苦、渴望着新生的土地。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-4",
+              "operation": "PA-4",
+              "levelId": "activities/act51side/level_act51side_04",
+              "name": "一墙之隔",
+              "description": "我向你虚构一段精密的舞步，自出生起就被赐下的脚镣是我转圜的支点，我背向烛光以看清围墙另一边的黑夜。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-5",
+              "operation": "PA-5",
+              "levelId": "activities/act51side/level_act51side_05",
+              "name": "高尚的背叛",
+              "description": "我向你坦白一桩必要的僭越，我保留了我所有的意见，因为那高举的天平不再称得出真与假的分别。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人\\n<@lv.item><禁闭所></>仅能被周围四格的干员攻击，破坏后获得伪装工具与部署费用并吸引附近的警戒塔",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-6",
+              "operation": "PA-6",
+              "levelId": "activities/act51side/level_act51side_06",
+              "name": "各自流亡",
+              "description": "我向你描摹一条拥挤的道路，那些匆匆的脚步只是恰巧相逢在同一条路上。没人能知道到底谁才是正确的，每个人都只能沿着自己的命运流亡。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人\\n<@lv.rem>无法携带部分登场角色</>",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-7",
+              "operation": "PA-7",
+              "levelId": "activities/act51side/level_act51side_07",
+              "name": "死结两端",
+              "description": "我向你展示一个牢固的死结，我和你是这根绳的两端，中间横亘着北方的冻土和涅瓦湖干涸的河道，但那难以逃脱的宿命仍将我向你怀中拽去。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人\\n<@lv.item><禁闭所></>仅能被周围四格的干员攻击，破坏后获得伪装工具与部署费用并吸引附近的警戒塔",
+              "hasChallenge": false
+            },
+            {
+              "id": "PA-8",
+              "operation": "PA-8",
+              "levelId": "activities/act51side/level_act51side_08",
+              "name": "一千年后",
+              "description": "我向你借取一把断折的利剑，我同样有必须开辟的前路。你已死去一千年，他们仍在将你塑成雕像，将你锁在钢筋水泥中，好使你的剑无法挥下。那么，我来。\\n<@lv.item><警戒塔></>定期旋转，同时攻击范围内所有暴露的我方单位\\n<@lv.item><伪装工具></>使被影响的单位潜伏一段时间，其间无法被选中也不会阻挡敌人\\n<@lv.item><禁闭所></>仅能被周围四格的干员攻击，破坏后获得伪装工具与部署费用并吸引附近的警戒塔",
               "hasChallenge": false
             }
           ]

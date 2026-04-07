@@ -25,7 +25,10 @@ const parsedEnemies: ParsedEnemy[] = [];
 const parseCNData = async () => {
   const enemy_database = await import(`@/database/cn/enemy_database.json`) as any;
   let enemies;
-  if(enemy_database.enemies){
+  enemies = enemy_database;
+  if(Array.isArray(enemy_database?.default)){
+    enemies = enemy_database.default;
+  }else if(enemy_database.enemies){
     //模式1
     enemies = enemy_database.enemies;
   }else{
@@ -34,6 +37,7 @@ const parseCNData = async () => {
   }
   
   const {enemyHandbook} = await importJSON("CN");
+
   enemies.forEach((enemy: any) => {
     
     let key, value;
@@ -51,7 +55,7 @@ const parseCNData = async () => {
     if(key === "default") return;
 
     const Levels: EnemyData[] = [];
-    
+
     if(!value || !value[0]){
       console.log(`${key}没有数据！`)
     }

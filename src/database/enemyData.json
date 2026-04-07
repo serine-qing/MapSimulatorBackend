@@ -40219,7 +40219,7 @@
           "hpRecoveryPerSec": 0,
           "spRecoveryPerSec": 0,
           "maxDeployCount": 0,
-          "massLevel": 0,
+          "massLevel": 1,
           "baseForceLevel": 0,
           "tauntLevel": 0,
           "epDamageResistance": 0,
@@ -40630,6 +40630,1536 @@
     ]
   },
   {
+    "Key": "enemy_10193_ubhh",
+    "Levels": [
+      {
+        "key": "enemy_10193_ubhh",
+        "attributes": {
+          "maxHp": 5000,
+          "atk": 350,
+          "def": 80,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.75,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.8,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "撬棍巡逻者",
+    "CNDescription": "错将鲁莽当成勇气的人。“十六勇士”从未有过对着装的要求，只是大家都不约而同地选择了条纹外套。",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "撬棍巡逻者",
+    "JPDescription": "错将鲁莽当成勇气的人。“十六勇士”从未有过对着装的要求，只是大家都不约而同地选择了条纹外套。",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "撬棍巡逻者",
+    "ENDescription": "错将鲁莽当成勇气的人。“十六勇士”从未有过对着装的要求，只是大家都不约而同地选择了条纹外套。",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "撬棍巡逻者",
+    "KRDescription": "错将鲁莽当成勇气的人。“十六勇士”从未有过对着装的要求，只是大家都不约而同地选择了条纹外套。",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10193_ubhh_2",
+    "Levels": [
+      {
+        "key": "enemy_10193_ubhh_2",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 400,
+          "def": 150,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.75,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.8,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "撬棍追捕者\n",
+    "CNDescription": "错将残忍当成强大的人。T恤，裤子，双手......对“十六勇士”来说，这些都可以染血，但两条杠的条纹外套？不，唯独它不行。",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "撬棍追捕者\n",
+    "JPDescription": "错将残忍当成强大的人。T恤，裤子，双手......对“十六勇士”来说，这些都可以染血，但两条杠的条纹外套？不，唯独它不行。",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "撬棍追捕者\n",
+    "ENDescription": "错将残忍当成强大的人。T恤，裤子，双手......对“十六勇士”来说，这些都可以染血，但两条杠的条纹外套？不，唯独它不行。",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "撬棍追捕者\n",
+    "KRDescription": "错将残忍当成强大的人。T恤，裤子，双手......对“十六勇士”来说，这些都可以染血，但两条杠的条纹外套？不，唯独它不行。",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10194_ubdg",
+    "Levels": [
+      {
+        "key": "enemy_10194_ubdg",
+        "attributes": {
+          "maxHp": 4500,
+          "atk": 300,
+          "def": 40,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.atk_scale_up",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "玻璃窗粉碎者",
+    "CNDescription": "错将瓶盖想象成铳弹的人。她痛恨那些透出温暖灯光和欢声笑语的窗户。只要打碎眼前的玻璃，她也可以短暂拥有灯光和笑容。",
+    "CNAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "玻璃窗粉碎者",
+    "JPDescription": "错将瓶盖想象成铳弹的人。她痛恨那些透出温暖灯光和欢声笑语的窗户。只要打碎眼前的玻璃，她也可以短暂拥有灯光和笑容。",
+    "JPAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "玻璃窗粉碎者",
+    "ENDescription": "错将瓶盖想象成铳弹的人。她痛恨那些透出温暖灯光和欢声笑语的窗户。只要打碎眼前的玻璃，她也可以短暂拥有灯光和笑容。",
+    "ENAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "玻璃窗粉碎者",
+    "KRDescription": "错将瓶盖想象成铳弹的人。她痛恨那些透出温暖灯光和欢声笑语的窗户。只要打碎眼前的玻璃，她也可以短暂拥有灯光和笑容。",
+    "KRAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10194_ubdg_2",
+    "Levels": [
+      {
+        "key": "enemy_10194_ubdg_2",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 400,
+          "def": 100,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.atk_scale_up",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "玻璃窗毁灭者",
+    "CNDescription": "错将破坏想象成拥有的人。她放下弹弓，看着台灯在脏污的地毯上摔个粉碎，却并没有等到想象中的温暖抚上她染血的手指。",
+    "CNAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "玻璃窗毁灭者",
+    "JPDescription": "错将破坏想象成拥有的人。她放下弹弓，看着台灯在脏污的地毯上摔个粉碎，却并没有等到想象中的温暖抚上她染血的手指。",
+    "JPAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "玻璃窗毁灭者",
+    "ENDescription": "错将破坏想象成拥有的人。她放下弹弓，看着台灯在脏污的地毯上摔个粉碎，却并没有等到想象中的温暖抚上她染血的手指。",
+    "ENAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "玻璃窗毁灭者",
+    "KRDescription": "错将破坏想象成拥有的人。她放下弹弓，看着台灯在脏污的地毯上摔个粉碎，却并没有等到想象中的温暖抚上她染血的手指。",
+    "KRAbilityList": [
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "优先攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10195_ubsb",
+    "Levels": [
+      {
+        "key": "enemy_10195_ubsb",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 250,
+          "def": 250,
+          "magicResistance": 5,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.7
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "Skill1",
+            "priority": 0,
+            "cooldown": 1,
+            "initCooldown": 0,
+            "spCost": 1,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_life_time",
+                "value": 3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "强光恐吓者",
+    "CNDescription": "执着于用术式制造强光的人。感染者在圣骏堡是见不得光的，所以最好还是自己创造一些光亮出来。",
+    "CNAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "强光恐吓者",
+    "JPDescription": "执着于用术式制造强光的人。感染者在圣骏堡是见不得光的，所以最好还是自己创造一些光亮出来。",
+    "JPAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "强光恐吓者",
+    "ENDescription": "执着于用术式制造强光的人。感染者在圣骏堡是见不得光的，所以最好还是自己创造一些光亮出来。",
+    "ENAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "强光恐吓者",
+    "KRDescription": "执着于用术式制造强光的人。感染者在圣骏堡是见不得光的，所以最好还是自己创造一些光亮出来。",
+    "KRAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10195_ubsb_2",
+    "Levels": [
+      {
+        "key": "enemy_10195_ubsb_2",
+        "attributes": {
+          "maxHp": 10000,
+          "atk": 350,
+          "def": 250,
+          "magicResistance": 5,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.7
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "Skill1",
+            "priority": 0,
+            "cooldown": 1,
+            "initCooldown": 0,
+            "spCost": 1,
+            "blackboard": [
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_life_time",
+                "value": 3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "强光监管者",
+    "CNDescription": "执着于将强光法杖对准别人眼睛的人。这种人才不会在意这样做会不会导致别人看不见，因为自己已经习惯了“被看不见”，所以，没什么区别。",
+    "CNAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "强光监管者",
+    "JPDescription": "执着于将强光法杖对准别人眼睛的人。这种人才不会在意这样做会不会导致别人看不见，因为自己已经习惯了“被看不见”，所以，没什么区别。",
+    "JPAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "强光监管者",
+    "ENDescription": "执着于将强光法杖对准别人眼睛的人。这种人才不会在意这样做会不会导致别人看不见，因为自己已经习惯了“被看不见”，所以，没什么区别。",
+    "ENAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "强光监管者",
+    "KRDescription": "执着于将强光法杖对准别人眼睛的人。这种人才不会在意这样做会不会导致别人看不见，因为自己已经习惯了“被看不见”，所以，没什么区别。",
+    "KRAbilityList": [
+      {
+        "text": "攻击时发射照明弹，照明弹持续期间伪装工具失效",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10196_ubba",
+    "Levels": [
+      {
+        "key": "enemy_10196_ubba",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 650,
+          "def": 1000,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.25
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "搏命养家者",
+    "CNDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，心里都在默念自己重病孩子的名字。\n“你犯了错，士兵。你在集团军里混不下去了，但我们可以给你提供另一个机会......”",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "搏命养家者",
+    "JPDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，心里都在默念自己重病孩子的名字。\n“你犯了错，士兵。你在集团军里混不下去了，但我们可以给你提供另一个机会......”",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "搏命养家者",
+    "ENDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，心里都在默念自己重病孩子的名字。\n“你犯了错，士兵。你在集团军里混不下去了，但我们可以给你提供另一个机会......”",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "搏命养家者",
+    "KRDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，心里都在默念自己重病孩子的名字。\n“你犯了错，士兵。你在集团军里混不下去了，但我们可以给你提供另一个机会......”",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10196_ubba_2",
+    "Levels": [
+      {
+        "key": "enemy_10196_ubba_2",
+        "attributes": {
+          "maxHp": 25000,
+          "atk": 750,
+          "def": 1100,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.25
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "搏命享受者",
+    "CNDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，都在想象下一刻血液飞溅到嘴中的味道。\n“你犯了错，士兵。你在集团军里......等等，你说你是故意的？什么叫退伍补助金没用，换成蛋白粉给你？”",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "搏命享受者",
+    "JPDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，都在想象下一刻血液飞溅到嘴中的味道。\n“你犯了错，士兵。你在集团军里......等等，你说你是故意的？什么叫退伍补助金没用，换成蛋白粉给你？”",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "搏命享受者",
+    "ENDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，都在想象下一刻血液飞溅到嘴中的味道。\n“你犯了错，士兵。你在集团军里......等等，你说你是故意的？什么叫退伍补助金没用，换成蛋白粉给你？”",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "搏命享受者",
+    "KRDescription": "隶属于“二十二号仓库”安保公司的雇员。他每一次挥动拳头，都在想象下一刻血液飞溅到嘴中的味道。\n“你犯了错，士兵。你在集团军里......等等，你说你是故意的？什么叫退伍补助金没用，换成蛋白粉给你？”",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10197_ublyb",
+    "Levels": [
+      {
+        "key": "enemy_10197_ublyb",
+        "attributes": {
+          "maxHp": 10000,
+          "atk": 600,
+          "def": 150,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.attack_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.atk",
+            "value": 0.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "酗酒滋事者\n",
+    "CNDescription": "觉得雪地太热而脱掉外套的人。从父辈那里继承来的醒酒办法是找人打一架，只要不死，大概率能醒过来。",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "酗酒滋事者\n",
+    "JPDescription": "觉得雪地太热而脱掉外套的人。从父辈那里继承来的醒酒办法是找人打一架，只要不死，大概率能醒过来。",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "酗酒滋事者\n",
+    "ENDescription": "觉得雪地太热而脱掉外套的人。从父辈那里继承来的醒酒办法是找人打一架，只要不死，大概率能醒过来。",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "酗酒滋事者\n",
+    "KRDescription": "觉得雪地太热而脱掉外套的人。从父辈那里继承来的醒酒办法是找人打一架，只要不死，大概率能醒过来。",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10197_ublyb_2",
+    "Levels": [
+      {
+        "key": "enemy_10197_ublyb_2",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 800,
+          "def": 240,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.attack_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.atk",
+            "value": 0.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_10197_ublyb_2",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 800,
+          "def": 240,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.attack_speed",
+            "value": 0.5
+          },
+          {
+            "key": "Talent1.atk",
+            "value": 0.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "酗酒斗殴者",
+    "CNDescription": "觉得雪地太热而脱掉外套的人。从手下败将那里得来的教训是，不要挑看起来比自己更醉的人动手，那样根本不痛。",
+    "CNAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "酗酒斗殴者",
+    "JPDescription": "觉得雪地太热而脱掉外套的人。从手下败将那里得来的教训是，不要挑看起来比自己更醉的人动手，那样根本不痛。",
+    "JPAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "酗酒斗殴者",
+    "ENDescription": "觉得雪地太热而脱掉外套的人。从手下败将那里得来的教训是，不要挑看起来比自己更醉的人动手，那样根本不痛。",
+    "ENAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "酗酒斗殴者",
+    "KRDescription": "觉得雪地太热而脱掉外套的人。从手下败将那里得来的教训是，不要挑看起来比自己更醉的人动手，那样根本不痛。",
+    "KRAbilityList": [
+      {
+        "text": "警戒触发后，增加移动速度并在一定范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被警戒塔照射时攻击力与攻击速度提升",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10198_ubjxs",
+    "Levels": [
+      {
+        "key": "enemy_10198_ubjxs",
+        "attributes": {
+          "maxHp": 9000,
+          "atk": 650,
+          "def": 100,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.7
+          },
+          {
+            "key": "Talent1.attack@def",
+            "value": -1
+          },
+          {
+            "key": "Talent1.attack@reduce_def_duration",
+            "value": 4
+          },
+          {
+            "key": "Talent1.attack@damage_resistance_stop_duration",
+            "value": 4.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "废金属破坏者",
+    "CNDescription": "自诩比圣骏堡大学的学生更精通空气动力学的人。未发表的“锁士论文”是用吸管往打盹的警察脸上吹纸团子。",
+    "CNAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "废金属破坏者",
+    "JPDescription": "自诩比圣骏堡大学的学生更精通空气动力学的人。未发表的“锁士论文”是用吸管往打盹的警察脸上吹纸团子。",
+    "JPAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "废金属破坏者",
+    "ENDescription": "自诩比圣骏堡大学的学生更精通空气动力学的人。未发表的“锁士论文”是用吸管往打盹的警察脸上吹纸团子。",
+    "ENAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "废金属破坏者",
+    "KRDescription": "自诩比圣骏堡大学的学生更精通空气动力学的人。未发表的“锁士论文”是用吸管往打盹的警察脸上吹纸团子。",
+    "KRAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10198_ubjxs_2",
+    "Levels": [
+      {
+        "key": "enemy_10198_ubjxs_2",
+        "attributes": {
+          "maxHp": 13000,
+          "atk": 800,
+          "def": 100,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.4,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.7
+          },
+          {
+            "key": "Talent1.attack@def",
+            "value": -1
+          },
+          {
+            "key": "Talent1.attack@reduce_def_duration",
+            "value": 4
+          },
+          {
+            "key": "Talent1.attack@damage_resistance_stop_duration",
+            "value": 4.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "废金属爆裂者",
+    "CNDescription": "自诩比乌萨斯帝国理工大学的学生更精通空气动力学的人，有可能是真的。未发表的“薄士论文”是用装在钢管里的源石炸药开拉环断掉的罐头。",
+    "CNAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "废金属爆裂者",
+    "JPDescription": "自诩比乌萨斯帝国理工大学的学生更精通空气动力学的人，有可能是真的。未发表的“薄士论文”是用装在钢管里的源石炸药开拉环断掉的罐头。",
+    "JPAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "废金属爆裂者",
+    "ENDescription": "自诩比乌萨斯帝国理工大学的学生更精通空气动力学的人，有可能是真的。未发表的“薄士论文”是用装在钢管里的源石炸药开拉环断掉的罐头。",
+    "ENAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "废金属爆裂者",
+    "KRDescription": "自诩比乌萨斯帝国理工大学的学生更精通空气动力学的人，有可能是真的。未发表的“薄士论文”是用装在钢管里的源石炸药开拉环断掉的罐头。",
+    "KRAbilityList": [
+      {
+        "text": "优先且无视距离攻击触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击触发警戒的单位时，使其防御力降低100%，持续一段时间",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "非攻击状态下受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10199_ubhb",
+    "Levels": [
+      {
+        "key": "enemy_10199_ubhb",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 550,
+          "def": 400,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "硬核扰民者",
+    "CNDescription": "强迫所有人像自己一样享受哈德巴斯音乐的人。他认为你不该把宝贵的时间浪费在睡眠上，他会用真正的音乐解救你。",
+    "CNAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "硬核扰民者",
+    "JPDescription": "强迫所有人像自己一样享受哈德巴斯音乐的人。他认为你不该把宝贵的时间浪费在睡眠上，他会用真正的音乐解救你。",
+    "JPAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "硬核扰民者",
+    "ENDescription": "强迫所有人像自己一样享受哈德巴斯音乐的人。他认为你不该把宝贵的时间浪费在睡眠上，他会用真正的音乐解救你。",
+    "ENAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "硬核扰民者",
+    "KRDescription": "强迫所有人像自己一样享受哈德巴斯音乐的人。他认为你不该把宝贵的时间浪费在睡眠上，他会用真正的音乐解救你。",
+    "KRAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10199_ubhb_2",
+    "Levels": [
+      {
+        "key": "enemy_10199_ubhb_2",
+        "attributes": {
+          "maxHp": 18000,
+          "atk": 800,
+          "def": 400,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "硬核袭警者",
+    "CNDescription": "认为大地上只该存在哈德巴斯这一种音乐的人。他已经不再介意扫兴的听众了，因为他没法分清周围没反应的人到底是睡着了还是死了。",
+    "CNAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "硬核袭警者",
+    "JPDescription": "认为大地上只该存在哈德巴斯这一种音乐的人。他已经不再介意扫兴的听众了，因为他没法分清周围没反应的人到底是睡着了还是死了。",
+    "JPAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "硬核袭警者",
+    "ENDescription": "认为大地上只该存在哈德巴斯这一种音乐的人。他已经不再介意扫兴的听众了，因为他没法分清周围没反应的人到底是睡着了还是死了。",
+    "ENAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "硬核袭警者",
+    "KRDescription": "认为大地上只该存在哈德巴斯这一种音乐的人。他已经不再介意扫兴的听众了，因为他没法分清周围没反应的人到底是睡着了还是死了。",
+    "KRAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_1019_jshoot",
     "Levels": [
       {
@@ -40791,6 +42321,163 @@
     "KRAbilityList": [
       {
         "text": "<$ba.invisible>은신</> 효과 획득",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10200_ubglmf",
+    "Levels": [
+      {
+        "key": "enemy_10200_ubglmf",
+        "attributes": {
+          "maxHp": 40000,
+          "atk": 1400,
+          "def": 600,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.65,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.atk_scale_up",
+            "value": 1.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_10200_ubglmf",
+        "attributes": {
+          "maxHp": 60000,
+          "atk": 2000,
+          "def": 800,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.65,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent1.atk_scale_up",
+            "value": 1.5
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "格罗莫夫",
+    "CNDescription": "一个不会拼写“错误”的人。一个自出生后从未洗过澡的人。一个偶尔思考“十六勇士”到底该有几个成员的人。",
+    "CNAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "格罗莫夫",
+    "JPDescription": "一个不会拼写“错误”的人。一个自出生后从未洗过澡的人。一个偶尔思考“十六勇士”到底该有几个成员的人。",
+    "JPAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "格罗莫夫",
+    "ENDescription": "一个不会拼写“错误”的人。一个自出生后从未洗过澡的人。一个偶尔思考“十六勇士”到底该有几个成员的人。",
+    "ENAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "格罗莫夫",
+    "KRDescription": "一个不会拼写“错误”的人。一个自出生后从未洗过澡的人。一个偶尔思考“十六勇士”到底该有几个成员的人。",
+    "KRAbilityList": [
+      {
+        "text": "攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "对被警戒塔发现的单位造成更高伤害",
         "textFormat": "NORMAL"
       }
     ]
@@ -128041,7 +129728,7 @@
       {
         "key": "enemy_15008_dqspsb",
         "attributes": {
-          "maxHp": 3600,
+          "maxHp": 3000,
           "atk": 290,
           "def": 120,
           "magicResistance": 10,
@@ -128099,6 +129786,68 @@
         "enemyTags": [
           "animated"
         ]
+      },
+      {
+        "key": "enemy_15008_dqspsb",
+        "attributes": {
+          "maxHp": 3600,
+          "atk": 290,
+          "def": 120,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.8
+        },
+        "levelType": "NORMAL",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "yinyang.dynamic",
+            "value": -1
+          },
+          {
+            "key": "yinyang.buff_yinyang[same].atk_scale",
+            "value": 0.6
+          },
+          {
+            "key": "yinyang.buff_yinyang[diff].atk_scale",
+            "value": 1.4
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "animated"
+        ]
       }
     ],
     "CNName": "清醒的墨魉",
@@ -128109,6 +129858,58 @@
   {
     "Key": "enemy_15009_dqmgcs",
     "Levels": [
+      {
+        "key": "enemy_15009_dqmgcs",
+        "attributes": {
+          "maxHp": 7000,
+          "atk": 380,
+          "def": 250,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 4.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "PowerAttack.attack@max_target",
+            "value": 3
+          }
+        ],
+        "skills": null,
+        "enemyTags": null
+      },
       {
         "key": "enemy_15009_dqmgcs",
         "attributes": {
@@ -128145,7 +129946,7 @@
           "rangeRadius": 4.5
         },
         "levelType": "ELITE",
-        "level": 0,
+        "level": 1,
         "applyWay": "RANGED",
         "motion": "WALK",
         "hugeEnemy": false,
@@ -128682,9 +130483,9 @@
         "key": "enemy_15014_dqmmka",
         "attributes": {
           "maxHp": 65000,
-          "atk": 1500,
-          "def": 0,
-          "magicResistance": 0,
+          "atk": 1800,
+          "def": 50,
+          "magicResistance": 50,
           "cost": 0,
           "blockCnt": 0,
           "moveSpeed": 0.6,
@@ -128715,6 +130516,66 @@
         },
         "levelType": "ELITE",
         "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "RopeTriggerAbility.stun_duration",
+            "value": 10
+          },
+          {
+            "key": "RopeTriggerAbility.stun_cd",
+            "value": 12
+          },
+          {
+            "key": "RopeTriggerAbility.aoe_scale",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_15014_dqmmka",
+        "attributes": {
+          "maxHp": 65000,
+          "atk": 1500,
+          "def": 0,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.8
+        },
+        "levelType": "ELITE",
+        "level": 1,
         "applyWay": "MELEE",
         "motion": "WALK",
         "hugeEnemy": false,
@@ -129929,6 +131790,54 @@
       {
         "key": "enemy_15029_dqfrtu",
         "attributes": {
+          "maxHp": 4000,
+          "atk": 1000,
+          "def": 2000,
+          "magicResistance": 80,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.8
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": [
+          "infection"
+        ]
+      },
+      {
+        "key": "enemy_15029_dqfrtu",
+        "attributes": {
           "maxHp": 5000,
           "atk": 1000,
           "def": 2000,
@@ -129962,7 +131871,7 @@
           "rangeRadius": 0.8
         },
         "levelType": "ELITE",
-        "level": 0,
+        "level": 1,
         "applyWay": "MELEE",
         "motion": "WALK",
         "hugeEnemy": false,
@@ -130206,6 +132115,54 @@
       {
         "key": "enemy_15030_dqsgpr",
         "attributes": {
+          "maxHp": 12500,
+          "atk": 700,
+          "def": 240,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.75,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.7
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": [
+          "seamonster"
+        ]
+      },
+      {
+        "key": "enemy_15030_dqsgpr",
+        "attributes": {
           "maxHp": 10000,
           "atk": 800,
           "def": 200,
@@ -130239,7 +132196,7 @@
           "rangeRadius": 2.1
         },
         "levelType": "ELITE",
-        "level": 0,
+        "level": 1,
         "applyWay": "RANGED",
         "motion": "WALK",
         "hugeEnemy": false,
@@ -130249,7 +132206,8 @@
         "skills": null,
         "enemyTags": [
           "seamonster"
-        ]
+        ],
+        "numOfExtraDrops": 9
       }
     ],
     "CNName": "标枪恐鱼",
@@ -131402,6 +133360,65 @@
         "enemyTags": [
           "mutant"
         ]
+      },
+      {
+        "key": "enemy_15040_dqrdmn",
+        "attributes": {
+          "maxHp": 14000,
+          "atk": 700,
+          "def": 220,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.6
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "vampire.heal_scale",
+            "value": 1.5
+          },
+          {
+            "key": "vampire.attack@max_target",
+            "value": 3
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "mutant"
+        ],
+        "numOfExtraDrops": 17
       }
     ],
     "CNName": "虹吸巨刃",
@@ -131703,7 +133720,7 @@
       {
         "key": "enemy_15046_dqxts",
         "attributes": {
-          "maxHp": 2200,
+          "maxHp": 2000,
           "atk": 340,
           "def": 0,
           "magicResistance": 0,
@@ -131953,6 +133970,89 @@
         "enemyTags": [
           "seamonster"
         ]
+      },
+      {
+        "key": "enemy_15048_dqdivi",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 190,
+          "def": 150,
+          "magicResistance": 35,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.8
+        },
+        "levelType": "NORMAL",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "0.interval",
+            "value": 0.3
+          },
+          {
+            "key": "0.hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "0.offset_bound",
+            "value": 0.2
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "0",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_15048_dqdivi"
+              },
+              {
+                "key": "offset_bound",
+                "value": 0.3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "seamonster"
+        ],
+        "numOfExtraDrops": 6
       }
     ],
     "CNName": "高敏感积藏者",
@@ -132234,6 +134334,82 @@
       {
         "key": "enemy_15052_dqboar",
         "attributes": {
+          "maxHp": 25000,
+          "atk": 600,
+          "def": 20,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.35,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.8
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Rush.mhboar_t[trigger].move_speed",
+            "value": 0.333
+          },
+          {
+            "key": "Rush.mhboar_t[trigger].interval",
+            "value": 0.333
+          },
+          {
+            "key": "Rush.mhboar_t[trigger].trig_cnt",
+            "value": 30
+          },
+          {
+            "key": "Rush.mhboar_t_predelay.predelay",
+            "value": 3
+          },
+          {
+            "key": "FirstAttack.atk_scale",
+            "value": 700
+          },
+          {
+            "key": "Crash.atk_scale",
+            "value": 700
+          },
+          {
+            "key": "Crash.stun",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": null
+      },
+      {
+        "key": "enemy_15052_dqboar",
+        "attributes": {
           "maxHp": 20000,
           "atk": 700,
           "def": 20,
@@ -132267,7 +134443,7 @@
           "rangeRadius": 0.8
         },
         "levelType": "ELITE",
-        "level": 0,
+        "level": 1,
         "applyWay": "MELEE",
         "motion": "WALK",
         "hugeEnemy": false,
@@ -172316,6 +174492,618 @@
     "KRName": "岁影"
   },
   {
+    "Key": "enemy_1587_ubbplwq",
+    "Levels": [
+      {
+        "key": "enemy_1587_ubbplwq",
+        "attributes": {
+          "maxHp": 60000,
+          "atk": 1200,
+          "def": 600,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "TalentMode2.action_index",
+            "value": 0
+          },
+          {
+            "key": "TalentMode2.branch_id",
+            "value": "p2route"
+          },
+          {
+            "key": "TalentMode2_EnemyBranch.branch_id",
+            "value": "enemy_branch"
+          },
+          {
+            "key": "TalentReborn3Heal.hp_ratio",
+            "value": 0.01
+          },
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.7
+          },
+          {
+            "key": "TalentCrazeAura.attack_speed",
+            "value": 0.5
+          },
+          {
+            "key": "TalentCrazeAura.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "TalentReborn.duration",
+            "value": 0.1
+          },
+          {
+            "key": "TalentReborn.hp_ratio",
+            "value": 0.01
+          },
+          {
+            "key": "TalentReborn.attack@reborn1_duration",
+            "value": 20
+          },
+          {
+            "key": "TalentReborn.attack@reborn2_duration",
+            "value": 60
+          },
+          {
+            "key": "TalentReborn.attack@reborn3_duration",
+            "value": 30
+          },
+          {
+            "key": "TalentReborn3Heal.hw_count",
+            "value": 2
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Bomb",
+            "priority": 10,
+            "cooldown": 45,
+            "initCooldown": 45,
+            "spCost": 45,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Destroy",
+            "priority": 20,
+            "cooldown": 360,
+            "initCooldown": 360,
+            "spCost": 0,
+            "blackboard": []
+          },
+          {
+            "prefabKey": "Skill_Speech",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "speech_duration",
+                "value": 21,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key_list",
+                "value": 0,
+                "valueStr": "enemy_10193_ubhh|enemy_10193_ubhh|enemy_10193_ubhh|enemy_10197_ublyb"
+              },
+              {
+                "key": "enemy_key_list_2",
+                "value": 0,
+                "valueStr": "enemy_10193_ubhh|enemy_10194_ubdg|enemy_10193_ubhh|enemy_10193_ubhh|enemy_10197_ublyb"
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_1587_ubbplwq",
+        "attributes": {
+          "maxHp": 75000,
+          "atk": 1350,
+          "def": 650,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 6,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 1
+        },
+        "levelType": "BOSS",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "TalentMode2.action_index",
+            "value": 0
+          },
+          {
+            "key": "TalentMode2.branch_id",
+            "value": "p2route"
+          },
+          {
+            "key": "TalentMode2_EnemyBranch.branch_id",
+            "value": "enemy_branch"
+          },
+          {
+            "key": "TalentReborn3Heal.hp_ratio",
+            "value": 0.01
+          },
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.7
+          },
+          {
+            "key": "TalentCrazeAura.attack_speed",
+            "value": 0.5
+          },
+          {
+            "key": "TalentCrazeAura.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "TalentReborn.duration",
+            "value": 0.1
+          },
+          {
+            "key": "TalentReborn.hp_ratio",
+            "value": 0.01
+          },
+          {
+            "key": "TalentReborn.attack@reborn1_duration",
+            "value": 20
+          },
+          {
+            "key": "TalentReborn.attack@reborn2_duration",
+            "value": 60
+          },
+          {
+            "key": "TalentReborn.attack@reborn3_duration",
+            "value": 30
+          },
+          {
+            "key": "TalentReborn3Heal.hw_count",
+            "value": 2
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Bomb",
+            "priority": 10,
+            "cooldown": 45,
+            "initCooldown": 45,
+            "spCost": 45,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Destroy",
+            "priority": 20,
+            "cooldown": 360,
+            "initCooldown": 360,
+            "spCost": 0,
+            "blackboard": []
+          },
+          {
+            "prefabKey": "Skill_Speech",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "speech_duration",
+                "value": 21,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key_list",
+                "value": 0,
+                "valueStr": "enemy_10193_ubhh|enemy_10193_ubhh|enemy_10193_ubhh|enemy_10197_ublyb"
+              },
+              {
+                "key": "enemy_key_list_2",
+                "value": 0,
+                "valueStr": "enemy_10193_ubhh|enemy_10194_ubdg|enemy_10193_ubhh|enemy_10193_ubhh|enemy_10197_ublyb"
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "巴普洛维奇，枢密官",
+    "CNDescription": "一个坚信自己从头到尾没有做错任何事的人。像他这样的人，在乌萨斯帝国议会的下议院里还坐着一百来个。",
+    "CNAbilityList": [
+      {
+        "text": "【帝国公仆豁免法案】受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【圣骏堡舆论廓清条例】被警戒塔发现的我方干员撤退或死亡则被关押至禁闭所，关押状态下无法再部署；关卡中禁闭所被击破后再生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【枢密官人身安全条款】攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“帝国良心”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】周期性进行演讲，演讲时失去伤害减免效果，持续在自身周围召唤敌人，并赋予范围内敌人战斗强化效果",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【前线视察】演讲时，将<“私人安全顾问”>召回身边",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“乱流砥柱”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】召唤更强力的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【口径辩论】呼叫火力支援，对警戒区域进行一次轰炸，对范围内的我方单位造成攻击力一定比例的法术伤害和<$ba.dt.burning>灼燃损伤</>，并使地块处于<被照亮>的状态一段时间，照亮期间地块上单位的伪装工具失效并持续受到<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【封锁区和平治理计划】6分钟后，对全体单位进行一次致命轰炸",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "巴普洛维奇，枢密官",
+    "JPDescription": "一个坚信自己从头到尾没有做错任何事的人。像他这样的人，在乌萨斯帝国议会的下议院里还坐着一百来个。",
+    "JPAbilityList": [
+      {
+        "text": "【帝国公仆豁免法案】受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【圣骏堡舆论廓清条例】被警戒塔发现的我方干员撤退或死亡则被关押至禁闭所，关押状态下无法再部署；关卡中禁闭所被击破后再生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【枢密官人身安全条款】攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“帝国良心”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】周期性进行演讲，演讲时失去伤害减免效果，持续在自身周围召唤敌人，并赋予范围内敌人战斗强化效果",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【前线视察】演讲时，将<“私人安全顾问”>召回身边",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“乱流砥柱”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】召唤更强力的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【口径辩论】呼叫火力支援，对警戒区域进行一次轰炸，对范围内的我方单位造成攻击力一定比例的法术伤害和<$ba.dt.burning>灼燃损伤</>，并使地块处于<被照亮>的状态一段时间，照亮期间地块上单位的伪装工具失效并持续受到<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【封锁区和平治理计划】6分钟后，对全体单位进行一次致命轰炸",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "巴普洛维奇，枢密官",
+    "ENDescription": "一个坚信自己从头到尾没有做错任何事的人。像他这样的人，在乌萨斯帝国议会的下议院里还坐着一百来个。",
+    "ENAbilityList": [
+      {
+        "text": "【帝国公仆豁免法案】受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【圣骏堡舆论廓清条例】被警戒塔发现的我方干员撤退或死亡则被关押至禁闭所，关押状态下无法再部署；关卡中禁闭所被击破后再生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【枢密官人身安全条款】攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“帝国良心”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】周期性进行演讲，演讲时失去伤害减免效果，持续在自身周围召唤敌人，并赋予范围内敌人战斗强化效果",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【前线视察】演讲时，将<“私人安全顾问”>召回身边",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“乱流砥柱”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】召唤更强力的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【口径辩论】呼叫火力支援，对警戒区域进行一次轰炸，对范围内的我方单位造成攻击力一定比例的法术伤害和<$ba.dt.burning>灼燃损伤</>，并使地块处于<被照亮>的状态一段时间，照亮期间地块上单位的伪装工具失效并持续受到<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【封锁区和平治理计划】6分钟后，对全体单位进行一次致命轰炸",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "巴普洛维奇，枢密官",
+    "KRDescription": "一个坚信自己从头到尾没有做错任何事的人。像他这样的人，在乌萨斯帝国议会的下议院里还坐着一百来个。",
+    "KRAbilityList": [
+      {
+        "text": "【帝国公仆豁免法案】受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【圣骏堡舆论廓清条例】被警戒塔发现的我方干员撤退或死亡则被关押至禁闭所，关押状态下无法再部署；关卡中禁闭所被击破后再生",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【枢密官人身安全条款】攻击范围内存在我方单位时，强制使警戒塔转向该单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“帝国良心”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】周期性进行演讲，演讲时失去伤害减免效果，持续在自身周围召唤敌人，并赋予范围内敌人战斗强化效果",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【前线视察】演讲时，将<“私人安全顾问”>召回身边",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "“乱流砥柱”",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【自发动员】召唤更强力的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【口径辩论】呼叫火力支援，对警戒区域进行一次轰炸，对范围内的我方单位造成攻击力一定比例的法术伤害和<$ba.dt.burning>灼燃损伤</>，并使地块处于<被照亮>的状态一段时间，照亮期间地块上单位的伪装工具失效并持续受到<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【封锁区和平治理计划】6分钟后，对全体单位进行一次致命轰炸",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_1588_ubbphw",
+    "Levels": [
+      {
+        "key": "enemy_1588_ubbphw",
+        "attributes": {
+          "maxHp": 50000,
+          "atk": 700,
+          "def": 2000,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "WarningTalent.move_speed",
+            "value": 0.5
+          },
+          {
+            "key": "TalentReborn3Heal.hp_ratio",
+            "value": 0.01
+          },
+          {
+            "key": "Talent1.damage_resistance",
+            "value": 0.25
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "“私人安全顾问”",
+    "CNDescription": "隶属于“二十二号仓库”安保公司的雇员。他曾想过要摆脱这家公司，但又怕自己立马会变成昔日同事的下一个任务目标。\n比起成为管道里一具无名的尸体，他宁愿充当那些香气熏人的贵族的私兵。至少，他没被分配给格罗莫夫那个臭气熏天的蠢货。",
+    "CNAbilityList": [
+      {
+        "text": "<巴普洛维奇，枢密官>演讲时进行贴身护卫，<巴普洛维奇，枢密官>死亡后退场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "“私人安全顾问”",
+    "JPDescription": "隶属于“二十二号仓库”安保公司的雇员。他曾想过要摆脱这家公司，但又怕自己立马会变成昔日同事的下一个任务目标。\n比起成为管道里一具无名的尸体，他宁愿充当那些香气熏人的贵族的私兵。至少，他没被分配给格罗莫夫那个臭气熏天的蠢货。",
+    "JPAbilityList": [
+      {
+        "text": "<巴普洛维奇，枢密官>演讲时进行贴身护卫，<巴普洛维奇，枢密官>死亡后退场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“私人安全顾问”",
+    "ENDescription": "隶属于“二十二号仓库”安保公司的雇员。他曾想过要摆脱这家公司，但又怕自己立马会变成昔日同事的下一个任务目标。\n比起成为管道里一具无名的尸体，他宁愿充当那些香气熏人的贵族的私兵。至少，他没被分配给格罗莫夫那个臭气熏天的蠢货。",
+    "ENAbilityList": [
+      {
+        "text": "<巴普洛维奇，枢密官>演讲时进行贴身护卫，<巴普洛维奇，枢密官>死亡后退场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“私人安全顾问”",
+    "KRDescription": "隶属于“二十二号仓库”安保公司的雇员。他曾想过要摆脱这家公司，但又怕自己立马会变成昔日同事的下一个任务目标。\n比起成为管道里一具无名的尸体，他宁愿充当那些香气熏人的贵族的私兵。至少，他没被分配给格罗莫夫那个臭气熏天的蠢货。",
+    "KRAbilityList": [
+      {
+        "text": "<巴普洛维奇，枢密官>演讲时进行贴身护卫，<巴普洛维奇，枢密官>死亡后退场",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "警戒触发后，增加移动速度并在较大范围内寻找触发警戒的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周围敌人受到的物理和法术伤害降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_18001_lhship",
     "Levels": [
       {
@@ -196226,6 +199014,214 @@
     ]
   },
   {
+    "Key": "enemy_3015_ubstb",
+    "Levels": [
+      {
+        "key": "enemy_3015_ubstb",
+        "attributes": {
+          "maxHp": 1000,
+          "atk": 100,
+          "def": 100,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.75,
+          "attackSpeed": 100,
+          "baseAttackTime": 10,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 0
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "被关押的学生",
+    "CNDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "CNAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "被关押的学生",
+    "JPDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "JPAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "被关押的学生",
+    "ENDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "ENAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "被关押的学生",
+    "KRDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "KRAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_3016_ubstg",
+    "Levels": [
+      {
+        "key": "enemy_3016_ubstg",
+        "attributes": {
+          "maxHp": 1000,
+          "atk": 100,
+          "def": 100,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.75,
+          "attackSpeed": 100,
+          "baseAttackTime": 10,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": true,
+          "palsyImmune": true,
+          "attractImmune": true,
+          "rangeRadius": 0
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Talent0.attack@show_duration",
+            "value": 2
+          },
+          {
+            "key": "Talent0.attack@move_speed",
+            "value": 0.25
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "被关押的学生",
+    "CNDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "CNAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "JPName": "被关押的学生",
+    "JPDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "JPAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "被关押的学生",
+    "ENDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "ENAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "被关押的学生",
+    "KRDescription": "一个被关押的人。从本质上说，无论被关在这里的是谁，都和其他人没有什么不同。",
+    "KRAbilityList": [
+      {
+        "text": "友好单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "无敌",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_3017_ycsho",
     "Levels": [
       {
@@ -213358,6 +216354,69 @@
         "enemyTags": [
           "collapsal"
         ]
+      },
+      {
+        "key": "enemy_5052_dqsbr",
+        "attributes": {
+          "maxHp": 4000,
+          "atk": 400,
+          "def": 200,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0.8
+        },
+        "levelType": "NORMAL",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "SpeedUp.move_speed",
+            "value": 3
+          },
+          {
+            "key": "SpeedUp.duration",
+            "value": 2
+          },
+          {
+            "key": "SpeedUp.cooldown",
+            "value": 5
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "collapsal"
+        ],
+        "numOfExtraDrops": 5
       }
     ],
     "CNName": "奔跑吧！躯壳！",
@@ -214644,6 +217703,894 @@
     "JPName": "友好生物",
     "ENName": "友好生物",
     "KRName": "友好生物"
+  },
+  {
+    "Key": "enemy_5068_iznsbr",
+    "Levels": [
+      {
+        "key": "enemy_5068_iznsbr",
+        "attributes": {
+          "maxHp": 4500,
+          "atk": 350,
+          "def": 50,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      }
+    ],
+    "CNName": "落魄士兵",
+    "JPName": "落魄士兵",
+    "ENName": "落魄士兵",
+    "KRName": "落魄士兵"
+  },
+  {
+    "Key": "enemy_5069_izsdkn",
+    "Levels": [
+      {
+        "key": "enemy_5069_izsdkn",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 700,
+          "def": 1000,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      }
+    ],
+    "CNName": "持盾战败骑士",
+    "JPName": "持盾战败骑士",
+    "ENName": "持盾战败骑士",
+    "KRName": "持盾战败骑士"
+  },
+  {
+    "Key": "enemy_5070_izuabn",
+    "Levels": [
+      {
+        "key": "enemy_5070_izuabn",
+        "attributes": {
+          "maxHp": 4000,
+          "atk": 450,
+          "def": 200,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.4
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      }
+    ],
+    "CNName": "乌萨斯弩手幸存者",
+    "JPName": "乌萨斯弩手幸存者",
+    "ENName": "乌萨斯弩手幸存者",
+    "KRName": "乌萨斯弩手幸存者"
+  },
+  {
+    "Key": "enemy_5071_izduph",
+    "Levels": [
+      {
+        "key": "enemy_5071_izduph",
+        "attributes": {
+          "maxHp": 4000,
+          "atk": 300,
+          "def": 300,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "refracting.magic_resistance",
+            "value": 70
+          },
+          {
+            "key": "auraDefup.def",
+            "value": 200
+          }
+        ],
+        "skills": null,
+        "enemyTags": null
+      }
+    ],
+    "CNName": "深池搅局战士",
+    "JPName": "深池搅局战士",
+    "ENName": "深池搅局战士",
+    "KRName": "深池搅局战士"
+  },
+  {
+    "Key": "enemy_5072_izdmge",
+    "Levels": [
+      {
+        "key": "enemy_5072_izdmge",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 500,
+          "def": 200,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "lasso",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "hit_duration",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "sarkaz"
+        ]
+      },
+      {
+        "key": "enemy_5072_izdmge",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 700,
+          "def": 300,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "lasso",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "hit_duration",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "range_radius",
+                "value": 3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "sarkaz"
+        ]
+      }
+    ],
+    "CNName": "萨卡兹业余术师",
+    "JPName": "萨卡兹业余术师",
+    "ENName": "萨卡兹业余术师",
+    "KRName": "萨卡兹业余术师"
+  },
+  {
+    "Key": "enemy_5073_izbslm",
+    "Levels": [
+      {
+        "key": "enemy_5073_izbslm",
+        "attributes": {
+          "maxHp": 2460,
+          "atk": 260,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.7,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "boom.atk_scale",
+            "value": 4
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "infection"
+        ]
+      }
+    ],
+    "CNName": "稳定的高能源石虫",
+    "JPName": "稳定的高能源石虫",
+    "ENName": "稳定的高能源石虫",
+    "KRName": "稳定的高能源石虫"
+  },
+  {
+    "Key": "enemy_5074_iznhkd",
+    "Levels": [
+      {
+        "key": "enemy_5074_iznhkd",
+        "attributes": {
+          "maxHp": 30000,
+          "atk": 1050,
+          "def": 0,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 0,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Stronger.def",
+            "value": 700
+          },
+          {
+            "key": "Stronger.move_speed",
+            "value": -0.3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Devour",
+            "priority": 0,
+            "cooldown": -1,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ],
+        "enemyTags": [
+          "sarkaz"
+        ]
+      }
+    ],
+    "CNName": "萨卡兹枯朽胃胀者",
+    "JPName": "萨卡兹枯朽胃胀者",
+    "ENName": "萨卡兹枯朽胃胀者",
+    "KRName": "萨卡兹枯朽胃胀者"
+  },
+  {
+    "Key": "enemy_5075_izbear",
+    "Levels": [
+      {
+        "key": "enemy_5075_izbear",
+        "attributes": {
+          "maxHp": 30000,
+          "atk": 2000,
+          "def": 200,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      },
+      {
+        "key": "enemy_5075_izbear",
+        "attributes": {
+          "maxHp": 70000,
+          "atk": 3000,
+          "def": 450,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      },
+      {
+        "key": "enemy_5075_izbear",
+        "attributes": {
+          "maxHp": 90000,
+          "atk": 4000,
+          "def": 550,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 4,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 0
+        },
+        "levelType": "ELITE",
+        "level": 2,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 0,
+        "notCountInTotal": false,
+        "skills": null,
+        "enemyTags": null
+      }
+    ],
+    "CNName": "下班的高普尼克",
+    "JPName": "下班的高普尼克",
+    "ENName": "下班的高普尼克",
+    "KRName": "下班的高普尼克"
+  },
+  {
+    "Key": "enemy_5076_izdoc",
+    "Levels": [
+      {
+        "key": "enemy_5076_izdoc",
+        "attributes": {
+          "maxHp": 16000,
+          "atk": 700,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.1,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 1,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "damage.atk_scale",
+            "value": 0.3
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "变格博士",
+    "JPName": "变格博士",
+    "ENName": "变格博士",
+    "KRName": "变格博士"
+  },
+  {
+    "Key": "enemy_5077_izklst",
+    "Levels": [
+      {
+        "key": "enemy_5077_izklst",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 600,
+          "def": 200,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "aura.def",
+            "value": 0
+          },
+          {
+            "key": "aura.magic_resistance",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "hpRecover",
+            "priority": 0,
+            "cooldown": 1,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "hp_ratio",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "变格凯尔希",
+    "JPName": "变格凯尔希",
+    "ENName": "变格凯尔希",
+    "KRName": "变格凯尔希"
+  },
+  {
+    "Key": "enemy_5078_izsvas",
+    "Levels": [
+      {
+        "key": "enemy_5078_izsvas",
+        "attributes": {
+          "maxHp": 20000,
+          "atk": 700,
+          "def": 400,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "rangeRadius": 1.8
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "ALL",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Range.attack@atk_scale_range",
+            "value": 0.8
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "AOE",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "freeze",
+                "value": 10,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "变格银灰",
+    "JPName": "变格银灰",
+    "ENName": "变格银灰",
+    "KRName": "变格银灰"
   },
   {
     "Key": "enemy_5501_arcbank",
@@ -238041,6 +241988,10 @@
           {
             "key": "1.scale_attribute",
             "value": 0.3
+          },
+          {
+            "key": "1.attack@max_target",
+            "value": 3
           }
         ],
         "skills": [
@@ -238101,7 +242052,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带攻击力一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238117,7 +242068,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带攻击力一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238133,7 +242084,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带攻击力一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -238149,7 +242100,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "同时攻击数个目标，攻击附带伤害一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
+        "text": "同时攻击数个目标，攻击附带攻击力一定比例的<$ba.dt.burning2>灼燃损伤</>且周围的敌方单位受到一定比例的<$ba.elementfragile>元素脆弱</>",
         "textFormat": "NORMAL"
       },
       {
@@ -239488,7 +243439,7 @@
           },
           {
             "key": "4.damage_scale",
-            "value": 0.1
+            "value": 0.2
           }
         ],
         "skills": [
@@ -240941,7 +244892,7 @@
           "epBreakRecoverSpeed": 0,
           "stunImmune": false,
           "silenceImmune": false,
-          "sleepImmune": false,
+          "sleepImmune": true,
           "frozenImmune": false,
           "levitateImmune": true,
           "disarmedCombatImmune": false,
