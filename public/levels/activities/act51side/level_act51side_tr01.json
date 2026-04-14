@@ -13,7 +13,7 @@
     "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": 0,
-    "configBlackBoard": [],
+    "configBlackBoard": null,
     "enemyTauntLevelPow": 0
   },
   "levelId": null,
@@ -107,8 +107,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -116,8 +116,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -125,8 +125,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -134,8 +134,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -143,8 +143,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -152,8 +152,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -161,8 +161,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -170,8 +170,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -179,8 +179,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -188,8 +188,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -197,8 +197,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -206,8 +206,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -215,8 +215,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -224,8 +224,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -233,8 +233,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -242,8 +242,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -251,8 +251,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -260,8 +260,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_start",
@@ -269,8 +269,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -278,8 +278,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -287,8 +287,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -296,8 +296,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -305,8 +305,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -314,8 +314,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -323,8 +323,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -332,8 +332,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -341,8 +341,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -350,8 +350,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -359,8 +359,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -368,8 +368,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -377,8 +377,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -386,8 +386,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -395,8 +395,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -404,8 +404,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -413,8 +413,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_end",
@@ -422,8 +422,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -431,8 +431,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -440,8 +440,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -449,8 +449,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -458,8 +458,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -467,8 +467,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_floor",
@@ -476,8 +476,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -485,8 +485,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_wall",
@@ -494,8 +494,8 @@
         "buildableType": 2,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -503,8 +503,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -512,8 +512,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -521,8 +521,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -530,8 +530,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -539,8 +539,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_road",
@@ -548,8 +548,8 @@
         "buildableType": 1,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -557,8 +557,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_wall",
@@ -566,8 +566,8 @@
         "buildableType": 2,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_wall",
@@ -575,8 +575,8 @@
         "buildableType": 2,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -584,8 +584,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -593,8 +593,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -602,8 +602,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -611,8 +611,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -620,8 +620,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_start",
@@ -629,8 +629,8 @@
         "buildableType": 0,
         "passableMask": 3,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -638,8 +638,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -647,8 +647,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -656,8 +656,8 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       },
       {
         "tileKey": "tile_forbidden",
@@ -665,16 +665,16 @@
         "buildableType": 0,
         "passableMask": 2,
         "playerSideMask": 0,
-        "blackboard": [],
-        "effects": []
+        "blackboard": null,
+        "effects": null
       }
     ],
-    "blockEdges": [],
-    "tags": [],
-    "effects": [],
-    "layerRects": []
+    "blockEdges": null,
+    "tags": null,
+    "effects": null,
+    "layerRects": null
   },
-  "tilesDisallowToLocate": [],
+  "tilesDisallowToLocate": null,
   "runes": [
     {
       "difficultyMask": 15,
@@ -684,14 +684,13 @@
       "blackboard": [
         {
           "key": "key",
-          "value": 0.0,
           "valueStr": "env_044_act51side"
         }
       ]
     }
   ],
-  "optionalRunes": {},
-  "globalBuffs": [],
+  "optionalRunes": null,
+  "globalBuffs": null,
   "routes": [
     {
       "motionMode": 2,
@@ -711,7 +710,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -735,7 +734,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -759,7 +758,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -850,7 +849,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -874,98 +873,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
-      "allowDiagonalMove": true,
-      "visitEveryTileCenter": false,
-      "visitEveryNodeCenter": false,
-      "visitEveryCheckPoint": false
-    },
-    {
-      "motionMode": 0,
-      "startPosition": {
-        "row": 6,
-        "col": 4
-      },
-      "endPosition": {
-        "row": 3,
-        "col": 8
-      },
-      "spawnRandomRange": {
-        "x": 0.0,
-        "y": 0.0
-      },
-      "spawnOffset": {
-        "x": 0.0,
-        "y": 0.0
-      },
-      "checkpoints": [
-        {
-          "type": 0,
-          "time": 0.0,
-          "position": {
-            "row": 4,
-            "col": 4
-          },
-          "reachOffset": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": 0,
-          "time": 0.0,
-          "position": {
-            "row": 3,
-            "col": 5
-          },
-          "reachOffset": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": 0,
-          "time": 0.0,
-          "position": {
-            "row": 3,
-            "col": 6
-          },
-          "reachOffset": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        }
-      ],
-      "allowDiagonalMove": true,
-      "visitEveryTileCenter": false,
-      "visitEveryNodeCenter": false,
-      "visitEveryCheckPoint": false
-    },
-    {
-      "motionMode": 2,
-      "startPosition": {
-        "row": 0,
-        "col": 0
-      },
-      "endPosition": {
-        "row": 0,
-        "col": 0
-      },
-      "spawnRandomRange": {
-        "x": 0.0,
-        "y": 0.0
-      },
-      "spawnOffset": {
-        "x": 0.0,
-        "y": 0.0
-      },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1056,7 +964,74 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
+      "allowDiagonalMove": true,
+      "visitEveryTileCenter": false,
+      "visitEveryNodeCenter": false,
+      "visitEveryCheckPoint": false
+    },
+    {
+      "motionMode": 0,
+      "startPosition": {
+        "row": 6,
+        "col": 4
+      },
+      "endPosition": {
+        "row": 3,
+        "col": 8
+      },
+      "spawnRandomRange": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "spawnOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "checkpoints": [
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 4,
+            "col": 4
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 3,
+            "col": 5
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 3,
+            "col": 6
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        }
+      ],
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1080,7 +1055,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1104,7 +1079,31 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
+      "allowDiagonalMove": true,
+      "visitEveryTileCenter": false,
+      "visitEveryNodeCenter": false,
+      "visitEveryCheckPoint": false
+    },
+    {
+      "motionMode": 2,
+      "startPosition": {
+        "row": 0,
+        "col": 0
+      },
+      "endPosition": {
+        "row": 0,
+        "col": 0
+      },
+      "spawnRandomRange": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "spawnOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1329,7 +1328,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1353,7 +1352,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -1377,7 +1376,7 @@
         "x": 0.0,
         "y": 0.0
       },
-      "checkpoints": [],
+      "checkpoints": null,
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
@@ -2075,7 +2074,7 @@
       "advancedWaveTag": null
     }
   ],
-  "branches": {},
+  "branches": null,
   "predefines": {
     "characterInsts": [
       {
@@ -2086,22 +2085,22 @@
         "direction": 0,
         "hidden": true,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_194_leto",
           "level": 40,
           "phase": 1,
-          "favorBattlePhase": 50,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 50,
+          "potentialRank": 0
         },
         "skillIndex": 1,
         "mainSkillLvl": 5,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2111,22 +2110,22 @@
         "direction": 3,
         "hidden": true,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1051_headb2",
           "level": 20,
           "phase": 2,
-          "favorBattlePhase": 50,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 50,
+          "potentialRank": 0
         },
         "skillIndex": 1,
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2136,22 +2135,22 @@
         "direction": 2,
         "hidden": true,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1502_crosly",
           "level": 20,
           "phase": 2,
-          "favorBattlePhase": 50,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 50,
+          "potentialRank": 0
         },
         "skillIndex": 0,
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [
@@ -2163,22 +2162,22 @@
         "direction": 3,
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_316_ubtower",
           "level": 1,
           "phase": 0,
-          "favorBattlePhase": 0,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 0,
+          "potentialRank": 0
         },
         "skillIndex": -1,
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2188,16 +2187,15 @@
         "direction": 0,
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_317_ubprison",
           "level": 1,
           "phase": 0,
-          "favorBattlePhase": 0,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 0,
+          "potentialRank": 0
         },
         "skillIndex": -1,
         "mainSkillLvl": 1,
@@ -2206,10 +2204,10 @@
         "overrideSkillBlackboard": [
           {
             "key": "max_respawn_cnt",
-            "value": 0.0,
-            "valueStr": null
+            "value": 0.0
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2219,16 +2217,15 @@
         "direction": 1,
         "hidden": false,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_317_ubprison",
           "level": 1,
           "phase": 0,
-          "favorBattlePhase": 0,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 0,
+          "potentialRank": 0
         },
         "skillIndex": -1,
         "mainSkillLvl": 1,
@@ -2237,52 +2234,52 @@
         "overrideSkillBlackboard": [
           {
             "key": "max_respawn_cnt",
-            "value": 0.0,
-            "valueStr": null
+            "value": 0.0
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [
       {
         "hidden": true,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_137_brownb",
           "level": 20,
           "phase": 2,
-          "favorBattlePhase": 50,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 50,
+          "potentialRank": 0
         },
         "skillIndex": 0,
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": true,
         "alias": null,
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_197_poca",
           "level": 20,
           "phase": 2,
-          "favorBattlePhase": 50,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 50,
+          "potentialRank": 0
         },
         "skillIndex": 0,
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": [
@@ -2290,43 +2287,43 @@
         "initialCnt": 1,
         "hidden": true,
         "alias": "trap_318_ubodst#1",
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_318_ubodst",
           "level": 1,
           "phase": 0,
-          "favorBattlePhase": 0,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 0,
+          "potentialRank": 0
         },
         "skillIndex": -1,
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "initialCnt": 1,
         "hidden": true,
         "alias": "trap_318_ubodst#2",
-        "uniEquipIds": [],
+        "uniEquipIds": null,
         "showSpIllust": false,
-        "masterInfos": [],
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_318_ubodst",
           "level": 1,
           "phase": 0,
-          "favorBattlePhase": 0,
-          "potentialRank": 0,
-          "playerInstId": 0
+          "favorPoint": 0,
+          "potentialRank": 0
         },
         "skillIndex": -1,
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ]
   },
@@ -2336,7 +2333,7 @@
     "characterCards": [],
     "tokenCards": []
   },
-  "excludeCharIdList": [],
+  "excludeCharIdList": null,
   "randomSeed": 1202243799,
   "operaConfig": null,
   "cameraPlugin": "",
