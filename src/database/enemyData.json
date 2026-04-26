@@ -4414,7 +4414,7 @@
     "JPDescription": "宝石の構造体たちの中に混ざった奇妙な存在。一体どの展示エリアの所蔵品なのかは、誰にもわからない。だが、石板を振り回す彼らの姿は、遠くからでも人目を惹いてしまうものだ。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -4543,7 +4543,7 @@
     "JPDescription": "宝石の構造体たちの中に混ざった奇妙な存在。宝石のはめ込まれた石板が、彼らの手の中できらきらと輝いており、夜の街中では、光る大剣のようにも見える。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -11511,7 +11511,7 @@
     "JPDescription": "船団の歴代コックは、コックというより精肉業者だ。思うようにいかない調理過程に比べ、彼らの皮剥ぎや骨抜きの腕前は驚くべきものである。厨房から漂う血生臭さは、食事前の船員たちの食欲を削いでしまうらしい。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -11620,7 +11620,7 @@
     "JPDescription": "船団の歴代コックは、コックというより精肉業者だ。思うようにいかない調理過程に比べ、彼らの皮剥ぎや骨抜きの腕前は驚くべきものである。彼らが塩鱗獣を処理するのを目撃したあとに、そのひどい調理技術に文句を付けられる船員は一人としていない。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -12507,7 +12507,7 @@
     "JPDescription": "歳の代理人の能力の影響を受けて生まれた化物「果腹（カフク）」。もとは五穀を盛るための食器だった。五穀は人にとって、腹を満たして飢えを防ぐ根本となるものである。その「根本」を盛るための器は、無論厚くしっかりしたものでなくてはならない。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       }
     ],
@@ -12592,7 +12592,7 @@
     "JPDescription": "歳の代理人の能力の影響を受けて生まれた化物「飽食（ホウショク）」。もとは五穀を盛るための丈夫な食器だった。五穀は人にとって、腹を満たして飢えを防ぐ根本となるものである。その「根本」を盛るための器は、厚くしっかりしているだけでなく、比類なき頑丈さを持ったものでなくてはならない。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       }
     ],
@@ -14750,7 +14750,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "피격되지 않음, 섬멸 수에 집계되지 않으며, 소멸 시 스테이지 HP가 차감되지 않음",
+        "text": "공격받지 않음, 섬멸 수에 집계되지 않으며, 소멸 시 스테이지 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       }
     ]
@@ -14861,7 +14861,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "피격되지 않음, 섬멸 수에 집계되지 않으며, 소멸 시 스테이지 HP가 차감되지 않음",
+        "text": "공격받지 않음, 섬멸 수에 집계되지 않으며, 소멸 시 스테이지 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       }
     ]
@@ -31210,27 +31210,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "雪孩子",
-    "JPDescription": "在谢拉格人迹罕至的雪原中蹦蹦跳跳的小东西，性格冒失，容易磕碰。一旦到了春天，就会从雪白变成灰扑扑的样子，并长出茂盛的绒毛。",
+    "JPName": "ユキッコ",
+    "JPDescription": "イェラグのひと気のない雪原でぴょんぴょん跳ねる小動物。抜けたところがあり、あちこちにぶつかる。春になれば純白から灰色がかった姿に変わり、ふわふわの綿毛が生えてくる。",
     "JPAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "高台にぶつかると、追加ダメージを受ける",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "雪孩子",
-    "ENDescription": "在谢拉格人迹罕至的雪原中蹦蹦跳跳的小东西，性格冒失，容易磕碰。一旦到了春天，就会从雪白变成灰扑扑的样子，并长出茂盛的绒毛。",
+    "ENName": "Snowchild",
+    "ENDescription": "Tiny creatures that hop around the uninhabited Kjerag snowfields. Rather careless and prone to accidents. In spring, their coat turns from snow-white to a dusty gray and grows fluffy.",
     "ENAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "Takes extra damage on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "雪孩子",
-    "KRDescription": "在谢拉格人迹罕至的雪原中蹦蹦跳跳的小东西，性格冒失，容易磕碰。一旦到了春天，就会从雪白变成灰扑扑的样子，并长出茂盛的绒毛。",
+    "KRName": "눈의 아이",
+    "KRDescription": "쉐라그의 인적 드문 설원을 깡충깡충 뛰어다니는 작은 녀석. 덜렁거리는 성격 탓에 매번 어딘가 부딪히기 일쑤다. 봄이 되면 눈처럼 하얀 모습에서 먼지를 뒤집어쓴 것처럼 잿빛으로 변하고, 솜털이 잔뜩 자란다.",
     "KRAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "고지대에 부딪힐 시 추가 대미지를 받음",
         "textFormat": "NORMAL"
       }
     ]
@@ -31299,27 +31299,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "雪顽童",
-    "JPDescription": "比起普通的雪孩子更高一些，也更结实一些的个体。受到降临在圣山上的神秘物质的影响，性格更为狂躁好动，大部分都已经完成了环谢拉格一周跑的成就。",
+    "JPName": "ダダッコ",
+    "JPDescription": "普通のユキッコより背が高くがっしりとした個体。カランドに降臨した謎の物質の影響で、より活動的で落ち着きがない性格になっており、そのほとんどがランニングでイェラグを一周する実績を達成している。",
     "JPAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "高台にぶつかると、追加ダメージを受ける",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "雪顽童",
-    "ENDescription": "比起普通的雪孩子更高一些，也更结实一些的个体。受到降临在圣山上的神秘物质的影响，性格更为狂躁好动，大部分都已经完成了环谢拉格一周跑的成就。",
+    "ENName": "Snowbrat",
+    "ENDescription": "Taller and more solidly built than other Snowchildren, they have become even more hyperactive due to the mysterious substance that landed on Karlan. Most have completed the achievement of going all the way around Kjerag.",
     "ENAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "Takes extra damage on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "雪顽童",
-    "KRDescription": "比起普通的雪孩子更高一些，也更结实一些的个体。受到降临在圣山上的神秘物质的影响，性格更为狂躁好动，大部分都已经完成了环谢拉格一周跑的成就。",
+    "KRName": "눈의 악동",
+    "KRDescription": "평범한 눈의 아이보다 더 강하고 튼튼한 개체. 성산에 내려온 신비한 물질의 영향으로 성격이 더 난폭해지고 움직임도 더 많아졌으며, 대부분은 이미 쉐라그를 한 바퀴 달리는 업적을 달성한 상태다.",
     "KRAbilityList": [
       {
-        "text": "撞上高台时受到额外伤害",
+        "text": "고지대에 부딪힐 시 추가 대미지를 받음",
         "textFormat": "NORMAL"
       }
     ]
@@ -31425,39 +31425,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "蓬松雪球",
-    "JPDescription": "谢拉格特有的本地生物。因柔软的手感和亲人的性格受到了外来旅客热情的追捧，传闻在某段时间内曾是谢拉格人御寒衣料的主要来源，但已无从考据。",
+    "JPName": "フワユキマル",
+    "JPDescription": "イェラグ特有の在来種。柔らかい手触りと親しみやすい性格で外国旅行者に大人気。一時はイェラグ人の防寒着の主原料だという噂もあったが、その根拠はもはや不明である。",
     "JPAbilityList": [
       {
-        "text": "吸收途经的雪孩子增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "通過した場所の<ユキッコ>を吸収して自身の重量を増加させ、さらにHP・攻撃力・防御力・術耐性を上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "高台にぶつかると、初期形態に戻る",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "蓬松雪球",
-    "ENDescription": "谢拉格特有的本地生物。因柔软的手感和亲人的性格受到了外来旅客热情的追捧，传闻在某段时间内曾是谢拉格人御寒衣料的主要来源，但已无从考据。",
+    "ENName": "Fluffy Snowball",
+    "ENDescription": "Creatures indigenous to Kjerag, popular amongst tourists for their soft, fluffy fur and friendly nature. Some claim that their fur was once the main clothing material for the people of Kjerag, but there is no evidence to verify this claim.",
     "ENAbilityList": [
       {
-        "text": "吸收途经的雪孩子增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "Absorbs passing Snowchildren to increase its weight, HP, ATK, DEF, and RES",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "Returns to initial form on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "蓬松雪球",
-    "KRDescription": "谢拉格特有的本地生物。因柔软的手感和亲人的性格受到了外来旅客热情的追捧，传闻在某段时间内曾是谢拉格人御寒衣料的主要来源，但已无从考据。",
+    "KRName": "몽글몽글 눈덩이",
+    "KRDescription": "쉐라그 특유의 토착 생물. 부드러운 촉감과 붙임성 있는 성격 탓에, 외부 여행객들의 열렬한 사랑을 받고 있다. 소문에 따르면, 과거 쉐라그 방한복의 주재료원이었다고 하는데, 지금은 확인할 방법이 없다.",
     "KRAbilityList": [
       {
-        "text": "吸收途经的雪孩子增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "경로에 있는 눈의 아이를 흡수해 자신의 무게 증가, 동시에 자신의 HP, 공격력, 방어력, 마법 저항 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "고지대에 부딪힐 시 초기 형태로 회복",
         "textFormat": "NORMAL"
       }
     ]
@@ -31563,39 +31563,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "夜色雪球",
-    "JPDescription": "谢拉格特有的本地生物。受到降临在圣山上的神秘物质的影响，性格似乎变得不再亲人，难以接近。但是身上的绒毛也变得更为蓬松柔软，保暖效果远胜于普通蓬松雪球。",
+    "JPName": "ヨルユキマル",
+    "JPDescription": "イェラグ特有の在来種。カランドに降臨した謎の物質の影響で、親しみやすさが失われ、近寄りがたくなっている。その一方、綿毛がより柔らかくなり、普通のユキッコより防寒効果が高くなっている。",
     "JPAbilityList": [
       {
-        "text": "吸收途经的雪顽童增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "通過した場所の<ダダッコ>を吸収して自身の重量を増加させ、さらにHP・攻撃力・防御力・術耐性を上昇させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "高台にぶつかると、初期形態に戻る",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "夜色雪球",
-    "ENDescription": "谢拉格特有的本地生物。受到降临在圣山上的神秘物质的影响，性格似乎变得不再亲人，难以接近。但是身上的绒毛也变得更为蓬松柔软，保暖效果远胜于普通蓬松雪球。",
+    "ENName": "Penumbral Snowball",
+    "ENDescription": "Creatures indigenous to Kjerag. The influence of the mysterious substance that landed on Karlan seems to have changed their friendly nature, and made their fur even softer and fluffier, providing excellent protection against the cold.",
     "ENAbilityList": [
       {
-        "text": "吸收途经的雪顽童增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "Absorbs passing Snowbrats to increase its weight, HP, ATK, DEF, and RES",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "Returns to initial form on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "夜色雪球",
-    "KRDescription": "谢拉格特有的本地生物。受到降临在圣山上的神秘物质的影响，性格似乎变得不再亲人，难以接近。但是身上的绒毛也变得更为蓬松柔软，保暖效果远胜于普通蓬松雪球。",
+    "KRName": "어둠어둠 눈덩이",
+    "KRDescription": "쉐라그 특유의 토착 생물. 성산에 내려온 신비한 물질의 영향 때문에, 이제는 붙임성도 없어졌고, 가까이 다가가기 어려워졌다. 하지만, 몸에 난 털은 더 푹신하고 부드러워졌고, 몽글몽글 눈덩이보다 보온 효과가 훨씬 뛰어나다고 한다.",
     "KRAbilityList": [
       {
-        "text": "吸收途经的雪顽童增加自身重量，并强化生命、攻击力、防御力和法术抗性",
+        "text": "경로에 있는 눈의 악동을 흡수해 자신의 무게 증가, 동시에 자신의 HP, 공격력, 방어력, 마법 저항 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "撞上高台时恢复初始形态",
+        "text": "고지대에 부딪힐 시 초기 형태로 회복",
         "textFormat": "NORMAL"
       }
     ]
@@ -31967,63 +31967,63 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "洞栖雪灵",
-    "JPDescription": "栖息于谢拉格洞穴中的生灵。常在夜晚出没，无论多大的风雪都不会阻碍它的飞行，通常以浆果、苔藓与菌菇为食。在谢拉格的传说中，进入山林的猎手遇上它便会满载而归。",
+    "JPName": "洞窟雪霊",
+    "JPDescription": "イェラグの洞窟に棲む生き物。夜に活動することが多く、どれほど激しい吹雪でも飛ぶことができる。通常はベリーや苔、キノコを食料としている。イェラグの伝説によれば、山林に入った猟師が洞窟雪霊に出会うと、たくさんの収穫を得て帰ることができるという。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "配置可能な高台マスに降下でき、降下すると遠距離術攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "雪崩警告エリアに降下すると雪崩警戒値が増加する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "降下後、一定時間経過すると再び飛び立つ",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "洞栖雪灵",
-    "ENDescription": "栖息于谢拉格洞穴中的生灵。常在夜晚出没，无论多大的风雪都不会阻碍它的飞行，通常以浆果、苔藓与菌菇为食。在谢拉格的传说中，进入山林的猎手遇上它便会满载而归。",
+    "ENName": "Cave Snowsprite",
+    "ENDescription": "Nocturnal creatures that dwell in the caves of Kjerag, able to fly in even the fiercest blizzards. Their main diet is berries, moss, and mushrooms. Kjerag hunter lore says that encountering them in the forests is a sign that the hunt will go well.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "Can land on deployable high ground, where its attacks become ranged and deal Arts damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "Increases Avalanche Warning Index when landing in an Avalanche Area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "Takes off again after some time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "洞栖雪灵",
-    "KRDescription": "栖息于谢拉格洞穴中的生灵。常在夜晚出没，无论多大的风雪都不会阻碍它的飞行，通常以浆果、苔藓与菌菇为食。在谢拉格的传说中，进入山林的猎手遇上它便会满载而归。",
+    "KRName": "동굴 눈정령",
+    "KRDescription": "쉐라그의 동굴에 서식하는 생물. 주로 밤에 활동하며, 아무리 거센 눈보라도 녀석의 날갯짓을 막을 수 없다. 베리와 이끼, 버섯을 주로 먹는다. 쉐라그 전설에 따르면, 산에 들어간 사냥꾼이 녀석을 만나면 큰 수확을 거둘 수 있다고 한다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "배치 가능한 고지대에 착륙, 착륙 후 원거리 공격으로 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "눈사태 금지구역 안에 착륙 시 눈사태 경보 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "일정 시간 후 다시 이륙",
         "textFormat": "NORMAL"
       }
     ]
@@ -32137,63 +32137,63 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "山谷雪灵",
-    "JPDescription": "飞行于谢拉格山谷间的自由生灵。受到降临在圣山上的神秘物质的影响，似乎不再畏惧强光。更加敏捷和有力的身体让它更为危险，它会直接抢夺猎手的猎物。",
+    "JPName": "山谷雪霊",
+    "JPDescription": "イェラグの山谷を飛び回る自由な生き物。カランドに降臨した謎の物質の影響で、強い光を恐れなくなったようだ。より俊敏で強力な肉体を得たことで、この生き物はより危険な存在に変わり、猟師の獲物を直接奪うこともあるらしい。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "配置可能な高台マスに降下でき、降下すると遠距離術攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "雪崩警告エリアに降下すると雪崩警戒値が増加する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "降下後、一定時間経過すると再び飛び立つ",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "山谷雪灵",
-    "ENDescription": "飞行于谢拉格山谷间的自由生灵。受到降临在圣山上的神秘物质的影响，似乎不再畏惧强光。更加敏捷和有力的身体让它更为危险，它会直接抢夺猎手的猎物。",
+    "ENName": "Valley Snowsprite",
+    "ENDescription": "Free creatures that dwell in the valleys of Kjerag. They are no longer afraid of the light due to the influence of the substance that landed on Karlan. Stronger and more agile, they are dangerous creatures that snatch prey from hunters.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "Can land on deployable high ground, where its attacks become ranged and deal Arts damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "Increases Avalanche Warning Index when landing in an Avalanche Area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "Takes off again after some time",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "山谷雪灵",
-    "KRDescription": "飞行于谢拉格山谷间的自由生灵。受到降临在圣山上的神秘物质的影响，似乎不再畏惧强光。更加敏捷和有力的身体让它更为危险，它会直接抢夺猎手的猎物。",
+    "KRName": "협곡 눈정령",
+    "KRDescription": "쉐라그의 협곡을 날아다니는 자유로운 생물. 성산에 내려온 신비한 물질의 영향으로 더 이상 강한 빛을 두려워하지 않는 것 같다. 더 민첩하고 강해진 몸 덕분에 녀석은 더 위험해졌으며, 사냥꾼의 사냥감을 가로채기도 한다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "可以降落在可部署高台，降落后变为远程攻击造成法术伤害",
+        "text": "배치 가능한 고지대에 착륙, 착륙 후 원거리 공격으로 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "降落在雪崩禁区内时增加雪崩预警",
+        "text": "눈사태 금지구역 안에 착륙 시 눈사태 경보 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "一段时间后再重新起飞",
+        "text": "일정 시간 후 다시 이륙",
         "textFormat": "NORMAL"
       }
     ]
@@ -32271,27 +32271,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "抱蛋羽兽",
-    "JPDescription": "谢拉格本土特有的羽兽。用结实的爪子紧紧地抱着自己的蛋，不会使其掉落也不会导致其破碎。莱茵生命的仿生学研究员似乎正在以此为基础，研究新型稳定器。",
+    "JPName": "抱卵羽獣",
+    "JPDescription": "イェラグ特有の羽獣。強靭な爪で卵をしっかりと抱きかかえており、落とすことも割ることもない。ライン生命の生体工学研究員は、この生き物を元に、新型のスタビライザーを作ろうとしているようだ。",
     "JPAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "強制移動を受けると卵を失い、移動速度が上昇しブロック不可となる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "抱蛋羽兽",
-    "ENDescription": "谢拉格本土特有的羽兽。用结实的爪子紧紧地抱着自己的蛋，不会使其掉落也不会导致其破碎。莱茵生命的仿生学研究员似乎正在以此为基础，研究新型稳定器。",
+    "ENName": "Eggcradler Fowlbeast",
+    "ENDescription": "Fowlbeasts indigenous to Kjerag, clutching their eggs tightly with powerful claws. The eggs never drop or break. Rhine Lab bionics researchers are studying them in the hope of developing a new type of stabilizer.",
     "ENAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "Loses egg after being shifted, gaining Movement Speed and becoming unblockable",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "抱蛋羽兽",
-    "KRDescription": "谢拉格本土特有的羽兽。用结实的爪子紧紧地抱着自己的蛋，不会使其掉落也不会导致其破碎。莱茵生命的仿生学研究员似乎正在以此为基础，研究新型稳定器。",
+    "KRName": "알을 품은 파울비스트",
+    "KRDescription": "쉐라그 특유의 파울비스트, 단단한 발톱으로 자신의 알을 꽉 잡는다. 물론, 알을 떨어뜨리지도, 깨뜨리지도 않는다. 라인 랩 생물공학 연구원들이 이를 바탕으로 새로운 안정 장치를 연구하고 있는 듯하다.",
     "KRAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "강제 이동 시 알을 분실, 이동 속도 증가 및 저지 불가로 변경",
         "textFormat": "NORMAL"
       }
     ]
@@ -32369,27 +32369,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "拥霜羽兽\n",
-    "JPDescription": "谢拉格本土特有的羽兽。受到降临在圣山上的神秘物质的影响，获得了更好的视力和嗅觉，可也变得更有攻击性。它怀中抱着的无法孵化的蛋变成的冰岩，可以轻松地刨开泥土挖掘果实，也可以用来狠狠地敲击敌人的脑袋。",
+    "JPName": "擁氷羽獣",
+    "JPDescription": "イェラグ特有の羽獣。カランドに降臨した謎の物質の影響で、より優れた視力と嗅覚を得た一方、攻撃性も増した。抱きかかえたままの孵化できない卵は氷の岩へと転じており、容易く土を掘り起こして果実を掘ることも、敵の頭を思い切り叩くこともできる。",
     "JPAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "強制移動を受けると卵を失い、移動速度が上昇しブロック不可となる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "拥霜羽兽\n",
-    "ENDescription": "谢拉格本土特有的羽兽。受到降临在圣山上的神秘物质的影响，获得了更好的视力和嗅觉，可也变得更有攻击性。它怀中抱着的无法孵化的蛋变成的冰岩，可以轻松地刨开泥土挖掘果实，也可以用来狠狠地敲击敌人的脑袋。",
+    "ENName": "Frostcradler Fowlbeast\n",
+    "ENDescription": "Fowlbeasts indigenous to Kjerag. The influence of the mysterious substance that landed on Karlan has strengthened their vision and sense of smell, but also made them more aggressive. They clutch an icy rock formed from an unhatched egg, which they use to dig for food and crack the skulls of enemies.",
     "ENAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "Loses egg after being shifted, gaining Movement Speed and becoming unblockable",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "拥霜羽兽\n",
-    "KRDescription": "谢拉格本土特有的羽兽。受到降临在圣山上的神秘物质的影响，获得了更好的视力和嗅觉，可也变得更有攻击性。它怀中抱着的无法孵化的蛋变成的冰岩，可以轻松地刨开泥土挖掘果实，也可以用来狠狠地敲击敌人的脑袋。",
+    "KRName": "서리를 품은 파울비스트",
+    "KRDescription": "쉐라그 특유의 파울비스트. 성산에 내려온 신비한 물질의 영향으로 시각과 후각이 더 발달했으며, 공격성마저 강해졌다. 품에 안고 있는 부화할 수 없는 알은 얼음 암석이 되어, 쉽게 흙을 파헤쳐 열매를 얻을 수 있으며, 적의 머리를 세게 내리치는 무기로도 쓸 수 있다.",
     "KRAbilityList": [
       {
-        "text": "失衡移动后失去蛋，移动速度提升并变为不可阻挡",
+        "text": "강제 이동 시 알을 분실, 이동 속도 증가 및 저지 불가로 변경",
         "textFormat": "NORMAL"
       }
     ]
@@ -32483,27 +32483,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "翻身甲",
-    "JPDescription": "背负着沉重甲壳的生物。虽然外形看上去有些凶猛，但是实际上对人类非常友好，经过训练可以承担部分驮兽的功能。最大的特点是不管在任何情况下翻倒，都可以自己翻回来。",
+    "JPName": "ひっくり甲羅",
+    "JPDescription": "重い甲羅を背負った生き物。一見して凶暴そうだが、その実人間にはとても友好的で、訓練すれば駄獣のような働きも多少期待できる。その最たる特徴は、いかなる状況でひっくり返っても、自分でまた元通りに戻れるところだ。",
     "JPAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "高台にぶつかるとひっくり返り、一定時間防御力と術耐性が0になり、移動を停止する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "翻身甲",
-    "ENDescription": "背负着沉重甲壳的生物。虽然外形看上去有些凶猛，但是实际上对人类非常友好，经过训练可以承担部分驮兽的功能。最大的特点是不管在任何情况下翻倒，都可以自己翻回来。",
+    "ENName": "Frostdillo",
+    "ENDescription": "Creatures with heavy shells on their backs. Despite their intimidating appearance, they are actually docile and friendly and can be trained to serve as burdenbeasts. They can get back on their feet even when flipped on their backs.",
     "ENAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "Loses all DEF and RES and becomes unable to move for some time on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "翻身甲",
-    "KRDescription": "背负着沉重甲壳的生物。虽然外形看上去有些凶猛，但是实际上对人类非常友好，经过训练可以承担部分驮兽的功能。最大的特点是不管在任何情况下翻倒，都可以自己翻回来。",
+    "KRName": "플립셸비스트",
+    "KRDescription": "무거운 갑각을 갖고 있는 생물. 겉모습은 사나워 보이지만, 사실 인간에게 매우 우호적이며, 훈련을 거치면 버든비스트의 일부 역할을 대신할 수 있다. 가장 큰 특징은 어떠한 상황에서도 뒤집히면 스스로 다시 일어설 수 있다는 점이다.",
     "KRAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "고지대에 부딪힐 시 모든 방어력과 마법 저항 상실, 일정 시간 동안 이동 불가",
         "textFormat": "NORMAL"
       }
     ]
@@ -32597,27 +32597,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "坚冰翻身甲",
-    "JPDescription": "背负着沉重甲壳与尖刺的生物。受到降临在圣山上的神秘物质的影响，性格变得狂躁易怒，身体也变得更加灵活，可以轻松地完成翻身、旋转、一百八十度掉头和三连滚。",
+    "JPName": "堅氷ひっくり甲羅",
+    "JPDescription": "重い甲羅と尖った棘を背負った生き物。カランドに降臨した謎の物質の影響で、性格が凶暴かつ怒りっぽくなっている。より軽やかに動き回れるようになったことで、ひっくり返ったり、回転したり、180度方向転換したり、三連続で転がったりを軽々とこなせるようになった。",
     "JPAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "高台にぶつかるとひっくり返り、一定時間防御力と術耐性が0になり、移動を停止する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "坚冰翻身甲",
-    "ENDescription": "背负着沉重甲壳与尖刺的生物。受到降临在圣山上的神秘物质的影响，性格变得狂躁易怒，身体也变得更加灵活，可以轻松地完成翻身、旋转、一百八十度掉头和三连滚。",
+    "ENName": "Rime Frostdillo",
+    "ENDescription": "Creatures with heavy spiked shells on their backs. The influence of the mysterious substance that landed on Karlan has made them aggressive and agile. They can perform flips, turns, 180-degree about-faces, and triple rolls.",
     "ENAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "Loses all DEF and RES and becomes unable to move for some time on colliding with high ground",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "坚冰翻身甲",
-    "KRDescription": "背负着沉重甲壳与尖刺的生物。受到降临在圣山上的神秘物质的影响，性格变得狂躁易怒，身体也变得更加灵活，可以轻松地完成翻身、旋转、一百八十度掉头和三连滚。",
+    "KRName": "얼음 플립셸비스트",
+    "KRDescription": "무거운 갑각과 날카로운 가시를 갖고 있는 생물. 성산에 내린 신비한 물질의 영향으로 성격이 사나워지고 쉽게 분노하게 되었으며, 몸이 더 유연해져서 뒤집기, 회전, 180도 방향 전환, 3연속 구르기 등을 손쉽게 해낼 수 있다.",
     "KRAbilityList": [
       {
-        "text": "撞上高台时失去所有防御力和法术抗性，并无法移动一段时间",
+        "text": "고지대에 부딪힐 시 모든 방어력과 마법 저항 상실, 일정 시간 동안 이동 불가",
         "textFormat": "NORMAL"
       }
     ]
@@ -32715,51 +32715,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "小雪伞",
-    "JPDescription": "伞形的大型菌，春夏秋三季积蓄营养，冬季生长，成长速度极快，两周内便可长过半人高。滋味鲜美，是谢拉格奶酪锅中相当受欢迎的一味佐菜。",
+    "JPName": "ユキガサタケ",
+    "JPDescription": "傘の形をした大型キノコ。春夏秋に栄養を蓄え、冬に成長する。成長スピードが極めて速く、二週間たらずで成人の身の丈半分を超える。非常に味がよく、イェラグのチーズフォンデュではかなり人気の高い食材である。",
     "JPAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "強制移動を受けない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "指定位置で【根を張る】を発動し、自身のいるマスを配置不可のマスに変化させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "【根を張る】：自身の受けるダメージを軽減し、自身の後ろにいるすべてのユニットに対する雪崩の影響を無効化する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "小雪伞",
-    "ENDescription": "伞形的大型菌，春夏秋三季积蓄营养，冬季生长，成长速度极快，两周内便可长过半人高。滋味鲜美，是谢拉格奶酪锅中相当受欢迎的一味佐菜。",
+    "ENName": "Snowcap",
+    "ENDescription": "Large, umbrella-shaped mushrooms. They accumulate nutrients from spring through autumn, then grow rapidly in winter, reaching nearly a meter tall in two weeks. A favorite ingredient in Kjerag cheese fondue.",
     "ENAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "Cannot be shifted",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "[Takes Root] at specific locations, causing its tile to become undeployable",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "[Takes Root] Reduces damage taken and protects all units behind it from avalanches",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "小雪伞",
-    "KRDescription": "伞形的大型菌，春夏秋三季积蓄营养，冬季生长，成长速度极快，两周内便可长过半人高。滋味鲜美，是谢拉格奶酪锅中相当受欢迎的一味佐菜。",
+    "KRName": "눈버섯",
+    "KRDescription": "우산 모양의 대형 균류. 봄, 여름, 가을 세 계절 동안 영양분을 축적하다가 겨울에 성장한다. 성장 속도가 매우 빨라 2주 만에 사람 키의 절반을 넘길 정도로 자란다. 맛이 뛰어나 쉐라그 치즈 퐁듀에서 상당이 인기 있는 사이드 메뉴다.",
     "KRAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "강제 이동 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "지정된 곳에 [뿌리내림] 발동, 해당 위치를 배치 불가로 변경",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "[뿌리내림] 자신이 받는 모든 대미지 감소, 자신 뒤의 모든 유닛을 보호하여 눈사태의 영향으로부터 면역",
         "textFormat": "NORMAL"
       }
     ]
@@ -32857,51 +32857,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "焕生雪伞",
-    "JPDescription": "伞形的、格外舒展的大型菌，受到降临在圣山上的神秘物质的影响，外形变得更加肥美鲜艳，令人垂涎。但是耶拉冈德说过，千万不能吃颜色鲜艳的蘑菇。",
+    "JPName": "ツヤツヤユキガサタケ",
+    "JPDescription": "傘の形をした、規格外の成長を経た大型キノコ。カランドに降臨した謎の物質の影響で、より大きく鮮やかな、食欲をそそる見た目となった。だが、イェラガンドが仰ったことには、「色鮮やかなキノコを食してはならぬ」という。",
     "JPAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "強制移動を受けない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "指定位置で【根を張る】を発動し、自身のいるマスを配置不可のマスに変化させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "【根を張る】：自身の受けるダメージを軽減し、自身の後ろにいるすべてのユニットに対する雪崩の影響を無効化する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "焕生雪伞",
-    "ENDescription": "伞形的、格外舒展的大型菌，受到降临在圣山上的神秘物质的影响，外形变得更加肥美鲜艳，令人垂涎。但是耶拉冈德说过，千万不能吃颜色鲜艳的蘑菇。",
+    "ENName": "Bright Snowcap",
+    "ENDescription": "Massive, umbrella-shaped mushrooms. The influence of the mysterious substance that landed on Karlan makes their colors brighter and their texture more appealing, but Kjeragandr taught us to never eat colorful mushrooms.",
     "ENAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "Cannot be shifted",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "[Takes Root] at specific locations, causing its tile to become undeployable",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "[Takes Root] Reduces damage taken and protects all units behind it from avalanches",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "焕生雪伞",
-    "KRDescription": "伞形的、格外舒展的大型菌，受到降临在圣山上的神秘物质的影响，外形变得更加肥美鲜艳，令人垂涎。但是耶拉冈德说过，千万不能吃颜色鲜艳的蘑菇。",
+    "KRName": "환생 눈버섯",
+    "KRDescription": "우산 모양의 유달리 활짝 펼쳐진 대형 균류. 성산에 내려온 신비한 물질의 영향으로 외형이 더 먹음직스럽게 변해, 사람들의 입맛을 자극한다. 하지만 쉐라간드가 말하길, 색깔이 화려한 버섯은 절대 먹어서는 안 된다고 한다.",
     "KRAbilityList": [
       {
-        "text": "不会进入失衡移动",
+        "text": "강제 이동 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在指定位置【生根】，并使所处地块变为不可部署",
+        "text": "지정된 곳에 [뿌리내림] 발동, 해당 위치를 배치 불가로 변경",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【生根】降低自身所受伤害，并保护身后的所有单位免疫雪崩影响",
+        "text": "[뿌리내림] 자신이 받는 모든 대미지 감소, 자신 뒤의 모든 유닛을 보호하여 눈사태의 영향으로부터 면역",
         "textFormat": "NORMAL"
       }
     ]
@@ -33002,51 +33002,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "巨角卢鲁",
-    "JPDescription": "生有硕大长角的驮兽，其特殊的名讳来自耶拉冈德的赐予，传闻，有人曾见证耶拉冈德面对这种生物喃喃自语“卢鲁、卢鲁......”，从此以后，“卢鲁”变成了它的新名字。",
+    "JPName": "大角のルル",
+    "JPDescription": "大きく長い角が生えた駄獣。その特別な名はイェラガンドより賜ったものだという。伝承によれば、イェラガンドがこの生き物を前にして「ルル、ルル……」と独り仰られた姿を目にした者がいるらしく、それ以来、「ルル」がその生き物の新たな名となったそうだ。",
     "JPAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "【力比べ】：チャージ攻撃を行い、自身をブロックするユニットの突き飛ばしを試みる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "チャージが完了すると、攻撃対象にダメージを与えて1マス突き飛ばす。突き飛ばす先が配置不可で突き飛ばせない場合、より多くのダメージを与え、さらに数秒スタンさせる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "強制移動、スタンなどの状態異常を受けるとチャージは中断される",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "巨角卢鲁",
-    "ENDescription": "生有硕大长角的驮兽，其特殊的名讳来自耶拉冈德的赐予，传闻，有人曾见证耶拉冈德面对这种生物喃喃自语“卢鲁、卢鲁......”，从此以后，“卢鲁”变成了它的新名字。",
+    "ENName": "Greathorn Rhuul",
+    "ENDescription": "Burdenbeasts with massive horns on their heads. Their unique name comes from Kjeragandr's blessing. It is said that someone once witnessed Her mumbling to this creature: 'Rhuul, rhuul...' Since then, 'Rhuul' has become its new name.",
     "ENAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "[Clash of Brawn] Performs Charged Attacks and tries to push units that block it",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "After charging, deals damage to the target and pushes it back one tile; if unable to push, deals more damage and stuns the target for several seconds",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "Charge can be interrupted by negative statuses like Stun and Shift",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "巨角卢鲁",
-    "KRDescription": "生有硕大长角的驮兽，其特殊的名讳来自耶拉冈德的赐予，传闻，有人曾见证耶拉冈德面对这种生物喃喃自语“卢鲁、卢鲁......”，从此以后，“卢鲁”变成了它的新名字。",
+    "KRName": "큰 뿔의 루울",
+    "KRDescription": "커다란 뿔이 자란 버든비스트. 녀석의 특이한 이름은 쉐라간드가 하사한 것이다. 전설에 따르면, 어떤 사람이 쉐라간드가 이 생물을 보며 “루울, 루울……”이라고 중얼거리는 것을 목격했다고 한다. 그 이후로 '루울'이 녀석의 이름이 되었다.",
     "KRAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "[각력 대결] 차지 어택을 발동해 자신을 저지한 유닛을 밀어내려 시도함",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "차지 완료 시 목표에게 대미지를 입히고 뒤로 1칸 밀어냄, 밀어내지 못할 경우 더 큰 대미지를 입히고 몇 초간 기절시킴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "차지는 강제 이동, 기절 등 상태 이상으로 중단될 수 있음",
         "textFormat": "NORMAL"
       }
     ]
@@ -33147,51 +33147,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "乌顶巨角卢鲁",
-    "JPDescription": "生有硕大长角的健壮驮兽，受到降临在圣山上的神秘物质的影响，长角变为了黑色。圣女讲述道：曾经有个少女，见到他人宠物相随，分外亲切，于是也想拥有一只宠物，她想，她应该先给宠物起一个名字......",
+    "JPName": "黒き大角のルル",
+    "JPDescription": "大きく長い角が生えた逞しい駄獣。カランドに降臨した謎の物質の影響で、長い角が黒くなった。巫女が語ることには――むかしむかしある少女が、ほかの人間に付き添いとても親密そうにしているペットを見て、自分もペットが欲しいと思ったという。そして少女は、まずはペットに名前を付けるべきだと考えて……",
     "JPAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "【力比べ】：チャージ攻撃を行い、自身をブロックするユニットの突き飛ばしを試みる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "チャージが完了すると、攻撃対象にダメージを与えて1マス突き飛ばす。突き飛ばす先が配置不可で突き飛ばせない場合、より多くのダメージを与え、さらに数秒スタンさせる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "強制移動、スタンなどの状態異常を受けるとチャージは中断される",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "乌顶巨角卢鲁",
-    "ENDescription": "生有硕大长角的健壮驮兽，受到降临在圣山上的神秘物质的影响，长角变为了黑色。圣女讲述道：曾经有个少女，见到他人宠物相随，分外亲切，于是也想拥有一只宠物，她想，她应该先给宠物起一个名字......",
+    "ENName": "Blackhorn Rhuul",
+    "ENDescription": "Sturdy burdenbeasts with massive horns on their heads. The influence of the mysterious substance that landed on Karlan has turned their horns black. The Saintess said: Once upon a time, there was a girl who, finding the sight of others accompanied by their pets endearing, wanted a pet of her own. She thought she should first give it a name...",
     "ENAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "[Clash of Brawn] Performs Charged Attacks and tries to push units that block it",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "After charging, deals damage to the target and pushes it back one tile; if unable to push, deals more damage and stuns the target for several seconds",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "Charge can be interrupted by negative statuses like Stun and Shift",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "乌顶巨角卢鲁",
-    "KRDescription": "生有硕大长角的健壮驮兽，受到降临在圣山上的神秘物质的影响，长角变为了黑色。圣女讲述道：曾经有个少女，见到他人宠物相随，分外亲切，于是也想拥有一只宠物，她想，她应该先给宠物起一个名字......",
+    "KRName": "검은 뿔의 루울",
+    "KRDescription": "커다란 뿔이 자란 건장한 버든비스트. 성산에 내려온 신비한 물질의 영향으로 뿔이 검은색으로 변했다. 성녀의 말에 의하면, 옛날에 한 소녀가 반려동물이 주인 곁을 지키는 모습을 보고 무척 친근감을 느껴, 자신도 한 마리 갖고 싶어 먼저 이름부터 지어줬다고 한다……",
     "KRAbilityList": [
       {
-        "text": "【角力对决】可以发动蓄力攻击尝试推动阻挡自身的单位",
+        "text": "[각력 대결] 차지 어택을 발동해 자신을 저지한 유닛을 밀어내려 시도함",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力完成时对目标造成伤害并向后推动一格，若无法推动则造成更多伤害并晕眩数秒",
+        "text": "차지 완료 시 목표에게 대미지를 입히고 뒤로 1칸 밀어냄, 밀어내지 못할 경우 더 큰 대미지를 입히고 몇 초간 기절시킴",
         "textFormat": "NORMAL"
       },
       {
-        "text": "蓄力可被失衡、晕眩等异常状态打断",
+        "text": "차지는 강제 이동, 기절 등 상태 이상으로 중단될 수 있음",
         "textFormat": "NORMAL"
       }
     ]
@@ -33285,39 +33285,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "伊斯贝塔",
-    "JPDescription": "拥有意识的冰岩巨人，伊斯贝塔是谢拉格语中“冰块”的意思。在谢拉格的传说中，冰岩会化身巨人将擅闯圣山的不义之人从山上掀下来，每一个心里藏着小秘密的谢拉格小孩在听到这个故事后都会打消独自攀登圣山的念想。",
+    "JPName": "イスビット",
+    "JPDescription": "意識を持つ氷岩の巨人。イスビットはイェラグ語で「氷塊」を意味する。イェラグの伝説によると、氷の岩は巨人へと変わり、勝手にカランドに入り込んだ不義の者を山から投げ落とすという。心に多少の秘密を隠したイェラグの子供たちは皆、この物語を聞いて、独りでカランドに登ろうという野望を捨てるらしい。",
     "JPAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "範囲攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "強制移動中、HPを失い続ける",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "伊斯贝塔",
-    "ENDescription": "拥有意识的冰岩巨人，伊斯贝塔是谢拉格语中“冰块”的意思。在谢拉格的传说中，冰岩会化身巨人将擅闯圣山的不义之人从山上掀下来，每一个心里藏着小秘密的谢拉格小孩在听到这个故事后都会打消独自攀登圣山的念想。",
+    "ENName": "Isbit",
+    "ENDescription": "Icy rock giants with a mind of their own. The name 'Isbit' means 'ice cube' in Kjeragi. Kjeragi legends say that frozen rocks turn into giants to throw intruders off the side of Mount Karlan. The tale has proven effective at dissuading children from climbing Karlan on their own.",
     "ENAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "Attacks deal splash damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "Loses HP proportional to distance moved when shifted",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "伊斯贝塔",
-    "KRDescription": "拥有意识的冰岩巨人，伊斯贝塔是谢拉格语中“冰块”的意思。在谢拉格的传说中，冰岩会化身巨人将擅闯圣山的不义之人从山上掀下来，每一个心里藏着小秘密的谢拉格小孩在听到这个故事后都会打消独自攀登圣山的念想。",
+    "KRName": "이스빗",
+    "KRDescription": "의식을 가진 얼음 바위 거인. 이스빗은 쉐라그에서 '얼음덩어리'를 뜻한다. 쉐라그 전설에 따르면, 얼음 바위는 거인으로 변해 성산을 무단으로 오르는 불경한 자를 산에서 던져 버린다고 한다. 가슴속에 작은 비밀을 간직한 쉐라그 아이들은 이 이야기를 들으면 혼자 성산에 오르려는 생각을 단념한다.",
     "KRAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "공격 시 스플래시 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "강제 이동이 될 경우 거리에 비례하여 HP 감소",
         "textFormat": "NORMAL"
       }
     ]
@@ -33411,39 +33411,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "斯托斯贝塔",
-    "JPDescription": "拥有意识的冰岩巨人，斯托斯贝塔是谢拉格语中“大冰块”的意思。传说中的冰岩巨人受到降临在圣山上的神秘物质的影响，变得更大了，会不加区分地攻击每一个登上圣山的人。莱茵生命的科考队员在听闻此事后不得不暂缓了攀登高峰进行考察的计划。",
+    "JPName": "ストリスビット",
+    "JPDescription": "意識を持つ氷岩の巨人。ストリスビットはイェラグ語で「大きな氷塊」を意味する。伝説の巨人はカランドに降臨した謎の物質の影響を受けてさらに巨大になり、カランドに登る人間を分け隔てなく攻撃するようになった。その話を聞いたライン生命の観測員は、山に登り観測を行う計画を一時的に延期せざるを得なかった。",
     "JPAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "範囲攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "強制移動中、HPを失い続ける",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "斯托斯贝塔",
-    "ENDescription": "拥有意识的冰岩巨人，斯托斯贝塔是谢拉格语中“大冰块”的意思。传说中的冰岩巨人受到降临在圣山上的神秘物质的影响，变得更大了，会不加区分地攻击每一个登上圣山的人。莱茵生命的科考队员在听闻此事后不得不暂缓了攀登高峰进行考察的计划。",
+    "ENName": "Storisbit",
+    "ENDescription": "Icy rock giants with a mind of their own. The name 'Storisbit' means 'giant ice cube' in Kjeragi. Even more massive due to influence from the mysterious substance that landed on Karlan, they indiscriminately attack anyone who climbs the holy mountain, forcing Rhine Lab researchers to postpone their plans to survey the peaks.",
     "ENAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "Attacks deal splash damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "Loses HP proportional to distance moved when shifted",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "斯托斯贝塔",
-    "KRDescription": "拥有意识的冰岩巨人，斯托斯贝塔是谢拉格语中“大冰块”的意思。传说中的冰岩巨人受到降临在圣山上的神秘物质的影响，变得更大了，会不加区分地攻击每一个登上圣山的人。莱茵生命的科考队员在听闻此事后不得不暂缓了攀登高峰进行考察的计划。",
+    "KRName": "스토리스빗",
+    "KRDescription": "의식을 가진 얼음 바위 거인. 스토리스빗은 쉐라그에서 '큰 얼음덩어리'를 뜻한다. 전설 속의 얼음 바위 거인이 성산에 내려온 신비한 물질의 영향으로 덩치가 더 커졌고, 성산에 오르는 사람을 무차별적으로 공격한다고 한다. 이 소문을 들은 라인 랩의 과학 조사 대원들은 등반 조사 계획을 포기할 수밖에 없었다.",
     "KRAbilityList": [
       {
-        "text": "攻击造成溅射",
+        "text": "공격 시 스플래시 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "失衡移动时正比于距离损失生命",
+        "text": "강제 이동이 될 경우 거리에 비례하여 HP 감소",
         "textFormat": "NORMAL"
       }
     ]
@@ -59106,7 +59106,7 @@
     "KRDescription": "우르수스의 어떤 의지의 상징으로서, 우르수스 땅에서 가장 무서운 군사력을 자랑하며, 곳곳에선 그들에 대한 공포스럽고 괴이한 전설들이 전해지고 있다. 한 개체만으로도 여러 소대를 섬멸할 수 있으며, 이들에게서 이기는 건 불가능하다고 전해진다.",
     "KRAbilityList": [
       {
-        "text": "공격당하지 않으며, 소멸 시 목표 HP가 차감되지 않음",
+        "text": "공격받지 않음, 소멸 시 목표 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -92188,7 +92188,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "오퍼레이터에게 접근하면 자폭하여 물리 대미지 부여",
+        "text": "오퍼레이터에게 접근 시 자폭하여 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -92287,7 +92287,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "오퍼레이터에게 접근하면 자폭하여 물리 대미지 부여",
+        "text": "오퍼레이터에게 접근 시 자폭하여 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -93829,7 +93829,7 @@
     "KRDescription": "테레시스, 카즈델의 섭정왕. 런디니움에서 살카즈 대군을 소집하고 더 샤드 빌딩을 점령했다. 그가 대공작에게 선전포고하는 것을 막지 못하면 곧 전면전이 폭발할 것이다.",
     "KRAbilityList": [
       {
-        "text": "공격당하지 않으며, 소멸 시 목표 HP가 차감되지 않음",
+        "text": "공격받지 않음, 소멸 시 목표 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -105363,7 +105363,7 @@
       }
     ],
     "JPName": "「交通巡査長」",
-    "JPDescription": "「トラフィックタワー」の操縦者。軍の選抜を経て選出された優秀な人材。パワードスーツに搭乗していない時でも極めて優れた戦闘力を発揮する。緊急時にはパワードスーツを自爆させて自ら迎え撃つ作戦を取ることもある。",
+    "JPDescription": "「トラフィックタワー」の操縦者。軍によって選び抜かれた優秀な人材。パワードスーツを失っても優れた戦闘力を発揮する。緊急時にはパワードスーツを自爆させて自ら迎え撃つ作戦を取ることもある。",
     "JPAbilityList": [
       {
         "text": "登場後、一定時間<$ba.invisible>ステルス</>状態になり、移動速度が上昇し続ける",
@@ -109919,7 +109919,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性がしばらくの間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性がしばらくの間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110040,7 +110040,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性がしばらくの間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性がしばらくの間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110161,7 +110161,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性がしばらくの間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性がしばらくの間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110282,7 +110282,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性がしばらくの間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性がしばらくの間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110655,7 +110655,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110822,7 +110822,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -110971,7 +110971,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -111120,7 +111120,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -111269,7 +111269,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -111418,7 +111418,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -111575,7 +111575,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -111740,7 +111740,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【過負荷】攻撃速度、防御力、術耐性が長時間大幅に上昇する",
+        "text": "【過負荷】：攻撃速度・防御力・術耐性が長時間大幅に上昇する",
         "textFormat": "NORMAL"
       }
     ],
@@ -115867,7 +115867,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "침울 변주 상태에서 공격력이 대폭 증가, 일정 횟수의 공격을 저항하는 실드 획득, 공격을 저항할 때마다 자신 공격력의 일정 비율만큼 물리 대미지 반사",
+        "text": "침울 변주 상태에서 공격력이 대폭 증가, 일정 횟수의 대미지를 저항하는 실드 획득, 공격을 저항할 때마다 자신 공격력의 일정 비율만큼 물리 대미지 반사",
         "textFormat": "NORMAL"
       }
     ]
@@ -116012,7 +116012,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "침울 변주 상태에서 공격력이 대폭 증가, 일정 횟수의 공격을 저항하는 실드 획득, 공격을 저항할 때마다 자신 공격력의 일정 비율만큼 물리 대미지 반사",
+        "text": "침울 변주 상태에서 공격력이 대폭 증가, 일정 횟수의 대미지를 저항하는 실드 획득, 공격을 저항할 때마다 자신 공격력의 일정 비율만큼 물리 대미지 반사",
         "textFormat": "NORMAL"
       }
     ]
@@ -118986,7 +118986,7 @@
     "JPDescription": "大きな身体とゴツゴツとした厚い皮膚を持ち、水田で暴れ回る大型織物「骯（コウ）」。耕人に忌み嫌われている。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -119097,7 +119097,7 @@
     "JPDescription": "大きな身体とゴツゴツとした強靱な皮膚を持ち、水田の作物を踏み荒らす大型織物「厭骯（エンコウ）」。耕人に憎まれている。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -155444,7 +155444,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【ライトニング・ドロウ】対象とその隣接ユニットをスタンさせた後、3連射の攻撃を行う",
+        "text": "【ライトニング・ドロウ】：対象とその隣接ユニットをスタンさせた後、3連射の攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
@@ -155881,7 +155881,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【壊血】攻撃時、徐々にダメージが高くなる持続術ダメージを与える。この攻撃の持続中に対象が退場した場合、再配置時間が大幅に増加する",
+        "text": "【壊血】：攻撃時、徐々にダメージが高くなる持続術ダメージを与える。この攻撃の持続中に対象が退場した場合、再配置時間が大幅に増加する",
         "textFormat": "NORMAL"
       },
       {
@@ -155889,7 +155889,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【沈淪の没】<対巫術軌道式爆弾>が命中すると発動する。その爆弾の発生源である爆弾積込み地点を破壊し、【血の清め】を2回発動する",
+        "text": "【沈淪の没】：<対巫術軌道式爆弾>が命中すると発動する。その爆弾の発生源である爆弾積込み地点を破壊し、【血の清め】を2回発動する",
         "textFormat": "NORMAL"
       }
     ],
@@ -157170,11 +157170,11 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【痴愚の懲戒】HPを一定割合失うたびに、配置中の味方オペレーター2名をランダムな2箇所に再配置する",
+        "text": "【痴愚の懲戒】：HPを一定割合失うたびに、配置中の味方オペレーター2名をランダムな2箇所に再配置する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【庸劣の懲戒】周期的に攻撃範囲の味方オペレーター2名に「愚鈍の印」（5回ダメージを与えると破壊可能）を付与し、対象は攻撃不可、スキル発動不可になり、さらに敵に狙われやすくなる。次にこのスキルを発動したとき、「庸劣の印」が付与されている全てのオペレーターを強制的に戦闘不能にし、対象の隣接4マス内に術範囲ダメージを与える",
+        "text": "【庸劣の懲戒】：周期的に攻撃範囲内にいるオペレーター2名に「愚鈍の印」（5回ダメージを与えると破壊可能）を付与し、対象は攻撃不可、スキル発動不可になり、さらに敵に狙われやすくなる。次にこのスキルを発動したとき、「庸劣の印」が付与されている全てのオペレーターを強制的に戦闘不能にし、対象の隣接4マスに術範囲ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
@@ -158560,7 +158560,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "일정 횟수의 대미지를 받으면 탈피하고 모든 논밭에 병해 오염 생성, 자신의 공격력, 방어력, 마법 저항 감소, 무게 등급 감소, 이동 속도 증가",
+        "text": "일정 횟수의 대미지를 받을 때마다 탈피하고 모든 논밭에 병해 오염 생성, 자신의 공격력, 방어력, 마법 저항 감소, 무게 등급 감소, 이동 속도 증가",
         "textFormat": "NORMAL"
       },
       {
@@ -159582,7 +159582,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "<코어 증폭기>에 기생 중이며, 피격되지 않음. 모든 <코어 증폭기>가 파괴되면 제2형태로 진입",
+        "text": "<코어 증폭기>에 기생 중이며, 공격받지 않음. 모든 <코어 증폭기>가 파괴되면 제2형태로 진입",
         "textFormat": "NORMAL"
       },
       {
@@ -162048,7 +162048,7 @@
     "JPDescription": "ひどくお腹を空かせた「ケルベロス」がついにあなたの前に現れた。三つの頭は、それぞれ好みが異なっている。絶対に適当な料理で誤魔化そうとしてはいけない！",
     "JPAbilityList": [
       {
-        "text": "【好き嫌い】:各段階の初めに<大鍋>の食材を空にし、指定された敵を倒した場合のみ食材を追加できる状態にする。調理を成功させると満足し、現在の段階をスキップする",
+        "text": "【好き嫌い】：各段階の初めに<大鍋>の食材を空にし、指定された敵を倒した場合のみ食材を追加できる状態にする。調理を成功させると満足し、現在の段階をスキップする",
         "textFormat": "NORMAL"
       },
       {
@@ -162088,7 +162088,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【暴食の炎】:対象1体に炎を噴き続け、時間経過とともにダメージ量が増加する術ダメージを与える。その間に対象が退場した場合、対象の周囲一定範囲に爆発を起こし大きな術ダメージを与える",
+        "text": "【暴食の炎】：対象1体に炎を噴き続け、時間経過とともにダメージ量が増加する術ダメージを与える。その間に対象が退場した場合、対象の周囲一定範囲に爆発を起こし大きな術ダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
@@ -165346,7 +165346,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "[무궁한 욕망] SP가 다 차면 <황폐의 시련>을 소환해 모든 아군 유닛에게 트루 대미지를 입힘",
+        "text": "[무궁한 욕망] SP 전부 회복 시 <황폐의 시련>을 소환해 모든 아군 유닛에게 트루 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
@@ -166200,7 +166200,7 @@
     "KRDescription": "PRTS의 원시 코드가 권한을 오버라이드했다. 이제 당신들이 로도스 아일랜드에 남긴 모든 흔적이 지워지기 시작했다.",
     "KRAbilityList": [
       {
-        "text": "[안전 대기 모드] 전장의 <의태 기계>를 처치하지 않으면 <PRTS, '소스코드'>가 피격되지 않음",
+        "text": "[안전 대기 모드] 전장의 <의태 기계>를 처치하지 않으면 <PRTS, '소스코드'>가 공격받지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -166847,7 +166847,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【連鎖反応】最初の復元後に発動するようになる。<PRTS、「ソースコード」>に持ち上げられて<$ba.float>低空浮揚</>状態となり、戦場にある全ての中立、およびPRTSが起動した<弱体化ノード>へ向けてレーザーを発射し、経路上の味方ユニットにダメージを与える。<擬態機械>に一定のダメージを与えると、効果時間終了前に撃墜できる",
+        "text": "【連鎖反応】：最初の復元後に発動するようになる。<PRTS、「ソースコード」>に持ち上げられて<$ba.float>低空浮揚</>状態となり、戦場にある全ての中立、およびPRTSが起動した<弱体化ノード>へ向けてレーザーを発射し、経路上の味方ユニットにダメージを与える。<擬態機械>に一定のダメージを与えると、効果時間終了前に撃墜できる",
         "textFormat": "NORMAL"
       }
     ],
@@ -170804,147 +170804,147 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "披挂冰雪的少女",
-    "JPDescription": "披挂着冰霜与漫长往昔的少女，她只是长久地沉默，你在其平静的表情之下看到复杂的悲悯、遗憾、释然与决心。",
+    "JPName": "氷雪を纏うもの",
+    "JPDescription": "氷霜と長い歴史を纏うもの。彼女は長き沈黙を保っているが、あなたはその静かな表情の下に複雑な憐れみと心残り、そして釈然たる想いと決意を見た。",
     "JPAbilityList": [
       {
-        "text": "远程攻击并附加<$ba.cold>寒冷</>",
+        "text": "遠距離攻撃を行い、対象に<$ba.cold>寒冷</>状態を付与する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每间隔一段时间获得攻击力、防御力提升",
+        "text": "一定時間ごとに、攻撃力と防御力が上昇する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，对全场我方单位造成法术溅射伤害，并扣除所有目标生命",
+        "text": "戦闘開始から長時間経過すると、戦場の味方ユニット全員に範囲術ダメージを与え、耐久値を0にする",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【凛冽寒意】停止攻击，凝聚数个<“寒意”>锁定<喀兰圣女>所处位置进行释放；每次释放时凝聚的<“寒意”>数量增加",
+        "text": "【骨を刺す冷気】：攻撃を停止し、いくつかの<「冷気」>を凝結させ、<カランドの巫女>の位置に放つ。発動するたびに、凝結させる<「冷気」>の数が増加する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“寒意”>原地凝聚一段时间后成形，向目标位置飞行，若抵达前未被击破则造成大范围法术伤害，同时增加目标区域的雪崩预警",
+        "text": "<「冷気」>は出現した位置で一定時間凝結した後、目標地点に向かって飛行する。撃破されずに目標地点に到達した場合、広範囲に術ダメージを与え、目標地点の警告エリアの雪崩警戒値を増加させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<耶拉冈德>在场时，额外凝聚同等数量的<“寒意”>并锁定一个干员进行释放",
+        "text": "<イェラガンド>が戦場にいる場合、追加で同数の<「冷気」>を凝結させ、オペレーター1名の位置に放つ",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "第一段階",
         "textFormat": "TITLE"
       },
       {
-        "text": "无法被攻击，仅能被<喀兰圣女>的【虔心祈祷】伤害",
+        "text": "攻撃対象にならず、<カランドの巫女>の【敬虔なる祈り】によってのみダメージを受ける",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "第二段階",
         "textFormat": "TITLE"
       },
       {
-        "text": "【寒潮侵袭】每损失一定比例生命值时停止攻击，召唤<圣女雪衣>禁锢<喀兰圣女>；此期间<耶拉冈德>频繁召唤冰柱攻击我方单位，并增加冰柱落点区域的雪崩预警",
+        "text": "【寒流の侵食】：一定割合のHPを失うたびに攻撃を停止し、<巫女の雪衣>を召喚して<カランドの巫女>を拘束する。効果期間内、<イェラガンド>は高頻度で氷柱を召喚して味方ユニットを攻撃し、氷柱の落下位置の警告エリアの雪崩警戒値を増加させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>使其恢复行动",
+        "text": "<巫女の雪衣>はHPが減少し続ける。撃破されると<カランドの巫女>が解放され、行動できるようになる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "披挂冰雪的少女",
-    "ENDescription": "披挂着冰霜与漫长往昔的少女，她只是长久地沉默，你在其平静的表情之下看到复杂的悲悯、遗憾、释然与决心。",
+    "ENName": "Maiden of Snow and Ice",
+    "ENDescription": "The eons and the frost both weigh upon her. Beneath her silent visage, you see the complexity of her regard, regret, relief, and resolve.",
     "ENAbilityList": [
       {
-        "text": "远程攻击并附加<$ba.cold>寒冷</>",
+        "text": "Can perform long-ranged attacks that inflict <$ba.cold>Cold</>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每间隔一段时间获得攻击力、防御力提升",
+        "text": "Periodically gains increased ATK and DEF",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，对全场我方单位造成法术溅射伤害，并扣除所有目标生命",
+        "text": "After a long time has passed, deals Arts splash damage to all allied units on the field, and drains all Life Points",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【凛冽寒意】停止攻击，凝聚数个<“寒意”>锁定<喀兰圣女>所处位置进行释放；每次释放时凝聚的<“寒意”>数量增加",
+        "text": "[Rimechill] Stops attacking, summoning several <'Coldness'> to lock on to the location of the <Karlan Saintess> and release there; the number of <'Coldness'> increases with each cast",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“寒意”>原地凝聚一段时间后成形，向目标位置飞行，若抵达前未被击破则造成大范围法术伤害，同时增加目标区域的雪崩预警",
+        "text": "<'Coldness'> takes shape after some time and flies towards the target; if not destroyed before it reaches the target, deals Arts damage in a large area and increases Avalanche Warning Index in the area",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<耶拉冈德>在场时，额外凝聚同等数量的<“寒意”>并锁定一个干员进行释放",
+        "text": "When <Kjeragandr> is on the field, also summons an equivalent number of <'Coldness'> and releases them at a targeted Operator",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "First Phase",
         "textFormat": "TITLE"
       },
       {
-        "text": "无法被攻击，仅能被<喀兰圣女>的【虔心祈祷】伤害",
+        "text": "Cannot be attacked; can only be damaged by [Pious Prayer] from the <Karlan Saintess>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "Phase 2",
         "textFormat": "TITLE"
       },
       {
-        "text": "【寒潮侵袭】每损失一定比例生命值时停止攻击，召唤<圣女雪衣>禁锢<喀兰圣女>；此期间<耶拉冈德>频繁召唤冰柱攻击我方单位，并增加冰柱落点区域的雪崩预警",
+        "text": "[Wintertide] Stops attacking whenever HP drops by a certain percentage, summoning <Saintess' Snowrobe> to imprison the <Karlan Saintess>; during this time, <Kjeragandr> will continuously summon icicles to attack allied units, increasing the Avalanche Warning Index of areas where the icicles land",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>使其恢复行动",
+        "text": "<Saintess' Snowrobe> continuously loses HP, releasing the <Karlan Saintess> when destroyed, allowing her to move again",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "披挂冰雪的少女",
-    "KRDescription": "披挂着冰霜与漫长往昔的少女，她只是长久地沉默，你在其平静的表情之下看到复杂的悲悯、遗憾、释然与决心。",
+    "KRName": "빙설을 두른 소녀",
+    "KRDescription": "서리와 과거를 두르고 있는 소녀. 오랫동안 침묵하고 있었을 뿐이지만, 당신은 그 평온한 표정 너머로 연민, 후회, 체념, 그리고 결심을 보았다.",
     "KRAbilityList": [
       {
-        "text": "远程攻击并附加<$ba.cold>寒冷</>",
+        "text": "원거리 공격이 <$ba.cold>냉기</> 효과 부여",
         "textFormat": "NORMAL"
       },
       {
-        "text": "每间隔一段时间获得攻击力、防御力提升",
+        "text": "일정 시간마다 공격력, 방어력 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "战斗经过较长时间后，对全场我方单位造成法术溅射伤害，并扣除所有目标生命",
+        "text": "비교적 긴 시간 전투 후, 모든 아군 유닛에게 마법 스플래시 대미지를 입히고, 모든 목표 HP 차감",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【凛冽寒意】停止攻击，凝聚数个<“寒意”>锁定<喀兰圣女>所处位置进行释放；每次释放时凝聚的<“寒意”>数量增加",
+        "text": "[매서운 한기] 공격 중지, 여러 개의 <'한기'>를 응집시켜 <카란 성녀>를 향해 발동, 발동할 때마다 <'한기'> 수량 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<“寒意”>原地凝聚一段时间后成形，向目标位置飞行，若抵达前未被击破则造成大范围法术伤害，同时增加目标区域的雪崩预警",
+        "text": "<'한기'> 제자리에서 일정 시간 응집 후 형성, 목표 위치를 향해 비행, 파괴하지 못할 시 큰 범위의 마법 대미지를 입히고, 해당 구역의 눈사태 경보 수치 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<耶拉冈德>在场时，额外凝聚同等数量的<“寒意”>并锁定一个干员进行释放",
+        "text": "<쉐라간드>가 전장에 있을 경우, 같은 수량의 <'한기'>를 추가로 응집시켜 오퍼레이터 1명을 지정해 발동",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "제1단계",
         "textFormat": "TITLE"
       },
       {
-        "text": "无法被攻击，仅能被<喀兰圣女>的【虔心祈祷】伤害",
+        "text": "공격받지 않음, <카란 성녀>의 [경건한 기도]로만 대미지를 받음",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "2단계",
         "textFormat": "TITLE"
       },
       {
-        "text": "【寒潮侵袭】每损失一定比例生命值时停止攻击，召唤<圣女雪衣>禁锢<喀兰圣女>；此期间<耶拉冈德>频繁召唤冰柱攻击我方单位，并增加冰柱落点区域的雪崩预警",
+        "text": "[한파 습격] HP가 일정량 감소할 때마다 공격을 멈추고 <성녀의 설의>를 소환해 <카란 성녀>를 구속, 그동안 <쉐라간드>는 얼음 기둥을 소환해 아군 유닛을 공격, 얼음 기둥 낙하 구역의 눈사태 경보 수치 증가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>使其恢复行动",
+        "text": "<성녀의 설의> HP가 지속적으로 감소, 파괴될 시 <카란 성녀>가 구속 상태에서 해제되어 행동 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -171233,63 +171233,63 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "耶拉冈德",
-    "JPDescription": "如白雪一般无边际而美丽的巨大生物。祂摄人心魄，恢弘而伟大，远超你所见、所曾见、所能见的一切。",
+    "JPName": "イェラガンド",
+    "JPDescription": "雪原の如く身の丈の果てが見えない美しく巨大な生物。心を震わせるほど偉大で、現在、過去、未来にわたって目にするすべてをはるかに凌駕する存在。",
     "JPAbilityList": [
       {
-        "text": "周期性对<披挂冰雪的少女>施加守护使其无法被攻击",
+        "text": "周期的に<氷雪を纏うもの>に守護を与え、攻撃対象にならないようにする",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>攻击，对整行单位造成法术伤害并附加<$ba.cold>寒冷</>",
+        "text": "<氷雪を纏うもの>と連携して横一列の範囲攻撃を行い、範囲内の味方ユニット全員に術ダメージを与え、<$ba.cold>寒冷</>状態を付与する",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>释放【凛冽寒意】和【寒潮侵袭】，强化技能效果",
+        "text": "<氷雪を纏うもの>と連携して、スキル効果が強化された【骨を刺す冷気】と【寒流の侵食】を放つ",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【白寂吹雪】对场上所有单位造成一次巨大法术伤害并施加<$ba.cold>寒冷</>，由所有友方单位分摊；每次释放附加的<$ba.cold>寒冷</>时间变长；不在场时也能从场外释放",
+        "text": "【静寂の吹雪】：戦場中の味方ユニット全員に極めて高い術ダメージを合計人数で均等に割り振ったものを1回与え、<$ba.cold>寒冷</>状態を付与する。発動するたびに、付与する<$ba.cold>寒冷</>の持続時間が長くなる。戦場にいない場合でも発動できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "耶拉冈德",
-    "ENDescription": "如白雪一般无边际而美丽的巨大生物。祂摄人心魄，恢弘而伟大，远超你所见、所曾见、所能见的一切。",
+    "ENName": "Kjeragandr",
+    "ENDescription": "As white, as beautiful, as vast as the great icefields, She is mesmerizing and magnificent, beyond reckoning then, now, and forever.",
     "ENAbilityList": [
       {
-        "text": "周期性对<披挂冰雪的少女>施加守护使其无法被攻击",
+        "text": "Periodically gives <Maiden of Snow and Ice> protection, preventing her from being attacked",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>攻击，对整行单位造成法术伤害并附加<$ba.cold>寒冷</>",
+        "text": "Attacks together with <Maiden of Snow and Ice>, dealing Arts damage to units in an entire row and inflicting <$ba.cold>Cold</>",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>释放【凛冽寒意】和【寒潮侵袭】，强化技能效果",
+        "text": "Partners with <Maiden of Snow and Ice> to unleash [Rimechill] and [Wintertide], boosting skill effects",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【白寂吹雪】对场上所有单位造成一次巨大法术伤害并施加<$ba.cold>寒冷</>，由所有友方单位分摊；每次释放附加的<$ba.cold>寒冷</>时间变长；不在场时也能从场外释放",
+        "text": "[Silent Whiteout] Deals heavy Arts damage to all units on the field and inflicts <$ba.cold>Cold</>, shared by all allied units; <$ba.cold>Cold</> duration increases with each cast; can be cast when not on the field",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "耶拉冈德",
-    "KRDescription": "如白雪一般无边际而美丽的巨大生物。祂摄人心魄，恢弘而伟大，远超你所见、所曾见、所能见的一切。",
+    "KRName": "쉐라간드",
+    "KRDescription": "하얀 눈처럼 끝없고 아름다운 존재, 사람의 마음과 영혼을 사로잡는다. 그분의 웅장함과 위대함은 당신이 보았던, 보고 있는, 볼 수 있는 모든 것을 아득히 초월한다.",
     "KRAbilityList": [
       {
-        "text": "周期性对<披挂冰雪的少女>施加守护使其无法被攻击",
+        "text": "주기적으로 <빙설을 두른 소녀>를 수호해 공격받지 않도록 함",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>攻击，对整行单位造成法术伤害并附加<$ba.cold>寒冷</>",
+        "text": "<빙설을 두른 소녀>와 협동하여 공격, 행 전체의 유닛에게 마법 대미지를 입히고 <$ba.cold>냉기</> 효과 부여",
         "textFormat": "NORMAL"
       },
       {
-        "text": "协同<披挂冰雪的少女>释放【凛冽寒意】和【寒潮侵袭】，强化技能效果",
+        "text": "<빙설을 두른 소녀>와 협동하여 [매서운 한기]와 [한파 습격] 발동, 스킬 효과 강화",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【白寂吹雪】对场上所有单位造成一次巨大法术伤害并施加<$ba.cold>寒冷</>，由所有友方单位分摊；每次释放附加的<$ba.cold>寒冷</>时间变长；不在场时也能从场外释放",
+        "text": "[고요한 눈폭풍] 전장의 모든 유닛에게 대량의 마법 대미지를 입히고 <$ba.cold>냉기</> 효과 부여, 대미지는 모든 아군 유닛이 분담, 발동할 때마다 <$ba.cold>냉기</> 효과의 시간 증가, 전장에 없어도 외부에서 발동 가능",
         "textFormat": "NORMAL"
       }
     ]
@@ -171437,99 +171437,99 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "喀兰圣女",
-    "JPDescription": "被选拔而出的、千万里挑一的女孩儿。她摇铃，一次又一次，为你，为祂。",
+    "JPName": "カランドの巫女",
+    "JPDescription": "数多の少女から選抜された巫女。彼女は一度、また一度と鈴を揺らす。あなたのため、そして、かの存在のために。",
     "JPAbilityList": [
       {
-        "text": "被击倒时重生",
+        "text": "倒されるたびに蘇る",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "第一段階",
         "textFormat": "TITLE"
       },
       {
-        "text": "【虔心祈祷】在指定位置祈祷，祈祷完成时对<披挂冰雪的少女>造成伤害并瘫痪",
+        "text": "【敬虔なる祈り】：特定の位置で祈祷を行う。祈祷が完了すると<氷雪を纏うもの>にダメージを与え、一定時間行動不能にさせる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "祈祷会被失衡、晕眩等异常状态打断",
+        "text": "強制移動、スタンなどの状態異常を受けると祈祷は中断される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "完成全部祈祷步骤时使仪式进入第二阶段",
+        "text": "全ての祈祷の手順が完了すると第二段階に入る",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "第二段階",
         "textFormat": "TITLE"
       },
       {
-        "text": "【破障之心】每隔一段时间进行一次攻击，破除<耶拉冈德>施加的守护使得<披挂冰雪的少女>可被攻击",
+        "text": "【障壁払う心】：一定時間ごとに1回攻撃し、<イェラガンド>による守護を打ち払い、<氷雪を纏うもの>を攻撃可能にする",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "喀兰圣女",
-    "ENDescription": "被选拔而出的、千万里挑一的女孩儿。她摇铃，一次又一次，为你，为祂。",
+    "ENName": "Karlan Saintess",
+    "ENDescription": "The chosen one. She rings her bell, again and again, for you, and for Her.",
     "ENAbilityList": [
       {
-        "text": "被击倒时重生",
+        "text": "Revives when defeated",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "First Phase",
         "textFormat": "TITLE"
       },
       {
-        "text": "【虔心祈祷】在指定位置祈祷，祈祷完成时对<披挂冰雪的少女>造成伤害并瘫痪",
+        "text": "[Pious Prayer] Prays at specific locations, dealing damage to and paralyzing the <Maiden of Snow and Ice> when prayer is complete",
         "textFormat": "NORMAL"
       },
       {
-        "text": "祈祷会被失衡、晕眩等异常状态打断",
+        "text": "Prayer can be interrupted by negative statuses like Stun and Shift",
         "textFormat": "NORMAL"
       },
       {
-        "text": "完成全部祈祷步骤时使仪式进入第二阶段",
+        "text": "Ritual enters the second phase when all prayer steps are complete",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "Phase 2",
         "textFormat": "TITLE"
       },
       {
-        "text": "【破障之心】每隔一段时间进行一次攻击，破除<耶拉冈德>施加的守护使得<披挂冰雪的少女>可被攻击",
+        "text": "[Heart of Breakthrough] Periodically attacks, breaking the protection of <Kjeragandr> and allowing the <Maiden of Snow and Ice> to be attacked",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "喀兰圣女",
-    "KRDescription": "被选拔而出的、千万里挑一的女孩儿。她摇铃，一次又一次，为你，为祂。",
+    "KRName": "카란 성녀",
+    "KRDescription": "수많은 아이들 중에서 선발된 소녀. 소녀는 한 번, 또 한 번 방울을 흔든다. 당신을 위해, 그분을 위해.",
     "KRAbilityList": [
       {
-        "text": "被击倒时重生",
+        "text": "쓰러질 시 부활",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第一阶段",
+        "text": "제1단계",
         "textFormat": "TITLE"
       },
       {
-        "text": "【虔心祈祷】在指定位置祈祷，祈祷完成时对<披挂冰雪的少女>造成伤害并瘫痪",
+        "text": "[경건한 기도] 지정된 위치에서만 기도하며, 기도 완료 시 <빙설을 두른 소녀>에게 대미지를 입히고 마비 효과 부여",
         "textFormat": "NORMAL"
       },
       {
-        "text": "祈祷会被失衡、晕眩等异常状态打断",
+        "text": "기도는 강제 이동, 기절 등 상태 이상으로 중단될 수 있음",
         "textFormat": "NORMAL"
       },
       {
-        "text": "完成全部祈祷步骤时使仪式进入第二阶段",
+        "text": "모든 기도를 마치면 의식이 2단계로 진입",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二阶段",
+        "text": "2단계",
         "textFormat": "TITLE"
       },
       {
-        "text": "【破障之心】每隔一段时间进行一次攻击，破除<耶拉冈德>施加的守护使得<披挂冰雪的少女>可被攻击",
+        "text": "[장벽 파괴의 의지] 일정 시간마다 공격해 <쉐라간드>의 수호 제거, <빙설을 두른 소녀>가 공격받을 수 있게 함",
         "textFormat": "NORMAL"
       }
     ]
@@ -171712,39 +171712,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“寒意”",
-    "JPDescription": "一阵凛然的寒意。你感觉肩头沉甸甸的，好似累累白雪压满松枝。",
+    "JPName": "「冷気」",
+    "JPDescription": "凛と冷たい冷気。積雪が松の枝に圧し掛かるかの如く、肩が重く感じる。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "原地凝聚一段时间后成形，向目标所处位置飞行，抵达目标位置前未被击破则自爆并造成大范围法术伤害，同时增加所处区域的雪崩预警",
+        "text": "出現した位置で一定時間凝結した後、目標地点に向かって飛行する。撃破されずに目標地点に到達した場合、自爆して広範囲に術ダメージを与え、目標地点の警告エリアの雪崩警戒値を増加させる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“寒意”",
-    "ENDescription": "一阵凛然的寒意。你感觉肩头沉甸甸的，好似累累白雪压满松枝。",
+    "ENName": "'Coldness'",
+    "ENDescription": "A chill comes over you. You feel a heavy weight on your shoulders, like snow gathering on pine branches.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "原地凝聚一段时间后成形，向目标所处位置飞行，抵达目标位置前未被击破则自爆并造成大范围法术伤害，同时增加所处区域的雪崩预警",
+        "text": "Takes shape in place after some time and flies towards the target; if not destroyed before it reaches the target, self-destructs to deal Arts damage in a large area and increase Avalanche Warning Index in the area",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“寒意”",
-    "KRDescription": "一阵凛然的寒意。你感觉肩头沉甸甸的，好似累累白雪压满松枝。",
+    "KRName": "'한기'",
+    "KRDescription": "서늘한 한기. 어깨를 묵직하게 누르는 게, 마치 소나무 가지마다 차곡차곡 쌓인 흰 눈 같다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "原地凝聚一段时间后成形，向目标所处位置飞行，抵达目标位置前未被击破则自爆并造成大范围法术伤害，同时增加所处区域的雪崩预警",
+        "text": "제자리에서 일정 시간 응집 후 형성, 목표 위치를 향해 비행, 파괴하지 못할 시 큰 범위의 마법 대미지를 입히고, 해당 구역의 눈사태 경보 수치 증가",
         "textFormat": "NORMAL"
       }
     ]
@@ -171885,39 +171885,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "圣女雪衣",
-    "JPDescription": "漂亮合身却如泪水般的“好衣裳”，也曾裹着许多和她一般的女孩儿。",
+    "JPName": "巫女の雪衣",
+    "JPDescription": "美しく身の丈にぴたりと合った「晴れ着」。かつてにも、彼女と同じような少女を多く包み込んできた。",
     "JPAbilityList": [
       {
-        "text": "<圣女雪衣>存在场上时使<喀兰圣女>处于禁锢状态，无法行动无法攻击",
+        "text": "<巫女の雪衣>が戦場に存在する場合、<カランドの巫女>は拘束状態となり、行動・攻撃不能となる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>",
+        "text": "<巫女の雪衣>はHPが減少し続け、撃破されると<カランドの巫女>を解放する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "圣女雪衣",
-    "ENDescription": "漂亮合身却如泪水般的“好衣裳”，也曾裹着许多和她一般的女孩儿。",
+    "ENName": "Saintess's Snowrobe",
+    "ENDescription": "This 'fine dress', perfectly fitting yet just like tears, once clothed many young women like her.",
     "ENAbilityList": [
       {
-        "text": "<圣女雪衣>存在场上时使<喀兰圣女>处于禁锢状态，无法行动无法攻击",
+        "text": "When <Saintess's Snowrobe> is on the field, the <Karlan Saintess> is imprisoned and unable to move or attack",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>",
+        "text": "<Saintess' Snowrobe> continuously loses HP, releasing the <Karlan Saintess> when destroyed",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "圣女雪衣",
-    "KRDescription": "漂亮合身却如泪水般的“好衣裳”，也曾裹着许多和她一般的女孩儿。",
+    "KRName": "성녀의 설의",
+    "KRDescription": "아름답고 몸에 잘 맞지만, 눈물처럼 서러운 '좋은 옷'. 한때 그녀와 비슷한 많은 소녀들을 감싸주기도 했다.",
     "KRAbilityList": [
       {
-        "text": "<圣女雪衣>存在场上时使<喀兰圣女>处于禁锢状态，无法行动无法攻击",
+        "text": "<성녀의 설의>가 전장에 있을 시 <카란 성녀>가 구속 상태가 되어 행동 및 공격 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "<圣女雪衣>持续流失生命，被击破时解放<喀兰圣女>",
+        "text": "<성녀의 설의> HP가 지속적으로 감소, 파괴될 시 <카란 성녀>가 구속 상태에서 해제",
         "textFormat": "NORMAL"
       }
     ]
@@ -178073,7 +178073,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "일정 횟수 대미지를 받으면 즉시 전장 내 모든 적의 공격 속도가 짧은 시간 동안 대폭 상승",
+        "text": "일정 횟수의 대미지를 받을 시 즉시 전장 내 모든 적의 공격 속도가 짧은 시간 동안 대폭 상승",
         "textFormat": "NORMAL"
       }
     ]
@@ -179143,7 +179143,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "일정 횟수의 공격을 받을 때마다 전장의 모든 아군 유닛에게 마법 대미지 부여",
+        "text": "일정 횟수의 대미지를 받을 때마다 전장의 모든 아군 유닛에게 마법 대미지 부여",
         "textFormat": "NORMAL"
       },
       {
@@ -180893,7 +180893,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "일정 횟수의 공격을 받을 때마다 <패스셰이퍼 분신> 1마리 소환",
+        "text": "일정 횟수의 대미지를 받을 때마다 <패스셰이퍼 분신> 1마리 소환",
         "textFormat": "NORMAL"
       }
     ]
@@ -181798,7 +181798,7 @@
     "KRDescription": "황야를 떠돌아다니는 신비한 상인. 문명이 존재하는 한 그는 뭐든지 팔 것이다.",
     "KRAbilityList": [
       {
-        "text": "공격당하지 않으며, 소멸 시 목표 HP가 차감되지 않음",
+        "text": "공격받지 않음, 소멸 시 목표 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -186068,7 +186068,7 @@
     "JPDescription": "生者に付き纏う門。熔炉の幻の中でまれに遭遇することがある。もしこの門を無理矢理くぐらされても、恐れることはない。必ず出口は用意されているのだから。",
     "JPAbilityList": [
       {
-        "text": "「門」が消失する際にオペレーターを一名連れ去り、しばらくの間部隊から離脱させる",
+        "text": "「門」が消失する際にオペレーターを1名連れ去り、しばらくの間部隊から離脱させる",
         "textFormat": "NORMAL"
       }
     ],
@@ -187828,7 +187828,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【即興護身アーツ】:周期的にエネルギー弾を1個獲得し、次の攻撃時に一斉に放つ。所持しているエネルギー弾が多いほど、物理・術の被ダメージを軽減する。最大3個のエネルギー弾を所持できる",
+        "text": "【即興護身アーツ】：周期的にエネルギー弾を1個獲得し、次の攻撃時に一斉に放つ。所持しているエネルギー弾が多いほど、物理・術の被ダメージを軽減する。最大3個のエネルギー弾を所持できる",
         "textFormat": "NORMAL"
       },
       {
@@ -188178,7 +188178,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【双子】:テレシスとテレジアの距離が近ければ近いほど与えるダメージが増加し、物理・術の被ダメージが減少する",
+        "text": "【双子】：テレシスとテレジアの距離が近ければ近いほど、与えるダメージが増加し、物理・術の被ダメージが減少する",
         "textFormat": "NORMAL"
       },
       {
@@ -188526,7 +188526,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聖都介抱の儀】:<「聖衛の銃騎士」ボジョカスティ>から一定の距離以上離れたユニットから受ける物理・術のダメージが大幅に減少する",
+        "text": "【聖都介抱の儀】：<「聖衛の銃騎士」ボジョカスティ>から一定の距離以上離れたユニットから受ける物理・術のダメージが大幅に減少する",
         "textFormat": "NORMAL"
       },
       {
@@ -188538,7 +188538,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【自動自衛の儀】:周期的に<聖衛のオートマトン>を数体召喚する",
+        "text": "【自動自衛の儀】：周期的に<聖衛のオートマトン>を数体召喚する",
         "textFormat": "NORMAL"
       },
       {
@@ -190551,7 +190551,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "[끝의 재현] '불드록카스티, 신성 경비 총기사', '테레시스, 검은 왕관의 군주', '콜람, 마하사트바의 권화', '맨프레드'가 쓰러지거나 전장을 이탈할 시 아미야의 SP 회복, SP가 다 차면 [존속의 전조] 발동",
+        "text": "[끝의 재현] '불드록카스티, 신성 경비 총기사', '테레시스, 검은 왕관의 군주', '콜람, 마하사트바의 권화', '맨프레드'가 쓰러지거나 전장을 이탈할 시 아미야의 SP 회복, SP 전부 회복 시 [존속의 전조] 발동",
         "textFormat": "NORMAL"
       },
       {
@@ -191089,7 +191089,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "【聖都介抱の儀】:<「聖衛の銃騎士」ボジョカスティ>から一定の距離以上離れたユニットから受ける物理・術のダメージが大幅に減少する",
+        "text": "【聖都介抱の儀】：<「聖衛の銃騎士」ボジョカスティ>から一定の距離以上離れたユニットから受ける物理・術のダメージが大幅に減少する",
         "textFormat": "NORMAL"
       },
       {
@@ -191602,7 +191602,7 @@
     "KRDescription": "계원 어디서든 쉽게 볼 수 있는 부적. 시간표, 주의 사항, 팁, 봉인…… 등 각종 정보가 적혀 있다. 사람이 직접 써서 의미를 부여한 탓인지, 사람에게 잘 달라붙으며, 한번 붙으면 잘 떨어지려 하지 않는다.",
     "KRAbilityList": [
       {
-        "text": "일정 횟수 피격 시 파괴",
+        "text": "일정 횟수의 대미지를 받을 시 파괴",
         "textFormat": "NORMAL"
       },
       {
@@ -192452,7 +192452,7 @@
     "KRDescription": "정원을 돌아다니는 신비한 상인 겸 밥 사장의 부하. 고적에 존재하는 거라면 무엇이든 판매한다.",
     "KRAbilityList": [
       {
-        "text": "공격당하지 않으며, 소멸 시 목표 HP가 차감되지 않음",
+        "text": "공격받지 않음, 소멸 시 목표 HP가 차감되지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -192887,7 +192887,7 @@
     "JPDescription": "長矛の扱いに長けた侠客。百氏の乱の間に活躍し、武勇を以って天下に名を馳せた。しかしながら、彼の力をもってしても、邪悪を倒し尽くすことはできなかった。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -193007,7 +193007,7 @@
     "JPDescription": "侠君祠に奉られている人物で、三侠客の三番手。たとえ命が尽きようとも、怒りで目を見開きながら、橋の上で立ちはだかった。数多くの敵将がいたが、橋を通り抜けられた者は誰一人いなかったという。",
     "JPAbilityList": [
       {
-        "text": "味方から攻撃されやすい",
+        "text": "味方ユニットから狙われやすい",
         "textFormat": "NORMAL"
       },
       {
@@ -195232,7 +195232,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "일정 횟수 피격 시 파괴",
+        "text": "일정 횟수의 대미지를 받을 시 파괴",
         "textFormat": "NORMAL"
       }
     ]
@@ -195525,7 +195525,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "[무위] 공격을 받지 않음, <구소우>가 쓰러지거나 퇴각, 또는 일정 시간이 지나면 제2형태 진입, 전장의 모든 고대 디오창 활성화",
+        "text": "[무위] 공격받지 않음, <구소우>가 쓰러지거나 퇴각, 또는 일정 시간이 지나면 제2형태 진입, 전장의 모든 고대 디오창 활성화",
         "textFormat": "NORMAL"
       },
       {
@@ -195991,7 +195991,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "일정 횟수의 대미지를 받으면 즉시 넓은 범위 내의 모든 아군 유닛에게 마법 대미지를 입히고 <$ba.stun>기절</>시킴",
+        "text": "일정 횟수의 대미지를 받을 시 즉시 넓은 범위 내의 모든 아군 유닛에게 마법 대미지를 입히고 <$ba.stun>기절</>시킴",
         "textFormat": "NORMAL"
       }
     ]
@@ -210687,15 +210687,15 @@
     "CNName": "终点信标塔",
     "CNDescription": "漂流赛道的终点。漂流艇一旦触碰到浮动平台，中央的天线塔会立即发送讯号宣布比赛结束。",
     "CNAbilityList": [],
-    "JPName": "终点信标塔",
-    "JPDescription": "漂流赛道的终点。漂流艇一旦触碰到浮动平台，中央的天线塔会立即发送讯号宣布比赛结束。",
-    "JPAbilityList": [],
-    "ENName": "终点信标塔",
-    "ENDescription": "漂流赛道的终点。漂流艇一旦触碰到浮动平台，中央的天线塔会立即发送讯号宣布比赛结束。",
-    "ENAbilityList": [],
-    "KRName": "终点信标塔",
-    "KRDescription": "漂流赛道的终点。漂流艇一旦触碰到浮动平台，中央的天线塔会立即发送讯号宣布比赛结束。",
-    "KRAbilityList": []
+    "JPName": "ゴールビーコン",
+    "JPDescription": "ローイングのゴール地点。ボートが水上プラットフォームに触れた瞬間、中央のアンテナ塔が即座に信号を発し、レース終了を告げる。",
+    "JPAbilityList": {},
+    "ENName": "Beacon Tower",
+    "ENDescription": "The ending point of Obstacle Drift. The signal tower in the middle sends out the signal announcing the end of the match as soon as the Drifter touches the buoy.",
+    "ENAbilityList": {},
+    "KRName": "종점 비콘탑",
+    "KRDescription": "래프팅 코스의 결승점. 래프팅 보트가 탑에 닿으면 중앙 안테나가 즉시 신호를 보내 경기가 종료된다.",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_4041_mundr",
@@ -210761,39 +210761,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "红宝石飞翼",
-    "JPDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。红色无人机的程序还不够稳定，如果遇到无人机停止运行的情况，请向赛事组委会反映。",
+    "JPName": "ルビーウイング",
+    "JPDescription": "主催者がローイングの円滑な運営を保証するために特別に導入した新型の貨物用ドローン。赤いドローンはプログラムが不安定なため、動作停止が確認された場合は大会組織委員会にご一報ください。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得少量分数",
+        "text": "撃破すると少量のスコアを獲得できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "红宝石飞翼",
-    "ENDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。红色无人机的程序还不够稳定，如果遇到无人机停止运行的情况，请向赛事组委会反映。",
+    "ENName": "Ruby Flightwing",
+    "ENDescription": "Cargo drone commissioned by the organizers to ensure the smooth operation of Obstacle Drift. The red version still has some bugs to iron out in the software. Please report any drone failures to the organizers.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得少量分数",
+        "text": "Shoot it down to earn a small amount of points",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "红宝石飞翼",
-    "KRDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。红色无人机的程序还不够稳定，如果遇到无人机停止运行的情况，请向赛事组委会反映。",
+    "KRName": "루비 윙",
+    "KRDescription": "래프팅 경기의 원활한 진행을 위해 특별 투입된 신형 수송 드론. 빨간색 드론의 프로그램은 아직 안정되지 않기에, 드론이 멈춘 것을 발견했다면 즉시 주최 측에게 알리길 바란다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得少量分数",
+        "text": "격추 시 소량의 점수 획득",
         "textFormat": "NORMAL"
       }
     ]
@@ -210862,39 +210862,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "蓝宝石飞翼",
-    "JPDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。蓝色无人机的质量还有待检验，请小心它们坠落时产生的机体碎片。",
+    "JPName": "サファイアウイング",
+    "JPDescription": "主催者がローイングの円滑な運営を保証するために特別に導入した新型の貨物用ドローン。青いドローンの品質は未だ検証中であるため、墜落の際に生じる機体の破片にはお気を付けください。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得一定量分数",
+        "text": "撃破すると一定量のスコアを獲得できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "蓝宝石飞翼",
-    "ENDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。蓝色无人机的质量还有待检验，请小心它们坠落时产生的机体碎片。",
+    "ENName": "Sapphire Flightwing",
+    "ENDescription": "Cargo drone commissioned by the organizers to ensure the smooth operation of Obstacle Drift. The blue version has not completed the quality checks yet. Watch out for debris created when they crash.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得一定量分数",
+        "text": "Shoot it down to earn a moderate amount of points",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "蓝宝石飞翼",
-    "KRDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。蓝色无人机的质量还有待检验，请小心它们坠落时产生的机体碎片。",
+    "KRName": "사파이어 윙",
+    "KRDescription": "래프팅 경기의 원활한 진행을 위해 특별 투입된 신형 수송 드론. 파란색 드론의 품질은 아직 검증이 더 필요하니, 추락 시 발생하는 기체 파편에 주의하길 바란다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得一定量分数",
+        "text": "격추 시 일정량의 점수 획득",
         "textFormat": "NORMAL"
       }
     ]
@@ -210963,39 +210963,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "钻石飞翼",
-    "JPDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。白色无人机的性能已通过认证，如果有意购买请联系赛事赞助商。",
+    "JPName": "ダイヤモンドウイング",
+    "JPDescription": "主催者がローイングの円滑な運営を保証するために特別に導入した新型の貨物用ドローン。白いドローンの性能は認証を受けており、購入を希望する場合は大会スポンサーにご連絡ください。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得大量分数！",
+        "text": "撃破すると大量のスコアを獲得できる！",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "钻石飞翼",
-    "ENDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。白色无人机的性能已通过认证，如果有意购买请联系赛事赞助商。",
+    "ENName": "Diamond Flightwing",
+    "ENDescription": "Cargo drone commissioned by the organizers to ensure the smooth operation of Obstacle Drift. The white version has successfully passed all performance tests. Please contact the organizers if you would like to make a purchase.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得大量分数！",
+        "text": "Shoot it down to earn a large amount of points!",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "钻石飞翼",
-    "KRDescription": "主办方为保障漂流比赛顺利进行特意调用的新式货运无人机。白色无人机的性能已通过认证，如果有意购买请联系赛事赞助商。",
+    "KRName": "다이아몬드 윙",
+    "KRDescription": "래프팅 경기의 원활한 진행을 위해 특별 투입된 신형 수송 드론. 하얀색 드론은 이미 성능이 검증되었으니, 구매를 원하는 경우 대회 스폰서 측에 문의하길 바란다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "击落它会获得大量分数！",
+        "text": "격추 시 대량의 점수 획득!",
         "textFormat": "NORMAL"
       }
     ]
@@ -211062,39 +211062,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "物资浮板",
-    "JPDescription": "上方放有物资箱的浮力板，比赛将根据选手带回的物资进行计分。注意，浮力板易受损，切勿让物资箱因此遗失。",
+    "JPName": "物資フロート",
+    "JPDescription": "物資箱を載せたフロート。レースは選手がゴールまで持ち帰った物資によってスコアが加算されるが、フロートは壊れやすいため、物資箱を落とさないよう注意が必要だ。",
     "JPAbilityList": [
       {
-        "text": "与漂流艇接触时，拼接在对应位置",
+        "text": "ボートと接触すると、対応する位置に連結される",
         "textFormat": "NORMAL"
       },
       {
-        "text": "拼接到漂流艇后，未被摧毁时，会提供大量分数！",
+        "text": "ボートに連結後、ゴールまで破壊されなければ、大量のスコアを獲得できる！",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "物资浮板",
-    "ENDescription": "上方放有物资箱的浮力板，比赛将根据选手带回的物资进行计分。注意，浮力板易受损，切勿让物资箱因此遗失。",
+    "ENName": "Supplies Floater",
+    "ENDescription": "Floating board with supply crates on it. Competitors are scored based on the amount of supplies they bring back. Be careful, as the board can be quite fragile.",
     "ENAbilityList": [
       {
-        "text": "与漂流艇接触时，拼接在对应位置",
+        "text": "Attaches itself to the Drifter when it comes into contact",
         "textFormat": "NORMAL"
       },
       {
-        "text": "拼接到漂流艇后，未被摧毁时，会提供大量分数！",
+        "text": "Gives a large amount of points if not destroyed after being attached to the Drifter!",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "物资浮板",
-    "KRDescription": "上方放有物资箱的浮力板，比赛将根据选手带回的物资进行计分。注意，浮力板易受损，切勿让物资箱因此遗失。",
+    "KRName": "물자 부력판",
+    "KRDescription": "위에 물자 상자가 놓여있는 부력판. 선수들이 가져온 물자에 따라 경기 점수가 집계된다. 부력판은 손상되기 쉬우므로, 잃어버리지 않게 주의하도록.",
     "KRAbilityList": [
       {
-        "text": "与漂流艇接触时，拼接在对应位置",
+        "text": "래프팅 보트에 닿을 시 보트와 연결됨",
         "textFormat": "NORMAL"
       },
       {
-        "text": "拼接到漂流艇后，未被摧毁时，会提供大量分数！",
+        "text": "래프팅 보트에 연결된 후 파괴되지 않을 시 대량의 점수 획득!",
         "textFormat": "NORMAL"
       }
     ]
@@ -211171,39 +211171,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "沉水物资箱",
-    "JPDescription": "在漂流赛道中没来得及清理的运动装备箱，全部来自之前没能完赛的选手。",
+    "JPName": "水没物資箱",
+    "JPDescription": "ローイングのコース上に残されたスポーツ用具の入った箱。どれも過去にゴールできなかった選手たちのものである。",
     "JPAbilityList": [
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>",
+        "text": "水中では<$ba.invisible>ステルス</>になる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "开启后随机获得<基础浮板>或<引力浮板>",
+        "text": "破壊するとランダムで<基礎フロート>か<引力フロート>を獲得できる",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "沉水物资箱",
-    "ENDescription": "在漂流赛道中没来得及清理的运动装备箱，全部来自之前没能完赛的选手。",
+    "ENName": "Submerged Supply Crate",
+    "ENDescription": "Sports gear boxes lying along the course that have not been cleaned up, from previous competitors who failed to complete the event.",
     "ENAbilityList": [
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>",
+        "text": "Gains <$ba.invisible>Invisibility</> while in water",
         "textFormat": "NORMAL"
       },
       {
-        "text": "开启后随机获得<基础浮板>或<引力浮板>",
+        "text": "Provides <Basic Floater> or <Gravity Floater> at random",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "沉水物资箱",
-    "KRDescription": "在漂流赛道中没来得及清理的运动装备箱，全部来自之前没能完赛的选手。",
+    "KRName": "침수된 물자 상자",
+    "KRDescription": "래프팅 코스의 아직 치우지 못하고 남은 운동 장비 상자. 전부 이전에 경기를 마치지 못한 선수들이 남긴 것이다.",
     "KRAbilityList": [
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>",
+        "text": "물속에서 <$ba.invisible>은신</> 효과 획득",
         "textFormat": "NORMAL"
       },
       {
-        "text": "开启后随机获得<基础浮板>或<引力浮板>",
+        "text": "사용 시 랜덤으로 <기본 부력판> 또는 <인력 부력판> 획득",
         "textFormat": "NORMAL"
       }
     ]
@@ -211267,15 +211267,15 @@
     "CNName": "定点浮标",
     "CNDescription": "划定漂流比赛区域的浮标。觉得它像看上去那样不稳固就大错特错了！",
     "CNAbilityList": [],
-    "JPName": "定点浮标",
-    "JPDescription": "划定漂流比赛区域的浮标。觉得它像看上去那样不稳固就大错特错了！",
-    "JPAbilityList": [],
-    "ENName": "定点浮标",
-    "ENDescription": "划定漂流比赛区域的浮标。觉得它像看上去那样不稳固就大错特错了！",
-    "ENAbilityList": [],
-    "KRName": "定点浮标",
-    "KRDescription": "划定漂流比赛区域的浮标。觉得它像看上去那样不稳固就大错特错了！",
-    "KRAbilityList": []
+    "JPName": "定点浮標",
+    "JPDescription": "ローイングのエリアを区切る浮標。見た目の印象ですぐに押しのけられそうと思ったなら、それは大間違いだ！",
+    "JPAbilityList": {},
+    "ENName": "Moored Buoy",
+    "ENDescription": "A buoy that marks the boundaries of Obstacle Drift. It is not nearly as flimsy as it looks.",
+    "ENAbilityList": {},
+    "KRName": "고정 부표",
+    "KRDescription": "래프팅 경기 코스를 구분하는 부표. 보이는 것처럼 불안정하다고 생각한다면 큰 오산이다!",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_4047_mustak",
@@ -211345,27 +211345,27 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "火盆浮标",
-    "JPDescription": "在漂流赛道中设置的浮标，其上的火盆并未牢牢固定。你可能永远找不到这类浮标的安全验收责任人。",
+    "JPName": "火鉢浮標",
+    "JPDescription": "ローイングのコースに設置された浮標。上に乗っている火鉢はしっかり固定されていないようだ。こうした浮標の安全検査責任者は、おそらく永遠に見つからないだろう。",
     "JPAbilityList": [
       {
-        "text": "对接触到的<基础浮板>、<引力浮板>和<物资浮板>造成物理伤害",
+        "text": "接触した<基礎フロート>・<引力フロート>・<物資フロート>に物理ダメージを与える",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "火盆浮标",
-    "ENDescription": "在漂流赛道中设置的浮标，其上的火盆并未牢牢固定。你可能永远找不到这类浮标的安全验收责任人。",
+    "ENName": "Brazier Buoy",
+    "ENDescription": "A buoy set up on the Obstacle Drift course. The brazier is not firmly fastened. It is doubtful that you will ever be able to find the safety official responsible for these buoys.",
     "ENAbilityList": [
       {
-        "text": "对接触到的<基础浮板>、<引力浮板>和<物资浮板>造成物理伤害",
+        "text": "Deals Physical damage to <Basic Floater>, <Gravity Floater>, and <Supplies Floater>",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "火盆浮标",
-    "KRDescription": "在漂流赛道中设置的浮标，其上的火盆并未牢牢固定。你可能永远找不到这类浮标的安全验收责任人。",
+    "KRName": "화로 부표",
+    "KRDescription": "래프팅 경기 코스에 설치된 부표. 위에 있는 화로가 단단히 고정되어 있지 않은 것 같다. 아마 이 부표의 안전 검수 담당자는 영원히 찾을 수 없을 것이다.",
     "KRAbilityList": [
       {
-        "text": "对接触到的<基础浮板>、<引力浮板>和<物资浮板>造成物理伤害",
+        "text": "<기본 부력판>, <인력 부력판>, <물자 부력판>에 닿을 시 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -211423,15 +211423,15 @@
     "CNName": "盐水健身客",
     "CNDescription": "深感自己肢体力量不足的岩壳蟹，很明显它对健身的理解有偏差，否则不会变成现在这副“一肢独大”的模样。",
     "CNAbilityList": [],
-    "JPName": "盐水健身客",
-    "JPDescription": "深感自己肢体力量不足的岩壳蟹，很明显它对健身的理解有偏差，否则不会变成现在这副“一肢独大”的模样。",
-    "JPAbilityList": [],
-    "ENName": "盐水健身客",
-    "ENDescription": "深感自己肢体力量不足的岩壳蟹，很明显它对健身的理解有偏差，否则不会变成现在这副“一肢独大”的模样。",
-    "ENAbilityList": [],
-    "KRName": "盐水健身客",
-    "KRDescription": "深感自己肢体力量不足的岩壳蟹，很明显它对健身的理解有偏差，否则不会变成现在这副“一肢独大”的模样。",
-    "KRAbilityList": []
+    "JPName": "塩水トレーニー",
+    "JPDescription": "自らの爪の力不足を痛感しているガンセキガニ。そのフィットネスに対する理解は明らかに歪んでおり、今では片方の爪だけが不自然に肥大化した姿となっている。",
+    "JPAbilityList": {},
+    "ENName": "Salty Gym-goer",
+    "ENDescription": "A cragpincer that feels the need to strengthen its limbs, but something is not quite right with its training, resulting in one limb being significantly larger than the other.",
+    "ENAbilityList": {},
+    "KRName": "헬스 크랩",
+    "KRDescription": "자신의 신체적 한계를 느낀 크랙핀서. 헬스에 대해 뭔가 오해하고 있는 게 분명하다. 그렇지 않고서야 한쪽 집계만 벌크업이 됐을 리 없다.",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_4048_mubarn_2",
@@ -211486,15 +211486,15 @@
     "CNName": "“超级钳”盐水健身客",
     "CNDescription": "深感自己肢体力量不足的岩壳蟹，它们的出现可能是因为肢体大小已经成为群体内部攀比的标准。",
     "CNAbilityList": [],
-    "JPName": "“超级钳”盐水健身客",
-    "JPDescription": "深感自己肢体力量不足的岩壳蟹，它们的出现可能是因为肢体大小已经成为群体内部攀比的标准。",
-    "JPAbilityList": [],
-    "ENName": "“超级钳”盐水健身客",
-    "ENDescription": "深感自己肢体力量不足的岩壳蟹，它们的出现可能是因为肢体大小已经成为群体内部攀比的标准。",
-    "ENAbilityList": [],
-    "KRName": "“超级钳”盐水健身客",
-    "KRDescription": "深感自己肢体力量不足的岩壳蟹，它们的出现可能是因为肢体大小已经成为群体内部攀比的标准。",
-    "KRAbilityList": []
+    "JPName": "「超級爪」塩水トレーニー",
+    "JPDescription": "自らの爪の力不足を痛感しているガンセキガニ。肢体の大きさが群れの中で地位を示す物差しになってしまったために、こうした個体が現れたのだろう。",
+    "JPAbilityList": {},
+    "ENName": "'Super Pincer' Salty Gym-goer",
+    "ENDescription": "A cragpincer that feels the need to strengthen its limbs. Amongst its kind, the size of one's limb has become a status symbol.",
+    "ENAbilityList": {},
+    "KRName": "'슈퍼집게' 헬스 크랩",
+    "KRDescription": "자신의 신체적 한계를 느낀 크랙핀서. 녀석들이 대거 출현한 원인은 어쩌면 팔다리 크기가 집단 내부의 평가 기준이 되었기 때문일지도 모른다.",
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_4049_muston",
@@ -211588,51 +211588,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "引浪兽",
-    "JPDescription": "漂浮在赛道上的悠闲生物，被当地民众视为吉祥物，攻击它会点燃所有人的怒火。",
+    "JPName": "引波獣",
+    "JPDescription": "コース上に漂うのんびりとした生物。地元の人々からはマスコットとして親しまれており、攻撃すれば彼らの怒りに火をつけてしまう。",
     "JPAbilityList": [
       {
-        "text": "无法移动",
+        "text": "移動しない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "周囲の味方ユニット全員に<$ba.dt.erosion>侵蝕損傷</>を与え続ける",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "HPが0になった時に一度だけ復活し、復活時に特定の敵を召喚する。復活後は与える<$ba.dt.erosion>侵蝕損傷</>が上昇し、範囲も拡大する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "引浪兽",
-    "ENDescription": "漂浮在赛道上的悠闲生物，被当地民众视为吉祥物，攻击它会点燃所有人的怒火。",
+    "ENName": "Wavebringer",
+    "ENDescription": "A creature that drifts leisurely along the course. The locals see it as a mascot, and attacking it will invoke their fury.",
     "ENAbilityList": [
       {
-        "text": "无法移动",
+        "text": "Unable to move",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "Continuously deals <$ba.dt.erosion>Corrosion</> to its surroundings",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "Revives when defeated for the first time, summoning specific enemies; after reviving, deals more <$ba.dt.erosion>Corrosion</> with expanded range",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "引浪兽",
-    "KRDescription": "漂浮在赛道上的悠闲生物，被当地民众视为吉祥物，攻击它会点燃所有人的怒火。",
+    "KRName": "웨이브비스트",
+    "KRDescription": "래프팅 코스에 떠 있는 한가로운 생물. 현지인들이 녀석을 마스코트로 여기기에, 잘못 공격했다간 공분을 살 수 있다.",
     "KRAbilityList": [
       {
-        "text": "无法移动",
+        "text": "이동 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "지속해서 주변에 <$ba.dt.erosion>침식 손상</>을 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "최초로 쓰러지면 다시 부활, 부활 시 특정 적 소환, 부활 후 입히는 <$ba.dt.erosion>침식 손상</> 증가 및 범위 확대",
         "textFormat": "NORMAL"
       }
     ]
@@ -211729,51 +211729,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“水上明珠”引浪兽",
-    "JPDescription": "漂浮在赛道上的悠闲生物，受到惊扰后会用身体搅乱水流，可谓危险至极。",
+    "JPName": "「水上の真珠」引波獣",
+    "JPDescription": "コース上に漂うのんびりとした生物。刺激を受けるとその体で水流を乱してくるため、危険この上ない。",
     "JPAbilityList": [
       {
-        "text": "无法移动",
+        "text": "移動しない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "周囲の味方ユニット全員に<$ba.dt.erosion>侵蝕損傷</>を与え続ける",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "HPが0になった時に一度だけ復活し、復活時に特定の敵を召喚する。復活後は与える<$ba.dt.erosion>侵蝕損傷</>が上昇し、範囲も拡大する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“水上明珠”引浪兽",
-    "ENDescription": "漂浮在赛道上的悠闲生物，受到惊扰后会用身体搅乱水流，可谓危险至极。",
+    "ENName": "'Pearl of the Waves' Wavebringer",
+    "ENDescription": "A creature that drifts leisurely along the course. When disturbed, it disturbs the currents with its body, creating significant danger.",
     "ENAbilityList": [
       {
-        "text": "无法移动",
+        "text": "Unable to move",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "Continuously deals <$ba.dt.erosion>Corrosion</> to its surroundings",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "Revives when defeated for the first time, summoning specific enemies; after reviving, deals more <$ba.dt.erosion>Corrosion</> with expanded range",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“水上明珠”引浪兽",
-    "KRDescription": "漂浮在赛道上的悠闲生物，受到惊扰后会用身体搅乱水流，可谓危险至极。",
+    "KRName": "'수상명주' 웨이브비스트",
+    "KRDescription": "래프팅 코스에 떠 있는 한가로운 생물. 깜짝 놀라면 몸으로 물을 마구 휘젓기에 지극히 위험하다.",
     "KRAbilityList": [
       {
-        "text": "无法移动",
+        "text": "이동 불가",
         "textFormat": "NORMAL"
       },
       {
-        "text": "持续对周围造成<$ba.dt.erosion>侵蚀损伤</>",
+        "text": "지속해서 주변에 <$ba.dt.erosion>침식 손상</>을 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "首次被击倒后重生，重生时召唤特定敌人，重生后造成的<$ba.dt.erosion>侵蚀损伤</>提升且范围扩大",
+        "text": "최초로 쓰러지면 다시 부활, 부활 시 특정 적 소환, 부활 후 입히는 <$ba.dt.erosion>침식 손상</> 증가 및 범위 확대",
         "textFormat": "NORMAL"
       }
     ]
@@ -211854,51 +211854,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "深水大力士",
-    "JPDescription": "能够举起重物的大型岩壳蟹，会高举杠铃炫耀自己的力量，以便说服小岩壳蟹接受它的训练。",
+    "JPName": "深水マッスル",
+    "JPDescription": "重い物を持ち上げられる大型のガンセキガニ。バーベルを掲げて自らの力を誇示し、小さいガンセキガニにトレーニングを受けさせようとする。",
     "JPAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "必要ブロック数3（ブロック数が3以上のユニットにのみブロックされる）",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "水中では<$ba.invisible>ステルス</>状態になり、遠距離攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷盐水健身客",
+        "text": "遠距離攻撃時、<塩水トレーニー>を投擲する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "深水大力士",
-    "ENDescription": "能够举起重物的大型岩壳蟹，会高举杠铃炫耀自己的力量，以便说服小岩壳蟹接受它的训练。",
+    "ENName": "Marine Strongman",
+    "ENDescription": "Large cragpincer that can lift very heavy objects. It shows off by lifting barbells, in order to persuade other cragpincers to train under it.",
     "ENAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "Can only be blocked by Operators with 3 or more Block",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "Gains <$ba.invisible>Invisibility</> while in water, and performs ranged attacks",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷盐水健身客",
+        "text": "Throws Salty Gym-goer when performing ranged attacks",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "深水大力士",
-    "KRDescription": "能够举起重物的大型岩壳蟹，会高举杠铃炫耀自己的力量，以便说服小岩壳蟹接受它的训练。",
+    "KRName": "심해의 장사",
+    "KRDescription": "무거운 물체를 들어 올릴 수 있는 대형 크랙핀서. 바벨을 높이 들어 힘을 과시하며 자신에게 훈련받으라고 소형 크랙핀를 설득한다.",
     "KRAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "저지 가능 수가 3 이상인 유닛만 저지 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "물속에서 <$ba.invisible>은신</> 효과 획득 및 원거리 공격 시전",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷盐水健身客",
+        "text": "원거리 공격 시 헬스 크랩을 투척",
         "textFormat": "NORMAL"
       }
     ]
@@ -211979,51 +211979,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“举重王”深水大力士",
-    "JPDescription": "能够举起巨大杠铃的大型岩壳蟹，拥有大量岩壳蟹学员和粉丝，它们全都信奉肢体力量就是一切的信条。",
+    "JPName": "「重量挙げ王」深水マッスル",
+    "JPDescription": "巨大なバーベルを持ち上げられる大型のガンセキガニ。多数のガンセキガニの弟子やファンを抱えており、彼らは肉体の力こそすべてという信条を持っている。",
     "JPAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "必要ブロック数3（ブロック数が3以上のユニットにのみブロックされる）",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "水中では<$ba.invisible>ステルス</>状態になり、遠距離攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷“超级钳”盐水健身客",
+        "text": "遠距離攻撃時、<「超級爪」塩水トレーニー>を投擲する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“举重王”深水大力士",
-    "ENDescription": "能够举起巨大杠铃的大型岩壳蟹，拥有大量岩壳蟹学员和粉丝，它们全都信奉肢体力量就是一切的信条。",
+    "ENName": "'Weightlifting Champ' Marine Strongman",
+    "ENDescription": "Large cragpincer that can lift massive barbells. It has many students and fans, all of whom believe that the strength of one's limb is everything.",
     "ENAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "Can only be blocked by Operators with 3 or more Block",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "Gains <$ba.invisible>Invisibility</> while in water, and performs ranged attacks",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷“超级钳”盐水健身客",
+        "text": "Throws 'Super Pincer' Salty Gym-goer when performing ranged attacks",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“举重王”深水大力士",
-    "KRDescription": "能够举起巨大杠铃的大型岩壳蟹，拥有大量岩壳蟹学员和粉丝，它们全都信奉肢体力量就是一切的信条。",
+    "KRName": "'역도왕' 심해의 장사",
+    "KRDescription": "커다란 바벨을 들어 올릴 수 있는 대형 크랙핀서. 대량의 크랙핀서 수강생과 팬을 거느리고 있다. 이들의 신조는 파워가 곧 모든 것이다.",
     "KRAbilityList": [
       {
-        "text": "只能被阻挡数大于等于3的单位阻挡",
+        "text": "저지 가능 수가 3 이상인 유닛만 저지 가능",
         "textFormat": "NORMAL"
       },
       {
-        "text": "在水中获得<$ba.invisible>隐匿</>并进行远程攻击",
+        "text": "물속에서 <$ba.invisible>은신</> 효과 획득 및 원거리 공격 시전",
         "textFormat": "NORMAL"
       },
       {
-        "text": "远程攻击时投掷“超级钳”盐水健身客",
+        "text": "원거리 공격 시 '슈퍼집게' 헬스 크랩을 투척",
         "textFormat": "NORMAL"
       }
     ]
@@ -212152,51 +212152,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "潮风操控者",
-    "JPDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，为比赛带来了意料之外的挑战。",
+    "JPName": "潮風ルーラー",
+    "JPDescription": "特別な頭の羽を持つ羽獣。素早く頭部を回転させて空気の流れを操り、レースに予想外の試練をもたらす。",
     "JPAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "登場時は待機状態で、攻撃を行わない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "ダメージを受けると臨戦態勢となり、飛行ユニットになる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "周期的に攻撃を停止し、対象の方向に持続的に範囲術ダメージを与え、ボートを押し出す。その後遠くへと逃走する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "潮风操控者",
-    "ENDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，为比赛带来了意料之外的挑战。",
+    "ENName": "Seawind Manipulator",
+    "ENDescription": "Fowlbeast with an unusual plume, able to manipulate airflow by spinning its head, bringing unexpected challenges to the match.",
     "ENAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "Starts battle in Standby and will not attack",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "Becomes Combat-Ready and Aerial when damaged",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "Periodically stops attack, dealing AoE Arts damage while pushing the Drifter in the targeted direction; then escapes into the distance",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "潮风操控者",
-    "KRDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，为比赛带来了意料之外的挑战。",
+    "KRName": "바람의 지배자",
+    "KRDescription": "머리에 특수한 깃털이 나 있는 파울비스트. 머리를 고속으로 회전시켜 공기의 흐름을 조절할 수 있다. 이는 경기에 예상치 못한 도전을 가져온다.",
     "KRAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "초기에는 명령 대기 상태로 공격하지 않음",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "대미지를 받으면 공격 상태로 돌입해 공중 유닛으로 변경",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "주기적으로 공격 중단, 지속해서 목표 방향으로 광역 마법 대미지를 입히며 래프팅 보트를 밀어냄, 이후 자신은 먼 곳으로 도주",
         "textFormat": "NORMAL"
       }
     ]
@@ -212325,51 +212325,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“风向标”潮风操控者",
-    "JPDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，气流攻击似乎是它们的一种驱赶行为。",
+    "JPName": "「風向計」潮風ルーラー",
+    "JPDescription": "特別な頭の羽を持つ羽獣。素早く頭部を回転させて空気の流れを操る。気流攻撃は、どうやら外敵を追い払うための行動らしい。",
     "JPAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "登場時は待機状態で、攻撃を行わない",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "ダメージを受けると臨戦態勢となり、飛行ユニットになる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "周期的に攻撃を停止し、対象の方向に持続的に範囲術ダメージを与え、ボートを押し出す。その後遠くへと逃走する",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“风向标”潮风操控者",
-    "ENDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，气流攻击似乎是它们的一种驱赶行为。",
+    "ENName": "'Weathervane' Seawind Manipulator",
+    "ENDescription": "Fowlbeast with an unusual plume, able to manipulate airflow by spinning its head, which it uses as a form of attack.",
     "ENAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "Starts battle in Standby and will not attack",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "Becomes Combat-Ready and Aerial when damaged",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "Periodically stops attack, dealing AoE Arts damage while pushing the Drifter in the targeted direction; then escapes into the distance",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“风向标”潮风操控者",
-    "KRDescription": "长着特殊头羽的羽兽，可以通过快速旋转头部来控制空气流动，气流攻击似乎是它们的一种驱赶行为。",
+    "KRName": "'풍향계' 바람의 지배자",
+    "KRDescription": "머리에 특수한 깃털이 나 있는 파울비스트. 머리를 고속으로 회전시켜 공기의 흐름을 조절할 수 있다. 이를 활용한 기류 공격은 아무래도 일종의 퇴치 행위 같다.",
     "KRAbilityList": [
       {
-        "text": "初始处于待命状态，不进行攻击",
+        "text": "초기에는 명령 대기 상태로 공격하지 않음",
         "textFormat": "NORMAL"
       },
       {
-        "text": "受伤后进入临战状态，变为飞行单位",
+        "text": "대미지를 받으면 공격 상태로 돌입해 공중 유닛으로 변경",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性停止攻击，持续对目标方向造成范围法术伤害并推动漂流艇，之后往远处逃跑",
+        "text": "주기적으로 공격 중단, 지속해서 목표 방향으로 광역 마법 대미지를 입히며 래프팅 보트를 밀어냄, 이후 자신은 먼 곳으로 도주",
         "textFormat": "NORMAL"
       }
     ]
@@ -212467,51 +212467,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "眩光记录员",
-    "JPDescription": "可以记录赛场情况的摄影无人机。设计程序时，工作人员不慎将“记录”和“警告”指令都设为了“无条件”，导致它们会攻击所有参赛者。",
+    "JPName": "閃光カメラマン",
+    "JPDescription": "コース上の状況を記録できる撮影ドローン。プログラムを組む際、プログラマーが「記録」と「警告」の実行条件をいずれも「無条件」に設定してしまい、そのせいで選手全員を標的として攻撃するようになった。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "術攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "周期的に味方ユニット1体を対象として選択し、しばらくした後に対象の方向に範囲術攻撃を行う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "眩光记录员",
-    "ENDescription": "可以记录赛场情况的摄影无人机。设计程序时，工作人员不慎将“记录”和“警告”指令都设为了“无条件”，导致它们会攻击所有参赛者。",
+    "ENName": "Radiance Scorer",
+    "ENDescription": "Photography drone that records what is happening in the arena. The programmers accidentally set triggers for both 'recording' and 'warning' to 'unconditional', causing it to attack all competitors.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "Deals Arts damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "Periodically locks onto a unit, dealing AoE Arts damage in its direction after a short delay",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "眩光记录员",
-    "KRDescription": "可以记录赛场情况的摄影无人机。设计程序时，工作人员不慎将“记录”和“警告”指令都设为了“无条件”，导致它们会攻击所有参赛者。",
+    "KRName": "섬광 기록원",
+    "KRDescription": "경기장 상황을 기록하는 촬영 드론. 프로그램을 설계할 때, 실수로 '기록'과 '경고'를 모두 '무조건'으로 설정하는 바람에 모든 참가자를 공격하게 되었다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "공격 시 마법 대미지 부여",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "주기적으로 아군 유닛 1명 지정, 잠깐의 지연 후 해당 방향으로 광역 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -212609,51 +212609,51 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "“裁决者”眩光记录员",
-    "JPDescription": "可以记录赛场情况的摄影无人机。学会识别它们的攻击提示也是选手的必修课程。",
+    "JPName": "「裁決者」閃光カメラマン",
+    "JPDescription": "コース上の状況を記録できる撮影ドローン。その攻撃の予兆の見抜き方も、選手が必ず学ぶべき課題だ。",
     "JPAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "飛行ユニット",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "術攻撃を行う",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "周期的に味方ユニット1体を対象として選択し、しばらくした後に対象の方向に範囲術攻撃を行う",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "“裁决者”眩光记录员",
-    "ENDescription": "可以记录赛场情况的摄影无人机。学会识别它们的攻击提示也是选手的必修课程。",
+    "ENName": "'Judgment' Radiance Scorer",
+    "ENDescription": "Photography drone that records what is happening in the arena. Learning to identify its attack cues is an important part of any competitor's training.",
     "ENAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "Flying unit.",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "Deals Arts damage",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "Periodically locks onto a unit, dealing AoE Arts damage in its direction after a short delay",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "“裁决者”眩光记录员",
-    "KRDescription": "可以记录赛场情况的摄影无人机。学会识别它们的攻击提示也是选手的必修课程。",
+    "KRName": "'심판자' 섬광 기록원",
+    "KRDescription": "경기장 상황을 기록하는 촬영 드론. 이들의 공격 알림을 구분하는 법을 숙지하는 것도 참가 선수의 필수 과제 중 하나다.",
     "KRAbilityList": [
       {
-        "text": "飞行单位",
+        "text": "비행 유닛",
         "textFormat": "NORMAL"
       },
       {
-        "text": "攻击造成法术伤害",
+        "text": "공격 시 마법 대미지 부여",
         "textFormat": "NORMAL"
       },
       {
-        "text": "周期性锁定一个单位，短暂延迟后对其方向造成范围法术伤害",
+        "text": "주기적으로 아군 유닛 1명 지정, 잠깐의 지연 후 해당 방향으로 광역 마법 대미지를 입힘",
         "textFormat": "NORMAL"
       }
     ]
@@ -223805,7 +223805,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "점령당한 L-44 '축음기'로 위장, 피격되지 않음",
+        "text": "점령당한 L-44 '축음기'로 위장, 공격받지 않음",
         "textFormat": "NORMAL"
       },
       {
@@ -228016,8 +228016,8 @@
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "푸른 꿈의 사제",
-    "KRDescription": "매혹과 힘을 모두 겸비한 여사제. 꽃은 갈수록 요염해지고, 칼날은 갈수록 날카로워진다.",
+    "KRName": "푸른 꿈의 제사장",
+    "KRDescription": "매혹과 힘을 모두 겸비한 제사장. 꽃은 갈수록 요염해지고, 칼날은 갈수록 날카로워진다.",
     "KRAbilityList": [
       {
         "text": "자신을 저지하고 있지 않은 유닛으로부터 받는 대미지가 점진적으로 0까지 감소",
@@ -228110,7 +228110,7 @@
       }
     ],
     "KRName": "푸른 꿈의 사도",
-    "KRDescription": "귀여움과 힘을 모두 겸비한 사제 지망생. 꽃은 갈수록 여려지고, 칼날은 갈수록 경쾌해진다.",
+    "KRDescription": "귀여움과 힘을 모두 겸비한 제사장 수련생. 꽃은 갈수록 여려지고, 칼날은 갈수록 경쾌해진다.",
     "KRAbilityList": [
       {
         "text": "저지당하고 있지 않을 때 받는 대미지가 50% 감소",
@@ -229166,7 +229166,7 @@
     "JPDescription": "サルゴン首長配下の兵士。予想外の場所に現れては、天地の狭間を滑空して敵の陣形を崩していく。",
     "JPAbilityList": [
       {
-        "text": "<$ba.float>低空浮揚</>状態で登場し、<$ba.float>低空浮揚</>中は攻撃範囲が拡大する",
+        "text": "<$ba.float>低空浮揚</>。<$ba.float>低空浮揚</>中は攻撃範囲が拡大する",
         "textFormat": "NORMAL"
       },
       {
@@ -231741,7 +231741,7 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "天候が<猛烈な日差し>か<強い日差し>の場合、攻撃時に一定割合の<$ba.dt.burning>灼熱損傷</>を与え、周囲の敵ユニットに一定割合の<$ba.elementfragile>元素脆弱</>を与える",
+        "text": "天候が<猛烈な日差し>か<強い日差し>の場合、攻撃時に一定割合の<$ba.dt.burning>灼熱損傷</>を与え、周囲の敵ユニットに一定割合の<$ba.elementfragile>対元素脆弱</>を付与する",
         "textFormat": "NORMAL"
       },
       {
@@ -234543,7 +234543,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【鎮圧】<纏わりつく悪焔>を戦場のオペレーター1体に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
+        "text": "【鎮圧】：<纏わりつく悪焔>を戦場にいるオペレーター1名に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -234777,7 +234777,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【鎮圧】<纏わりつく悪焔>を戦場のオペレーター1体に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
+        "text": "【鎮圧】：<纏わりつく悪焔>を戦場にいるオペレーター1名に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -235079,7 +235079,7 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【鎮圧】<纏わりつく悪焔>を戦場のオペレーター1体に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
+        "text": "【鎮圧】：<纏わりつく悪焔>を戦場にいるオペレーター1名に付与し、行動不能にするとともに継続的に術ダメージを与える。<纏わりつく悪焔>付与中のオペレーターが撃破されるか撤退した場合<纏わりつく悪焔>によって封印され、封印状態の<纏わりつく悪焔>が破壊されるまで再配置不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -235941,7 +235941,7 @@
     "JPDescription": "ロスモンティスの戦闘力の限界をベースモデルに設計された突破訓練官。\nデータが実体化した「人型兵器」を見て、少女の記憶を縛るものはなくなったようだ。今、彼女は皆と手を携えて共に進みたいと願い、さらに勇敢になった。",
     "JPAbilityList": [
       {
-        "text": "【エモーションフィールド】:物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
+        "text": "【エモーションフィールド】：物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -235949,11 +235949,11 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【投擲】:戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
+        "text": "【投擲】：戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【捕獲】:戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
+        "text": "【捕獲】：戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
         "textFormat": "NORMAL"
       }
     ],
@@ -236228,7 +236228,7 @@
     "JPDescription": "ロスモンティスの戦闘力の限界をベースモデルに設計された突破訓練官。\nデータが実体化した「人型兵器」を見て、少女の記憶を縛るものはなくなったようだ。今、彼女は皆と手を携えて共に進みたいと願い、さらに勇敢になった。",
     "JPAbilityList": [
       {
-        "text": "【エモーションフィールド】:物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
+        "text": "【エモーションフィールド】：物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -236236,11 +236236,11 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【投擲】:戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
+        "text": "【投擲】：戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【捕獲】:戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
+        "text": "【捕獲】：戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
         "textFormat": "NORMAL"
       },
       {
@@ -236611,7 +236611,7 @@
     "JPDescription": "ロスモンティスの戦闘力の限界をベースモデルに設計された突破訓練官。\nデータが実体化した「人型兵器」を見て、少女の記憶を縛るものはなくなったようだ。今、彼女は皆と手を携えて共に進みたいと願い、さらに勇敢になった。",
     "JPAbilityList": [
       {
-        "text": "【エモーションフィールド】:物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
+        "text": "【エモーションフィールド】：物理・術の被ダメージが減少する。戦場の<ベクトル戦術装備>が破壊されると当該効果を失い、再び戦術装備を獲得するまで攻撃不可となる",
         "textFormat": "NORMAL"
       },
       {
@@ -236619,11 +236619,11 @@
         "textFormat": "TITLE"
       },
       {
-        "text": "【投擲】:戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
+        "text": "【投擲】：戦場の味方ユニット1名の位置に<ベクトル戦術装備>を投擲し、対象に物理ダメージを3回与える（2回目以降は与ダメージが半分となる余震）。投擲対象が<$ba.stun>スタン</>状態の場合、強制的に退場させる",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【捕獲】:戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
+        "text": "【捕獲】：戦場内の全ての<フォースフィールド>を除去し、戦術装備を再び獲得する",
         "textFormat": "NORMAL"
       },
       {
@@ -236915,7 +236915,7 @@
     "JPDescription": "ロドスエンジニア部による最先端の設計。今回の鋒矢突破訓練のために作られた戦術装備。\n実体化した思念は重圧をもたらし、力をもたらす。",
     "JPAbilityList": [
       {
-        "text": "攻撃されやすい。攻撃を受けると、周囲にいる味方ユニットに一定の確定ダメージを与える",
+        "text": "狙われやすい。攻撃を受けると、周囲にいる味方ユニットに一定の確定ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
@@ -237366,7 +237366,7 @@
     "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수의 공격을 받을 시 파괴",
         "textFormat": "NORMAL"
       },
       {
@@ -237700,7 +237700,7 @@
     "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수의 공격을 받을 시 파괴",
         "textFormat": "NORMAL"
       },
       {
@@ -238093,7 +238093,7 @@
     "KRDescription": "메커니스트의 전투력 한계를 기준으로 시뮬레이션한 돌파 훈련교관.\n엄격함과 뛰어난 기억력으로 유명한 엔지니어지만, 어느 날 술에 취해 “사랑은 열역학 제2법칙과 같아서, 영원을 바랄수록 더더욱 쇠퇴해 간다.”라는 시구를 남기기도 했다.",
     "KRAbilityList": [
       {
-        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수 피격 시 파괴",
+        "text": "[자기방어 술식] 주기적으로 물리 및 마법 대미지를 막는 실드 생성, 실드는 일정 횟수의 공격을 받을 시 파괴",
         "textFormat": "NORMAL"
       },
       {
@@ -243065,39 +243065,39 @@
         "textFormat": "NORMAL"
       }
     ],
-    "JPName": "刺胄之弹",
+    "JPName": "甲冑穿つ弾",
     "JPDescription": null,
     "JPAbilityList": [
       {
-        "text": "到达目标时爆炸，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "text": "目標地点に到達すると爆発し、目標と周囲8マスのオペレーターを<$ba.stun>スタン</>させ、毎秒物理ダメージを与える",
         "textFormat": "NORMAL"
       },
       {
-        "text": "需要数次攻击击倒",
+        "text": "数回ダメージを受けると撃破される",
         "textFormat": "NORMAL"
       }
     ],
-    "ENName": "刺胄之弹",
+    "ENName": "Armor Piercer",
     "ENDescription": null,
     "ENAbilityList": [
       {
-        "text": "到达目标时爆炸，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "text": "Explodes when it reaches the target, <$ba.stun>stunning</> the target and Operators in the 8 surrounding tiles, and dealing Physical damage every second",
         "textFormat": "NORMAL"
       },
       {
-        "text": "需要数次攻击击倒",
+        "text": "Must be attacked several times to defeat",
         "textFormat": "NORMAL"
       }
     ],
-    "KRName": "刺胄之弹",
+    "KRName": "'갑주를 꿰뚫는 탄환'",
     "KRDescription": null,
     "KRAbilityList": [
       {
-        "text": "到达目标时爆炸，使目标及其周围8格的干员<$ba.stun>晕眩</>，每秒造成物理伤害",
+        "text": "목표에 도달 시 폭발, 목표 및 주변 8칸의 오퍼레이터를 <$ba.stun>기절</>시키고 초당 물리 대미지를 입힘",
         "textFormat": "NORMAL"
       },
       {
-        "text": "需要数次攻击击倒",
+        "text": "수차례 공격받으면 쓰러짐",
         "textFormat": "NORMAL"
       }
     ]

@@ -15137,316 +15137,316 @@
         },
         {
           "id": "act46side",
-          "episode": "雪山降临1101",
+          "episode": "Retracing Our Steps",
           "childNodes": [
             {
               "id": "OS-TR-1",
               "operation": "OS-TR-1",
               "levelId": "activities/act46side/level_act46side_tr01",
-              "name": "第一片雪",
-              "description": "第一片雪花落下的时候，没有人意识到会发生什么。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "First Snow",
+              "description": "Nobody could have predicted what would happen when the first snow fell.\n<@lv.item><Saintess Statue></> Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-1",
               "operation": "OS-1",
               "levelId": "activities/act46side/level_act46side_01",
-              "name": "呼号声中",
-              "description": "报丧的羽兽哀鸣着，在雪地之上久久盘桓。不幸之中的不幸仍在降临。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Amidst the Wailing",
+              "description": "The wailing fowlbeasts continue to circle above the snow, heralding news of death. More misfortune is still on its way.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-2",
               "operation": "OS-2",
               "levelId": "activities/act46side/level_act46side_02",
-              "name": "甜蜜的邻人",
-              "description": "来者叩响门扉。他手捧佳肴与美酒，呼朋且引伴。只求片刻松懈，使其深入脆弱的裂痕。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Lovely Neighbors",
+              "description": "The visitor knocks on the door, bringing fine food and wine and putting on a show of friendship, waiting for a sign of weakness he can exploit.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-3",
               "operation": "OS-3",
               "levelId": "activities/act46side/level_act46side_03",
-              "name": "雪灌木中",
-              "description": "新朋友总代表新机遇，是否抓住他们只在你的一念之间。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Among Snowy Shrubs",
+              "description": "New friends bring opportunities, if you seize the day.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-4",
               "operation": "OS-4",
               "levelId": "activities/act46side/level_act46side_04",
-              "name": "并蒂生",
-              "description": "无论曾有过何种斗争隔阂，如今，我们握手而言，走向同样的前路。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Conjoined Lives",
+              "description": "We put aside our differences and the conflicts of the past, and walk hand-in-hand towards the same future.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-5",
               "operation": "OS-5",
               "levelId": "activities/act46side/level_act46side_05",
-              "name": "雪夜独行",
-              "description": "信任者离散，她与她勇敢的心独自踏上旅程。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "A Lonely Winter's Night",
+              "description": "Even as those who could be trusted are separated, she sets out on her journey, with her brave heart as companion.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-6",
               "operation": "OS-6",
               "levelId": "activities/act46side/level_act46side_06",
-              "name": "绿翡翠",
-              "description": "耐心是猎人般的美德。它会带你找到缝隙、机会、蚕食的开端与相互体恤的黎明。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Emerald",
+              "description": "Patience is the hunter's virtue. It will help you find a gap, an opportunity, a beginning, and the dawn of friendship.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-7",
               "operation": "OS-7",
               "levelId": "activities/act46side/level_act46side_07",
-              "name": "焚心灼影",
-              "description": "一个烟雾缭绕中的秘密，一支燃烧殆尽的焚香，一段轰鸣的咆哮，两位爱侣，三个孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Incense and Shadows",
+              "description": "A secret in a haze, a stick of incense burned down to ash, a rumbling roar, two lovers, three children.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-8",
               "operation": "OS-8",
               "levelId": "activities/act46side/level_act46side_08",
-              "name": "宣告在途",
-              "description": "人们相信什么，取决于他们听到与见到什么。而欺骗与愚弄的艺术恰在其中。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Proclamation",
+              "description": "What people believe depends on what they see and hear. Thus the art of deception is born.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-9",
               "operation": "OS-9",
               "levelId": "activities/act46side/level_act46side_09",
-              "name": "凛刃出匣",
-              "description": "仍有人徒劳地期待一个温暖的春天。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Cold Steel",
+              "description": "Some still futilely long for a warm spring.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-10",
               "operation": "OS-10",
               "levelId": "activities/act46side/level_act46side_10",
-              "name": "耶拉冈德在上",
-              "description": "耶拉冈德在上，耶拉冈德在上，耶拉冈德在上！\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "By Kjeragandr",
+              "description": "By Kjeragandr, blessed be Her name.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": false
             },
             {
               "id": "OS-EX-1",
               "operation": "OS-EX-1",
               "levelId": "activities/act46side/level_act46side_ex01",
-              "name": "饮净水",
-              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Pure Springs",
+              "description": "Pay close attention to what you drink. Avoid water that is turbid, filled with the floating bodies of the dead, tastes strange, or is near unusual plants.\n<@lv.rem>No melee/ranged deployment restrictions</>\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-1CM",
-              "operation": "突袭OS-EX-1",
+              "operation": "CM OS-EX-1",
               "levelId": "activities/act46side/level_act46side_ex01",
-              "name": "饮净水",
-              "description": "凡饮用之水，必探查观瞧——浑浊者不取，与死物共流者不取，味恶异常者不取，漂浮奇异花草者亦不可取，以保体安。\\n<@lv.rem>本次行动中干员部署不受近远程限制</>\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Pure Springs",
+              "description": "Pay close attention to what you drink. Avoid water that is turbid, filled with the floating bodies of the dead, tastes strange, or is near unusual plants.\n<@lv.rem>No melee/ranged deployment restrictions</>\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n初始出现额外的<伊斯贝塔高台>"
+              "challenge": "<@lv.fs>Condition:</>\nMore <Isbit High Grounds> appear"
             },
             {
               "id": "OS-EX-2",
               "operation": "OS-EX-2",
               "levelId": "activities/act46side/level_act46side_ex02",
-              "name": "敬友邻",
-              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Friendly Neighbors",
+              "description": "Love your neighbor as you love your family, and your home shall be safe and at peace.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-2CM",
-              "operation": "突袭OS-EX-2",
+              "operation": "CM OS-EX-2",
               "levelId": "activities/act46side/level_act46side_ex02",
-              "name": "敬友邻",
-              "description": "凡与人相处，必心怀善念，开放胸怀。以对待亲族的态度对待邻人，便可相敬相爱，互助互亲，此为长久安康之要。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Friendly Neighbors",
+              "description": "Love your neighbor as you love your family, and your home shall be safe and at peace.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲与斯托斯贝塔生命值额外提升"
+              "challenge": "<@lv.fs>Condition:</>\nRime Frostdillo and Storisbit HP increased"
             },
             {
               "id": "OS-EX-3",
               "operation": "OS-EX-3",
               "levelId": "activities/act46side/level_act46side_ex03",
-              "name": "御外敌",
-              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Foreign Foes",
+              "description": "When traveling and defending your home, observe your surroundings carefully and be on guard for foes lying in ambush and marauding beasts. Do not seek battles that need not be fought, but do not fear battles that must. Do not sing of your victories and defeats in the name of others.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-3CM",
-              "operation": "突袭OS-EX-3",
+              "operation": "CM OS-EX-3",
               "levelId": "activities/act46side/level_act46side_ex03",
-              "name": "御外敌",
-              "description": "凡出行或守卫宅邸，必审四方之势，警戒潜伏之敌，规避凶兽之侵扰，妄战者自损，怯战者必失。无论胜败，勿以他人名讳作歌。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Foreign Foes",
+              "description": "When traveling and defending your home, observe your surroundings carefully and be on guard for foes lying in ambush and marauding beasts. Do not seek battles that need not be fought, but do not fear battles that must. Do not sing of your victories and defeats in the name of others.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n坚冰翻身甲生命值额外提升"
+              "challenge": "<@lv.fs>Condition:</>\nRime Frostdillo HP increased"
             },
             {
               "id": "OS-EX-4",
               "operation": "OS-EX-4",
               "levelId": "activities/act46side/level_act46side_ex04",
-              "name": "熟食而止",
-              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Cooking",
+              "description": "Roast meat over a fire, boil it in water, or dry it in the wind. Do not eat meat that has not been fully cooked, has rotted or smells strange, or does not look normal.\n<@lv.item><Saintess Statue></>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-4CM",
-              "operation": "突袭OS-EX-4",
+              "operation": "CM OS-EX-4",
               "levelId": "activities/act46side/level_act46side_ex04",
-              "name": "熟食而止",
-              "description": "凡食肉类，必加火烤、水煮、风干以调制，半生半熟者不取，腐败腥臭者不取，异样者不取，以保身安。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Cooking",
+              "description": "Roast meat over a fire, boil it in water, or dry it in the wind. Do not eat meat that has not been fully cooked, has rotted or smells strange, or does not look normal.\n<@lv.item><Saintess Statue></>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的初始雪崩预警增加"
+              "challenge": "<@lv.fs>Condition:</>\nOne Avalanche Area's starting Avalanche Warning Index increased"
             },
             {
               "id": "OS-EX-5",
               "operation": "OS-EX-5",
               "levelId": "activities/act46side/level_act46side_ex05",
-              "name": "皮毛加身",
-              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Furs",
+              "description": "To survive the harsh winter, hunt in the forests in spring and autumn, and save the meat and furs of beasts so that you may wrap yourself in their furs and cook their meat in pots when the snowfall begins.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-5CM",
-              "operation": "突袭OS-EX-5",
+              "operation": "CM OS-EX-5",
               "levelId": "activities/act46side/level_act46side_ex05",
-              "name": "皮毛加身",
-              "description": "寒来风厉，须于春秋两季入林狩猎，取皮毛与荤食，雪落时便可毛裘加身、热锅烹肉，于垂涎香气中安度寒冬。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Furs",
+              "description": "To survive the harsh winter, hunt in the forests in spring and autumn, and save the meat and furs of beasts so that you may wrap yourself in their furs and cook their meat in pots when the snowfall begins.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外敌人"
+              "challenge": "<@lv.fs>Condition:</>\nMore enemies will appear"
             },
             {
               "id": "OS-EX-6",
               "operation": "OS-EX-6",
               "levelId": "activities/act46side/level_act46side_ex06",
-              "name": "顺时耕作",
-              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Farming",
+              "description": "Plant your crops according to the seasons. Sow seeds in spring when the snow begins to melt, and the rivers begin to flow again. Water the crops every day, pull weeds and cull pests every three days, and you shall not want for food.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-6CM",
-              "operation": "突袭OS-EX-6",
+              "operation": "CM OS-EX-6",
               "levelId": "activities/act46side/level_act46side_ex06",
-              "name": "顺时耕作",
-              "description": "凡播种耕耘，必依雪化春来，当山溪水漫流时便可播种，而后一日一浇灌，三日一灭害，足以果腹饱餐。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Secret of Farming",
+              "description": "Plant your crops according to the seasons. Sow seeds in spring when the snow begins to melt, and the rivers begin to flow again. Water the crops every day, pull weeds and cull pests every three days, and you shall not want for food.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n场上5个位置不可部署"
+              "challenge": "<@lv.fs>Condition:</>\n5 tiles on the battlefield are no longer available for deployment."
             },
             {
               "id": "OS-EX-7",
               "operation": "OS-EX-7",
               "levelId": "activities/act46side/level_act46side_ex07",
-              "name": "以石取石",
-              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Stone from Stone",
+              "description": "Do not dig with your bare hands. Use hardened tools to mine for ore, and seek the ore with the purest color and cleanest sheen. Use the neighboring veins as your guide, and you can extract the finest essence.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-7CM",
-              "operation": "突袭OS-EX-7",
+              "operation": "CM OS-EX-7",
               "levelId": "activities/act46side/level_act46side_ex07",
-              "name": "以石取石",
-              "description": "凡采矿取石，切勿徒手而掘，必选坚硬之器具敲击矿脉，以色纯光洁者为佳，以相邻矿脉作引，便可取其精华。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Stone from Stone",
+              "description": "Do not dig with your bare hands. Use hardened tools to mine for ore, and seek the ore with the purest color and cleanest sheen. Use the neighboring veins as your guide, and you can extract the finest essence.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的雪崩禁区"
+              "challenge": "<@lv.fs>Condition:</>\nMore Avalanche Areas appear"
             },
             {
               "id": "OS-EX-8",
               "operation": "OS-EX-8",
               "levelId": "activities/act46side/level_act46side_ex08",
-              "name": "以人的名",
-              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "In the Name of Man",
+              "description": "And last of all, know that you are children of Kjerag, dwelling upon the land of Kjerag. All days forever forth are yours, and yours alone.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-EX-8CM",
-              "operation": "突袭OS-EX-8",
+              "operation": "CM OS-EX-8",
               "levelId": "activities/act46side/level_act46side_ex08",
-              "name": "以人的名",
-              "description": "最后，我实实在在为你们留下嘱托。你们已是谢拉格人，行于谢拉格的土地之上。从此往后的明日、明日、明日的明日，都将属于你们自身。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "In the Name of Man",
+              "description": "And last of all, know that you are children of Kjerag, dwelling upon the land of Kjerag. All days forever forth are yours, and yours alone.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n所有我方单位的攻击速度-20"
+              "challenge": "<@lv.fs>Condition:</>\n All allies have -20 ASPD"
             },
             {
               "id": "OS-S-1",
               "operation": "OS-S-1",
               "levelId": "activities/act46side/level_act46side_sub-1-1",
-              "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "name": "Snowfight",
+              "description": "Make a ball with your hands and throw it as hard as you can. A joyous game with simple rules.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-S-1CM",
-              "operation": "突袭OS-S-1",
+              "operation": "CM OS-S-1",
               "levelId": "activities/act46side/level_act46side_sub-1-1",
-              "name": "打雪仗",
-              "description": "用你的双手制作一个圆球，而后远远地抛出去，简单的规则，愉快的体验。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "name": "Snowfight",
+              "description": "Make a ball with your hands and throw it as hard as you can. A joyous game with simple rules.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区的位置变换"
+              "challenge": "<@lv.fs>Condition:</>\nOne Avalanche Area's position changed"
             },
             {
               "id": "OS-S-2",
               "operation": "OS-S-2",
               "levelId": "activities/act46side/level_act46side_sub-1-2",
-              "name": "堆雪人",
-              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Build a Snowman",
+              "description": "Is it a friend you want, or another snow-white version of yourself?\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-S-2CM",
-              "operation": "突袭OS-S-2",
+              "operation": "CM OS-S-2",
               "levelId": "activities/act46side/level_act46side_sub-1-2",
-              "name": "堆雪人",
-              "description": "你想要一个朋友吗？还是另一个白茫茫的自己？\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Build a Snowman",
+              "description": "Is it a friend you want, or another snow-white version of yourself?\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n雪崩禁区内初始出现额外的雪顽童"
+              "challenge": "<@lv.fs>Condition:</>\nMore Snowbrats appear in the Avalanche Area"
             },
             {
               "id": "OS-S-3",
               "operation": "OS-S-3",
               "levelId": "activities/act46side/level_act46side_sub-1-3",
-              "name": "雪孩子",
-              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Snowchild",
+              "description": "Give the snowman eyes of pebbles and hands of twigs, and wrap a blanket around it. Now it is a good boy or girl, just like you.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-S-3CM",
-              "operation": "突袭OS-S-3",
+              "operation": "CM OS-S-3",
               "levelId": "activities/act46side/level_act46side_sub-1-3",
-              "name": "雪孩子",
-              "description": "当你为雪人安上石头眼睛，寻来树枝作为双手，又为它披上毛毯，它便成了和你一样的好孩子。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Snowchild",
+              "description": "Give the snowman eyes of pebbles and hands of twigs, and wrap a blanket around it. Now it is a good boy or girl, just like you.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n一个雪崩禁区内的<圣女像>朝向改变"
+              "challenge": "<@lv.fs>Condition:</>\n<Saintess Statue> direction in one Avalanche Area changed"
             },
             {
               "id": "OS-S-4",
               "operation": "OS-S-4",
               "levelId": "activities/act46side/level_act46side_sub-1-4",
-              "name": "雪中歌谣",
-              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Rimehymn",
+              "description": "Sing with your song or seek it in song. It will answer your call, until the coming of spring.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-S-4CM",
-              "operation": "突袭OS-S-4",
+              "operation": "CM OS-S-4",
               "levelId": "activities/act46side/level_act46side_sub-1-4",
-              "name": "雪中歌谣",
-              "description": "你可以和你的朋友一起唱歌，也可以在歌声中寻找它的位置，春日到来之前，它都会回应你的歌声。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Rimehymn",
+              "description": "Sing with your song or seek it in song. It will answer your call, until the coming of spring.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n部分“喷爆罐”被替换为焕生雪伞"
+              "challenge": "<@lv.fs>Condition:</>\nSome 'Boom Canisters' are replaced with Bright Snowcaps"
             },
             {
               "id": "OS-S-5",
               "operation": "OS-S-5",
               "levelId": "activities/act46side/level_act46side_sub-1-5",
-              "name": "雪与我与雪",
-              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Snow and I and Snow",
+              "description": "In Kjerag, the snow is the best friend of every child.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true
             },
             {
               "id": "OS-S-5CM",
-              "operation": "突袭OS-S-5",
+              "operation": "CM OS-S-5",
               "levelId": "activities/act46side/level_act46side_sub-1-5",
-              "name": "雪与我与雪",
-              "description": "雪是每一个谢拉格孩子最好的朋友。\\n<@lv.item><圣女像></>敌人进入禁区或在禁区内部署干员时增加雪崩预警值，达到一定数值时触发雪崩",
+              "name": "Snow and I and Snow",
+              "description": "In Kjerag, the snow is the best friend of every child.\n<@lv.item><Saintess Statue> </>Avalanche Warning Index increases when enemies enter the Avalanche Area, or when you deploy Operators within, triggering an Avalanche when it reaches a certain level",
               "hasChallenge": true,
-              "challenge": "<@lv.fs>附加条件：</>\\n近卫与重装干员部署费用提升至2倍"
+              "challenge": "<@lv.fs>Condition:</>\nThe DP Cost of Defender and Guard Operators is doubled"
             }
           ]
         },
@@ -22856,6 +22856,14 @@
           "name": "",
           "description": "散发着灼人热浪的熔炼车间里涌入了大量极端分子，他们正在工厂中肆意破坏，一旦放任设施被毁后果将不堪设想。突破热能的阻隔，让车间恢复正常运转吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><接驳地块></>初始不可部署干员，需要周围存在其他干员进行协助",
           "levelId": "obt/campaign/level_camp_r_31",
+          "hasChallenge": false
+        },
+        {
+          "id": "camp_r_32",
+          "operation": "炎国 朱墙食府",
+          "name": "",
+          "description": "桌上的老窖散发香气，锅中的菜肴聚集精华，然而被美味吸引过来的不只是客人，还有一群可怖的造物。阻止它们闯进后厨，守住这道人间烟火吧！\\n<@lv.rem><特殊条件></>部署费用不会自然回复\\n<@lv.item><火灶></>召唤“人间烟火”对沿途所有敌方单位造成真实伤害。\\n<@lv.item><废弃火灶></>召唤“饮露餐风”对所有沿途我方单位造成真实伤害。",
+          "levelId": "obt/campaign/level_camp_r_32",
           "hasChallenge": false
         }
       ]
