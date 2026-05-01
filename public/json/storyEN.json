@@ -22501,6 +22501,568 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "main_17",
+          "episode": "相变临界",
+          "childNodes": [
+            {
+              "id": "17-2",
+              "operation": "17-2",
+              "levelId": "obt/main/level_main_17-01",
+              "name": "救赎迟来",
+              "description": "睁眼，看向日光。直到它灼痛眼睛，直到它向你靠近。",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-2CM",
+              "operation": "险地17-2",
+              "levelId": "obt/main/level_main_17-01",
+              "name": "救赎迟来",
+              "description": "睁眼，看向日光。直到它灼痛眼睛，直到它向你靠近。\\n<@lv.fs>附加条件：</>\\n我方单位防御力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-01_1a",
+                  "runeDesc": "实验样本F-009生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-01_1b",
+                  "runeDesc": "实验样本F-009攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-01_2a",
+                  "runeDesc": "实验样本R-044生命值提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-01_2b",
+                  "runeDesc": "实验样本R-044攻击范围提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-3",
+              "operation": "17-3",
+              "levelId": "obt/main/level_main_17-02",
+              "name": "良心之刺",
+              "description": "不处理便会疼痛，拔出来便会空落。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-3CM",
+              "operation": "险地17-3",
+              "levelId": "obt/main/level_main_17-02",
+              "name": "良心之刺",
+              "description": "不处理便会疼痛，拔出来便会空落。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n我方单位最大生命值降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-02_1a",
+                  "runeDesc": "异种菌生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-02_1b",
+                  "runeDesc": "异种菌充能效率提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-02_2a",
+                  "runeDesc": "异种菌攻击力提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-02_2b",
+                  "runeDesc": "泄漏源攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-4",
+              "operation": "17-4",
+              "levelId": "obt/main/level_main_17-03",
+              "name": "沉默众生",
+              "description": "举起手中的斧头，却只是无言地割去园中的荨麻。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-4CM",
+              "operation": "险地17-4",
+              "levelId": "obt/main/level_main_17-03",
+              "name": "沉默众生",
+              "description": "举起手中的斧头，却只是无言地割去园中的荨麻。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n我方单位攻击力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-03_1a",
+                  "runeDesc": "破石草生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-03_1b",
+                  "runeDesc": "破石草防御力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-03_2a",
+                  "runeDesc": "出现额外的破石草",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-03_2b",
+                  "runeDesc": "破石草的重量增加3个等级",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-5",
+              "operation": "17-5",
+              "levelId": "obt/main/level_main_17-04",
+              "name": "不过空壳",
+              "description": "再听听吧，听那些精妙的言辞，和无需移情的伪饰。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-5CM",
+              "operation": "险地17-5",
+              "levelId": "obt/main/level_main_17-04",
+              "name": "不过空壳",
+              "description": "再听听吧，听那些精妙的言辞，和无需移情的伪饰。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n出现额外敌人",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-04_1a",
+                  "runeDesc": "初始出现额外的泄漏源",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-04_1b",
+                  "runeDesc": "泄漏源攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-04_2a",
+                  "runeDesc": "实验样本A-000生命值提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-04_2b",
+                  "runeDesc": "狙击和术师干员的部署费用变为3倍",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-6",
+              "operation": "17-6",
+              "levelId": "obt/main/level_main_17-05",
+              "name": "风波暗涌",
+              "description": "水在沸腾，命运在翻滚。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-6CM",
+              "operation": "险地17-6",
+              "levelId": "obt/main/level_main_17-05",
+              "name": "风波暗涌",
+              "description": "水在沸腾，命运在翻滚。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n出现额外泄漏源",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-05_1a",
+                  "runeDesc": "实验样本A-000移动速度提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-05_1b",
+                  "runeDesc": "破石草生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-05_2a",
+                  "runeDesc": "实验样本A-000攻击力提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-05_2b",
+                  "runeDesc": "我方单位阻挡数-1",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-7",
+              "operation": "17-7",
+              "levelId": "obt/main/level_main_17-06",
+              "name": "理性失衡",
+              "description": "它所致的轰塌，只倒向对此一无所知的人们。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-7CM",
+              "operation": "险地17-7",
+              "levelId": "obt/main/level_main_17-06",
+              "name": "理性失衡",
+              "description": "它所致的轰塌，只倒向对此一无所知的人们。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n三生花生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-06_1a",
+                  "runeDesc": "初始出现额外三生花",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-06_1b",
+                  "runeDesc": "后续出现额外三生花，且数量更多",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-06_2a",
+                  "runeDesc": "三生花受到泄漏源影响后，受到攻击时造成的伤害提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-06_2b",
+                  "runeDesc": "三生花受到泄漏源影响后，受到攻击时造成的伤害溅射范围提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-8",
+              "operation": "17-8",
+              "levelId": "obt/main/level_main_17-07",
+              "name": "历史洪流",
+              "description": "沉睡者继续沉睡，而站在木板上的人，眺望着远去的故乡。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-8CM",
+              "operation": "险地17-8",
+              "levelId": "obt/main/level_main_17-07",
+              "name": "历史洪流",
+              "description": "沉睡者继续沉睡，而站在木板上的人，眺望着远去的故乡。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.item><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@lv.fs>附加条件：</>\\n禁止部署重装干员",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-07_1a",
+                  "runeDesc": "提供的障碍物数量大幅减少",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-07_1b",
+                  "runeDesc": "“希希加”攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-07_2a",
+                  "runeDesc": "出现额外“希希加”",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-07_2b",
+                  "runeDesc": "“希希加”生命值提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-9",
+              "operation": "17-9",
+              "levelId": "obt/main/level_main_17-08",
+              "name": "永不祈祷",
+              "description": "摘下它。摘下它？摘下它！\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-9CM",
+              "operation": "险地17-9",
+              "levelId": "obt/main/level_main_17-08",
+              "name": "永不祈祷",
+              "description": "摘下它。摘下它？摘下它！\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升\\n<@lv.fs>附加条件：</>\\n出现额外的“里霍”",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-08_1a",
+                  "runeDesc": "出现额外三生花",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-08_1b",
+                  "runeDesc": "出现额外“希希加”",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-08_2a",
+                  "runeDesc": "战场下方3个高台位置变为不可部署",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-08_2b",
+                  "runeDesc": "战场中间2个高台位置变为不可部署",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-10",
+              "operation": "17-10",
+              "levelId": "obt/main/level_main_17-09",
+              "name": "爱的尺度",
+              "description": "只需要张开手，便无所不有。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-10CM",
+              "operation": "险地17-10",
+              "levelId": "obt/main/level_main_17-09",
+              "name": "爱的尺度",
+              "description": "只需要张开手，便无所不有。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n出现额外“鲁塞尔卡”",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-09_1a",
+                  "runeDesc": "“鲁塞尔卡”移动速度提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-09_1b",
+                  "runeDesc": "“里霍”生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-09_2a",
+                  "runeDesc": "费用自然回复速率降低",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-09_2b",
+                  "runeDesc": "“鲁塞尔卡”攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-11",
+              "operation": "17-11",
+              "levelId": "obt/main/level_main_17-10",
+              "name": "孤寂生地",
+              "description": "你在狭小的庇护所中默然念道：这不是、不是我的战争。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-11CM",
+              "operation": "险地17-11",
+              "levelId": "obt/main/level_main_17-10",
+              "name": "孤寂生地",
+              "description": "你在狭小的庇护所中默然念道：这不是、不是我的战争。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n我方单位最大生命值降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-10_1a",
+                  "runeDesc": "我方单位部署费用+3",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-10_1b",
+                  "runeDesc": "我方单位再部署时间提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-10_2a",
+                  "runeDesc": "泄漏源攻击力提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-10_2b",
+                  "runeDesc": "干员需要花费更长时间消除泄漏源",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-12",
+              "operation": "17-12",
+              "levelId": "obt/main/level_main_17-11",
+              "name": "初次握手",
+              "description": "穿越谎言，穿越炮火，将你们的双手紧紧交握。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-12CM",
+              "operation": "险地17-12",
+              "levelId": "obt/main/level_main_17-11",
+              "name": "初次握手",
+              "description": "穿越谎言，穿越炮火，将你们的双手紧紧交握。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n“里霍”生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-11_1a",
+                  "runeDesc": "实验样本A-000生命值提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-11_1b",
+                  "runeDesc": "实验样本A-000攻击力提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-11_2a",
+                  "runeDesc": "“鲁塞尔卡”移动速度提升",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-11_2b",
+                  "runeDesc": "“鲁塞尔卡”攻击力提升",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-13",
+              "operation": "17-13",
+              "levelId": "obt/main/level_main_17-12",
+              "name": "并非独行",
+              "description": "我与你呼吸同一片天与地，捱过同样的日与夜。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-13CM",
+              "operation": "险地17-13",
+              "levelId": "obt/main/level_main_17-12",
+              "name": "并非独行",
+              "description": "我与你呼吸同一片天与地，捱过同样的日与夜。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n我方单位攻击力降低",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-12_1a",
+                  "runeDesc": "所有敌人重量增加1个等级",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-12_1b",
+                  "runeDesc": "所有敌人生命值提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-12_2a",
+                  "runeDesc": "可携带干员数降低至7",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-12_2b",
+                  "runeDesc": "可同时部署单位数-3",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-14",
+              "operation": "17-14",
+              "levelId": "obt/main/level_main_17-13",
+              "name": "难如雪覆",
+              "description": "它压弯脊梁，它蚕食体温，它烧灼心灵。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n无法携带部分登场角色",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-15",
+              "operation": "17-15",
+              "levelId": "obt/main/level_main_17-14",
+              "name": "人的价值",
+              "description": "堕落，却仍值得拯救。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-15CM",
+              "operation": "险地17-15",
+              "levelId": "obt/main/level_main_17-14",
+              "name": "人的价值",
+              "description": "堕落，却仍值得拯救。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n乌萨斯战争术师生命值大幅提升",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-14_1a",
+                  "runeDesc": "乌萨斯战争术师偷取的攻击力提升",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-14_1b",
+                  "runeDesc": "乌萨斯战争术师携带护盾时的防御力与法术抗性提升",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-14_2a",
+                  "runeDesc": "乌萨斯战争术师的等待时间减少",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-14_2b",
+                  "runeDesc": "出现额外乌萨斯战争术师",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-16",
+              "operation": "17-16",
+              "levelId": "obt/main/level_main_17-15",
+              "name": "唯有向前",
+              "description": "不可回头，绝不回头。\n",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-17",
+              "operation": "17-17",
+              "levelId": "obt/main/level_main_17-16",
+              "name": "不曾怀疑",
+              "description": "抛弃所有关于“我们为何至此”的论调，只去关注那个事实：现在，我们已然在此。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "17-17CM",
+              "operation": "险地17-17",
+              "levelId": "obt/main/level_main_17-16",
+              "name": "不曾怀疑",
+              "description": "抛弃所有关于“我们为何至此”的论调，只去关注那个事实：现在，我们已然在此。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.fs>附加条件：</>\\n初始出现的敌人有所不同",
+              "hasChallenge": false,
+              "sandTable": [
+                {
+                  "runeId": "main_17-16_1a",
+                  "runeDesc": "医疗和术师干员的部署费用变为3倍",
+                  "runeKey": "rune_level1_1"
+                },
+                {
+                  "runeId": "main_17-16_1b",
+                  "runeDesc": "狙击和特种干员的部署费用变为3倍",
+                  "runeKey": "rune_level1_2"
+                },
+                {
+                  "runeId": "main_17-16_2a",
+                  "runeDesc": "战场左边2个高台位置变为不可部署",
+                  "runeKey": "rune_level2_1"
+                },
+                {
+                  "runeId": "main_17-16_2b",
+                  "runeDesc": "战场右边3个高台位置变为不可部署",
+                  "runeKey": "rune_level2_2"
+                }
+              ]
+            },
+            {
+              "id": "17-18",
+              "operation": "17-18",
+              "levelId": "obt/main/level_main_17-17",
+              "name": "灵魂悄然",
+              "description": "你听见喑哑的呼唤，遍寻那个模糊的身影。\\n<@lv.sp>不要错过</>任何一丝希望，紧紧抓住她。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
