@@ -23059,7 +23059,39 @@
               "operation": "17-18",
               "levelId": "obt/main/level_main_17-17",
               "name": "灵魂悄然",
-              "description": "你听见喑哑的呼唤，遍寻那个模糊的身影。\\n<@lv.sp>不要错过</>任何一丝希望，紧紧抓住她。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "description": "你听见喑哑的呼唤，却遍寻不得那个模糊的身影。\\n<@lv.sp>不要错过</>任何一丝希望，紧紧抓住她。\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "H17-1",
+              "operation": "H17-1",
+              "levelId": "obt/hard/level_hard_17-01",
+              "name": "急变预案-1",
+              "description": "“我宣传的并非完全严肃的道德。”\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源\\n<@lv.rem>本次行动中远程干员可部署于近战位</>",
+              "hasChallenge": false
+            },
+            {
+              "id": "H17-2",
+              "operation": "H17-2",
+              "levelId": "obt/hard/level_hard_17-02",
+              "name": "急变预案-2",
+              "description": "“也并非痴迷一般的幻想。”\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "H17-3",
+              "operation": "H17-3",
+              "levelId": "obt/hard/level_hard_17-03",
+              "name": "急变预案-3",
+              "description": "“只是唯有它能给我的心灵以安宁。”\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
+              "hasChallenge": false
+            },
+            {
+              "id": "H17-4",
+              "operation": "H17-4",
+              "levelId": "obt/hard/level_hard_17-04",
+              "name": "急变预案-4",
+              "description": "“那就是，生活。”\\n<@lv.item><泄漏标记></>每过一段时间，随机选取场上一个可部署的地面位置召唤一个泄漏源",
               "hasChallenge": false
             }
           ]
