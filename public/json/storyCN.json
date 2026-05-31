@@ -16903,6 +16903,92 @@
               "challenge": "<@lv.fs>附加条件：</>\\n特种与先锋干员部署费用提升至2倍"
             }
           ]
+        },
+        {
+          "id": "act50side",
+          "episode": "泡影苍霆",
+          "childNodes": [
+            {
+              "id": "TD-1",
+              "operation": "TD-1",
+              "levelId": "activities/act50side/level_act50side_01",
+              "name": "硬壳下的胆小鬼",
+              "description": "村里的药师：哎呀，药圃里的药草又被祸害了！这次不是虫子，是一群背着蛋壳的滑溜家伙——碎壳螈！猎人大人，请帮我把这些“长脚的石头”扔出去吧，我的腰都要弯断了！\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-TR-1",
+              "operation": "TD-TR-1",
+              "levelId": "activities/act50side/level_act50side_tr01",
+              "name": "狩猎太棒啦！",
+              "description": "“异兽猎人”空爆：天啊，能在天上飞来飞去也太好玩了，我不管了，我要带上翔虫出去玩了！梓兰姐，我知道你会看到这个任务，别担心，我会回来吃饭的！\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-2",
+              "operation": "TD-2",
+              "levelId": "activities/act50side/level_act50side_02",
+              "name": "还我锅来！",
+              "description": "暴躁的厨师长：气死我了！又是那些盗壳虫干的好事！它们最喜欢半夜钻进锅碗瓢盆然后顶着器具跑走。猎人阁下，请狠狠敲打它们，把被偷走的厨具夺回来！\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-3",
+              "operation": "TD-3",
+              "levelId": "activities/act50side/level_act50side_03",
+              "name": "不能掉以轻心",
+              "description": "“异兽猎人”梓兰：在挑战“异兽”之前，必须先学会自保，再通过狩猎野兽磨练战斗技巧。空爆，我知道你会看到这个任务，要是你没完成，今晚就没饭吃了。\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-4",
+              "operation": "TD-4",
+              "levelId": "activities/act50side/level_act50side_04",
+              "name": "赤雪之兆",
+              "description": "泡影国将军月见夜：斥候发来急报，“御轮”方向的雪山正在流出岩浆。为了泡影国的安全，也为了各位能够返回家园，我请求你们前去调查。请务必小心那股不祥的热浪。\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-5",
+              "operation": "TD-5",
+              "levelId": "activities/act50side/level_act50side_05",
+              "name": "只能成功，不能失败",
+              "description": "泡影国将军月见夜：这将是一场豪赌。如果我......如果陷阱失效，陛下就拜托各位了。无论如何，一定要守住这里。这是我唯一的请求。\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-6",
+              "operation": "TD-6",
+              "levelId": "activities/act50side/level_act50side_06",
+              "name": "来自过去的亡魂",
+              "description": "泡影国武士队长：难以置信......那些早已灭绝的咒鬼竟然复活了！猎人阁下，请务必挡住它们！如果让狼群突破这里，都城就危险了！\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-7",
+              "operation": "TD-7",
+              "levelId": "activities/act50side/level_act50side_07",
+              "name": "为什么全是死脑筋？",
+              "description": "泡影国铁匠斑弥罗：月见夜这家伙真会使唤人，算了，走吧，狩猎团的家伙们也都跟上。我还真挺好奇“御轮”底下究竟是什么样子的呢。\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-8",
+              "operation": "TD-8",
+              "levelId": "activities/act50side/level_act50side_08",
+              "name": "宿命流转，苍霆激荡",
+              "description": "泡影国国主宝巫迦：为了抑制“御轮”的暴走，我们必须利用“雷之主”的力量。梓兰小姐，空爆小姐，斑弥罗，还有......月见夜，请助吾一臂之力吧！\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            },
+            {
+              "id": "TD-P-1",
+              "operation": "TD-P-1",
+              "levelId": "activities/act50side/level_act50side_p-1",
+              "name": "“百兽奔行”",
+              "description": "泡影国铁匠斑弥罗：我强化了抵御兽潮的防御工事，普通的野兽绝对别想再靠近我们的城市。现在，我需要有人来帮我测试一下，有没有不怕死的——我是说，勇敢的家伙？\\n<@lv.item><翔虫></>由干员使用，命中可御龙的敌人会增加御龙进度",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
