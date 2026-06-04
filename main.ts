@@ -15,10 +15,12 @@ app.use(express.json());
 import enemyRoutes from "./src/routes/enemy"
 import assetsRoutes from "./src/routes/assets"
 import recalRuneRoutes from "./src/routes/recalRune"
+import ccbRoutes from "./src/routes/ccb"
 
 app.use("/enemy", enemyRoutes)
 app.use("/assets", assetsRoutes)
 app.use("/recalRune", recalRuneRoutes)
+app.use("/ccb", ccbRoutes)
 
 //设置静态资源
 app.use(express.static(path.join(__dirname, 'public')))
