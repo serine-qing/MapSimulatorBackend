@@ -1,5 +1,7 @@
 import { accuracyNum } from "../utilities";
 import express from "express";
+import fs from "fs";
+import path from "path";
 const router = express.Router();
 
 const blue = "#0080ff";
@@ -249,14 +251,24 @@ const ccbData: any = {};
 
 const loadCcbData = () => {
   try {
-    const rawData = require(`../database/cn/cc4.json`);
-    const mapDetailDataMap = rawData.info?.mapDetailDataMap || {};
+    const ccDir = path.join(__dirname, '../database/cn/cc');
+    const files = fs.readdirSync(ccDir).filter(f => f.endsWith('.json'));
 
-    Object.keys(mapDetailDataMap).forEach((mapId: string) => {
-      ccbData[mapId] = processMapData(rawData, mapId);
+    files.forEach(file => {
+      console.log(`[CCB] Loading ${file}...`);
+      const filePath = path.join(ccDir, file);
+      const rawData = require(filePath);
+      const mapDetailDataMap = rawData.info?.mapDetailDataMap || {};
+
+      Object.keys(mapDetailDataMap).forEach((mapId: string) => {
+        ccbData[mapId] = processMapData(rawData, mapId);
+      });
+
+      // 释放 require 缓存，让 GC 回收原始 JSON 内存
+      delete require.cache[require.resolve(filePath)];
     });
 
-    console.log(`[CCB] Loaded ${Object.keys(ccbData).length} maps`);
+    console.log(`[CCB] Loaded ${Object.keys(ccbData).length} maps from ${files.length} files`);
   } catch (error) {
     console.error('[CCB] Failed to load data:', error);
   }
