@@ -165,7 +165,8 @@ const parseBaseData = async () => {
       !type.includes("MULTIPLAY") &&
       !type.includes("AUTOCHESS") &&
       !id.includes("mainss") && 
-      !id.includes("sandbox")
+      !id.includes("sandbox") &&
+      !id.includes("football")
     ){
       const bossrushMatch = id.match(/act(\d+)bossrush/);
       //引航者试炼加上赛季
