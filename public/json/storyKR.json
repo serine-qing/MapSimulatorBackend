@@ -23420,6 +23420,16 @@
               "levelId": "obt/crisis/v2/level_crisis_v2_05-01"
             },
             {
+              "id": "crisis_v2_03-03_b",
+              "operation": "轮换图 蚀裂冰湖",
+              "name": "",
+              "description": "",
+              "challenge": "",
+              "episode": "#5 涤墨作战",
+              "hasChallenge": false,
+              "levelId": "obt/crisis/v2/level_crisis_v2_03-03"
+            },
+            {
               "id": "crisis_v2_05-03",
               "operation": "轮换图 阴郁影棚",
               "name": "",
