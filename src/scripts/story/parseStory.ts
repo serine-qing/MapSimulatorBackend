@@ -50,6 +50,7 @@ const crisis_v2 = {
   "type": "危机合约RE",
   "childNodes":[
     {
+      "id": "ccb4",
       "episode": "#4 弧光作战",
       "childNodes": [
         {
@@ -85,6 +86,7 @@ const crisis_v2 = {
       ]
     },
     {
+      "id": "ccb5",
       "episode": "#5 涤墨作战",
       "childNodes": [
         {
