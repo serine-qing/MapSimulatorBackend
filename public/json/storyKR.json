@@ -17133,6 +17133,164 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act21mini",
+          "episode": "丛林症结",
+          "childNodes": [
+            {
+              "id": "BD-1",
+              "operation": "BD-1",
+              "levelId": "activities/act21mini/level_act21mini_01",
+              "name": "消耗品",
+              "description": "经过改造后的猎犬们早已忘记了诞生之初的意义，它们只是一味不知疲倦地奔跑，离那具创造它们的躯体越来越远。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-1CM",
+              "operation": "突袭BD-1",
+              "levelId": "activities/act21mini/level_act21mini_01",
+              "name": "消耗品",
+              "description": "经过改造后的猎犬们早已忘记了诞生之初的意义，它们只是一味不知疲倦地奔跑，离那具创造它们的躯体越来越远。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分<@lv.item><作战专用掩体></>初始被摧毁"
+            },
+            {
+              "id": "BD-2",
+              "operation": "BD-2",
+              "levelId": "activities/act21mini/level_act21mini_02",
+              "name": "门后世界",
+              "description": "忘记了一切的女人走进那扇门。冰冷黑暗的空间里没有尖叫，只有缺失记忆的空洞回响。\\n<@lv.item><R系列动力装甲></>吸收周围实验产物回复技力，技力满时激活",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-2CM",
+              "operation": "突袭BD-2",
+              "levelId": "activities/act21mini/level_act21mini_02",
+              "name": "门后世界",
+              "description": "忘记了一切的女人走进那扇门。冰冷黑暗的空间里没有尖叫，只有缺失记忆的空洞回响。\\n<@lv.item><R系列动力装甲></>吸收周围实验产物回复技力，技力满时激活",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n部分Dor-1号失败品替换为Dor-2号复制体"
+            },
+            {
+              "id": "BD-3",
+              "operation": "BD-3",
+              "levelId": "activities/act21mini/level_act21mini_03",
+              "name": "“嘀嗒嘀嗒”",
+              "description": "弱小的生物会使用陷阱让自己摆脱天敌，这是洛伦茨的父亲教会她的第一课。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”\\n<@lv.item><源石爆炸物></>被击破时爆炸，击晕周围所有单位并造成伤害",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-3CM",
+              "operation": "突袭BD-3",
+              "levelId": "activities/act21mini/level_act21mini_03",
+              "name": "“嘀嗒嘀嗒”",
+              "description": "弱小的生物会使用陷阱让自己摆脱天敌，这是洛伦茨的父亲教会她的第一课。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”\\n<@lv.item><源石爆炸物></>被击破时爆炸，击晕周围所有单位并造成伤害",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n速射轻弩手会更频繁地发射弩箭"
+            },
+            {
+              "id": "BD-4",
+              "operation": "BD-4",
+              "levelId": "activities/act21mini/level_act21mini_04",
+              "name": "失控沙盒",
+              "description": "在防弹玻璃外观察的人们疑惑地看着眼前发生的一切：所有数据运算正常，但结果全盘失控，而用于关闭运行的拉杆早已被完全锁死。\\n<@lv.item><重力感应></>存在“石块”与重力感应机关：较重的敌人与阻挡数为1及以上的我方干员可踩动，并控制全场重力分力方向；顺/逆重力方向部署的干员攻速提升/降低，敌人移速提升/降低。",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-4CM",
+              "operation": "突袭BD-4",
+              "levelId": "activities/act21mini/level_act21mini_04",
+              "name": "失控沙盒",
+              "description": "在防弹玻璃外观察的人们疑惑地看着眼前发生的一切：所有数据运算正常，但结果全盘失控，而用于关闭运行的拉杆早已被完全锁死。\\n<@lv.item><重力感应></>存在“石块”与重力感应机关：较重的敌人与阻挡数为1及以上的我方干员可踩动，并控制全场重力分力方向；顺/逆重力方向部署的干员攻速提升/降低，敌人移速提升/降低。",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n出现额外的弧光突击队"
+            },
+            {
+              "id": "BD-5",
+              "operation": "BD-5",
+              "levelId": "activities/act21mini/level_act21mini_05",
+              "name": "入职邀请",
+              "description": "一般来说，邀请一位学识丰富的科研人员入职，不需要如此劳师动众。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”\\n<@lv.item><源石爆炸物></>被击破时爆炸，击晕周围所有单位并造成伤害",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-5CM",
+              "operation": "突袭BD-5",
+              "levelId": "activities/act21mini/level_act21mini_05",
+              "name": "入职邀请",
+              "description": "一般来说，邀请一位学识丰富的科研人员入职，不需要如此劳师动众。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”\\n<@lv.item><源石爆炸物></>被击破时爆炸，击晕周围所有单位并造成伤害",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n场上3个位置无法部署"
+            },
+            {
+              "id": "BD-6",
+              "operation": "BD-6",
+              "levelId": "activities/act21mini/level_act21mini_06",
+              "name": "实验守则",
+              "description": "请在相关项目负责人的监督下，按照实验步骤安全有序地进行操作，尤其是在缺少前序实验数据时。\\n<@lv.item><重力感应></>存在“石块”与重力感应机关：较重的敌人与阻挡数为1及以上的我方干员可踩动，并控制全场重力分力方向；顺/逆重力方向部署的干员攻速提升/降低，敌人移速提升/降低。",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-6CM",
+              "operation": "突袭BD-6",
+              "levelId": "activities/act21mini/level_act21mini_06",
+              "name": "实验守则",
+              "description": "请在相关项目负责人的监督下，按照实验步骤安全有序地进行操作，尤其是在缺少前序实验数据时。\\n<@lv.item><重力感应></>存在“石块”与重力感应机关：较重的敌人与阻挡数为1及以上的我方干员可踩动，并控制全场重力分力方向；顺/逆重力方向部署的干员攻速提升/降低，敌人移速提升/降低。",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n先锋、重装、近卫、特种干员的阻挡数-1"
+            },
+            {
+              "id": "BD-7",
+              "operation": "BD-7",
+              "levelId": "activities/act21mini/level_act21mini_07",
+              "name": "不断电",
+              "description": "对于洛伦茨的实验室来说，虽不存在关闭总电源这一要求，但每天两次的安保检查还是无法避免的。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-7CM",
+              "operation": "突袭BD-7",
+              "levelId": "activities/act21mini/level_act21mini_07",
+              "name": "不断电",
+              "description": "对于洛伦茨的实验室来说，虽不存在关闭总电源这一要求，但每天两次的安保检查还是无法避免的。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\n战线推进者提前开始行动"
+            },
+            {
+              "id": "BD-8",
+              "operation": "BD-8",
+              "levelId": "activities/act21mini/level_act21mini_08",
+              "name": "演算的终点",
+              "description": "没有人知道最终的结果，但每个人都在期待，至于期待的代价，并不会有人去计算。\\n<@lv.item><R系列动力装甲></>吸收周围实验产物回复技力，技力满时激活",
+              "hasChallenge": true
+            },
+            {
+              "id": "BD-8CM",
+              "operation": "突袭BD-8",
+              "levelId": "activities/act21mini/level_act21mini_08",
+              "name": "演算的终点",
+              "description": "没有人知道最终的结果，但每个人都在期待，至于期待的代价，并不会有人去计算。\\n<@lv.item><R系列动力装甲></>吸收周围实验产物回复技力，技力满时激活",
+              "hasChallenge": true,
+              "challenge": "<@lv.fs>附加条件：</>\\nDor-3号改造体的生命值大幅提升"
+            },
+            {
+              "id": "BD-S-1",
+              "operation": "BD-S-1",
+              "levelId": "activities/act21mini/level_act21mini_sub-1-1",
+              "name": "“绝不后退”",
+              "description": "在这位曾经的小队成员面前，是汹涌而至的猎犬，而她身后就是大批正在撤离的市民和真正玻利瓦尔人战士，她举起盾牌，发誓绝不后退一步。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": false
+            },
+            {
+              "id": "BD-S-2",
+              "operation": "BD-S-2",
+              "levelId": "activities/act21mini/level_act21mini_sub-2-1",
+              "name": "“试启动”",
+              "description": "金发菲林按下按钮，拥挤的试验场瞬间陷入可怕的寂静。人们再次进入时，只看到空荡的场地——这里本来就什么都没有。\\n<@lv.item><作战专用掩体></>可遮挡敌人视线使其无法“直击”",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
@@ -23360,6 +23518,38 @@
           "id": "H9-2Mat",
           "operation": "H9-2",
           "levelId": "obt/recalrune/level_recalrune_01-04",
+          "name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "id": "M8-8Mat",
+          "operation": "M8-8",
+          "levelId": "obt/recalrune/level_recalrune_02-01",
+          "name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "id": "11-6Mat",
+          "operation": "11-6",
+          "levelId": "obt/recalrune/level_recalrune_02-02",
+          "name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "id": "H6-3Mat",
+          "operation": "H6-3",
+          "levelId": "obt/recalrune/level_recalrune_02-03",
+          "name": "",
+          "description": "",
+          "hasChallenge": false
+        },
+        {
+          "id": "H11-1Mat",
+          "operation": "H11-1",
+          "levelId": "obt/recalrune/level_recalrune_02-04",
           "name": "",
           "description": "",
           "hasChallenge": false

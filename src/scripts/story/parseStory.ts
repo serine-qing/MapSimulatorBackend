@@ -43,6 +43,40 @@ const recalRunes = {
       "name": "",
       "description": "",
       "hasChallenge": false
+    },
+
+    //第二季
+    {
+      "id": "M8-8Mat",
+      "operation": "M8-8",
+      "levelId": "obt/recalrune/level_recalrune_02-01",
+      "name": "",
+      "description": "",
+      "hasChallenge": false
+    },
+    {
+      "id": "11-6Mat",
+      "operation": "11-6",
+      "levelId": "obt/recalrune/level_recalrune_02-02",
+      "name": "",
+      "description": "",
+      "hasChallenge": false
+    },
+    {
+      "id": "H6-3Mat",
+      "operation": "H6-3",
+      "levelId": "obt/recalrune/level_recalrune_02-03",
+      "name": "",
+      "description": "",
+      "hasChallenge": false
+    },
+    {
+      "id": "H11-1Mat",
+      "operation": "H11-1",
+      "levelId": "obt/recalrune/level_recalrune_02-04",
+      "name": "",
+      "description": "",
+      "hasChallenge": false
     }
   ]
 }
