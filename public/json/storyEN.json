@@ -17291,6 +17291,108 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act53side",
+          "episode": "直到大地变成一颗酸橙",
+          "childNodes": [
+            {
+              "id": "TO-1",
+              "operation": "TO-1",
+              "levelId": "activities/act53side/level_act53side_01",
+              "name": "收信地：终点",
+              "description": "一趟送信旅途的终点，一趟收信旅途的起点。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-TR-1",
+              "operation": "TO-TR-1",
+              "levelId": "activities/act53side/level_act53side_tr01",
+              "name": "写临行的迷惘",
+              "description": "不论是什么样的工作环境，安洁莉娜都能很好地完成她的送信任务，即使身在庆典中也不例外。",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-2",
+              "operation": "TO-2",
+              "levelId": "activities/act53side/level_act53side_02",
+              "name": "记新友的混乱",
+              "description": "车后座的物资箱里放的可能不只是货物，洋蓟村的通讯塔上晾的也不只是胡萝卜干。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-3",
+              "operation": "TO-3",
+              "levelId": "activities/act53side/level_act53side_03",
+              "name": "露营奇“叽”",
+              "description": "窸窸窣窣，是风沙吹打在车窗上的声音，也是什么东西正偷翻你背包的声音。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-4",
+              "operation": "TO-4",
+              "levelId": "activities/act53side/level_act53side_04",
+              "name": "谷里升起太阳",
+              "description": "是什么遮住了雷姆必拓强烈的阳光？是什么为无遮挡的矿场带来阴凉？是太阳谷工业强壮的卡特斯矿工！\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-5",
+              "operation": "TO-5",
+              "levelId": "activities/act53side/level_act53side_05",
+              "name": "勇敢的短耳朵",
+              "description": "回忆中那个惊艳了黑暗地下的人，在十数年以后再度出现。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-6",
+              "operation": "TO-6",
+              "levelId": "activities/act53side/level_act53side_06",
+              "name": "最难坦诚",
+              "description": "无人鬼城广播中传来的异响，带领感染者追寻幸福的“引领者”，竟是——？\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-7",
+              "operation": "TO-7",
+              "levelId": "activities/act53side/level_act53side_07",
+              "name": "谎言的重量",
+              "description": "友情是由什么组成的？是诺言，是决心，是敢于说不的胆量，是永远都向对方奔跑过去的脚步。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-8",
+              "operation": "TO-8",
+              "levelId": "activities/act53side/level_act53side_08",
+              "name": "以决心做邮戳",
+              "description": "转换遗憾的重量，重塑失望下沉的速度，让事情的结局在落地之前得以改变。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-9",
+              "operation": "TO-9",
+              "levelId": "activities/act53side/level_act53side_09",
+              "name": "绘我们的黎明",
+              "description": "这里是旅途的终点，这里是大地的尽头，这里是她们四个人给自己的答案。\\n<@lv.item><信使安洁莉娜></>协助我方进行战斗。场上存在<浮空信件>会收集<浮空信件>并投递进<邮箱>\\n<@rolv.rem>本次行动中远程干员可部署于近战位</>",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-P-1",
+              "operation": "TO-P-1",
+              "levelId": "activities/act53side/level_act53side_sp01",
+              "name": "冒昧的请求",
+              "description": "贫乏的语言不足以复现那些毛茸茸的小口袋、漫天划拉的小爪子和富有弹性的小尾巴带给人的感受。所以......能不能......就一下......！",
+              "hasChallenge": false
+            },
+            {
+              "id": "TO-P-2",
+              "operation": "TO-P-2",
+              "levelId": "activities/act53side/level_act53side_sp02",
+              "name": "信使的素养",
+              "description": "越是热闹繁忙的地方，越是需要信使的耐心与严谨。玩忽职守是万万不可的，在每封信的背后，可都是人们的心意和思念哦。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
