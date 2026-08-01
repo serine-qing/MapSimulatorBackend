@@ -17291,6 +17291,108 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act53side",
+          "episode": "2026夏活",
+          "childNodes": [
+            {
+              "id": "AG-1",
+              "operation": "AG-1",
+              "levelId": "activities/act53side/level_act53side_01",
+              "name": "act53side_01",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-2",
+              "operation": "AG-2",
+              "levelId": "activities/act53side/level_act53side_02",
+              "name": "act53side_02",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-3",
+              "operation": "AG-3",
+              "levelId": "activities/act53side/level_act53side_03",
+              "name": "act53side_03",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-4",
+              "operation": "AG-4",
+              "levelId": "activities/act53side/level_act53side_04",
+              "name": "act53side_04",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-5",
+              "operation": "AG-5",
+              "levelId": "activities/act53side/level_act53side_05",
+              "name": "act53side_05",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-6",
+              "operation": "AG-6",
+              "levelId": "activities/act53side/level_act53side_06",
+              "name": "act53side_06",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-7",
+              "operation": "AG-7",
+              "levelId": "activities/act53side/level_act53side_07",
+              "name": "act53side_07",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-8",
+              "operation": "AG-8",
+              "levelId": "activities/act53side/level_act53side_08",
+              "name": "act53side_08",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-9",
+              "operation": "AG-9",
+              "levelId": "activities/act53side/level_act53side_09",
+              "name": "act53side_09",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-SP-1",
+              "operation": "AG-SP-1",
+              "levelId": "activities/act53side/level_act53side_sp01",
+              "name": "act53side_sp01",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-SP-2",
+              "operation": "AG-SP-2",
+              "levelId": "activities/act53side/level_act53side_sp02",
+              "name": "act53side_sp02",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "AG-TR-1",
+              "operation": "AG-TR-1",
+              "levelId": "activities/act53side/level_act53side_tr01",
+              "name": "act53side_tr01",
+              "description": "",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
