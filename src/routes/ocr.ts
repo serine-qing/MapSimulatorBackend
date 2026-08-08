@@ -27,6 +27,10 @@ router.post('/recognize', async (req: any, res: any) => {
       }
     )
 
+    console.log('===== OCR.space 原始结果 =====')
+    console.log(JSON.stringify(response.data, null, 2))
+    console.log('===== 结束 =====')
+
     const lines: { text: string, score: number }[] = []
     if (response.data?.ParsedResults) {
       for (const result of response.data.ParsedResults) {
@@ -39,6 +43,7 @@ router.post('/recognize', async (req: any, res: any) => {
       }
     }
 
+    console.log('处理后的lines:', lines)
     res.json({ lines })
   } catch (err: any) {
     res.status(500).json({ error: err.message || '识别失败' })

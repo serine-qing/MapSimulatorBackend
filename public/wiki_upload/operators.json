@@ -1,0 +1,3929 @@
+{
+  "1星": [
+    {
+      "name": "罗德岛隐秘队",
+      "profession": "先锋",
+      "avatar_url": "1星/罗德岛隐秘队.png",
+      "skills": []
+    },
+    {
+      "name": "GALLUS²",
+      "profession": "术师",
+      "avatar_url": "1星/GALLUS².png",
+      "skills": []
+    },
+    {
+      "name": "CONFESS-47",
+      "profession": "先锋",
+      "avatar_url": "1星/CONFESS-47.png",
+      "skills": []
+    },
+    {
+      "name": "PhonoR-0",
+      "profession": "辅助",
+      "avatar_url": "1星/PhonoR-0.png",
+      "skills": []
+    },
+    {
+      "name": "Friston-3",
+      "profession": "重装",
+      "avatar_url": "1星/Friston-3.png",
+      "skills": []
+    },
+    {
+      "name": "U-Official",
+      "profession": "辅助",
+      "avatar_url": "1星/U-Official.png",
+      "skills": []
+    },
+    {
+      "name": "泰拉大陆调查团",
+      "profession": "狙击",
+      "avatar_url": "1星/泰拉大陆调查团.png",
+      "skills": []
+    },
+    {
+      "name": "正义骑士号",
+      "profession": "狙击",
+      "avatar_url": "1星/正义骑士号.png",
+      "skills": []
+    },
+    {
+      "name": "THRM-EX",
+      "profession": "特种",
+      "avatar_url": "1星/THRM-EX.png",
+      "skills": []
+    },
+    {
+      "name": "Castle-3",
+      "profession": "近卫",
+      "avatar_url": "1星/Castle-3.png",
+      "skills": []
+    },
+    {
+      "name": "Lancet-2",
+      "profession": "医疗",
+      "avatar_url": "1星/Lancet-2.png",
+      "skills": []
+    }
+  ],
+  "2星": [
+    {
+      "name": "12F",
+      "profession": "术师",
+      "avatar_url": "2星/12F.png",
+      "skills": []
+    },
+    {
+      "name": "杜林",
+      "profession": "术师",
+      "avatar_url": "2星/杜林.png",
+      "skills": []
+    },
+    {
+      "name": "巡林者",
+      "profession": "狙击",
+      "avatar_url": "2星/巡林者.png",
+      "skills": []
+    },
+    {
+      "name": "黑角",
+      "profession": "重装",
+      "avatar_url": "2星/黑角.png",
+      "skills": []
+    },
+    {
+      "name": "夜刀",
+      "profession": "先锋",
+      "avatar_url": "2星/夜刀.png",
+      "skills": []
+    }
+  ],
+  "3星": [
+    {
+      "name": "斑点",
+      "profession": "重装",
+      "avatar_url": "3星/斑点.png",
+      "skills": [
+        "次级治疗模式"
+      ]
+    },
+    {
+      "name": "泡普卡",
+      "profession": "近卫",
+      "avatar_url": "3星/泡普卡.png",
+      "skills": [
+        "攻击力强化·α型"
+      ]
+    },
+    {
+      "name": "月见夜",
+      "profession": "近卫",
+      "avatar_url": "3星/月见夜.png",
+      "skills": [
+        "武器附魔·α型"
+      ]
+    },
+    {
+      "name": "空爆",
+      "profession": "狙击",
+      "avatar_url": "3星/空爆.png",
+      "skills": [
+        "爆破范围提升·α型"
+      ]
+    },
+    {
+      "name": "梓兰",
+      "profession": "辅助",
+      "avatar_url": "3星/梓兰.png",
+      "skills": [
+        "迅捷打击·α型"
+      ]
+    },
+    {
+      "name": "史都华德",
+      "profession": "术师",
+      "avatar_url": "3星/史都华德.png",
+      "skills": [
+        "强力击·α型"
+      ]
+    },
+    {
+      "name": "安赛尔",
+      "profession": "医疗",
+      "avatar_url": "3星/安赛尔.png",
+      "skills": [
+        "治疗范围强化"
+      ]
+    },
+    {
+      "name": "芙蓉",
+      "profession": "医疗",
+      "avatar_url": "3星/芙蓉.png",
+      "skills": [
+        "治疗强化·α型"
+      ]
+    },
+    {
+      "name": "炎熔",
+      "profession": "术师",
+      "avatar_url": "3星/炎熔.png",
+      "skills": [
+        "战术咏唱·α型"
+      ]
+    },
+    {
+      "name": "安德切尔",
+      "profession": "狙击",
+      "avatar_url": "3星/安德切尔.png",
+      "skills": [
+        "攻击力强化·α型"
+      ]
+    },
+    {
+      "name": "克洛丝",
+      "profession": "狙击",
+      "avatar_url": "3星/克洛丝.png",
+      "skills": [
+        "二连射·自动"
+      ]
+    },
+    {
+      "name": "米格鲁",
+      "profession": "重装",
+      "avatar_url": "3星/米格鲁.png",
+      "skills": [
+        "防御力强化·α型"
+      ]
+    },
+    {
+      "name": "卡缇",
+      "profession": "重装",
+      "avatar_url": "3星/卡缇.png",
+      "skills": [
+        "生命回复·α型"
+      ]
+    },
+    {
+      "name": "玫兰莎",
+      "profession": "近卫",
+      "avatar_url": "3星/玫兰莎.png",
+      "skills": [
+        "攻击力强化·α型"
+      ]
+    },
+    {
+      "name": "翎羽",
+      "profession": "先锋",
+      "avatar_url": "3星/翎羽.png",
+      "skills": [
+        "迅捷打击·α型"
+      ]
+    },
+    {
+      "name": "香草",
+      "profession": "先锋",
+      "avatar_url": "3星/香草.png",
+      "skills": [
+        "冲锋号令·援军"
+      ]
+    },
+    {
+      "name": "芬",
+      "profession": "先锋",
+      "avatar_url": "3星/芬.png",
+      "skills": [
+        "冲锋号令·α型"
+      ]
+    }
+  ],
+  "4星": [
+    {
+      "name": "协律",
+      "profession": "术师",
+      "avatar_url": "4星/协律.png",
+      "skills": [
+        "反拍重音",
+        "震爆调谐"
+      ]
+    },
+    {
+      "name": "冬时",
+      "profession": "先锋",
+      "avatar_url": "4星/冬时.png",
+      "skills": [
+        "数据分析",
+        "循理归因"
+      ]
+    },
+    {
+      "name": "骋风",
+      "profession": "近卫",
+      "avatar_url": "4星/骋风.png",
+      "skills": [
+        "以攻为守",
+        "招无虚发"
+      ]
+    },
+    {
+      "name": "云迹",
+      "profession": "特种",
+      "avatar_url": "4星/云迹.png",
+      "skills": [
+        "紧急升空",
+        "掠空飞翎"
+      ]
+    },
+    {
+      "name": "露托",
+      "profession": "重装",
+      "avatar_url": "4星/露托.png",
+      "skills": [
+        "强力击·β型",
+        "强磁防卫"
+      ]
+    },
+    {
+      "name": "跃跃",
+      "profession": "狙击",
+      "avatar_url": "4星/跃跃.png",
+      "skills": [
+        "强力击·β型",
+        "乐趣加倍"
+      ]
+    },
+    {
+      "name": "维荻",
+      "profession": "特种",
+      "avatar_url": "4星/维荻.png",
+      "skills": [
+        "苍翠屏障",
+        "双刃毒藤"
+      ]
+    },
+    {
+      "name": "休谟斯",
+      "profession": "近卫",
+      "avatar_url": "4星/休谟斯.png",
+      "skills": [
+        "固废切割",
+        "高效处理"
+      ]
+    },
+    {
+      "name": "石英",
+      "profession": "近卫",
+      "avatar_url": "4星/石英.png",
+      "skills": [
+        "攻击力强化·β型",
+        "全力相搏"
+      ]
+    },
+    {
+      "name": "铅踝",
+      "profession": "狙击",
+      "avatar_url": "4星/铅踝.png",
+      "skills": [
+        "贯日",
+        "破虹"
+      ]
+    },
+    {
+      "name": "罗小黑",
+      "profession": "近卫",
+      "avatar_url": "4星/罗小黑.png",
+      "skills": [
+        "掠光尾影",
+        "碎金为刃"
+      ]
+    },
+    {
+      "name": "褐果",
+      "profession": "医疗",
+      "avatar_url": "4星/褐果.png",
+      "skills": [
+        "积微成著",
+        "厚土迸发"
+      ]
+    },
+    {
+      "name": "布丁",
+      "profession": "术师",
+      "avatar_url": "4星/布丁.png",
+      "skills": [
+        "战术咏唱·β型",
+        "扩散电流"
+      ]
+    },
+    {
+      "name": "罗比菈塔",
+      "profession": "辅助",
+      "avatar_url": "4星/罗比菈塔.png",
+      "skills": [
+        "叙拉古式上妆",
+        "全自动造型仪"
+      ]
+    },
+    {
+      "name": "深靛",
+      "profession": "术师",
+      "avatar_url": "4星/深靛.png",
+      "skills": [
+        "灯塔守卫者",
+        "光影迷宫"
+      ]
+    },
+    {
+      "name": "豆苗",
+      "profession": "先锋",
+      "avatar_url": "4星/豆苗.png",
+      "skills": [
+        "定点指令",
+        "“大家一起上”"
+      ]
+    },
+    {
+      "name": "松果",
+      "profession": "狙击",
+      "avatar_url": "4星/松果.png",
+      "skills": [
+        "RMA长钉",
+        "电能过载"
+      ]
+    },
+    {
+      "name": "杰克",
+      "profession": "近卫",
+      "avatar_url": "4星/杰克.png",
+      "skills": [
+        "给你一拳！",
+        "全神贯注！"
+      ]
+    },
+    {
+      "name": "泡泡",
+      "profession": "重装",
+      "avatar_url": "4星/泡泡.png",
+      "skills": [
+        "防御力强化·β型",
+        "“挨打”"
+      ]
+    },
+    {
+      "name": "芳汀",
+      "profession": "近卫",
+      "avatar_url": "4星/芳汀.png",
+      "skills": [
+        "小玩笑",
+        "致命恶作剧"
+      ]
+    },
+    {
+      "name": "酸糖",
+      "profession": "狙击",
+      "avatar_url": "4星/酸糖.png",
+      "skills": [
+        "花式点射",
+        "扳机时刻"
+      ]
+    },
+    {
+      "name": "孑",
+      "profession": "特种",
+      "avatar_url": "4星/孑.png",
+      "skills": [
+        "断螯",
+        "刺身拼盘"
+      ]
+    },
+    {
+      "name": "卡达",
+      "profession": "术师",
+      "avatar_url": "4星/卡达.png",
+      "skills": [
+        "攻击力强化·β型",
+        "同步索敌攻击"
+      ]
+    },
+    {
+      "name": "波登可",
+      "profession": "辅助",
+      "avatar_url": "4星/波登可.png",
+      "skills": [
+        "花香疗法",
+        "孢子扩散"
+      ]
+    },
+    {
+      "name": "刻刀",
+      "profession": "近卫",
+      "avatar_url": "4星/刻刀.png",
+      "skills": [
+        "红移",
+        "绯红刺刀"
+      ]
+    },
+    {
+      "name": "断罪者",
+      "profession": "近卫",
+      "avatar_url": "4星/断罪者.png",
+      "skills": [
+        "断罪",
+        "创世纪"
+      ]
+    },
+    {
+      "name": "宴",
+      "profession": "近卫",
+      "avatar_url": "4星/宴.png",
+      "skills": [
+        "分神",
+        "落地斩·破门"
+      ]
+    },
+    {
+      "name": "清流",
+      "profession": "医疗",
+      "avatar_url": "4星/清流.png",
+      "skills": [
+        "治愈水波",
+        "涌泉"
+      ]
+    },
+    {
+      "name": "安比尔",
+      "profession": "狙击",
+      "avatar_url": "4星/安比尔.png",
+      "skills": [
+        "阻挡弹",
+        "雷达定位"
+      ]
+    },
+    {
+      "name": "梅",
+      "profession": "狙击",
+      "avatar_url": "4星/梅.png",
+      "skills": [
+        "麻痹弹",
+        "束缚电击"
+      ]
+    },
+    {
+      "name": "伊桑",
+      "profession": "特种",
+      "avatar_url": "4星/伊桑.png",
+      "skills": [
+        "花式回旋",
+        "十字悬挂"
+      ]
+    },
+    {
+      "name": "红云",
+      "profession": "狙击",
+      "avatar_url": "4星/红云.png",
+      "skills": [
+        "攻击力强化·β型",
+        "双弦开弓"
+      ]
+    },
+    {
+      "name": "坚雷",
+      "profession": "重装",
+      "avatar_url": "4星/坚雷.png",
+      "skills": [
+        "攻击力强化·β型",
+        "起盾回击"
+      ]
+    },
+    {
+      "name": "桃金娘",
+      "profession": "先锋",
+      "avatar_url": "4星/桃金娘.png",
+      "skills": [
+        "支援号令·β型",
+        "治愈之翼"
+      ]
+    },
+    {
+      "name": "苏苏洛",
+      "profession": "医疗",
+      "avatar_url": "4星/苏苏洛.png",
+      "skills": [
+        "治疗强化·β型",
+        "深度治疗"
+      ]
+    },
+    {
+      "name": "格雷伊",
+      "profession": "术师",
+      "avatar_url": "4星/格雷伊.png",
+      "skills": [
+        "战术咏唱·β型",
+        "静电释放"
+      ]
+    },
+    {
+      "name": "猎蜂",
+      "profession": "近卫",
+      "avatar_url": "4星/猎蜂.png",
+      "skills": [
+        "高机动",
+        "急速拳"
+      ]
+    },
+    {
+      "name": "阿消",
+      "profession": "特种",
+      "avatar_url": "4星/阿消.png",
+      "skills": [
+        "水蒸气泵",
+        "高压水炮"
+      ]
+    },
+    {
+      "name": "地灵",
+      "profession": "辅助",
+      "avatar_url": "4星/地灵.png",
+      "skills": [
+        "攻击力强化·β型",
+        "流沙化"
+      ]
+    },
+    {
+      "name": "深海色",
+      "profession": "辅助",
+      "avatar_url": "4星/深海色.png",
+      "skills": [
+        "光影之触",
+        "视觉陷阱"
+      ]
+    },
+    {
+      "name": "古米",
+      "profession": "重装",
+      "avatar_url": "4星/古米.png",
+      "skills": [
+        "备用军粮",
+        "食粮烹制"
+      ]
+    },
+    {
+      "name": "蛇屠箱",
+      "profession": "重装",
+      "avatar_url": "4星/蛇屠箱.png",
+      "skills": [
+        "防御力强化·β型",
+        "壳状防御"
+      ]
+    },
+    {
+      "name": "角峰",
+      "profession": "重装",
+      "avatar_url": "4星/角峰.png",
+      "skills": [
+        "体能强化",
+        "抗寒体质"
+      ]
+    },
+    {
+      "name": "调香师",
+      "profession": "医疗",
+      "avatar_url": "4星/调香师.png",
+      "skills": [
+        "治疗强化·β型",
+        "精调"
+      ]
+    },
+    {
+      "name": "嘉维尔",
+      "profession": "医疗",
+      "avatar_url": "4星/嘉维尔.png",
+      "skills": [
+        "活力再生",
+        "活力再生·广域"
+      ]
+    },
+    {
+      "name": "末药",
+      "profession": "医疗",
+      "avatar_url": "4星/末药.png",
+      "skills": [
+        "二重治疗",
+        "医疗力场"
+      ]
+    },
+    {
+      "name": "暗索",
+      "profession": "特种",
+      "avatar_url": "4星/暗索.png",
+      "skills": [
+        "勾爪发射",
+        "复式勾爪"
+      ]
+    },
+    {
+      "name": "砾",
+      "profession": "特种",
+      "avatar_url": "4星/砾.png",
+      "skills": [
+        "影袭",
+        "鼠群"
+      ]
+    },
+    {
+      "name": "慕斯",
+      "profession": "近卫",
+      "avatar_url": "4星/慕斯.png",
+      "skills": [
+        "挠伤",
+        "炸毛"
+      ]
+    },
+    {
+      "name": "艾丝黛尔",
+      "profession": "近卫",
+      "avatar_url": "4星/艾丝黛尔.png",
+      "skills": [
+        "攻击力强化·β型",
+        "舍身突击"
+      ]
+    },
+    {
+      "name": "霜叶",
+      "profession": "近卫",
+      "avatar_url": "4星/霜叶.png",
+      "skills": [
+        "寒霜枪刃",
+        "凝冰枪刃"
+      ]
+    },
+    {
+      "name": "缠丸",
+      "profession": "近卫",
+      "avatar_url": "4星/缠丸.png",
+      "skills": [
+        "生命回复·β型",
+        "恶鬼之力"
+      ]
+    },
+    {
+      "name": "杜宾",
+      "profession": "近卫",
+      "avatar_url": "4星/杜宾.png",
+      "skills": [
+        "强力击·β型",
+        "鞭策"
+      ]
+    },
+    {
+      "name": "红豆",
+      "profession": "先锋",
+      "avatar_url": "4星/红豆.png",
+      "skills": [
+        "攻击力强化·β型",
+        "槌音"
+      ]
+    },
+    {
+      "name": "清道夫",
+      "profession": "先锋",
+      "avatar_url": "4星/清道夫.png",
+      "skills": [
+        "冲锋号令·β型",
+        "冲锋号令·攻击"
+      ]
+    },
+    {
+      "name": "讯使",
+      "profession": "先锋",
+      "avatar_url": "4星/讯使.png",
+      "skills": [
+        "冲锋号令·β型",
+        "冲锋号令·防御"
+      ]
+    },
+    {
+      "name": "白雪",
+      "profession": "狙击",
+      "avatar_url": "4星/白雪.png",
+      "skills": [
+        "敌飙",
+        "凝武"
+      ]
+    },
+    {
+      "name": "流星",
+      "profession": "狙击",
+      "avatar_url": "4星/流星.png",
+      "skills": [
+        "碎甲击",
+        "碎甲击·扩散"
+      ]
+    },
+    {
+      "name": "杰西卡",
+      "profession": "狙击",
+      "avatar_url": "4星/杰西卡.png",
+      "skills": [
+        "强力击·β型",
+        "掩护烟幕"
+      ]
+    },
+    {
+      "name": "远山",
+      "profession": "术师",
+      "avatar_url": "4星/远山.png",
+      "skills": [
+        "战术咏唱·β型",
+        "命运"
+      ]
+    },
+    {
+      "name": "夜烟",
+      "profession": "术师",
+      "avatar_url": "4星/夜烟.png",
+      "skills": [
+        "攻击力强化·β型",
+        "赤色之瞳"
+      ]
+    }
+  ],
+  "5星": [
+    {
+      "name": "嘉辛塔",
+      "profession": "先锋",
+      "avatar_url": "5星/嘉辛塔.png",
+      "skills": [
+        "支援号令·γ型",
+        "伞下乘荫"
+      ]
+    },
+    {
+      "name": "时隙",
+      "profession": "术师",
+      "avatar_url": "5星/时隙.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "科技与传统仪式"
+      ]
+    },
+    {
+      "name": "佩德洛",
+      "profession": "辅助",
+      "avatar_url": "5星/佩德洛.png",
+      "skills": [
+        "标记射击",
+        "交替撤离"
+      ]
+    },
+    {
+      "name": "雷狼龙S空爆",
+      "profession": "近卫",
+      "avatar_url": "5星/雷狼龙S空爆.png",
+      "skills": [
+        "高压回填斩",
+        "超高输出属性解放斩"
+      ]
+    },
+    {
+      "name": "裂响",
+      "profession": "重装",
+      "avatar_url": "5星/裂响.png",
+      "skills": [
+        "涤净",
+        "溃决"
+      ]
+    },
+    {
+      "name": "乌啾",
+      "profession": "医疗",
+      "avatar_url": "5星/乌啾.png",
+      "skills": [
+        "火钳秘咒",
+        "“捉迷藏！”"
+      ]
+    },
+    {
+      "name": "伯塔尼",
+      "profession": "辅助",
+      "avatar_url": "5星/伯塔尼.png",
+      "skills": [
+        "谐波破坏",
+        "静域回声"
+      ]
+    },
+    {
+      "name": "复奏",
+      "profession": "术师",
+      "avatar_url": "5星/复奏.png",
+      "skills": [
+        "合奏起拍",
+        "直到终曲"
+      ]
+    },
+    {
+      "name": "风絮",
+      "profession": "医疗",
+      "avatar_url": "5星/风絮.png",
+      "skills": [
+        "何处着",
+        "扶风起"
+      ]
+    },
+    {
+      "name": "矩",
+      "profession": "狙击",
+      "avatar_url": "5星/矩.png",
+      "skills": [
+        "良弓难张",
+        "良翼难乘"
+      ]
+    },
+    {
+      "name": "撷英调香师",
+      "profession": "辅助",
+      "avatar_url": "5星/撷英调香师.png",
+      "skills": [
+        "“山中的喜悦”",
+        "“神殿的余烬”"
+      ]
+    },
+    {
+      "name": "摆渡人",
+      "profession": "近卫",
+      "avatar_url": "5星/摆渡人.png",
+      "skills": [
+        "奔流",
+        "同胞的意志"
+      ]
+    },
+    {
+      "name": "响石",
+      "profession": "重装",
+      "avatar_url": "5星/响石.png",
+      "skills": [
+        "覆盖式休整",
+        "震撼型指路"
+      ]
+    },
+    {
+      "name": "天空盒",
+      "profession": "狙击",
+      "avatar_url": "5星/天空盒.png",
+      "skills": [
+        "源石火药驾临",
+        "电磁脉冲恩宠"
+      ]
+    },
+    {
+      "name": "雪猎",
+      "profession": "狙击",
+      "avatar_url": "5星/雪猎.png",
+      "skills": [
+        "强力击·β型",
+        "风雪连弩"
+      ]
+    },
+    {
+      "name": "哈蒂娅",
+      "profession": "近卫",
+      "avatar_url": "5星/哈蒂娅.png",
+      "skills": [
+        "沙地战术改良",
+        "剑角之锋"
+      ]
+    },
+    {
+      "name": "折桠",
+      "profession": "重装",
+      "avatar_url": "5星/折桠.png",
+      "skills": [
+        "绝境抵抗",
+        "生存决心"
+      ]
+    },
+    {
+      "name": "三角初华",
+      "profession": "辅助",
+      "avatar_url": "5星/三角初华.png",
+      "skills": [
+        "我思念的",
+        "我悲悯的"
+      ]
+    },
+    {
+      "name": "若叶睦",
+      "profession": "特种",
+      "avatar_url": "5星/若叶睦.png",
+      "skills": [
+        "多首野兽",
+        "破坏与滋养"
+      ]
+    },
+    {
+      "name": "八幡海铃",
+      "profession": "特种",
+      "avatar_url": "5星/八幡海铃.png",
+      "skills": [
+        "颤栗之弦",
+        "无存之所"
+      ]
+    },
+    {
+      "name": "祐天寺若麦",
+      "profession": "近卫",
+      "avatar_url": "5星/祐天寺若麦.png",
+      "skills": [
+        "如焰般热烈",
+        "如麦般生长"
+      ]
+    },
+    {
+      "name": "吉星",
+      "profession": "狙击",
+      "avatar_url": "5星/吉星.png",
+      "skills": [
+        "欢迎您来！",
+        "吉星高照！"
+      ]
+    },
+    {
+      "name": "松桐",
+      "profession": "先锋",
+      "avatar_url": "5星/松桐.png",
+      "skills": [
+        "入场安排",
+        "万手成局"
+      ]
+    },
+    {
+      "name": "录武官",
+      "profession": "医疗",
+      "avatar_url": "5星/录武官.png",
+      "skills": [
+        "触类旁通",
+        "一点关窍"
+      ]
+    },
+    {
+      "name": "蒂比",
+      "profession": "特种",
+      "avatar_url": "5星/蒂比.png",
+      "skills": [
+        "专业喷绘技巧",
+        "紧急赶场通知"
+      ]
+    },
+    {
+      "name": "Miss.Christine",
+      "profession": "术师",
+      "avatar_url": "5星/Miss.Christine.png",
+      "skills": [
+        "自由用餐礼仪",
+        "狂饮之宴"
+      ]
+    },
+    {
+      "name": "聆音",
+      "profession": "近卫",
+      "avatar_url": "5星/聆音.png",
+      "skills": [
+        "开颅挽歌",
+        "破膛弥撒"
+      ]
+    },
+    {
+      "name": "阿兰娜",
+      "profession": "辅助",
+      "avatar_url": "5星/阿兰娜.png",
+      "skills": [
+        "气动增压",
+        "“万斤顶”"
+      ]
+    },
+    {
+      "name": "钼铅",
+      "profession": "特种",
+      "avatar_url": "5星/钼铅.png",
+      "skills": [
+        "“驱兽专用”",
+        "“顽石专用”"
+      ]
+    },
+    {
+      "name": "水灯心",
+      "profession": "狙击",
+      "avatar_url": "5星/水灯心.png",
+      "skills": [
+        "所熟知的",
+        "可驯服的"
+      ]
+    },
+    {
+      "name": "诺威尔",
+      "profession": "医疗",
+      "avatar_url": "5星/诺威尔.png",
+      "skills": [
+        "步履不停",
+        "生命不息"
+      ]
+    },
+    {
+      "name": "寻澜",
+      "profession": "先锋",
+      "avatar_url": "5星/寻澜.png",
+      "skills": [
+        "探寻",
+        "洞悉"
+      ]
+    },
+    {
+      "name": "行箸",
+      "profession": "辅助",
+      "avatar_url": "5星/行箸.png",
+      "skills": [
+        "盈帙满笥",
+        "食不厌精"
+      ]
+    },
+    {
+      "name": "特克诺",
+      "profession": "术师",
+      "avatar_url": "5星/特克诺.png",
+      "skills": [
+        "关节锁定",
+        "恣意挥洒"
+      ]
+    },
+    {
+      "name": "瑰盐",
+      "profession": "医疗",
+      "avatar_url": "5星/瑰盐.png",
+      "skills": [
+        "上佳的应急药呀",
+        "绝妙的长效药呀"
+      ]
+    },
+    {
+      "name": "裁度",
+      "profession": "特种",
+      "avatar_url": "5星/裁度.png",
+      "skills": [
+        "量衣尺",
+        "缝线缠身"
+      ]
+    },
+    {
+      "name": "菲莱",
+      "profession": "重装",
+      "avatar_url": "5星/菲莱.png",
+      "skills": [
+        "灵河护佑",
+        "冥河诅咒"
+      ]
+    },
+    {
+      "name": "波卜",
+      "profession": "辅助",
+      "avatar_url": "5星/波卜.png",
+      "skills": [
+        "非和平劝说",
+        "“此路不通”"
+      ]
+    },
+    {
+      "name": "凯瑟琳",
+      "profession": "辅助",
+      "avatar_url": "5星/凯瑟琳.png",
+      "skills": [
+        "岁月锻打",
+        "战火淬炼"
+      ]
+    },
+    {
+      "name": "莱欧斯",
+      "profession": "近卫",
+      "avatar_url": "5星/莱欧斯.png",
+      "skills": [
+        "胆小剑助",
+        "威吓战法"
+      ]
+    },
+    {
+      "name": "齐尔查克",
+      "profession": "先锋",
+      "avatar_url": "5星/齐尔查克.png",
+      "skills": [
+        "开锁工具",
+        "随机应变"
+      ]
+    },
+    {
+      "name": "森西",
+      "profession": "重装",
+      "avatar_url": "5星/森西.png",
+      "skills": [
+        "单人份料理",
+        "团体魔物大餐"
+      ]
+    },
+    {
+      "name": "衡沙",
+      "profession": "辅助",
+      "avatar_url": "5星/衡沙.png",
+      "skills": [
+        "上紧发条",
+        "权知轻重"
+      ]
+    },
+    {
+      "name": "莎草",
+      "profession": "医疗",
+      "avatar_url": "5星/莎草.png",
+      "skills": [
+        "巧思乍现",
+        "临考发挥"
+      ]
+    },
+    {
+      "name": "锡人",
+      "profession": "特种",
+      "avatar_url": "5星/锡人.png",
+      "skills": [
+        "“老科利”",
+        "“大拉里”"
+      ]
+    },
+    {
+      "name": "渡桥",
+      "profession": "先锋",
+      "avatar_url": "5星/渡桥.png",
+      "skills": [
+        "遥控解体",
+        "承压功率"
+      ]
+    },
+    {
+      "name": "海霓",
+      "profession": "辅助",
+      "avatar_url": "5星/海霓.png",
+      "skills": [
+        "迷惑性洋流图",
+        "阻滞性显色剂"
+      ]
+    },
+    {
+      "name": "深巡",
+      "profession": "重装",
+      "avatar_url": "5星/深巡.png",
+      "skills": [
+        "侵袭破坏应对",
+        "行动能力剥夺"
+      ]
+    },
+    {
+      "name": "阿米娅(医疗)",
+      "profession": "医疗",
+      "avatar_url": "5星/阿米娅(医疗).png",
+      "skills": [
+        "哀恸共情",
+        "慈悲愿景"
+      ]
+    },
+    {
+      "name": "历阵锐枪芬",
+      "profession": "先锋",
+      "avatar_url": "5星/历阵锐枪芬.png",
+      "skills": [
+        "贯敌刺枪",
+        "执守阵线"
+      ]
+    },
+    {
+      "name": "阿罗玛",
+      "profession": "术师",
+      "avatar_url": "5星/阿罗玛.png",
+      "skills": [
+        "强效清洁",
+        "小心地滑"
+      ]
+    },
+    {
+      "name": "奥达",
+      "profession": "近卫",
+      "avatar_url": "5星/奥达.png",
+      "skills": [
+        "火花溅射",
+        "锻锤之力"
+      ]
+    },
+    {
+      "name": "医生",
+      "profession": "近卫",
+      "avatar_url": "5星/医生.png",
+      "skills": [
+        "以暴制暴",
+        "激素手枪"
+      ]
+    },
+    {
+      "name": "双月",
+      "profession": "特种",
+      "avatar_url": "5星/双月.png",
+      "skills": [
+        "幻影诡雷",
+        "全知者的战术"
+      ]
+    },
+    {
+      "name": "导火索",
+      "profession": "近卫",
+      "avatar_url": "5星/导火索.png",
+      "skills": [
+        "火力侦察",
+        "霰射炸药"
+      ]
+    },
+    {
+      "name": "红隼",
+      "profession": "先锋",
+      "avatar_url": "5星/红隼.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "醉刃乱舞"
+      ]
+    },
+    {
+      "name": "小满",
+      "profession": "辅助",
+      "avatar_url": "5星/小满.png",
+      "skills": [
+        "竹笛飞声",
+        "乡音沉沉"
+      ]
+    },
+    {
+      "name": "万顷",
+      "profession": "先锋",
+      "avatar_url": "5星/万顷.png",
+      "skills": [
+        "支援号令·γ型",
+        "应东风"
+      ]
+    },
+    {
+      "name": "温米",
+      "profession": "术师",
+      "avatar_url": "5星/温米.png",
+      "skills": [
+        "炎炎火焰",
+        "滔滔热流"
+      ]
+    },
+    {
+      "name": "烈夏",
+      "profession": "近卫",
+      "avatar_url": "5星/烈夏.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "一呼百应"
+      ]
+    },
+    {
+      "name": "哈洛德",
+      "profession": "医疗",
+      "avatar_url": "5星/哈洛德.png",
+      "skills": [
+        "治疗强化·γ型",
+        "重症优先"
+      ]
+    },
+    {
+      "name": "深律",
+      "profession": "重装",
+      "avatar_url": "5星/深律.png",
+      "skills": [
+        "急救",
+        "沉音宁神"
+      ]
+    },
+    {
+      "name": "折光",
+      "profession": "术师",
+      "avatar_url": "5星/折光.png",
+      "skills": [
+        "镭射穿凿",
+        "热处理变色"
+      ]
+    },
+    {
+      "name": "刺玫",
+      "profession": "医疗",
+      "avatar_url": "5星/刺玫.png",
+      "skills": [
+        "战术咏唱·γ型",
+        "荆藤庇荫"
+      ]
+    },
+    {
+      "name": "戴菲恩",
+      "profession": "术师",
+      "avatar_url": "5星/戴菲恩.png",
+      "skills": [
+        "“贯注”",
+        "“抢攻”"
+      ]
+    },
+    {
+      "name": "杏仁",
+      "profession": "特种",
+      "avatar_url": "5星/杏仁.png",
+      "skills": [
+        "磁力抓取",
+        "强力牵引"
+      ]
+    },
+    {
+      "name": "冰酿",
+      "profession": "狙击",
+      "avatar_url": "5星/冰酿.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "酣醉之夜"
+      ]
+    },
+    {
+      "name": "青枳",
+      "profession": "先锋",
+      "avatar_url": "5星/青枳.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "工程者之愿"
+      ]
+    },
+    {
+      "name": "苍苔",
+      "profession": "近卫",
+      "avatar_url": "5星/苍苔.png",
+      "skills": [
+        "强力击·β型",
+        "土石的恒心"
+      ]
+    },
+    {
+      "name": "凛视",
+      "profession": "辅助",
+      "avatar_url": "5星/凛视.png",
+      "skills": [
+        "我见崩毁之前",
+        "我见枯朽之后"
+      ]
+    },
+    {
+      "name": "寒檀",
+      "profession": "术师",
+      "avatar_url": "5星/寒檀.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "“女巫之泪”"
+      ]
+    },
+    {
+      "name": "空构",
+      "profession": "特种",
+      "avatar_url": "5星/空构.png",
+      "skills": [
+        "见机行事",
+        "临场铳械改装"
+      ]
+    },
+    {
+      "name": "隐现",
+      "profession": "狙击",
+      "avatar_url": "5星/隐现.png",
+      "skills": [
+        "“不惹麻烦”",
+        "“解决麻烦”"
+      ]
+    },
+    {
+      "name": "玫拉",
+      "profession": "狙击",
+      "avatar_url": "5星/玫拉.png",
+      "skills": [
+        "饱和脉冲",
+        "临界爆发"
+      ]
+    },
+    {
+      "name": "洋灰",
+      "profession": "重装",
+      "avatar_url": "5星/洋灰.png",
+      "skills": [
+        "突破矿层",
+        "结构加固"
+      ]
+    },
+    {
+      "name": "摩根",
+      "profession": "近卫",
+      "avatar_url": "5星/摩根.png",
+      "skills": [
+        "街头好手",
+        "无畏招架"
+      ]
+    },
+    {
+      "name": "火龙S黑角",
+      "profession": "近卫",
+      "avatar_url": "5星/火龙S黑角.png",
+      "skills": [
+        "居合拔刀气刃斩",
+        "气刃兜割"
+      ]
+    },
+    {
+      "name": "铎铃",
+      "profession": "近卫",
+      "avatar_url": "5星/铎铃.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "乡心无改"
+      ]
+    },
+    {
+      "name": "火哨",
+      "profession": "重装",
+      "avatar_url": "5星/火哨.png",
+      "skills": [
+        "野火",
+        "焦土"
+      ]
+    },
+    {
+      "name": "截云",
+      "profession": "狙击",
+      "avatar_url": "5星/截云.png",
+      "skills": [
+        "探前路",
+        "掷旧尘"
+      ]
+    },
+    {
+      "name": "和弦",
+      "profession": "术师",
+      "avatar_url": "5星/和弦.png",
+      "skills": [
+        "轻巧舞步",
+        "沉溺之灾"
+      ]
+    },
+    {
+      "name": "谜图",
+      "profession": "先锋",
+      "avatar_url": "5星/谜图.png",
+      "skills": [
+        "关键线索",
+        "疑点追踪"
+      ]
+    },
+    {
+      "name": "子月",
+      "profession": "狙击",
+      "avatar_url": "5星/子月.png",
+      "skills": [
+        "狩猎时刻",
+        "伏击之影"
+      ]
+    },
+    {
+      "name": "雪绒",
+      "profession": "术师",
+      "avatar_url": "5星/雪绒.png",
+      "skills": [
+        "冻风",
+        "坠雪"
+      ]
+    },
+    {
+      "name": "明椒",
+      "profession": "医疗",
+      "avatar_url": "5星/明椒.png",
+      "skills": [
+        "掩护作战·γ型",
+        "同伴意识"
+      ]
+    },
+    {
+      "name": "达格达",
+      "profession": "近卫",
+      "avatar_url": "5星/达格达.png",
+      "skills": [
+        "反制技巧",
+        "精准捕杀"
+      ]
+    },
+    {
+      "name": "海沫",
+      "profession": "近卫",
+      "avatar_url": "5星/海沫.png",
+      "skills": [
+        "回首，断舍",
+        "泡影，殆尽"
+      ]
+    },
+    {
+      "name": "但书",
+      "profession": "辅助",
+      "avatar_url": "5星/但书.png",
+      "skills": [
+        "纠纷起诉",
+        "致胜立论"
+      ]
+    },
+    {
+      "name": "晓歌",
+      "profession": "先锋",
+      "avatar_url": "5星/晓歌.png",
+      "skills": [
+        "观火",
+        "浮光"
+      ]
+    },
+    {
+      "name": "至简",
+      "profession": "术师",
+      "avatar_url": "5星/至简.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "神工意匠"
+      ]
+    },
+    {
+      "name": "承曦格雷伊",
+      "profession": "狙击",
+      "avatar_url": "5星/承曦格雷伊.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "晨曦信标"
+      ]
+    },
+    {
+      "name": "星源",
+      "profession": "术师",
+      "avatar_url": "5星/星源.png",
+      "skills": [
+        "双端导流",
+        "星束交汇"
+      ]
+    },
+    {
+      "name": "濯尘芙蓉",
+      "profession": "医疗",
+      "avatar_url": "5星/濯尘芙蓉.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "抚业之触"
+      ]
+    },
+    {
+      "name": "车尔尼",
+      "profession": "重装",
+      "avatar_url": "5星/车尔尼.png",
+      "skills": [
+        "纷飞十指",
+        "曲惊四座"
+      ]
+    },
+    {
+      "name": "埃拉托",
+      "profession": "狙击",
+      "avatar_url": "5星/埃拉托.png",
+      "skills": [
+        "安眠旋律",
+        "英雄赞歌"
+      ]
+    },
+    {
+      "name": "掠风",
+      "profession": "辅助",
+      "avatar_url": "5星/掠风.png",
+      "skills": [
+        "此身为筑",
+        "此身为源"
+      ]
+    },
+    {
+      "name": "洛洛",
+      "profession": "术师",
+      "avatar_url": "5星/洛洛.png",
+      "skills": [
+        "战术咏唱·γ型",
+        "自负此轭"
+      ]
+    },
+    {
+      "name": "海蒂",
+      "profession": "辅助",
+      "avatar_url": "5星/海蒂.png",
+      "skills": [
+        "虚构故事·怒士",
+        "虚构故事·锈城"
+      ]
+    },
+    {
+      "name": "风丸",
+      "profession": "特种",
+      "avatar_url": "5星/风丸.png",
+      "skills": [
+        "纸艺·迅击",
+        "纸艺·双影"
+      ]
+    },
+    {
+      "name": "见行者",
+      "profession": "特种",
+      "avatar_url": "5星/见行者.png",
+      "skills": [
+        "护身射击",
+        "惊爆射击"
+      ]
+    },
+    {
+      "name": "夏栎",
+      "profession": "辅助",
+      "avatar_url": "5星/夏栎.png",
+      "skills": [
+        "大地的慈悲",
+        "生灵的回响"
+      ]
+    },
+    {
+      "name": "夜半",
+      "profession": "先锋",
+      "avatar_url": "5星/夜半.png",
+      "skills": [
+        "半醒",
+        "安眠"
+      ]
+    },
+    {
+      "name": "寒芒克洛丝",
+      "profession": "狙击",
+      "avatar_url": "5星/寒芒克洛丝.png",
+      "skills": [
+        "无痕",
+        "封喉"
+      ]
+    },
+    {
+      "name": "九色鹿",
+      "profession": "辅助",
+      "avatar_url": "5星/九色鹿.png",
+      "skills": [
+        "人间降吉",
+        "仙山去远"
+      ]
+    },
+    {
+      "name": "暮落",
+      "profession": "重装",
+      "avatar_url": "5星/暮落.png",
+      "skills": [
+        "速战速决",
+        "燃命狂欢"
+      ]
+    },
+    {
+      "name": "极光",
+      "profession": "重装",
+      "avatar_url": "5星/极光.png",
+      "skills": [
+        "固守家园",
+        "人工降雪"
+      ]
+    },
+    {
+      "name": "耶拉",
+      "profession": "术师",
+      "avatar_url": "5星/耶拉.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "心随意动"
+      ]
+    },
+    {
+      "name": "蚀清",
+      "profession": "术师",
+      "avatar_url": "5星/蚀清.png",
+      "skills": [
+        "专注力超载",
+        "传导蚀滞弹"
+      ]
+    },
+    {
+      "name": "野鬃",
+      "profession": "先锋",
+      "avatar_url": "5星/野鬃.png",
+      "skills": [
+        "骑枪刺击",
+        "夹枪冲锋"
+      ]
+    },
+    {
+      "name": "蜜莓",
+      "profession": "医疗",
+      "avatar_url": "5星/蜜莓.png",
+      "skills": [
+        "精神护理",
+        "振奋"
+      ]
+    },
+    {
+      "name": "灰毫",
+      "profession": "重装",
+      "avatar_url": "5星/灰毫.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "专注轰击"
+      ]
+    },
+    {
+      "name": "桑葚",
+      "profession": "医疗",
+      "avatar_url": "5星/桑葚.png",
+      "skills": [
+        "治愈云雾",
+        "安全区域"
+      ]
+    },
+    {
+      "name": "羽毛笔",
+      "profession": "近卫",
+      "avatar_url": "5星/羽毛笔.png",
+      "skills": [
+        "高速切割",
+        "收割"
+      ]
+    },
+    {
+      "name": "龙舌兰",
+      "profession": "近卫",
+      "avatar_url": "5星/龙舌兰.png",
+      "skills": [
+        "当机立断",
+        "剑走偏锋"
+      ]
+    },
+    {
+      "name": "绮良",
+      "profession": "特种",
+      "avatar_url": "5星/绮良.png",
+      "skills": [
+        "锚击",
+        "锚点捕捉"
+      ]
+    },
+    {
+      "name": "贝娜",
+      "profession": "特种",
+      "avatar_url": "5星/贝娜.png",
+      "skills": [
+        "奋力修剪",
+        "快速修剪"
+      ]
+    },
+    {
+      "name": "赤冬",
+      "profession": "近卫",
+      "avatar_url": "5星/赤冬.png",
+      "skills": [
+        "信影流·雷刀之势",
+        "信影流·十文字胜"
+      ]
+    },
+    {
+      "name": "熔泉",
+      "profession": "狙击",
+      "avatar_url": "5星/熔泉.png",
+      "skills": [
+        "信号矢",
+        "便携破城矢"
+      ]
+    },
+    {
+      "name": "暴雨",
+      "profession": "重装",
+      "avatar_url": "5星/暴雨.png",
+      "skills": [
+        "应急迷彩",
+        "群体迷彩"
+      ]
+    },
+    {
+      "name": "霜华",
+      "profession": "特种",
+      "avatar_url": "5星/霜华.png",
+      "skills": [
+        "陷阱部署",
+        "击倒猎物"
+      ]
+    },
+    {
+      "name": "闪击",
+      "profession": "重装",
+      "avatar_url": "5星/闪击.png",
+      "skills": [
+        "闪光护盾",
+        "突破防线"
+      ]
+    },
+    {
+      "name": "战车",
+      "profession": "近卫",
+      "avatar_url": "5星/战车.png",
+      "skills": [
+        "燃烧榴弹",
+        "倾泻弹药"
+      ]
+    },
+    {
+      "name": "乌有",
+      "profession": "特种",
+      "avatar_url": "5星/乌有.png",
+      "skills": [
+        "知难而退",
+        "阴晴圆缺"
+      ]
+    },
+    {
+      "name": "炎狱炎熔",
+      "profession": "术师",
+      "avatar_url": "5星/炎狱炎熔.png",
+      "skills": [
+        "焰淬匕首",
+        "狱火之环"
+      ]
+    },
+    {
+      "name": "图耶",
+      "profession": "医疗",
+      "avatar_url": "5星/图耶.png",
+      "skills": [
+        "水流环",
+        "强心剂"
+      ]
+    },
+    {
+      "name": "爱丽丝",
+      "profession": "术师",
+      "avatar_url": "5星/爱丽丝.png",
+      "skills": [
+        "童话守卫者",
+        "梦乡摇篮"
+      ]
+    },
+    {
+      "name": "卡夫卡",
+      "profession": "特种",
+      "avatar_url": "5星/卡夫卡.png",
+      "skills": [
+        "怪异魔方",
+        "诡异剪刀"
+      ]
+    },
+    {
+      "name": "罗宾",
+      "profession": "特种",
+      "avatar_url": "5星/罗宾.png",
+      "skills": [
+        "束缚“夹子”",
+        "弹射“夹子”"
+      ]
+    },
+    {
+      "name": "阿米娅(近卫)",
+      "profession": "近卫",
+      "avatar_url": "5星/阿米娅(近卫).png",
+      "skills": [
+        "影霄·奔夜",
+        "影霄·绝影"
+      ]
+    },
+    {
+      "name": "絮雨",
+      "profession": "医疗",
+      "avatar_url": "5星/絮雨.png",
+      "skills": [
+        "定向诊断",
+        "痛觉抑制"
+      ]
+    },
+    {
+      "name": "奥斯塔",
+      "profession": "狙击",
+      "avatar_url": "5星/奥斯塔.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "影钉"
+      ]
+    },
+    {
+      "name": "鞭刃",
+      "profession": "近卫",
+      "avatar_url": "5星/鞭刃.png",
+      "skills": [
+        "激励艺术",
+        "鞭刃"
+      ]
+    },
+    {
+      "name": "四月",
+      "profession": "狙击",
+      "avatar_url": "5星/四月.png",
+      "skills": [
+        "精准射击",
+        "灵活伪装"
+      ]
+    },
+    {
+      "name": "薄绿",
+      "profession": "术师",
+      "avatar_url": "5星/薄绿.png",
+      "skills": [
+        "风语",
+        "聚能涡旋"
+      ]
+    },
+    {
+      "name": "燧石",
+      "profession": "近卫",
+      "avatar_url": "5星/燧石.png",
+      "skills": [
+        "不息",
+        "锋芒毕露"
+      ]
+    },
+    {
+      "name": "特米米",
+      "profession": "术师",
+      "avatar_url": "5星/特米米.png",
+      "skills": [
+        "部族技艺",
+        "嘉维尔保护方案"
+      ]
+    },
+    {
+      "name": "安哲拉",
+      "profession": "狙击",
+      "avatar_url": "5星/安哲拉.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "阻滞射击战术"
+      ]
+    },
+    {
+      "name": "贾维",
+      "profession": "先锋",
+      "avatar_url": "5星/贾维.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "火焰剥离"
+      ]
+    },
+    {
+      "name": "蜜蜡",
+      "profession": "术师",
+      "avatar_url": "5星/蜜蜡.png",
+      "skills": [
+        "沙暴扩散",
+        "守卫尖碑"
+      ]
+    },
+    {
+      "name": "稀音",
+      "profession": "辅助",
+      "avatar_url": "5星/稀音.png",
+      "skills": [
+        "保护色隐蔽",
+        "全景过载摄像"
+      ]
+    },
+    {
+      "name": "断崖",
+      "profession": "近卫",
+      "avatar_url": "5星/断崖.png",
+      "skills": [
+        "多导向散射弹丸",
+        "浮游刃启动"
+      ]
+    },
+    {
+      "name": "亚叶",
+      "profession": "医疗",
+      "avatar_url": "5星/亚叶.png",
+      "skills": [
+        "最大剂量输注",
+        "复合型药物弹片"
+      ]
+    },
+    {
+      "name": "莱恩哈特",
+      "profession": "术师",
+      "avatar_url": "5星/莱恩哈特.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "解构与爆破"
+      ]
+    },
+    {
+      "name": "苦艾",
+      "profession": "术师",
+      "avatar_url": "5星/苦艾.png",
+      "skills": [
+        "执法模式",
+        "终结连射"
+      ]
+    },
+    {
+      "name": "月禾",
+      "profession": "辅助",
+      "avatar_url": "5星/月禾.png",
+      "skills": [
+        "迹无",
+        "森廻"
+      ]
+    },
+    {
+      "name": "石棉",
+      "profession": "重装",
+      "avatar_url": "5星/石棉.png",
+      "skills": [
+        "固守模式",
+        "火电模式"
+      ]
+    },
+    {
+      "name": "极境",
+      "profession": "先锋",
+      "avatar_url": "5星/极境.png",
+      "skills": [
+        "支援号令·γ型",
+        "聆听"
+      ]
+    },
+    {
+      "name": "巫恋",
+      "profession": "辅助",
+      "avatar_url": "5星/巫恋.png",
+      "skills": [
+        "病入膏肓",
+        "诅咒娃娃"
+      ]
+    },
+    {
+      "name": "铸铁",
+      "profession": "近卫",
+      "avatar_url": "5星/铸铁.png",
+      "skills": [
+        "生命回复·γ型",
+        "破浪回神"
+      ]
+    },
+    {
+      "name": "慑砂",
+      "profession": "狙击",
+      "avatar_url": "5星/慑砂.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "延时震荡零件"
+      ]
+    },
+    {
+      "name": "柏喙",
+      "profession": "近卫",
+      "avatar_url": "5星/柏喙.png",
+      "skills": [
+        "飞针剑羽",
+        "异刃斩"
+      ]
+    },
+    {
+      "name": "惊蛰",
+      "profession": "术师",
+      "avatar_url": "5星/惊蛰.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "初雷"
+      ]
+    },
+    {
+      "name": "吽",
+      "profession": "重装",
+      "avatar_url": "5星/吽.png",
+      "skills": [
+        "反制治疗",
+        "反制医疗模式"
+      ]
+    },
+    {
+      "name": "雪雉",
+      "profession": "特种",
+      "avatar_url": "5星/雪雉.png",
+      "skills": [
+        "倒刺钩爪",
+        "伸缩式电捕网"
+      ]
+    },
+    {
+      "name": "灰喉",
+      "profession": "狙击",
+      "avatar_url": "5星/灰喉.png",
+      "skills": [
+        "飞羽",
+        "回流"
+      ]
+    },
+    {
+      "name": "布洛卡",
+      "profession": "近卫",
+      "avatar_url": "5星/布洛卡.png",
+      "skills": [
+        "通电",
+        "高压电流"
+      ]
+    },
+    {
+      "name": "苇草",
+      "profession": "先锋",
+      "avatar_url": "5星/苇草.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "生灵火花"
+      ]
+    },
+    {
+      "name": "槐琥",
+      "profession": "特种",
+      "avatar_url": "5星/槐琥.png",
+      "skills": [
+        "寸劲",
+        "七武掠阵踢"
+      ]
+    },
+    {
+      "name": "拜松",
+      "profession": "重装",
+      "avatar_url": "5星/拜松.png",
+      "skills": [
+        "防御力强化·γ型",
+        "深化阵线"
+      ]
+    },
+    {
+      "name": "微风",
+      "profession": "医疗",
+      "avatar_url": "5星/微风.png",
+      "skills": [
+        "集束疗法",
+        "扩散疗法"
+      ]
+    },
+    {
+      "name": "送葬人",
+      "profession": "狙击",
+      "avatar_url": "5星/送葬人.png",
+      "skills": [
+        "铳口收束",
+        "最终旅程"
+      ]
+    },
+    {
+      "name": "炎客",
+      "profession": "近卫",
+      "avatar_url": "5星/炎客.png",
+      "skills": [
+        "歃血",
+        "刃鬼"
+      ]
+    },
+    {
+      "name": "星极",
+      "profession": "近卫",
+      "avatar_url": "5星/星极.png",
+      "skills": [
+        "星座守护",
+        "星辉剑"
+      ]
+    },
+    {
+      "name": "格劳克斯",
+      "profession": "辅助",
+      "avatar_url": "5星/格劳克斯.png",
+      "skills": [
+        "双线装填",
+        "反制电磁脉冲"
+      ]
+    },
+    {
+      "name": "锡兰",
+      "profession": "医疗",
+      "avatar_url": "5星/锡兰.png",
+      "skills": [
+        "集中式水疗",
+        "水灵庇护"
+      ]
+    },
+    {
+      "name": "诗怀雅",
+      "profession": "近卫",
+      "avatar_url": "5星/诗怀雅.png",
+      "skills": [
+        "指挥调度",
+        "协同作战"
+      ]
+    },
+    {
+      "name": "格拉尼",
+      "profession": "先锋",
+      "avatar_url": "5星/格拉尼.png",
+      "skills": [
+        "防御力强化·γ型",
+        "永不后退！"
+      ]
+    },
+    {
+      "name": "夜魔",
+      "profession": "术师",
+      "avatar_url": "5星/夜魔.png",
+      "skills": [
+        "灵魂汲取",
+        "夜魇魔影"
+      ]
+    },
+    {
+      "name": "暴行",
+      "profession": "近卫",
+      "avatar_url": "5星/暴行.png",
+      "skills": [
+        "强力击·β型",
+        "微差爆破"
+      ]
+    },
+    {
+      "name": "食铁兽",
+      "profession": "特种",
+      "avatar_url": "5星/食铁兽.png",
+      "skills": [
+        "铁意六合",
+        "崩拳式"
+      ]
+    },
+    {
+      "name": "狮蝎",
+      "profession": "特种",
+      "avatar_url": "5星/狮蝎.png",
+      "skills": [
+        "蝎毒",
+        "蓄力毒尾击"
+      ]
+    },
+    {
+      "name": "空",
+      "profession": "辅助",
+      "avatar_url": "5星/空.png",
+      "skills": [
+        "睡眠之歌",
+        "战斗之歌"
+      ]
+    },
+    {
+      "name": "真理",
+      "profession": "辅助",
+      "avatar_url": "5星/真理.png",
+      "skills": [
+        "专心致志",
+        "文学风暴"
+      ]
+    },
+    {
+      "name": "初雪",
+      "profession": "辅助",
+      "avatar_url": "5星/初雪.png",
+      "skills": [
+        "传音回响",
+        "自然震慑"
+      ]
+    },
+    {
+      "name": "崖心",
+      "profession": "特种",
+      "avatar_url": "5星/崖心.png",
+      "skills": [
+        "锁链勾爪",
+        "束缚链"
+      ]
+    },
+    {
+      "name": "守林人",
+      "profession": "狙击",
+      "avatar_url": "5星/守林人.png",
+      "skills": [
+        "环境伪装",
+        "战术电台"
+      ]
+    },
+    {
+      "name": "普罗旺斯",
+      "profession": "狙击",
+      "avatar_url": "5星/普罗旺斯.png",
+      "skills": [
+        "狼眼",
+        "杀戮嗅觉"
+      ]
+    },
+    {
+      "name": "火神",
+      "profession": "重装",
+      "avatar_url": "5星/火神.png",
+      "skills": [
+        "坚守模式",
+        "武力模式"
+      ]
+    },
+    {
+      "name": "可颂",
+      "profession": "重装",
+      "avatar_url": "5星/可颂.png",
+      "skills": [
+        "自动防御",
+        "磁爆锤"
+      ]
+    },
+    {
+      "name": "雷蛇",
+      "profession": "重装",
+      "avatar_url": "5星/雷蛇.png",
+      "skills": [
+        "充能防御",
+        "反击电弧"
+      ]
+    },
+    {
+      "name": "红",
+      "profession": "特种",
+      "avatar_url": "5星/红.png",
+      "skills": [
+        "处决模式",
+        "狼群"
+      ]
+    },
+    {
+      "name": "临光",
+      "profession": "重装",
+      "avatar_url": "5星/临光.png",
+      "skills": [
+        "急救",
+        "急救模式"
+      ]
+    },
+    {
+      "name": "华法琳",
+      "profession": "医疗",
+      "avatar_url": "5星/华法琳.png",
+      "skills": [
+        "紧急包扎",
+        "不稳定血浆"
+      ]
+    },
+    {
+      "name": "赫默",
+      "profession": "医疗",
+      "avatar_url": "5星/赫默.png",
+      "skills": [
+        "治疗强化·γ型",
+        "医疗无人机"
+      ]
+    },
+    {
+      "name": "梅尔",
+      "profession": "辅助",
+      "avatar_url": "5星/梅尔.png",
+      "skills": [
+        "迷惑装置",
+        "爆破回收"
+      ]
+    },
+    {
+      "name": "天火",
+      "profession": "术师",
+      "avatar_url": "5星/天火.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "天坠之火"
+      ]
+    },
+    {
+      "name": "阿米娅",
+      "profession": "术师",
+      "avatar_url": "5星/阿米娅.png",
+      "skills": [
+        "战术咏唱·γ型",
+        "精神爆发",
+        "奇美拉"
+      ]
+    },
+    {
+      "name": "陨星",
+      "profession": "狙击",
+      "avatar_url": "5星/陨星.png",
+      "skills": [
+        "霰射弹头",
+        "高爆弹头"
+      ]
+    },
+    {
+      "name": "白金",
+      "profession": "狙击",
+      "avatar_url": "5星/白金.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "天马视域"
+      ]
+    },
+    {
+      "name": "蓝毒",
+      "profession": "狙击",
+      "avatar_url": "5星/蓝毒.png",
+      "skills": [
+        "二重射击·自动",
+        "毒液散射"
+      ]
+    },
+    {
+      "name": "幽灵鲨",
+      "profession": "近卫",
+      "avatar_url": "5星/幽灵鲨.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "肉斩骨断"
+      ]
+    },
+    {
+      "name": "拉普兰德",
+      "profession": "近卫",
+      "avatar_url": "5星/拉普兰德.png",
+      "skills": [
+        "日晷",
+        "狼魂"
+      ]
+    },
+    {
+      "name": "因陀罗",
+      "profession": "近卫",
+      "avatar_url": "5星/因陀罗.png",
+      "skills": [
+        "碎甲拳",
+        "裂魂"
+      ]
+    },
+    {
+      "name": "芙兰卡",
+      "profession": "近卫",
+      "avatar_url": "5星/芙兰卡.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "极致锋度"
+      ]
+    },
+    {
+      "name": "德克萨斯",
+      "profession": "先锋",
+      "avatar_url": "5星/德克萨斯.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "剑雨"
+      ]
+    },
+    {
+      "name": "凛冬",
+      "profession": "先锋",
+      "avatar_url": "5星/凛冬.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "乌萨斯战吼"
+      ]
+    },
+    {
+      "name": "白面鸮",
+      "profession": "医疗",
+      "avatar_url": "5星/白面鸮.png",
+      "skills": [
+        "治疗强化·γ型",
+        "脑啡肽"
+      ]
+    }
+  ],
+  "6星": [
+    {
+      "name": "予愿安洁莉娜",
+      "profession": "特种",
+      "avatar_url": "6星/予愿安洁莉娜.png",
+      "skills": [
+        "极速送达",
+        "重力自定义",
+        "酸橙的心事"
+      ]
+    },
+    {
+      "name": "珊比",
+      "profession": "重装",
+      "avatar_url": "6星/珊比.png",
+      "skills": [
+        "“还不走？”",
+        "“慢慢走~”",
+        "“不准走！”"
+      ]
+    },
+    {
+      "name": "机械师",
+      "profession": "重装",
+      "avatar_url": "6星/机械师.png",
+      "skills": [
+        "聚类分析",
+        "协防术式",
+        "工程学十字星"
+      ]
+    },
+    {
+      "name": "谬因",
+      "profession": "术师",
+      "avatar_url": "6星/谬因.png",
+      "skills": [
+        "连续映射",
+        "临界瞬爆",
+        "混沌的本质"
+      ]
+    },
+    {
+      "name": "焰狐龙梓兰",
+      "profession": "狙击",
+      "avatar_url": "6星/焰狐龙梓兰.png",
+      "skills": [
+        "刚射",
+        "飞翔瞪射",
+        "龙之箭"
+      ]
+    },
+    {
+      "name": "凯尔希·思衡托",
+      "profession": "医疗",
+      "avatar_url": "6星/凯尔希·思衡托.png",
+      "skills": [
+        "应急肃正防线",
+        "保护性拒止",
+        "破梏重生"
+      ]
+    },
+    {
+      "name": "可露希尔",
+      "profession": "先锋",
+      "avatar_url": "6星/可露希尔.png",
+      "skills": [
+        "递归策略",
+        "模型扩展",
+        "Q.E.D."
+      ]
+    },
+    {
+      "name": "维伊",
+      "profession": "术师",
+      "avatar_url": "6星/维伊.png",
+      "skills": [
+        "“自呼号生发”",
+        "“以鲜血洗去”",
+        "“用赤铁铭记”"
+      ]
+    },
+    {
+      "name": "怒潮凛冬",
+      "profession": "近卫",
+      "avatar_url": "6星/怒潮凛冬.png",
+      "skills": [
+        "誓不低头",
+        "绝不罢休",
+        "无可抵挡"
+      ]
+    },
+    {
+      "name": "贝洛内",
+      "profession": "近卫",
+      "avatar_url": "6星/贝洛内.png",
+      "skills": [
+        "家主的余裕",
+        "军师的手段",
+        "清算"
+      ]
+    },
+    {
+      "name": "望",
+      "profession": "特种",
+      "avatar_url": "6星/望.png",
+      "skills": [
+        "取势",
+        "连星",
+        "天下劫"
+      ]
+    },
+    {
+      "name": "赤刃明霄陈",
+      "profession": "近卫",
+      "avatar_url": "6星/赤刃明霄陈.png",
+      "skills": [
+        "赤霄·奔夜",
+        "赤霄·绝影-驰",
+        "赤霄·天喟"
+      ]
+    },
+    {
+      "name": "缇缇",
+      "profession": "医疗",
+      "avatar_url": "6星/缇缇.png",
+      "skills": [
+        "缓蚀",
+        "封护",
+        "旧日绽放"
+      ]
+    },
+    {
+      "name": "娜斯提",
+      "profession": "辅助",
+      "avatar_url": "6星/娜斯提.png",
+      "skills": [
+        "“拱卫”",
+        "“执行”",
+        "栖脚地"
+      ]
+    },
+    {
+      "name": "凛御银灰",
+      "profession": "先锋",
+      "avatar_url": "6星/凛御银灰.png",
+      "skills": [
+        "周旋的谋略",
+        "御敌的锋锐",
+        "变革已至"
+      ]
+    },
+    {
+      "name": "圣聆初雪",
+      "profession": "术师",
+      "avatar_url": "6星/圣聆初雪.png",
+      "skills": [
+        "铃音吹雪",
+        "霜涛覆岭",
+        "群山俯首"
+      ]
+    },
+    {
+      "name": "溯光星源",
+      "profession": "辅助",
+      "avatar_url": "6星/溯光星源.png",
+      "skills": [
+        "星图闪烁",
+        "星束引力",
+        "并流连锁"
+      ]
+    },
+    {
+      "name": "真言",
+      "profession": "术师",
+      "avatar_url": "6星/真言.png",
+      "skills": [
+        "共鸣溃缩",
+        "意识联协",
+        "无言为真"
+      ]
+    },
+    {
+      "name": "丰川祥子",
+      "profession": "近卫",
+      "avatar_url": "6星/丰川祥子.png",
+      "skills": [
+        "新月的苏醒",
+        "满月的舞会",
+        "残月的余响"
+      ]
+    },
+    {
+      "name": "斩业星熊",
+      "profession": "重装",
+      "avatar_url": "6星/斩业星熊.png",
+      "skills": [
+        "恶业苦果",
+        "无始无明",
+        "地狱变相"
+      ]
+    },
+    {
+      "name": "遥",
+      "profession": "辅助",
+      "avatar_url": "6星/遥.png",
+      "skills": [
+        "夜啼彩羽",
+        "幽隙栖萤",
+        "夏末游鳞"
+      ]
+    },
+    {
+      "name": "电弧",
+      "profession": "辅助",
+      "avatar_url": "6星/电弧.png",
+      "skills": [
+        "律动线",
+        "环形鳞地",
+        "手牵手"
+      ]
+    },
+    {
+      "name": "司霆惊蛰",
+      "profession": "近卫",
+      "avatar_url": "6星/司霆惊蛰.png",
+      "skills": [
+        "浩气长存",
+        "正霆摄威",
+        "天地通明"
+      ]
+    },
+    {
+      "name": "酒神",
+      "profession": "辅助",
+      "avatar_url": "6星/酒神.png",
+      "skills": [
+        "暗夜回声",
+        "群体性谵妄",
+        "空剧场"
+      ]
+    },
+    {
+      "name": "新约能天使",
+      "profession": "特种",
+      "avatar_url": "6星/新约能天使.png",
+      "skills": [
+        "天空大扫除",
+        "开火成瘾症",
+        "使命必达！"
+      ]
+    },
+    {
+      "name": "蕾缪安",
+      "profession": "狙击",
+      "avatar_url": "6星/蕾缪安.png",
+      "skills": [
+        "重逢问候",
+        "归乡邀约",
+        "礼炮·强制追思"
+      ]
+    },
+    {
+      "name": "信仰搅拌机",
+      "profession": "重装",
+      "avatar_url": "6星/信仰搅拌机.png",
+      "skills": [
+        "铳骑主考官",
+        "八臂电锯侠",
+        "退休前布道"
+      ]
+    },
+    {
+      "name": "Mon3tr",
+      "profession": "医疗",
+      "avatar_url": "6星/Mon3tr.png",
+      "skills": [
+        "策略：超压链接",
+        "策略：超负荷",
+        "策略：熔毁"
+      ]
+    },
+    {
+      "name": "死芒",
+      "profession": "术师",
+      "avatar_url": "6星/死芒.png",
+      "skills": [
+        "噩愿",
+        "折朽",
+        "冠死以冕"
+      ]
+    },
+    {
+      "name": "隐德来希",
+      "profession": "近卫",
+      "avatar_url": "6星/隐德来希.png",
+      "skills": [
+        "玫影觅迹",
+        "绯红壁合",
+        "灵与欲的惜别"
+      ]
+    },
+    {
+      "name": "余",
+      "profession": "重装",
+      "avatar_url": "6星/余.png",
+      "skills": [
+        "今日做东",
+        "厚礼上宾",
+        "灶里乾坤"
+      ]
+    },
+    {
+      "name": "烛煌",
+      "profession": "术师",
+      "avatar_url": "6星/烛煌.png",
+      "skills": [
+        "炙手之援",
+        "沸血燎原",
+        "众恶的焚场"
+      ]
+    },
+    {
+      "name": "引星棘刺",
+      "profession": "特种",
+      "avatar_url": "6星/引星棘刺.png",
+      "skills": [
+        "度算浪波",
+        "解构涌潮",
+        "“我的海疆”"
+      ]
+    },
+    {
+      "name": "荒芜拉普兰德",
+      "profession": "术师",
+      "avatar_url": "6星/荒芜拉普兰德.png",
+      "skills": [
+        "慵怠者悲鸣",
+        "逐猎狂飙",
+        "终幕·浩劫"
+      ]
+    },
+    {
+      "name": "忍冬",
+      "profession": "先锋",
+      "avatar_url": "6星/忍冬.png",
+      "skills": [
+        "小施惩戒",
+        "坠刃拷问",
+        "隐狐之艺"
+      ]
+    },
+    {
+      "name": "弑君者",
+      "profession": "特种",
+      "avatar_url": "6星/弑君者.png",
+      "skills": [
+        "尘烟蔽目",
+        "硝烟震爆",
+        "烽烟行刑场"
+      ]
+    },
+    {
+      "name": "维娜·维多利亚",
+      "profession": "近卫",
+      "avatar_url": "6星/维娜·维多利亚.png",
+      "skills": [
+        "重铸晖光",
+        "进赴故土",
+        "俱以我之名"
+      ]
+    },
+    {
+      "name": "玛露西尔",
+      "profession": "术师",
+      "avatar_url": "6星/玛露西尔.png",
+      "skills": [
+        "才女的实力",
+        "召唤使魔",
+        "爆破魔法"
+      ]
+    },
+    {
+      "name": "佩佩",
+      "profession": "近卫",
+      "avatar_url": "6星/佩佩.png",
+      "skills": [
+        "盖戳！",
+        "阻遏混乱锤",
+        "时光震荡"
+      ]
+    },
+    {
+      "name": "娜仁图亚",
+      "profession": "狙击",
+      "avatar_url": "6星/娜仁图亚.png",
+      "skills": [
+        "旋刃",
+        "恶魇",
+        "吞日"
+      ]
+    },
+    {
+      "name": "妮芙",
+      "profession": "术师",
+      "avatar_url": "6星/妮芙.png",
+      "skills": [
+        "笞心击",
+        "怵然震爆",
+        "心防溃决"
+      ]
+    },
+    {
+      "name": "乌尔比安",
+      "profession": "近卫",
+      "avatar_url": "6星/乌尔比安.png",
+      "skills": [
+        "必须促成的接触",
+        "必须维系的界限",
+        "必须开辟的通路"
+      ]
+    },
+    {
+      "name": "维什戴尔",
+      "profession": "狙击",
+      "avatar_url": "6星/维什戴尔.png",
+      "skills": [
+        "定点清算",
+        "饱和复仇",
+        "爆裂黎明"
+      ]
+    },
+    {
+      "name": "逻各斯",
+      "profession": "术师",
+      "avatar_url": "6星/逻各斯.png",
+      "skills": [
+        "殁亡",
+        "提喻",
+        "延异视阈"
+      ]
+    },
+    {
+      "name": "魔王",
+      "profession": "辅助",
+      "avatar_url": "6星/魔王.png",
+      "skills": [
+        "往昔萦绕身旁",
+        "明日渺远不及",
+        "编织重构现世"
+      ]
+    },
+    {
+      "name": "阿斯卡纶",
+      "profession": "特种",
+      "avatar_url": "6星/阿斯卡纶.png",
+      "skills": [
+        "追袭",
+        "恩赐",
+        "降临"
+      ]
+    },
+    {
+      "name": "艾拉",
+      "profession": "特种",
+      "avatar_url": "6星/艾拉.png",
+      "skills": [
+        "眩目阻滞",
+        "震荡坚守",
+        "“博萨克风暴”"
+      ]
+    },
+    {
+      "name": "黍",
+      "profession": "重装",
+      "avatar_url": "6星/黍.png",
+      "skills": [
+        "化被草木",
+        "嘉禾盈仓",
+        "离离枯荣"
+      ]
+    },
+    {
+      "name": "左乐",
+      "profession": "近卫",
+      "avatar_url": "6星/左乐.png",
+      "skills": [
+        "破虏",
+        "行险",
+        "佑序有炎"
+      ]
+    },
+    {
+      "name": "莱伊",
+      "profession": "狙击",
+      "avatar_url": "6星/莱伊.png",
+      "skills": [
+        "脱身矢",
+        "广域警觉",
+        "“得见光芒”"
+      ]
+    },
+    {
+      "name": "锏",
+      "profession": "近卫",
+      "avatar_url": "6星/锏.png",
+      "skills": [
+        "纯粹的武力",
+        "无声的嘲笑",
+        "归于宁静"
+      ]
+    },
+    {
+      "name": "塑心",
+      "profession": "辅助",
+      "avatar_url": "6星/塑心.png",
+      "skills": [
+        "“黄金的狂喜”",
+        "“安魂的弥撒”",
+        "“自由的探戈”"
+      ]
+    },
+    {
+      "name": "薇薇安娜",
+      "profession": "近卫",
+      "avatar_url": "6星/薇薇安娜.png",
+      "skills": [
+        "光影迅捷剑",
+        "烛燃影息",
+        "“明灭”"
+      ]
+    },
+    {
+      "name": "止颂",
+      "profession": "近卫",
+      "avatar_url": "6星/止颂.png",
+      "skills": [
+        "强力击·γ型",
+        "虔修对决",
+        "苦修破誓"
+      ]
+    },
+    {
+      "name": "赫德雷",
+      "profession": "近卫",
+      "avatar_url": "6星/赫德雷.png",
+      "skills": [
+        "重锋不熄",
+        "余烬重荷",
+        "死境硝烟"
+      ]
+    },
+    {
+      "name": "涤火杰西卡",
+      "profession": "重装",
+      "avatar_url": "6星/涤火杰西卡.png",
+      "skills": [
+        "坚守阵线",
+        "掩蔽护卫",
+        "饱和迸射"
+      ]
+    },
+    {
+      "name": "纯烬艾雅法拉",
+      "profession": "医疗",
+      "avatar_url": "6星/纯烬艾雅法拉.png",
+      "skills": [
+        "无声润物",
+        "云霭荫佑",
+        "火山回响"
+      ]
+    },
+    {
+      "name": "琳琅诗怀雅",
+      "profession": "特种",
+      "avatar_url": "6星/琳琅诗怀雅.png",
+      "skills": [
+        "仗义疏财",
+        "“见面礼”",
+        "千金一掷"
+      ]
+    },
+    {
+      "name": "提丰",
+      "profession": "狙击",
+      "avatar_url": "6星/提丰.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "冰原秩序",
+        "“永恒狩猎”"
+      ]
+    },
+    {
+      "name": "圣约送葬人",
+      "profession": "近卫",
+      "avatar_url": "6星/圣约送葬人.png",
+      "skills": [
+        "遗嘱执行",
+        "近身铳斗",
+        "圣约决裁"
+      ]
+    },
+    {
+      "name": "缪尔赛思",
+      "profession": "先锋",
+      "avatar_url": "6星/缪尔赛思.png",
+      "skills": [
+        "渐进性润化",
+        "生态耦合",
+        "浅层非熵适应"
+      ]
+    },
+    {
+      "name": "霍尔海雅",
+      "profession": "术师",
+      "avatar_url": "6星/霍尔海雅.png",
+      "skills": [
+        "但为求索",
+        "群星逶迤",
+        "博览者的狂语"
+      ]
+    },
+    {
+      "name": "淬羽赫默",
+      "profession": "辅助",
+      "avatar_url": "6星/淬羽赫默.png",
+      "skills": [
+        "进取之心",
+        "俯瞰视界",
+        "无畏者协议"
+      ]
+    },
+    {
+      "name": "伊内丝",
+      "profession": "先锋",
+      "avatar_url": "6星/伊内丝.png",
+      "skills": [
+        "淬影突袭",
+        "暗夜无明",
+        "独影归途"
+      ]
+    },
+    {
+      "name": "麒麟R夜刀",
+      "profession": "特种",
+      "avatar_url": "6星/麒麟R夜刀.png",
+      "skills": [
+        "鬼人化",
+        "乱舞",
+        "空中回旋乱舞"
+      ]
+    },
+    {
+      "name": "仇白",
+      "profession": "近卫",
+      "avatar_url": "6星/仇白.png",
+      "skills": [
+        "留羽",
+        "承影",
+        "问雪"
+      ]
+    },
+    {
+      "name": "重岳",
+      "profession": "近卫",
+      "avatar_url": "6星/重岳.png",
+      "skills": [
+        "冲盈",
+        "拂尘",
+        "我无"
+      ]
+    },
+    {
+      "name": "林",
+      "profession": "术师",
+      "avatar_url": "6星/林.png",
+      "skills": [
+        "玲珑",
+        "荫庇",
+        "流光乍裂"
+      ]
+    },
+    {
+      "name": "焰影苇草",
+      "profession": "医疗",
+      "avatar_url": "6星/焰影苇草.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "枯荣共息",
+        "生命火种"
+      ]
+    },
+    {
+      "name": "缄默德克萨斯",
+      "profession": "特种",
+      "avatar_url": "6星/缄默德克萨斯.png",
+      "skills": [
+        "细雨无声",
+        "阵雨连绵",
+        "剑雨滂沱"
+      ]
+    },
+    {
+      "name": "斥罪",
+      "profession": "重装",
+      "avatar_url": "6星/斥罪.png",
+      "skills": [
+        "一锤定音",
+        "坚心苦修",
+        "披荆斩棘"
+      ]
+    },
+    {
+      "name": "伺夜",
+      "profession": "先锋",
+      "avatar_url": "6星/伺夜.png",
+      "skills": [
+        "领袖的呼唤",
+        "领袖的馈赠",
+        "领袖的尊严"
+      ]
+    },
+    {
+      "name": "白铁",
+      "profession": "辅助",
+      "avatar_url": "6星/白铁.png",
+      "skills": [
+        "极致火力",
+        "高效补给",
+        "铁钳号·原型机"
+      ]
+    },
+    {
+      "name": "玛恩纳",
+      "profession": "近卫",
+      "avatar_url": "6星/玛恩纳.png",
+      "skills": [
+        "未声张的怒火",
+        "未宽解的悲哀",
+        "未照耀的荣光"
+      ]
+    },
+    {
+      "name": "百炼嘉维尔",
+      "profession": "近卫",
+      "avatar_url": "6星/百炼嘉维尔.png",
+      "skills": [
+        "精准痛击",
+        "链锯强袭",
+        "丛林之魂"
+      ]
+    },
+    {
+      "name": "鸿雪",
+      "profession": "狙击",
+      "avatar_url": "6星/鸿雪.png",
+      "skills": [
+        "抑扬格",
+        "点题",
+        "锐笔速写"
+      ]
+    },
+    {
+      "name": "多萝西",
+      "profession": "特种",
+      "avatar_url": "6星/多萝西.png",
+      "skills": [
+        "危险目标清除",
+        "流沙区域生成",
+        "高速共振排障"
+      ]
+    },
+    {
+      "name": "黑键",
+      "profession": "术师",
+      "avatar_url": "6星/黑键.png",
+      "skills": [
+        "渐快急板",
+        "荒芜回响",
+        "寂静之声"
+      ]
+    },
+    {
+      "name": "归溟幽灵鲨",
+      "profession": "特种",
+      "avatar_url": "6星/归溟幽灵鲨.png",
+      "skills": [
+        "生存的技巧",
+        "生存的渴望",
+        "生存的重压"
+      ]
+    },
+    {
+      "name": "艾丽妮",
+      "profession": "近卫",
+      "avatar_url": "6星/艾丽妮.png",
+      "skills": [
+        "起风",
+        "裂潮",
+        "判决"
+      ]
+    },
+    {
+      "name": "流明",
+      "profession": "医疗",
+      "avatar_url": "6星/流明.png",
+      "skills": [
+        "沐雨",
+        "沛霖",
+        "灯火不灭"
+      ]
+    },
+    {
+      "name": "号角",
+      "profession": "重装",
+      "avatar_url": "6星/号角.png",
+      "skills": [
+        "照明榴弹",
+        "暴风号令",
+        "终极防线"
+      ]
+    },
+    {
+      "name": "菲亚梅塔",
+      "profession": "狙击",
+      "avatar_url": "6星/菲亚梅塔.png",
+      "skills": [
+        "“你须直面”",
+        "“你须愧悔”",
+        "“你须偿还”"
+      ]
+    },
+    {
+      "name": "澄闪",
+      "profession": "术师",
+      "avatar_url": "6星/澄闪.png",
+      "skills": [
+        "火花四溅",
+        "电流翻涌",
+        "澄净闪耀"
+      ]
+    },
+    {
+      "name": "令",
+      "profession": "辅助",
+      "avatar_url": "6星/令.png",
+      "skills": [
+        "重进酒",
+        "笑鸣瑟",
+        "宁作吾"
+      ]
+    },
+    {
+      "name": "老鲤",
+      "profession": "特种",
+      "avatar_url": "6星/老鲤.png",
+      "skills": [
+        "小惩大诫",
+        "驱凶辟邪",
+        "贵客盈门"
+      ]
+    },
+    {
+      "name": "灵知",
+      "profession": "辅助",
+      "avatar_url": "6星/灵知.png",
+      "skills": [
+        "高速思考",
+        "零度爆发",
+        "失温症"
+      ]
+    },
+    {
+      "name": "耀骑士临光",
+      "profession": "近卫",
+      "avatar_url": "6星/耀骑士临光.png",
+      "skills": [
+        "灿焰长刃",
+        "逐夜烁光",
+        "耀阳颔首"
+      ]
+    },
+    {
+      "name": "焰尾",
+      "profession": "先锋",
+      "avatar_url": "6星/焰尾.png",
+      "skills": [
+        "迅敏直觉",
+        "“红松林”",
+        "焰心"
+      ]
+    },
+    {
+      "name": "远牙",
+      "profession": "狙击",
+      "avatar_url": "6星/远牙.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "同盟支援",
+        "光羽箭"
+      ]
+    },
+    {
+      "name": "琴柳",
+      "profession": "先锋",
+      "avatar_url": "6星/琴柳.png",
+      "skills": [
+        "支援号令·γ型",
+        "信仰传承",
+        "光辉旗帜"
+      ]
+    },
+    {
+      "name": "假日威龙陈",
+      "profession": "狙击",
+      "avatar_url": "6星/假日威龙陈.png",
+      "skills": [
+        "高压冲击",
+        "“堇青之夜”",
+        "“假日风暴”"
+      ]
+    },
+    {
+      "name": "水月",
+      "profession": "特种",
+      "avatar_url": "6星/水月.png",
+      "skills": [
+        "唤醒",
+        "囚徒困境",
+        "镜花水月"
+      ]
+    },
+    {
+      "name": "帕拉斯",
+      "profession": "近卫",
+      "avatar_url": "6星/帕拉斯.png",
+      "skills": [
+        "胜利的连击",
+        "信念的长鞭",
+        "英勇的祝福"
+      ]
+    },
+    {
+      "name": "卡涅利安",
+      "profession": "术师",
+      "avatar_url": "6星/卡涅利安.png",
+      "skills": [
+        "沙暴守卫",
+        "沙缚镣锁",
+        "食噬之印"
+      ]
+    },
+    {
+      "name": "浊心斯卡蒂",
+      "profession": "辅助",
+      "avatar_url": "6星/浊心斯卡蒂.png",
+      "skills": [
+        "同归殊途之吟",
+        "同葬无光之愿",
+        "\"潮涌，潮枯\""
+      ]
+    },
+    {
+      "name": "凯尔希",
+      "profession": "医疗",
+      "avatar_url": "6星/凯尔希.png",
+      "skills": [
+        "指令：结构加固",
+        "指令：战术协同",
+        "指令：熔毁"
+      ]
+    },
+    {
+      "name": "歌蕾蒂娅",
+      "profession": "特种",
+      "avatar_url": "6星/歌蕾蒂娅.png",
+      "skills": [
+        "缺水的大洋裂断",
+        "缺水的掌握怒海",
+        "缺水的碎漩狂舞"
+      ]
+    },
+    {
+      "name": "异客",
+      "profession": "术师",
+      "avatar_url": "6星/异客.png",
+      "skills": [
+        "电能之触",
+        "聚焦指令",
+        "辉煌裂片"
+      ]
+    },
+    {
+      "name": "灰烬",
+      "profession": "狙击",
+      "avatar_url": "6星/灰烬.png",
+      "skills": [
+        "支援射击",
+        "突击战术",
+        "攻坚榴弹"
+      ]
+    },
+    {
+      "name": "夕",
+      "profession": "术师",
+      "avatar_url": "6星/夕.png",
+      "skills": [
+        "工笔入化",
+        "泼墨淋漓",
+        "写意胜形"
+      ]
+    },
+    {
+      "name": "嵯峨",
+      "profession": "先锋",
+      "avatar_url": "6星/嵯峨.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "除恶",
+        "怒目"
+      ]
+    },
+    {
+      "name": "空弦",
+      "profession": "狙击",
+      "avatar_url": "6星/空弦.png",
+      "skills": [
+        "箭矢·散逸",
+        "箭矢·追猎",
+        "箭矢·暴风"
+      ]
+    },
+    {
+      "name": "山",
+      "profession": "近卫",
+      "avatar_url": "6星/山.png",
+      "skills": [
+        "左勾扫拳",
+        "横扫架势",
+        "震地碎岩击"
+      ]
+    },
+    {
+      "name": "迷迭香",
+      "profession": "狙击",
+      "avatar_url": "6星/迷迭香.png",
+      "skills": [
+        "思维膨大",
+        "末梢阻断",
+        "“如你所愿”"
+      ]
+    },
+    {
+      "name": "泥岩",
+      "profession": "重装",
+      "avatar_url": "6星/泥岩.png",
+      "skills": [
+        "防御力强化·γ型",
+        "岩崩锤",
+        "秽壤的血脉"
+      ]
+    },
+    {
+      "name": "瑕光",
+      "profession": "重装",
+      "avatar_url": "6星/瑕光.png",
+      "skills": [
+        "光芒涌动",
+        "慑敌辉光",
+        "先贤化身"
+      ]
+    },
+    {
+      "name": "史尔特尔",
+      "profession": "近卫",
+      "avatar_url": "6星/史尔特尔.png",
+      "skills": [
+        "烈焰魔剑",
+        "熔核巨影",
+        "黄昏"
+      ]
+    },
+    {
+      "name": "森蚺",
+      "profession": "重装",
+      "avatar_url": "6星/森蚺.png",
+      "skills": [
+        "轻型挂斧",
+        "震慑劈砍",
+        "钢铁意志"
+      ]
+    },
+    {
+      "name": "棘刺",
+      "profession": "近卫",
+      "avatar_url": "6星/棘刺.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "护身尖刺",
+        "至高之术"
+      ]
+    },
+    {
+      "name": "铃兰",
+      "profession": "辅助",
+      "avatar_url": "6星/铃兰.png",
+      "skills": [
+        "全力以赴",
+        "儿时的舞乐",
+        "狐火渺然"
+      ]
+    },
+    {
+      "name": "早露",
+      "profession": "狙击",
+      "avatar_url": "6星/早露.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "分裂射击",
+        "雪崩击"
+      ]
+    },
+    {
+      "name": "W",
+      "profession": "狙击",
+      "avatar_url": "6星/W.png",
+      "skills": [
+        "红桃K",
+        "惊吓盒子",
+        "D12"
+      ]
+    },
+    {
+      "name": "温蒂",
+      "profession": "特种",
+      "avatar_url": "6星/温蒂.png",
+      "skills": [
+        "炮管敲击",
+        "水炮模式",
+        "液氮大炮"
+      ]
+    },
+    {
+      "name": "傀影",
+      "profession": "特种",
+      "avatar_url": "6星/傀影.png",
+      "skills": [
+        "暗夜魅影",
+        "血色乐章",
+        "夜幕突袭"
+      ]
+    },
+    {
+      "name": "风笛",
+      "profession": "先锋",
+      "avatar_url": "6星/风笛.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "高效冲击",
+        "闭膛连发"
+      ]
+    },
+    {
+      "name": "刻俄柏",
+      "profession": "术师",
+      "avatar_url": "6星/刻俄柏.png",
+      "skills": [
+        "“很冰的斧”",
+        "“很热的刀”",
+        "“很重的枪”"
+      ]
+    },
+    {
+      "name": "年",
+      "profession": "重装",
+      "avatar_url": "6星/年.png",
+      "skills": [
+        "锡灼",
+        "铜印",
+        "铁御"
+      ]
+    },
+    {
+      "name": "阿",
+      "profession": "特种",
+      "avatar_url": "6星/阿.png",
+      "skills": [
+        "快速射击",
+        "爆发剂·γ型",
+        "爆发剂·榴莲味"
+      ]
+    },
+    {
+      "name": "煌",
+      "profession": "近卫",
+      "avatar_url": "6星/煌.png",
+      "skills": [
+        "强力击·γ型",
+        "链锯延伸模块",
+        "沸腾爆裂"
+      ]
+    },
+    {
+      "name": "莫斯提马",
+      "profession": "术师",
+      "avatar_url": "6星/莫斯提马.png",
+      "skills": [
+        "攻击力强化·γ型",
+        "荒时之锁",
+        "序时之匙"
+      ]
+    },
+    {
+      "name": "麦哲伦",
+      "profession": "辅助",
+      "avatar_url": "6星/麦哲伦.png",
+      "skills": [
+        "高效制冷模块",
+        "激光开采模块",
+        "武装打击模块"
+      ]
+    },
+    {
+      "name": "赫拉格",
+      "profession": "近卫",
+      "avatar_url": "6星/赫拉格.png",
+      "skills": [
+        "新月",
+        "弦月",
+        "满月"
+      ]
+    },
+    {
+      "name": "黑",
+      "profession": "狙击",
+      "avatar_url": "6星/黑.png",
+      "skills": [
+        "强弩",
+        "暮眼锐瞳",
+        "战术的终结"
+      ]
+    },
+    {
+      "name": "陈",
+      "profession": "近卫",
+      "avatar_url": "6星/陈.png",
+      "skills": [
+        "鞘击",
+        "赤霄·拔刀",
+        "赤霄·绝影"
+      ]
+    },
+    {
+      "name": "斯卡蒂",
+      "profession": "近卫",
+      "avatar_url": "6星/斯卡蒂.png",
+      "skills": [
+        "迅捷打击·γ型",
+        "跃浪击",
+        "涌潮悲歌"
+      ]
+    },
+    {
+      "name": "银灰",
+      "profession": "近卫",
+      "avatar_url": "6星/银灰.png",
+      "skills": [
+        "强力击·γ型",
+        "雪境生存法则",
+        "真银斩"
+      ]
+    },
+    {
+      "name": "塞雷娅",
+      "profession": "重装",
+      "avatar_url": "6星/塞雷娅.png",
+      "skills": [
+        "急救",
+        "药物配置",
+        "钙质化"
+      ]
+    },
+    {
+      "name": "星熊",
+      "profession": "重装",
+      "avatar_url": "6星/星熊.png",
+      "skills": [
+        "战意",
+        "荆棘",
+        "力之锯"
+      ]
+    },
+    {
+      "name": "夜莺",
+      "profession": "医疗",
+      "avatar_url": "6星/夜莺.png",
+      "skills": [
+        "治疗强化·γ型",
+        "法术护盾",
+        "圣域"
+      ]
+    },
+    {
+      "name": "闪灵",
+      "profession": "医疗",
+      "avatar_url": "6星/闪灵.png",
+      "skills": [
+        "信条",
+        "自动掩护",
+        "教条力场"
+      ]
+    },
+    {
+      "name": "安洁莉娜",
+      "profession": "辅助",
+      "avatar_url": "6星/安洁莉娜.png",
+      "skills": [
+        "秘杖·速充模式",
+        "秘杖·微粒模式",
+        "秘杖·反重力模式"
+      ]
+    },
+    {
+      "name": "艾雅法拉",
+      "profession": "术师",
+      "avatar_url": "6星/艾雅法拉.png",
+      "skills": [
+        "二重咏唱",
+        "点燃",
+        "火山"
+      ]
+    },
+    {
+      "name": "伊芙利特",
+      "profession": "术师",
+      "avatar_url": "6星/伊芙利特.png",
+      "skills": [
+        "狂热",
+        "炎爆",
+        "灼地"
+      ]
+    },
+    {
+      "name": "推进之王",
+      "profession": "先锋",
+      "avatar_url": "6星/推进之王.png",
+      "skills": [
+        "冲锋号令·γ型",
+        "跃空锤",
+        "碎颅击"
+      ]
+    },
+    {
+      "name": "能天使",
+      "profession": "狙击",
+      "avatar_url": "6星/能天使.png",
+      "skills": [
+        "冲锋模式",
+        "扫射模式",
+        "过载模式"
+      ]
+    }
+  ]
+}
