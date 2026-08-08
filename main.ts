@@ -22,7 +22,11 @@ app.use("/recalRune", recalRuneRoutes)
 app.use("/ccb", ccbRoutes)
 app.use("/ocr", ocrRoutes)
 
-//设置静态资源
+//设置静态资源，添加 CORP header 以支持前端 COEP 策略
+app.use((req, res, next) => {
+  res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin')
+  next()
+})
 app.use(express.static(path.join(__dirname, 'public')))
 const server = http.createServer(app);
 server.listen(port);
