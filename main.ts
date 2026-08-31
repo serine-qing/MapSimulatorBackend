@@ -16,11 +16,13 @@ import assetsRoutes from "./src/routes/assets"
 import recalRuneRoutes from "./src/routes/recalRune"
 import ccbRoutes from "./src/routes/ccb"
 import ocrRoutes from "./src/routes/ocr"
+import sponsorsRoutes from "./src/routes/sponsors"
 app.use("/enemy", enemyRoutes)
 app.use("/assets", assetsRoutes)
 app.use("/recalRune", recalRuneRoutes)
 app.use("/ccb", ccbRoutes)
 app.use("/ocr", ocrRoutes)
+app.use("/sponsors", sponsorsRoutes)
 
 app.use(express.static(path.join(__dirname, 'public')))
 const server = http.createServer(app);
