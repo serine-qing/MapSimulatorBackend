@@ -172,6 +172,7 @@ const parseCNData = async () => {
       CNName: name,
       CNDescription: findHandbook?.description,
       CNAbilityList: findHandbook?.abilityList,
+      damageType: findHandbook?.damageType ?? [],
       JPName: '',
       JPDescription: '',
       JPAbilityList: undefined,

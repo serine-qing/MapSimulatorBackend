@@ -26,7 +26,10 @@ interface LocalEnemyData extends EnemyData{
   name: string,
   abilityList: any,        //能力描述列表
   description: string,
+  damageType: DamageType[],  // 伤害类型
 }
+
+type DamageType = "PHYSIC" | "MAGIC" | "NO_DAMAGE";
 
 interface ParsedEnemy{
   key?: string,
@@ -35,6 +38,7 @@ interface ParsedEnemy{
   CNName: string,
   CNDescription: string,
   CNAbilityList: any,
+  damageType: DamageType[],  // 伤害类型
 
   JPName: string,
   JPDescription: string,
@@ -49,4 +53,4 @@ interface ParsedEnemy{
   KRAbilityList: any,
 }
 
-export {EnemyRef, EnemyData, LocalEnemyData, ParsedEnemy}
+export {EnemyRef, EnemyData, LocalEnemyData, ParsedEnemy, DamageType}

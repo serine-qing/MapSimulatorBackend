@@ -16,7 +16,8 @@ const getEnemyData  = (enemyRefs:EnemyRef[], lang: "CN" | "JP" | "EN" | "KR"): L
         ...find.Levels[enemyRef.level],
         name: find[`${lang}Name`],
         abilityList: find[`${lang}AbilityList`],
-        description: find[`${lang}Description`]
+        description: find[`${lang}Description`],
+        damageType: find.damageType ?? []
       }
       enemyDatas.push(localEnemyData);
     }else{
