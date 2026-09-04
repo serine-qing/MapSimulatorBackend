@@ -17758,78 +17758,78 @@
         },
         {
           "id": "act54side",
-          "episode": "Moonwalking on Water",
+          "episode": "月行水上",
           "childNodes": [
             {
-              "id": "01",
-              "operation": "01",
-              "levelId": "activities/act54side/level_act54side_01",
-              "name": "01",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "02",
-              "operation": "02",
-              "levelId": "activities/act54side/level_act54side_02",
-              "name": "02",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "03",
-              "operation": "03",
-              "levelId": "activities/act54side/level_act54side_03",
-              "name": "03",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "04",
-              "operation": "04",
-              "levelId": "activities/act54side/level_act54side_04",
-              "name": "04",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "05",
-              "operation": "05",
-              "levelId": "activities/act54side/level_act54side_05",
-              "name": "05",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "06",
-              "operation": "06",
-              "levelId": "activities/act54side/level_act54side_06",
-              "name": "06",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "07",
-              "operation": "07",
-              "levelId": "activities/act54side/level_act54side_07",
-              "name": "07",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "08",
-              "operation": "08",
-              "levelId": "activities/act54side/level_act54side_08",
-              "name": "08",
-              "description": "",
-              "hasChallenge": false
-            },
-            {
-              "id": "tr01",
-              "operation": "tr01",
+              "id": "SR-TR-1",
+              "operation": "SR-TR-1",
               "levelId": "activities/act54side/level_act54side_tr01",
-              "name": "tr01",
-              "description": "",
+              "name": "月影",
+              "description": "喃喃自语的深夜中，月光投下万物的影子。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-1",
+              "operation": "SR-1",
+              "levelId": "activities/act54side/level_act54side_01",
+              "name": "月出",
+              "description": "转学生难免需要一些时间适应环境，第一个朋友不妨就从老师交起。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-2",
+              "operation": "SR-2",
+              "levelId": "activities/act54side/level_act54side_02",
+              "name": "月涌",
+              "description": "它只是存在，就牵引大地上的一切，那力量微弱遥远，却也无可置疑。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-3",
+              "operation": "SR-3",
+              "levelId": "activities/act54side/level_act54side_03",
+              "name": "月晕",
+              "description": "来拉特兰不能不试试铳械，不是为了学会，而是为了明白学不会。拉特兰就是这种地方。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-4",
+              "operation": "SR-4",
+              "levelId": "activities/act54side/level_act54side_04",
+              "name": "月移",
+              "description": "许多无法察觉的因素都在改变它的轨迹，也有一些原因就摆在眼前。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-5",
+              "operation": "SR-5",
+              "levelId": "activities/act54side/level_act54side_05",
+              "name": "月斜",
+              "description": "它并不夜升日落，西斜也不代表黎明将临。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-6",
+              "operation": "SR-6",
+              "levelId": "activities/act54side/level_act54side_06",
+              "name": "月蚀",
+              "description": "遮挡它的是你自己的影子。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-7",
+              "operation": "SR-7",
+              "levelId": "activities/act54side/level_act54side_07",
+              "name": "月悬",
+              "description": "它常在你以为它不在时出现，反之亦然。",
+              "hasChallenge": false
+            },
+            {
+              "id": "SR-8",
+              "operation": "SR-8",
+              "levelId": "activities/act54side/level_act54side_08",
+              "name": "月满",
+              "description": "拉特兰，请抬起头。映在你眼中的，那是什么？",
               "hasChallenge": false
             }
           ]
