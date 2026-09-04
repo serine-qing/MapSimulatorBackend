@@ -17755,6 +17755,84 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act54side",
+          "episode": "Moonwalking on Water",
+          "childNodes": [
+            {
+              "id": "01",
+              "operation": "01",
+              "levelId": "activities/act54side/level_act54side_01",
+              "name": "01",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "02",
+              "operation": "02",
+              "levelId": "activities/act54side/level_act54side_02",
+              "name": "02",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "03",
+              "operation": "03",
+              "levelId": "activities/act54side/level_act54side_03",
+              "name": "03",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "04",
+              "operation": "04",
+              "levelId": "activities/act54side/level_act54side_04",
+              "name": "04",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "05",
+              "operation": "05",
+              "levelId": "activities/act54side/level_act54side_05",
+              "name": "05",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "06",
+              "operation": "06",
+              "levelId": "activities/act54side/level_act54side_06",
+              "name": "06",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "07",
+              "operation": "07",
+              "levelId": "activities/act54side/level_act54side_07",
+              "name": "07",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "08",
+              "operation": "08",
+              "levelId": "activities/act54side/level_act54side_08",
+              "name": "08",
+              "description": "",
+              "hasChallenge": false
+            },
+            {
+              "id": "tr01",
+              "operation": "tr01",
+              "levelId": "activities/act54side/level_act54side_tr01",
+              "name": "tr01",
+              "description": "",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
