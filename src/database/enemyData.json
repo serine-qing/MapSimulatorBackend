@@ -200197,6 +200197,546 @@
     "KRName": "“酣酣睡飞行员”"
   },
   {
+    "Key": "enemy_17001_wmshp",
+    "Levels": [
+      {
+        "key": "enemy_17001_wmshp",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 700,
+          "def": 100,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.range_radius",
+            "value": 5
+          },
+          {
+            "key": "Passive.stay_unmove_time",
+            "value": 6
+          },
+          {
+            "key": "Passive.atk_scale_vase",
+            "value": 1
+          },
+          {
+            "key": "Passive.range_radius",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "RestMode",
+            "priority": 0,
+            "cooldown": 3,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "rest_duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_17001_wmshp",
+        "attributes": {
+          "maxHp": 20000,
+          "atk": 800,
+          "def": 200,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 0.5
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Passive.range_radius",
+            "value": 5
+          },
+          {
+            "key": "Passive.stay_unmove_time",
+            "value": 6
+          },
+          {
+            "key": "Passive.atk_scale_vase",
+            "value": 1
+          },
+          {
+            "key": "Passive.range_radius",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "RestMode",
+            "priority": 0,
+            "cooldown": 3,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "rest_duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "风情街“飘游客”",
+    "CNDescription": "在游乐场里开心地四处闲逛的毛绒绒生物。对什么游乐项目都感兴趣，哪怕是标明闲人勿进的地方也要好奇地去看看，可别想掐灭它们的探索欲！",
+    "CNAbilityList": [
+      {
+        "text": "持续寻找距离自身最近的集趣之云并尝试将其击破；若其中是我方单位，则停止攻击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "风情街“飘游客”",
+    "JPDescription": "在游乐场里开心地四处闲逛的毛绒绒生物。对什么游乐项目都感兴趣，哪怕是标明闲人勿进的地方也要好奇地去看看，可别想掐灭它们的探索欲！",
+    "JPAbilityList": [
+      {
+        "text": "持续寻找距离自身最近的集趣之云并尝试将其击破；若其中是我方单位，则停止攻击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "风情街“飘游客”",
+    "ENDescription": "在游乐场里开心地四处闲逛的毛绒绒生物。对什么游乐项目都感兴趣，哪怕是标明闲人勿进的地方也要好奇地去看看，可别想掐灭它们的探索欲！",
+    "ENAbilityList": [
+      {
+        "text": "持续寻找距离自身最近的集趣之云并尝试将其击破；若其中是我方单位，则停止攻击",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "风情街“飘游客”",
+    "KRDescription": "在游乐场里开心地四处闲逛的毛绒绒生物。对什么游乐项目都感兴趣，哪怕是标明闲人勿进的地方也要好奇地去看看，可别想掐灭它们的探索欲！",
+    "KRAbilityList": [
+      {
+        "text": "持续寻找距离自身最近的集趣之云并尝试将其击破；若其中是我方单位，则停止攻击",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_17002_flgshp",
+    "Levels": [
+      {
+        "key": "enemy_17002_flgshp",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 300,
+          "def": 100,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "Focus",
+            "priority": 0,
+            "cooldown": 15,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "mark_duration",
+                "value": 300,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_17002_flgshp",
+        "attributes": {
+          "maxHp": 20000,
+          "atk": 400,
+          "def": 200,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 1
+        },
+        "levelType": "ELITE",
+        "level": 1,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "Focus",
+            "priority": 0,
+            "cooldown": 15,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "mark_duration",
+                "value": 300,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "风情街“热情导游”",
+    "CNDescription": "担任游乐场内导览工作的毛绒绒生物。听到它背上吵闹风扇发出的声音就得小心了，因为大批人流马上就要涌过来集合啦！",
+    "CNAbilityList": [
+      {
+        "text": "标记距离自身最近的目标点，使所有敌人的目的地改为该目标点",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "场上已有其他“热情导游”标记时，不会进行标记",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "风情街“热情导游”",
+    "JPDescription": "担任游乐场内导览工作的毛绒绒生物。听到它背上吵闹风扇发出的声音就得小心了，因为大批人流马上就要涌过来集合啦！",
+    "JPAbilityList": [
+      {
+        "text": "标记距离自身最近的目标点，使所有敌人的目的地改为该目标点",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "场上已有其他“热情导游”标记时，不会进行标记",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "风情街“热情导游”",
+    "ENDescription": "担任游乐场内导览工作的毛绒绒生物。听到它背上吵闹风扇发出的声音就得小心了，因为大批人流马上就要涌过来集合啦！",
+    "ENAbilityList": [
+      {
+        "text": "标记距离自身最近的目标点，使所有敌人的目的地改为该目标点",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "场上已有其他“热情导游”标记时，不会进行标记",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "风情街“热情导游”",
+    "KRDescription": "担任游乐场内导览工作的毛绒绒生物。听到它背上吵闹风扇发出的声音就得小心了，因为大批人流马上就要涌过来集合啦！",
+    "KRAbilityList": [
+      {
+        "text": "标记距离自身最近的目标点，使所有敌人的目的地改为该目标点",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "场上已有其他“热情导游”标记时，不会进行标记",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_17003_sabshp",
+    "Levels": [
+      {
+        "key": "enemy_17003_sabshp",
+        "attributes": {
+          "maxHp": 6000,
+          "atk": 450,
+          "def": 50,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.max_hp",
+            "value": 0.8
+          },
+          {
+            "key": "1.move_speed",
+            "value": 1
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_17003_sabshp",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 500,
+          "def": 150,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "1.max_hp",
+            "value": 0.8
+          },
+          {
+            "key": "1.move_speed",
+            "value": 1
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "云众演员",
+    "CNDescription": "在游乐场里举着粉色云团看板的毛绒绒生物。可别小看这些平常困困的绒绒，在闭园下班的时候它们离场的速度可是创造过纪录的哦！",
+    "CNAbilityList": [
+      {
+        "text": "若由惊喜风暴或风情街“飘游客”从集趣之云中吹出，最大生命值大幅提升且变为不可阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "云众演员",
+    "JPDescription": "在游乐场里举着粉色云团看板的毛绒绒生物。可别小看这些平常困困的绒绒，在闭园下班的时候它们离场的速度可是创造过纪录的哦！",
+    "JPAbilityList": [
+      {
+        "text": "若由惊喜风暴或风情街“飘游客”从集趣之云中吹出，最大生命值大幅提升且变为不可阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "云众演员",
+    "ENDescription": "在游乐场里举着粉色云团看板的毛绒绒生物。可别小看这些平常困困的绒绒，在闭园下班的时候它们离场的速度可是创造过纪录的哦！",
+    "ENAbilityList": [
+      {
+        "text": "若由惊喜风暴或风情街“飘游客”从集趣之云中吹出，最大生命值大幅提升且变为不可阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "云众演员",
+    "KRDescription": "在游乐场里举着粉色云团看板的毛绒绒生物。可别小看这些平常困困的绒绒，在闭园下班的时候它们离场的速度可是创造过纪录的哦！",
+    "KRAbilityList": [
+      {
+        "text": "若由惊喜风暴或风情街“飘游客”从集趣之云中吹出，最大生命值大幅提升且变为不可阻挡",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_18001_lhship",
     "Levels": [
       {
@@ -287682,6 +288222,2394 @@
       {
         "text": "自身所在地块和周围8格不能部署我方单位",
         "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8018_etouch",
+    "Levels": [
+      {
+        "key": "enemy_8018_etouch",
+        "attributes": {
+          "maxHp": 165000,
+          "atk": 1100,
+          "def": 880,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 15,
+          "epResistance": 15,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 4
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 5,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "P1DamageResist.per_damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "P1DamageResist.stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "P1DamageResist.effect_level_1",
+            "value": 3
+          },
+          {
+            "key": "P1DamageResist.effect_level_2",
+            "value": 6
+          },
+          {
+            "key": "Attack.attack@ep_damage_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "P2DamageResist.per_damage_resistance",
+            "value": 0.075
+          },
+          {
+            "key": "P2DamageResist.stack_cnt",
+            "value": 12
+          },
+          {
+            "key": "P2DamageResist.effect_level_1",
+            "value": 4
+          },
+          {
+            "key": "P2DamageResist.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.range_radius",
+            "value": 0.6
+          },
+          {
+            "key": "AbsorbListener.value",
+            "value": 250
+          },
+          {
+            "key": "AbsorbListener.duration",
+            "value": 5
+          },
+          {
+            "key": "AbsorbListener.atk_scale",
+            "value": 6
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 5
+          },
+          {
+            "key": "Reborn.attack@ep_damage_ratio",
+            "value": 0.6
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 0.5
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_1",
+            "value": 2
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "StatusResist.duration",
+            "value": 15
+          },
+          {
+            "key": "StatusResist.abnormal_resistance",
+            "value": 0.3
+          },
+          {
+            "key": "StatusResist.max_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "PolluteSelect.range_id",
+            "value": "x-5"
+          },
+          {
+            "key": "S1BlockVolumeAura.block_volume",
+            "value": 1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "P1Pollute",
+            "priority": 0,
+            "cooldown": 60,
+            "initCooldown": 7,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_value",
+                "value": 1800,
+                "valueStr": null
+              },
+              {
+                "key": "respawn_time",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage",
+                "value": 40,
+                "valueStr": null
+              },
+              {
+                "key": "add_value",
+                "value": 18,
+                "valueStr": null
+              },
+              {
+                "key": "base_damage",
+                "value": 100,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P1AuraBuff",
+            "priority": 0,
+            "cooldown": 35,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "move_speed",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "first_trigger_interval",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "heal_scale",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "block_duration",
+                "value": 30,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P2Pollute",
+            "priority": 0,
+            "cooldown": 45,
+            "initCooldown": 35,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Summon",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "dist",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_8019_pollut_3"
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.06,
+                "valueStr": null
+              },
+              {
+                "key": "limited_dist",
+                "value": 6,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Absorb",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Reborning",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RebornPollute",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "“Touch”，再生之流",
+    "CNDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "CNAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "“Touch”，再生之流",
+    "JPDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "JPAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“Touch”，再生之流",
+    "ENDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "ENAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“Touch”，再生之流",
+    "KRDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "KRAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8018_etouch_1",
+    "Levels": [
+      {
+        "key": "enemy_8018_etouch_1",
+        "attributes": {
+          "maxHp": 120000,
+          "atk": 780,
+          "def": 600,
+          "magicResistance": 40,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 10,
+          "epResistance": 10,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 4
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 5,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Reborn.enemy_talent_disabled",
+            "value": 1
+          },
+          {
+            "key": "P1DamageResist.per_damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "P1DamageResist.stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "P1DamageResist.effect_level_1",
+            "value": 3
+          },
+          {
+            "key": "P1DamageResist.effect_level_2",
+            "value": 6
+          },
+          {
+            "key": "Attack.attack@ep_damage_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "P2DamageResist.per_damage_resistance",
+            "value": 0.08
+          },
+          {
+            "key": "P2DamageResist.stack_cnt",
+            "value": 10
+          },
+          {
+            "key": "P2DamageResist.effect_level_1",
+            "value": 4
+          },
+          {
+            "key": "P2DamageResist.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.range_radius",
+            "value": 0.6
+          },
+          {
+            "key": "AbsorbListener.value",
+            "value": 250
+          },
+          {
+            "key": "AbsorbListener.duration",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.atk_scale",
+            "value": 5
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 5
+          },
+          {
+            "key": "Reborn.attack@ep_damage_ratio",
+            "value": 0.6
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 0
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_1",
+            "value": 2
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "StatusResist.duration",
+            "value": 15
+          },
+          {
+            "key": "StatusResist.abnormal_resistance",
+            "value": 0.3
+          },
+          {
+            "key": "StatusResist.max_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "PolluteSelect.range_id",
+            "value": "x-5"
+          },
+          {
+            "key": "PollutAbnormalImmune.enemy_talent_disabled",
+            "value": 1
+          },
+          {
+            "key": "S1BlockVolumeAura.block_volume",
+            "value": 1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "P1Pollute",
+            "priority": 0,
+            "cooldown": 999,
+            "initCooldown": 999,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_value",
+                "value": 1500,
+                "valueStr": null
+              },
+              {
+                "key": "respawn_time",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage",
+                "value": 40,
+                "valueStr": null
+              },
+              {
+                "key": "add_value",
+                "value": 20,
+                "valueStr": null
+              },
+              {
+                "key": "base_damage",
+                "value": 140,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P1AuraBuff",
+            "priority": 0,
+            "cooldown": 25,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "move_speed",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "first_trigger_interval",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "heal_scale",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "block_duration",
+                "value": 30,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P2Pollute",
+            "priority": 0,
+            "cooldown": 35,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 2,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Summon",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "dist",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_8019_pollut"
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.05,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Absorb",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Reborning",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RebornPollute",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "“Touch”，再生之流",
+    "CNDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "CNAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有敌人在数秒内占用阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "“Touch”，再生之流",
+    "JPDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "JPAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有敌人在数秒内占用阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“Touch”，再生之流",
+    "ENDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "ENAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有敌人在数秒内占用阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“Touch”，再生之流",
+    "KRDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "KRAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有敌人在数秒内占用阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8018_etouch_2",
+    "Levels": [
+      {
+        "key": "enemy_8018_etouch_2",
+        "attributes": {
+          "maxHp": 135000,
+          "atk": 870,
+          "def": 700,
+          "magicResistance": 45,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 15,
+          "epResistance": 15,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 4
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 5,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "P1DamageResist.per_damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "P1DamageResist.stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "P1DamageResist.effect_level_1",
+            "value": 3
+          },
+          {
+            "key": "P1DamageResist.effect_level_2",
+            "value": 6
+          },
+          {
+            "key": "Attack.attack@ep_damage_ratio",
+            "value": 0.4
+          },
+          {
+            "key": "P2DamageResist.per_damage_resistance",
+            "value": 0.08
+          },
+          {
+            "key": "P2DamageResist.stack_cnt",
+            "value": 10
+          },
+          {
+            "key": "P2DamageResist.effect_level_1",
+            "value": 4
+          },
+          {
+            "key": "P2DamageResist.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.range_radius",
+            "value": 0.6
+          },
+          {
+            "key": "AbsorbListener.value",
+            "value": 250
+          },
+          {
+            "key": "AbsorbListener.duration",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.atk_scale",
+            "value": 3.5
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 5
+          },
+          {
+            "key": "Reborn.attack@ep_damage_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 0
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_1",
+            "value": 2
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "StatusResist.duration",
+            "value": 15
+          },
+          {
+            "key": "StatusResist.abnormal_resistance",
+            "value": 0.3
+          },
+          {
+            "key": "StatusResist.max_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "PolluteSelect.range_id",
+            "value": "x-5"
+          },
+          {
+            "key": "PollutAbnormalImmune.enemy_talent_disabled",
+            "value": 1
+          },
+          {
+            "key": "S1BlockVolumeAura.block_volume",
+            "value": 1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "P1Pollute",
+            "priority": 0,
+            "cooldown": 75,
+            "initCooldown": 7,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_value",
+                "value": 1800,
+                "valueStr": null
+              },
+              {
+                "key": "respawn_time",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage",
+                "value": 40,
+                "valueStr": null
+              },
+              {
+                "key": "add_value",
+                "value": 18,
+                "valueStr": null
+              },
+              {
+                "key": "base_damage",
+                "value": 100,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P1AuraBuff",
+            "priority": 0,
+            "cooldown": 35,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "move_speed",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "first_trigger_interval",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "heal_scale",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "block_duration",
+                "value": 30,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P2Pollute",
+            "priority": 0,
+            "cooldown": 55,
+            "initCooldown": 35,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Summon",
+            "priority": 0,
+            "cooldown": 45,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "dist",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_8019_pollut_3"
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "limited_dist",
+                "value": 6,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Absorb",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Reborning",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RebornPollute",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "“Touch”，再生之流",
+    "CNDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "CNAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "“Touch”，再生之流",
+    "JPDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "JPAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“Touch”，再生之流",
+    "ENDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "ENAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“Touch”，再生之流",
+    "KRDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "KRAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8018_etouch_3",
+    "Levels": [
+      {
+        "key": "enemy_8018_etouch_3",
+        "attributes": {
+          "maxHp": 165000,
+          "atk": 1100,
+          "def": 880,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 4.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 8,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 15,
+          "epResistance": 15,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": true,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 4
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 5,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "P1DamageResist.per_damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "P1DamageResist.stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "P1DamageResist.effect_level_1",
+            "value": 3
+          },
+          {
+            "key": "P1DamageResist.effect_level_2",
+            "value": 6
+          },
+          {
+            "key": "Attack.attack@ep_damage_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "P2DamageResist.per_damage_resistance",
+            "value": 0.075
+          },
+          {
+            "key": "P2DamageResist.stack_cnt",
+            "value": 12
+          },
+          {
+            "key": "P2DamageResist.effect_level_1",
+            "value": 4
+          },
+          {
+            "key": "P2DamageResist.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "AbsorbListener.range_radius",
+            "value": 0.6
+          },
+          {
+            "key": "AbsorbListener.value",
+            "value": 250
+          },
+          {
+            "key": "AbsorbListener.duration",
+            "value": 5
+          },
+          {
+            "key": "AbsorbListener.atk_scale",
+            "value": 6
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 5
+          },
+          {
+            "key": "Reborn.attack@ep_damage_ratio",
+            "value": 0.6
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 0.5
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_1",
+            "value": 2
+          },
+          {
+            "key": "PollutAbnormalImmune.effect_level_2",
+            "value": 8
+          },
+          {
+            "key": "StatusResist.duration",
+            "value": 15
+          },
+          {
+            "key": "StatusResist.abnormal_resistance",
+            "value": 0.3
+          },
+          {
+            "key": "StatusResist.max_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "PolluteSelect.range_id",
+            "value": "x-5"
+          },
+          {
+            "key": "S1BlockVolumeAura.block_volume",
+            "value": 1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "P1Pollute",
+            "priority": 0,
+            "cooldown": 60,
+            "initCooldown": 7,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_value",
+                "value": 1800,
+                "valueStr": null
+              },
+              {
+                "key": "respawn_time",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage",
+                "value": 40,
+                "valueStr": null
+              },
+              {
+                "key": "add_value",
+                "value": 18,
+                "valueStr": null
+              },
+              {
+                "key": "base_damage",
+                "value": 100,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P1AuraBuff",
+            "priority": 0,
+            "cooldown": 35,
+            "initCooldown": 25,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              },
+              {
+                "key": "move_speed",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "first_trigger_interval",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "heal_scale",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "block_duration",
+                "value": 30,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "P2Pollute",
+            "priority": 0,
+            "cooldown": 45,
+            "initCooldown": 35,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 4.5,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Summon",
+            "priority": 0,
+            "cooldown": 40,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "dist",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0,
+                "valueStr": "enemy_8019_pollut_3"
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "hp_ratio",
+                "value": 0.06,
+                "valueStr": null
+              },
+              {
+                "key": "limited_dist",
+                "value": 6,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Absorb",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          },
+          {
+            "prefabKey": "Reborning",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "RebornPollute",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": null
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "“Touch”，再生之流",
+    "CNDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "CNAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "“Touch”，再生之流",
+    "JPDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "JPAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“Touch”，再生之流",
+    "ENDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "ENAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“Touch”，再生之流",
+    "KRDescription": "以Touch的战力极限为模本构拟的突破训练官。无论是躯体上的伤口与痛苦，还是精神上的不安与恐惧，都将在她的源石技艺之下消湮。对参与训练的你来说，也许这并不是一个好消息。",
+    "KRAbilityList": [
+      {
+        "text": "攻击附带一定比例的<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到的物理和法术伤害降低，每当“再灌注”和“过灌注”被击倒时该减伤效果减弱",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "周期性选择一名我方干员及其周围4格生成<活性躁乱>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【内源代偿反应】移动速度不会低于初始值；受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每受到1种异常状态时，使场上所有<“过灌注”>及后续出现的<“过灌注”>免疫该状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【受体过度应答】持续引导，期间所有其他敌人移动速度提升且每数秒回复生命值；引导成功后使所有其他敌人在数秒内所需阻挡数+1；引导可被部分异常状态打断",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "生命值首次降为0时重生，随后选择所有我方干员及周围4格生成<活性躁乱>并进入第二形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "【急性髓鞘溶解】从自身行进路径上一定距离内召唤1个受到物理和法术伤害大幅降低但持续流失生命值的<“过灌注”>向自身移动，接触时将其吸收并爆炸，对全部我方单位造成高额法术伤害",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8019_pollut",
+    "Levels": [
+      {
+        "key": "enemy_8019_pollut",
+        "attributes": {
+          "maxHp": 15000,
+          "atk": 550,
+          "def": 300,
+          "magicResistance": 15,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "InverseDamage.value",
+            "value": 0
+          },
+          {
+            "key": "MoveSpeedImmune.enemy_talent_disabled",
+            "value": 1
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“再灌注”",
+    "CNDescription": "对生存的渴求，让它们从一片荒芜中复苏而起。\n",
+    "CNAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“再灌注”",
+    "JPDescription": "对生存的渴求，让它们从一片荒芜中复苏而起。\n",
+    "JPAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“再灌注”",
+    "ENDescription": "对生存的渴求，让它们从一片荒芜中复苏而起。\n",
+    "ENAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“再灌注”",
+    "KRDescription": "对生存的渴求，让它们从一片荒芜中复苏而起。\n",
+    "KRAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8019_pollut_2",
+    "Levels": [
+      {
+        "key": "enemy_8019_pollut_2",
+        "attributes": {
+          "maxHp": 35000,
+          "atk": 770,
+          "def": 450,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 15,
+          "epResistance": 15,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "InverseDamage.value",
+            "value": 30
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“过灌注”",
+    "CNDescription": "对死亡的抗拒，让它们从无边绝望里破土而出。\n",
+    "CNAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被攻击时对伤害来源造成数点<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动速度不会低于初始值",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“过灌注”",
+    "JPDescription": "对死亡的抗拒，让它们从无边绝望里破土而出。\n",
+    "JPAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被攻击时对伤害来源造成数点<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动速度不会低于初始值",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“过灌注”",
+    "ENDescription": "对死亡的抗拒，让它们从无边绝望里破土而出。\n",
+    "ENAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被攻击时对伤害来源造成数点<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动速度不会低于初始值",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“过灌注”",
+    "KRDescription": "对死亡的抗拒，让它们从无边绝望里破土而出。\n",
+    "KRAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "被攻击时对伤害来源造成数点<$ba.dt.rampage>狂躁损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动速度不会低于初始值",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8019_pollut_3",
+    "Levels": [
+      {
+        "key": "enemy_8019_pollut_3",
+        "attributes": {
+          "maxHp": 35000,
+          "atk": 770,
+          "def": 450,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 15,
+          "epResistance": 15,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "InverseDamage.value",
+            "value": 30
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“过灌注”",
+    "damageType": [],
+    "JPName": "“过灌注”",
+    "ENName": "“过灌注”",
+    "KRName": "“过灌注”"
+  },
+  {
+    "Key": "enemy_8020_tenaci",
+    "Levels": [
+      {
+        "key": "enemy_8020_tenaci",
+        "attributes": {
+          "maxHp": 32000,
+          "atk": 950,
+          "def": 350,
+          "magicResistance": 70,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 2,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "StatusResist.duration",
+            "value": 15
+          },
+          {
+            "key": "StatusResist.abnormal_resistance",
+            "value": 0.3
+          },
+          {
+            "key": "StatusResist.max_stack_cnt",
+            "value": 4
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "machine"
+        ]
+      }
+    ],
+    "CNName": "“新绿”",
+    "CNDescription": "由Touch负责设计和程序校准的园艺机器人，除了能完成播种、灌溉和土壤监测工作外，还有巡逻和保护区域的能力。\n",
+    "CNAbilityList": [
+      {
+        "text": "【内源代偿反应】受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“新绿”",
+    "JPDescription": "由Touch负责设计和程序校准的园艺机器人，除了能完成播种、灌溉和土壤监测工作外，还有巡逻和保护区域的能力。\n",
+    "JPAbilityList": [
+      {
+        "text": "【内源代偿反应】受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“新绿”",
+    "ENDescription": "由Touch负责设计和程序校准的园艺机器人，除了能完成播种、灌溉和土壤监测工作外，还有巡逻和保护区域的能力。\n",
+    "ENAbilityList": [
+      {
+        "text": "【内源代偿反应】受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“新绿”",
+    "KRDescription": "由Touch负责设计和程序校准的园艺机器人，除了能完成播种、灌溉和土壤监测工作外，还有巡逻和保护区域的能力。\n",
+    "KRAbilityList": [
+      {
+        "text": "【内源代偿反应】受到可<$ba.buffres>抵抗</>的异常状态时间减少，数秒内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_8021_tsilas",
+    "Levels": [
+      {
+        "key": "enemy_8021_tsilas",
+        "attributes": {
+          "maxHp": 55000,
+          "atk": 1250,
+          "def": 2200,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.45,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 0,
+          "damageHitrateMagical": 0,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "ChargeAttack",
+            "priority": 0,
+            "cooldown": 30,
+            "initCooldown": 15,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 6,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.75,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.4,
+                "valueStr": null
+              },
+              {
+                "key": "radius",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "heavy_atk_scale",
+                "value": 2.8,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": null
+      }
+    ],
+    "CNName": "管钳",
+    "CNDescription": "跟随Mechanist从哥伦比亚而来的学徒，沉默寡言，打心底认同Mechanist的机械艺术。酒量极差，酒后被Mechanist玩得团团转是绝不能当着他的面提的事情。\n",
+    "CNAbilityList": [
+      {
+        "text": "周期性蓄力，期间受到物理和法术伤害大幅降低，若蓄力未被打断，对场上所有我方单位造成攻击力一定比例的物理伤害（对距离较近的目标伤害提升）",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "管钳",
+    "JPDescription": "跟随Mechanist从哥伦比亚而来的学徒，沉默寡言，打心底认同Mechanist的机械艺术。酒量极差，酒后被Mechanist玩得团团转是绝不能当着他的面提的事情。\n",
+    "JPAbilityList": [
+      {
+        "text": "周期性蓄力，期间受到物理和法术伤害大幅降低，若蓄力未被打断，对场上所有我方单位造成攻击力一定比例的物理伤害（对距离较近的目标伤害提升）",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "ENName": "管钳",
+    "ENDescription": "跟随Mechanist从哥伦比亚而来的学徒，沉默寡言，打心底认同Mechanist的机械艺术。酒量极差，酒后被Mechanist玩得团团转是绝不能当着他的面提的事情。\n",
+    "ENAbilityList": [
+      {
+        "text": "周期性蓄力，期间受到物理和法术伤害大幅降低，若蓄力未被打断，对场上所有我方单位造成攻击力一定比例的物理伤害（对距离较近的目标伤害提升）",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "KRName": "管钳",
+    "KRDescription": "跟随Mechanist从哥伦比亚而来的学徒，沉默寡言，打心底认同Mechanist的机械艺术。酒量极差，酒后被Mechanist玩得团团转是绝不能当着他的面提的事情。\n",
+    "KRAbilityList": [
+      {
+        "text": "周期性蓄力，期间受到物理和法术伤害大幅降低，若蓄力未被打断，对场上所有我方单位造成攻击力一定比例的物理伤害（对距离较近的目标伤害提升）",
+        "textFormat": "SILENCE"
       }
     ]
   },
