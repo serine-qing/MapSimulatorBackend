@@ -17969,6 +17969,448 @@
               "challenge": "<@lv.fs>附加条件：</>\\n重装与术师干员部署费用提升至3倍"
             }
           ]
+        },
+        {
+          "id": "act1dp",
+          "episode": "逐影集趣",
+          "childNodes": [
+            {
+              "id": "DP-TR-1",
+              "operation": "DP-TR-1",
+              "levelId": "activities/act1dp/level_act1dp_tr01",
+              "name": "集结吧绒绒！",
+              "description": "<@dp.level.dis><i>在别处找不到这样的游乐项目！吹开一朵云，看看等待着你的究竟是什么惊喜吧！</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-1",
+              "operation": "DP-1",
+              "levelId": "activities/act1dp/level_act1dp_01",
+              "name": "入场吧绒绒！",
+              "description": "<@dp.level.dis><i>游乐场的入口已经堵得水泄不通了，把这些云朵吹开，打开一条通往前方的路吧~</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-2",
+              "operation": "DP-2",
+              "levelId": "activities/act1dp/level_act1dp_02",
+              "name": "选择吧绒绒！",
+              "description": "<@dp.level.dis><i>是去左边的欢乐游行，还是体验右边的精彩呢？两边看起来都很有趣，哎呀，真是让人拿不定主意。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-3",
+              "operation": "DP-3",
+              "levelId": "activities/act1dp/level_act1dp_03",
+              "name": "等待吧绒绒！",
+              "description": "<@dp.level.dis><i>距离上一趟过山车结束还有段时间，下一批游客已经挤满了等待区，大家等会可要规规矩矩坐好！</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-4",
+              "operation": "DP-4",
+              "levelId": "activities/act1dp/level_act1dp_04",
+              "name": "跟上吧绒绒！",
+              "description": "<@dp.level.dis><i>听，是游乐场里导游绒绒的风扇声，看来它已经在指引大家前往下一个游玩点了，记得跟上脚步！</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": false
+            },
+            {
+              "id": "DS-1",
+              "operation": "DS-1",
+              "levelId": "activities/act1dp/level_act1dp_sub-01",
+              "name": "午间休息！",
+              "description": "<@dp.level.dis><i>早上的游玩体验怎么样，感觉到快乐了吗？休息期间，来和熟悉的朋友们玩个小游戏吧。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><障碍物></>部署以后可以阻挡敌人的行进路线\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-5",
+              "operation": "DP-5",
+              "levelId": "activities/act1dp/level_act1dp_05",
+              "name": "欢呼吧绒绒！",
+              "description": "<@dp.level.dis><i>下午的重头戏就是舞台表演，看看舞台四周聚集起来的云朵，是不是开始庆幸自己提前到场了呢？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><障碍物></>部署以后可以阻挡敌人的行进路线",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-6",
+              "operation": "DP-6",
+              "levelId": "activities/act1dp/level_act1dp_06",
+              "name": "返程吧绒绒！",
+              "description": "<@dp.level.dis><i>马上要到闭园时间了，看好自己的物品，然后有序离场吧，记得在离开前拍一张笑着的纪念照片哦~</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-EX-1",
+              "operation": "DP-EX-1",
+              "levelId": "activities/act1dp/level_act1dp_ex01",
+              "name": "花车游行秀",
+              "description": "<@dp.level.dis><i>在加入游行队伍的时候可一定要小心。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><景观喷泉></>站在周围的单位不受蒸汽影响，攻击时可以产生纯白水汽\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-1CM",
+              "operation": "突袭DP-EX-1",
+              "levelId": "activities/act1dp/level_act1dp_ex01",
+              "name": "花车游行秀",
+              "description": "<@dp.level.dis><i>在加入游行队伍的时候可一定要小心。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><景观喷泉></>站在周围的单位不受蒸汽影响，攻击时可以产生纯白水汽\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>在加入游行队伍的时候可一定要小心。</i></>\\n<@dp.level.raid>附加条件：</>\\n场上不再出现<景观喷泉>"
+            },
+            {
+              "id": "DP-EX-2",
+              "operation": "DP-EX-2",
+              "levelId": "activities/act1dp/level_act1dp_ex02",
+              "name": "人气摄影点",
+              "description": "<@dp.level.dis><i>要不要先看看前面的人都摆了什么拍照姿势呢？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><草丛></>部署于其上的干员不会成为敌方远程攻击的目标\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-2CM",
+              "operation": "突袭DP-EX-2",
+              "levelId": "activities/act1dp/level_act1dp_ex02",
+              "name": "人气摄影点",
+              "description": "<@dp.level.dis><i>要不要先看看前面的人都摆了什么拍照姿势呢？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><草丛></>部署于其上的干员不会成为敌方远程攻击的目标\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>要不要先看看前面的人都摆了什么拍照姿势呢？</i></>\\n<@dp.level.raid>附加条件：</>\\n初始出现额外的<温泉“泥石流浪汉”>"
+            },
+            {
+              "id": "DP-EX-3",
+              "operation": "DP-EX-3",
+              "levelId": "activities/act1dp/level_act1dp_ex03",
+              "name": "射击小摊位",
+              "description": "<@dp.level.dis><i>把移动靶设置在空中的话，难度就陡然升高了。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><干扰装置></>部署后能够使周围的敌方无人机无法攻击、速度大幅度减缓，且无法使用特殊能力",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-3CM",
+              "operation": "突袭DP-EX-3",
+              "levelId": "activities/act1dp/level_act1dp_ex03",
+              "name": "射击小摊位",
+              "description": "<@dp.level.dis><i>把移动靶设置在空中的话，难度就陡然升高了。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><干扰装置></>部署后能够使周围的敌方无人机无法攻击、速度大幅度减缓，且无法使用特殊能力",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>把移动靶设置在空中的话，难度就陡然升高了。</i></>\\n<@dp.level.raid>附加条件：</>\\n<绒绒云团>中不再出现<干扰装置>"
+            },
+            {
+              "id": "DP-EX-4",
+              "operation": "DP-EX-4",
+              "levelId": "activities/act1dp/level_act1dp_ex04",
+              "name": "密室空走廊",
+              "description": "<@dp.level.dis><i>可怕的东西要追过来咯！</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-4CM",
+              "operation": "突袭DP-EX-4",
+              "levelId": "activities/act1dp/level_act1dp_ex04",
+              "name": "密室空走廊",
+              "description": "<@dp.level.dis><i>可怕的东西要追过来咯！</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><芦苇丛></>置于其中的干员获得\"迷彩\"",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>可怕的东西要追过来咯！</i></>\\n<@dp.level.raid>附加条件：</>\\n燃烧的芦苇丛造成的法术伤害与灼燃损伤提升"
+            },
+            {
+              "id": "DS-2",
+              "operation": "DS-2",
+              "levelId": "activities/act1dp/level_act1dp_sub-02",
+              "name": "傍晚小憩！",
+              "description": "<@dp.level.dis><i>游玩了这么多有趣的项目，该去休息区买些饮料零食，顺便平复一下心情了。</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽",
+              "hasChallenge": false
+            },
+            {
+              "id": "DP-EX-5",
+              "operation": "DP-EX-5",
+              "levelId": "activities/act1dp/level_act1dp_ex05",
+              "name": "粉丝大比拼",
+              "description": "<@dp.level.dis><i>红蓝两队看起来都有不少人支持，到底哪一方能拿到更多声援票？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><\"留声机\"></>我方与敌方可夺取控制权，激活后对敌方造成法术伤害，并可治疗友方单位",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-5CM",
+              "operation": "突袭DP-EX-5",
+              "levelId": "activities/act1dp/level_act1dp_ex05",
+              "name": "粉丝大比拼",
+              "description": "<@dp.level.dis><i>红蓝两队看起来都有不少人支持，到底哪一方能拿到更多声援票？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><多利大风暴></>点按后直接吹散所有云团\\n<@dp.level.rich><\"留声机\"></>我方与敌方可夺取控制权，激活后对敌方造成法术伤害，并可治疗友方单位",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>红蓝两队看起来都有不少人支持，到底哪一方能拿到更多声援票？</i></>\\n<@dp.level.raid>附加条件：</>\\n<风情街“飘游客”>的生命值提升至20倍"
+            },
+            {
+              "id": "DP-EX-6",
+              "operation": "DP-EX-6",
+              "levelId": "activities/act1dp/level_act1dp_ex06",
+              "name": "拥挤停车场",
+              "description": "<@dp.level.dis><i>我们的车停在哪儿了来着，怎么全藏在云里看不见了？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><草丛></>部署于其上的干员不会成为敌方远程攻击的目标\\n<@dp.level.rich><防空符文></>置于其中的干员会略微减慢攻速，但大幅度提升对空攻击力\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽\\n<@dp.level.rich><特殊环境></><水汽汽水瓶>再部署时间降低",
+              "hasChallenge": true
+            },
+            {
+              "id": "DP-EX-6CM",
+              "operation": "突袭DP-EX-6",
+              "levelId": "activities/act1dp/level_act1dp_ex06",
+              "name": "拥挤停车场",
+              "description": "<@dp.level.dis><i>我们的车停在哪儿了来着，怎么全藏在云里看不见了？</i></>\\n<@dp.level.rich><绒绒云团></>干员与敌人被藏在云团里，点击使其可被攻击\\n<@dp.level.rich><草丛></>部署于其上的干员不会成为敌方远程攻击的目标\\n<@dp.level.rich><防空符文></>置于其中的干员会略微减慢攻速，但大幅度提升对空攻击力\\n<@dp.level.rich><水汽汽水瓶></>被击破时在周围产生纯白水汽\\n<@dp.level.rich><特殊环境></><水汽汽水瓶>再部署时间降低",
+              "hasChallenge": true,
+              "challenge": "<@dp.level.dis><i>我们的车停在哪儿了来着，怎么全藏在云里看不见了？</i></>\\n<@dp.level.raid>附加条件：</>\\n击破<绒绒云团>时获得的部署费用与增加的倒计时减少"
+            }
+          ]
+        },
+        {
+          "id": "act3break",
+          "episode": "矢量突破#3 拟生态",
+          "childNodes": [
+            {
+              "id": "act3breakVEC-01",
+              "operation": "VEC-01",
+              "levelId": "activities/act3break/level_act3break_01",
+              "name": "寂静螺旋",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-02",
+              "operation": "VEC-02",
+              "levelId": "activities/act3break/level_act3break_02",
+              "name": "波形扭曲",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-03",
+              "operation": "VEC-03",
+              "levelId": "activities/act3break/level_act3break_03",
+              "name": "极速赛道",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-04",
+              "operation": "VEC-04",
+              "levelId": "activities/act3break/level_act3break_04",
+              "name": "离子通道扰乱",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-05",
+              "operation": "VEC-05",
+              "levelId": "activities/act3break/level_act3break_05",
+              "name": "液压颂歌",
+              "description": "部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-06",
+              "operation": "VEC-06",
+              "levelId": "activities/act3break/level_act3break_06",
+              "name": "医源性感染",
+              "description": "<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-07",
+              "operation": "VEC-07",
+              "levelId": "activities/act3break/level_act3break_07",
+              "name": "萌芽之时",
+              "description": "<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“再灌注”向目标点移动\\n部分敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-08",
+              "operation": "VEC-08",
+              "levelId": "activities/act3break/level_act3break_08",
+              "name": "磷脂层破坏",
+              "description": "<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“再灌注”向目标点移动\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-09",
+              "operation": "VEC-09",
+              "levelId": "activities/act3break/level_act3break_09",
+              "name": "浸漫花圃",
+              "description": "敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-10",
+              "operation": "VEC-10",
+              "levelId": "activities/act3break/level_act3break_10",
+              "name": "动捕影棚",
+              "description": "敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-11",
+              "operation": "VEC-11",
+              "levelId": "activities/act3break/level_act3break_11",
+              "name": "漂白剂",
+              "description": "<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“再灌注”向目标点移动\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-12",
+              "operation": "VEC-12",
+              "levelId": "activities/act3break/level_act3break_12",
+              "name": "实质组织萎缩",
+              "description": "<@lv.fs>附加条件：</>清除<活性躁乱>时产生更强的副作用：改为生成“过灌注”\\n<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“过灌注”向目标点移动\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-A",
+              "operation": "VEC-A",
+              "levelId": "activities/act3break/level_act3break_h01",
+              "name": "卓绝之巅",
+              "description": "<@lv.fs>附加条件：</>清除<活性躁乱>时产生更强的副作用：改为生成“过灌注”\\n<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“过灌注”向目标点移动\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-B",
+              "operation": "VEC-B",
+              "levelId": "activities/act3break/level_act3break_h02",
+              "name": "高优先通道",
+              "description": "敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-C",
+              "operation": "VEC-C",
+              "levelId": "activities/act3break/level_act3break_h03",
+              "name": "惊吓幕后",
+              "description": "<@vecbreakv2.highlight><黑夜></>干员无法被部署在没有视野的地块上，怪物处于没有视野的区域中拥有隐匿特性\\n<@vecbreakv2.highlight><城市霓虹></>可以提供初始视野，使用后视野范围扩大\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-D",
+              "operation": "VEC-D",
+              "levelId": "activities/act3break/level_act3break_h04",
+              "name": "挽救治疗",
+              "description": "<@lv.fs>附加条件：</>部署费用的自然回复速度降低60%；在<活性躁乱>上撤退的干员再部署时间进一步延长；清除<活性躁乱>时产生更强的副作用：改为生成“过灌注” \\n<@vecbreakv2.highlight><活性躁乱></>部署在其上的我方单位每秒受到狂躁损伤和逐渐提升的法术伤害，且撤退时再部署时间大幅提升\\n<@vecbreakv2.highlight><“再度绽放”></>部署后消除9格范围内的<活性躁乱>，治疗其中我方干员生命值并使其获得技力；随后每个被消除的<活性躁乱>附近各生成1只“过灌注”向目标点移动\\n敌人的基础属性提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP01",
+              "operation": "VEC-SP01",
+              "levelId": "activities/act3break/level_act3break_sp01",
+              "name": "重力危机",
+              "description": "战斗能力的高低在无边重力面前往往不值一提。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP02",
+              "operation": "VEC-SP02",
+              "levelId": "activities/act3break/level_act3break_sp02",
+              "name": "心中热火",
+              "description": "激情能让人一往无前，也能让人失去理性。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP03",
+              "operation": "VEC-SP03",
+              "levelId": "activities/act3break/level_act3break_sp03",
+              "name": "馆藏珍品",
+              "description": "猜猜唤醒展馆中央的那个大家伙会带来什么样的惊喜？",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP09",
+              "operation": "VEC-SP09",
+              "levelId": "activities/act3break/level_act3break_sp04",
+              "name": "人气巡演",
+              "description": "下一次他们要是追加跳火圈表演就更好了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP10",
+              "operation": "VEC-SP10",
+              "levelId": "activities/act3break/level_act3break_sp05",
+              "name": "后院死局",
+              "description": "清洁公司说再有这样的情况就要加收服务费了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP04",
+              "operation": "VEC-SP04",
+              "levelId": "activities/act3break/level_act3break_sp06",
+              "name": "明星靶场",
+              "description": "遇到霸占射击位不离场的人，记得要向主办方报告。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP11",
+              "operation": "VEC-SP11",
+              "levelId": "activities/act3break/level_act3break_sp07",
+              "name": "影院出口",
+              "description": "今天怎么大家都这么着急离场，难道是因为上映的片子不合口味吗？",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP12",
+              "operation": "VEC-SP12",
+              "levelId": "activities/act3break/level_act3break_sp08",
+              "name": "四号站台",
+              "description": "可别等到临近发车才发现自己走错了上车地点。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP05",
+              "operation": "VEC-SP05",
+              "levelId": "activities/act3break/level_act3break_sp09",
+              "name": "难以相交",
+              "description": "互相平行的路途中，我们能否找到彼此之间的共通点？",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP06",
+              "operation": "VEC-SP06",
+              "levelId": "activities/act3break/level_act3break_sp10",
+              "name": "林间小憩",
+              "description": "兽道通向林地深处，在这里能遇到的可不止温顺的生物，也有危险的捕食者。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP07",
+              "operation": "VEC-SP07",
+              "levelId": "activities/act3break/level_act3break_sp11",
+              "name": "荒废矿道",
+              "description": "在下一趟升降机下井之前，必须清理掉这些狂暴的生物以保证安全。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP13",
+              "operation": "VEC-SP13",
+              "levelId": "activities/act3break/level_act3break_sp12",
+              "name": "紧急夺还",
+              "description": "这场纷争已经发展到了不用最终手段就无法解决的程度。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP14",
+              "operation": "VEC-SP14",
+              "levelId": "activities/act3break/level_act3break_sp13",
+              "name": "乙醇暴动",
+              "description": "事先声明，这群暴动分子可不是因为喝了酒才拿起武器的，他们天性就好斗。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP08",
+              "operation": "VEC-SP08",
+              "levelId": "activities/act3break/level_act3break_sp14",
+              "name": "一意孤行",
+              "description": "得好好教训一下这群敌人，让对方明白如果方向错了，再坚持也没有用。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP15",
+              "operation": "VEC-SP15",
+              "levelId": "activities/act3break/level_act3break_sp15",
+              "name": "刺耳机床",
+              "description": "进入战斗之前务必确保安全帽和防尘面罩都已经戴好。",
+              "hasChallenge": false
+            },
+            {
+              "id": "act3breakVEC-SP16",
+              "operation": "VEC-SP16",
+              "levelId": "activities/act3break/level_act3break_sp16",
+              "name": "最终愿望",
+              "description": "总有人许愿说要是时间能停下来该多好，也许他们可以来这里许愿试一试。",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },
