@@ -52269,6 +52269,2530 @@
     ]
   },
   {
+    "Key": "enemy_10212_klhz",
+    "Levels": [
+      {
+        "key": "enemy_10212_klhz",
+        "attributes": {
+          "maxHp": 3000,
+          "atk": 300,
+          "def": 300,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.9,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.8,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Absorb_by_character.sp_gain_in_area",
+            "value": 2
+          },
+          {
+            "key": "Absorb_by_character.sp_gain_outside_area",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "塑能基质",
+    "CNDescription": "可塑性极强的炼金产物，由炼金术师操纵。\n其出色的弹性，注定了尽管导师严令禁止，学徒们依然忍不住会去揉捏它。也是导师没收了太多被当作解压玩具的塑能基质，才发现了这种物质聚集在一起会失活的特性。",
+    "CNAbilityList": [
+      {
+        "text": "可被【塑能力场】或部分敌人吸收",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "塑能基质",
+    "JPDescription": "可塑性极强的炼金产物，由炼金术师操纵。\n其出色的弹性，注定了尽管导师严令禁止，学徒们依然忍不住会去揉捏它。也是导师没收了太多被当作解压玩具的塑能基质，才发现了这种物质聚集在一起会失活的特性。",
+    "JPAbilityList": [
+      {
+        "text": "可被【塑能力场】或部分敌人吸收",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "塑能基质",
+    "ENDescription": "可塑性极强的炼金产物，由炼金术师操纵。\n其出色的弹性，注定了尽管导师严令禁止，学徒们依然忍不住会去揉捏它。也是导师没收了太多被当作解压玩具的塑能基质，才发现了这种物质聚集在一起会失活的特性。",
+    "ENAbilityList": [
+      {
+        "text": "可被【塑能力场】或部分敌人吸收",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "塑能基质",
+    "KRDescription": "可塑性极强的炼金产物，由炼金术师操纵。\n其出色的弹性，注定了尽管导师严令禁止，学徒们依然忍不住会去揉捏它。也是导师没收了太多被当作解压玩具的塑能基质，才发现了这种物质聚集在一起会失活的特性。",
+    "KRAbilityList": [
+      {
+        "text": "可被【塑能力场】或部分敌人吸收",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10213_klbm",
+    "Levels": [
+      {
+        "key": "enemy_10213_klbm",
+        "attributes": {
+          "maxHp": 3500,
+          "atk": 100,
+          "def": 80,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "远航灯",
+    "CNDescription": "被塑能基质控制的壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "CNAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "NO_DAMAGE"
+    ],
+    "JPName": "远航灯",
+    "JPDescription": "被塑能基质控制的壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "JPAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "远航灯",
+    "ENDescription": "被塑能基质控制的壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "ENAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "远航灯",
+    "KRDescription": "被塑能基质控制的壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "KRAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10213_klbm_2",
+    "Levels": [
+      {
+        "key": "enemy_10213_klbm_2",
+        "attributes": {
+          "maxHp": 4500,
+          "atk": 100,
+          "def": 100,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 1,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“远海遗声”灯",
+    "CNDescription": "被强活性塑能基质控制的大功率壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "CNAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "NO_DAMAGE"
+    ],
+    "JPName": "“远海遗声”灯",
+    "JPDescription": "被强活性塑能基质控制的大功率壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "JPAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“远海遗声”灯",
+    "ENDescription": "被强活性塑能基质控制的大功率壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "ENAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“远海遗声”灯",
+    "KRDescription": "被强活性塑能基质控制的大功率壁灯。\n曾常见于港都岛民聚居区的灯具。应用在这些灯具上的仿生科技原本在阿戈尔被用来驱动庞大的舰船，但在这里，它只负责控制灯罩开合。 把它打捞起来的伊比利亚人，发现它格外适合用来当雨伞。",
+    "KRAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10214_klgn",
+    "Levels": [
+      {
+        "key": "enemy_10214_klgn",
+        "attributes": {
+          "maxHp": 5500,
+          "atk": 320,
+          "def": 120,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "训练用手弩",
+    "CNDescription": "被塑能基质控制的手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "CNAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "训练用手弩",
+    "JPDescription": "被塑能基质控制的手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "JPAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "训练用手弩",
+    "ENDescription": "被塑能基质控制的手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "ENAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "训练用手弩",
+    "KRDescription": "被塑能基质控制的手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "KRAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10214_klgn_2",
+    "Levels": [
+      {
+        "key": "enemy_10214_klgn_2",
+        "attributes": {
+          "maxHp": 6500,
+          "atk": 450,
+          "def": 150,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.8,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“驯服大海”弩",
+    "CNDescription": "被强活性塑能基质控制的高磅数手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "CNAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“驯服大海”弩",
+    "JPDescription": "被强活性塑能基质控制的高磅数手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "JPAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“驯服大海”弩",
+    "ENDescription": "被强活性塑能基质控制的高磅数手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "ENAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“驯服大海”弩",
+    "KRDescription": "被强活性塑能基质控制的高磅数手弩。\n曾是城镇佣兵公会训练水兵的用具。当然，不是用来让他们练习射击，而是在剧烈摇晃的甲板上让他们练习躲避弩箭。 把它打捞起来的伊比利亚人，发现它格外适合用来当衣架。",
+    "KRAbilityList": [
+      {
+        "text": "攻击未处于激活的【塑能力场】中的目标时造成溅射物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10215_klhjd",
+    "Levels": [
+      {
+        "key": "enemy_10215_klhjd",
+        "attributes": {
+          "maxHp": 8000,
+          "atk": 800,
+          "def": 700,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "三曲足仪仗盾",
+    "CNDescription": "被塑能基质控制的盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "CNAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "三曲足仪仗盾",
+    "JPDescription": "被塑能基质控制的盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "JPAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "三曲足仪仗盾",
+    "ENDescription": "被塑能基质控制的盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "ENAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "三曲足仪仗盾",
+    "KRDescription": "被塑能基质控制的盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "KRAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10215_klhjd_2",
+    "Levels": [
+      {
+        "key": "enemy_10215_klhjd_2",
+        "attributes": {
+          "maxHp": 10000,
+          "atk": 930,
+          "def": 900,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.7,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“永恒奔跑”仪仗盾",
+    "CNDescription": "被强活性塑能基质控制的坚固盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "CNAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“永恒奔跑”仪仗盾",
+    "JPDescription": "被强活性塑能基质控制的坚固盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "JPAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“永恒奔跑”仪仗盾",
+    "ENDescription": "被强活性塑能基质控制的坚固盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "ENAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“永恒奔跑”仪仗盾",
+    "KRDescription": "被强活性塑能基质控制的坚固盾牌。\n曾是国防军仪仗队携带的装饰性武具。盾牌上缀有三条弯曲的腿甲，象征“永恒奔跑”，寓意伊比利亚开拓的脚步永不停歇。 把它打捞起来的伊比利亚人，发现它格外适合用来当锅盖。",
+    "KRAbilityList": [
+      {
+        "text": "只能被阻挡数大于等于2的单位阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "阻挡自身所在格的【能量束】",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10216_kltwhp",
+    "Levels": [
+      {
+        "key": "enemy_10216_kltwhp",
+        "attributes": {
+          "maxHp": 7500,
+          "atk": 660,
+          "def": 300,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Lasso",
+            "priority": 0,
+            "cooldown": 30,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "hit_duration",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "迎宾花瓶",
+    "CNDescription": "被塑能基质控制的花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "CNAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "迎宾花瓶",
+    "JPDescription": "被塑能基质控制的花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "JPAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "迎宾花瓶",
+    "ENDescription": "被塑能基质控制的花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "ENAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "迎宾花瓶",
+    "KRDescription": "被塑能基质控制的花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "KRAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10216_kltwhp_2",
+    "Levels": [
+      {
+        "key": "enemy_10216_kltwhp_2",
+        "attributes": {
+          "maxHp": 9500,
+          "atk": 760,
+          "def": 400,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_attr.max_hp",
+            "value": -0.4
+          },
+          {
+            "key": "reborn.duration",
+            "value": 1
+          },
+          {
+            "key": "reborn_default.duration",
+            "value": 1
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "suicide.interval",
+            "value": 500
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_min",
+            "value": 0.5
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.first_trigger_interval_max",
+            "value": 1.5
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "Lasso",
+            "priority": 0,
+            "cooldown": 30,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "hit_duration",
+                "value": 10,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“千帆来朝”花瓶",
+    "CNDescription": "被强活性塑能基质控制的华丽花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "CNAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“千帆来朝”花瓶",
+    "JPDescription": "被强活性塑能基质控制的华丽花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "JPAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“千帆来朝”花瓶",
+    "ENDescription": "被强活性塑能基质控制的华丽花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "ENAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“千帆来朝”花瓶",
+    "KRDescription": "被强活性塑能基质控制的华丽花瓶。\n曾常见于南大陆商会迎客船的装饰物。一艘迎客船的轨迹遍布大陆南方的数个国家和数十座独立城邦，它的花瓶里什么奇怪的东西都插过，甚至包括甘蔗。 把它打捞起来的伊比利亚人，发现它格外适合用来装咸鳞汁。",
+    "KRAbilityList": [
+      {
+        "text": "可以对我方单位持续造成<$ba.stun>晕眩</>和物理伤害，且受到效果的单位无法发出【能量束】",
+        "textFormat": "SILENCE"
+      },
+      {
+        "text": "在【塑能力场】内失去<塑能基质>并失去活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性后获得<塑能基质>可再次获得活性",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "失去活性并在场上停留过长时间后，从战场中离开",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10217_klljs",
+    "Levels": [
+      {
+        "key": "enemy_10217_klljs",
+        "attributes": {
+          "maxHp": 9000,
+          "atk": 420,
+          "def": 240,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "summon_fireseed",
+            "priority": 0,
+            "cooldown": 20,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "禁术学徒",
+    "CNDescription": "遵从导师指引，在城中制造混乱的学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "CNAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "禁术学徒",
+    "JPDescription": "遵从导师指引，在城中制造混乱的学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "JPAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "ENName": "禁术学徒",
+    "ENDescription": "遵从导师指引，在城中制造混乱的学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "ENAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "KRName": "禁术学徒",
+    "KRDescription": "遵从导师指引，在城中制造混乱的学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "KRAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10217_klljs_2",
+    "Levels": [
+      {
+        "key": "enemy_10217_klljs_2",
+        "attributes": {
+          "maxHp": 10500,
+          "atk": 480,
+          "def": 290,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 3,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "NORMAL",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "skills": [
+          {
+            "prefabKey": "summon_fireseed",
+            "priority": 0,
+            "cooldown": 20,
+            "initCooldown": 10,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "老练禁术学徒",
+    "CNDescription": "遵从导师指引，在城中制造混乱的老练学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "CNAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "老练禁术学徒",
+    "JPDescription": "遵从导师指引，在城中制造混乱的老练学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "JPAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "ENName": "老练禁术学徒",
+    "ENDescription": "遵从导师指引，在城中制造混乱的老练学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "ENAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ],
+    "KRName": "老练禁术学徒",
+    "KRDescription": "遵从导师指引，在城中制造混乱的老练学徒。\n与黄金时代的许多事物一样，伟大的炼金术也没能逃脱被划为禁术的命运。冒险继续学习这门技艺的人有时会想，承担所有这些风险，就只是为了用炼金产物操纵些瓶瓶罐罐吗？",
+    "KRAbilityList": [
+      {
+        "text": "使周围一名<塑能基质>未达上限的敌人获得一个<塑能基质>，或召唤一个<塑能基质>",
+        "textFormat": "SILENCE"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10218_klxl",
+    "Levels": [
+      {
+        "key": "enemy_10218_klxl",
+        "attributes": {
+          "maxHp": 12000,
+          "atk": 420,
+          "def": 550,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 7,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "cost_fireseed",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "base_atk_scale",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "hit_duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "忏悔香炉",
+    "CNDescription": "被塑能基质控制的香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "CNAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "忏悔香炉",
+    "JPDescription": "被塑能基质控制的香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "JPAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "忏悔香炉",
+    "ENDescription": "被塑能基质控制的香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "ENAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "忏悔香炉",
+    "KRDescription": "被塑能基质控制的香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "KRAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10218_klxl_2",
+    "Levels": [
+      {
+        "key": "enemy_10218_klxl_2",
+        "attributes": {
+          "maxHp": 14000,
+          "atk": 520,
+          "def": 700,
+          "magicResistance": 60,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.5,
+          "attackSpeed": 100,
+          "baseAttackTime": 7,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 5
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "cost_fireseed",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "base_atk_scale",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "hit_duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“心诚则灵”香炉",
+    "CNDescription": "被强活性塑能基质控制的古老香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "CNAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "“心诚则灵”香炉",
+    "JPDescription": "被强活性塑能基质控制的古老香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "JPAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“心诚则灵”香炉",
+    "ENDescription": "被强活性塑能基质控制的古老香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "ENAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“心诚则灵”香炉",
+    "KRDescription": "被强活性塑能基质控制的古老香炉。\n曾属于国教会的仪式香炉。忏悔者会痛哭流涕，一半是因为教士的抚慰之言感人肺腑，一半是因为香炉里烧的炼金产物实在太刺鼻了。 把它打捞起来的伊比利亚人，发现它格外适合用来当堆肥桶。",
+    "KRAbilityList": [
+      {
+        "text": "可以消耗一个<塑能基质>对我方单位造成持续法术伤害，如果目标位于【塑能力场】内，伤害由【塑能力场】内所有目标分摊",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10219_klhjdd",
+    "Levels": [
+      {
+        "key": "enemy_10219_klhjdd",
+        "attributes": {
+          "maxHp": 18000,
+          "atk": 850,
+          "def": 950,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 180
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.15
+          },
+          {
+            "key": "absorb_fireseed.attack_speed",
+            "value": -60
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "空盔甲",
+    "CNDescription": "被塑能基质控制的空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "CNAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "空盔甲",
+    "JPDescription": "被塑能基质控制的空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "JPAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "空盔甲",
+    "ENDescription": "被塑能基质控制的空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "ENAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "空盔甲",
+    "KRDescription": "被塑能基质控制的空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "KRAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10219_klhjdd_2",
+    "Levels": [
+      {
+        "key": "enemy_10219_klhjdd_2",
+        "attributes": {
+          "maxHp": 21000,
+          "atk": 1050,
+          "def": 1150,
+          "magicResistance": 10,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 3.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 200
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.15
+          },
+          {
+            "key": "absorb_fireseed.attack_speed",
+            "value": -60
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "戴罪空盔甲",
+    "CNDescription": "被强活性塑能基质控制的包金空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "CNAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "戴罪空盔甲",
+    "JPDescription": "被强活性塑能基质控制的包金空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "JPAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "戴罪空盔甲",
+    "ENDescription": "被强活性塑能基质控制的包金空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "ENAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "戴罪空盔甲",
+    "KRDescription": "被强活性塑能基质控制的包金空盔甲。\n把它打捞起来的伊比利亚人，看到它是人形，便没了利用它的心思。他们试图像对待岛民那样把它吊上灯柱，但绳子拉了起来，头盔滚了下来，而盔甲纹丝未动。",
+    "KRAbilityList": [
+      {
+        "text": "可以攻击自身周围四格的单位",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>且攻击速度大幅降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_1021_bslime",
     "Levels": [
       {
@@ -52457,6 +54981,358 @@
       {
         "text": "사망 후 주위에 대량의 물리 대미지 부여",
         "textFormat": "SILENCE"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10220_kljbp",
+    "Levels": [
+      {
+        "key": "enemy_10220_kljbp",
+        "attributes": {
+          "maxHp": 48000,
+          "atk": 1700,
+          "def": 240,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 8
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 100
+          },
+          {
+            "key": "kljbp_t.atk_cnt",
+            "value": 5
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "over_fireseed.sp_gain_in_area",
+            "value": 2
+          },
+          {
+            "key": "kljbp_t.sp_gain_in_area",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "炼金术师净手盆",
+    "CNDescription": "被塑能基质控制的净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "CNAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "炼金术师净手盆",
+    "JPDescription": "被塑能基质控制的净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "JPAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "炼金术师净手盆",
+    "ENDescription": "被塑能基质控制的净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "ENAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "炼金术师净手盆",
+    "KRDescription": "被塑能基质控制的净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "KRAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_10220_kljbp_2",
+    "Levels": [
+      {
+        "key": "enemy_10220_kljbp_2",
+        "attributes": {
+          "maxHp": 58000,
+          "atk": 2100,
+          "def": 320,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.3,
+          "attackSpeed": 100,
+          "baseAttackTime": 6,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 5,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 1
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 8
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 100
+          },
+          {
+            "key": "kljbp_t.atk_cnt",
+            "value": 5
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.1
+          },
+          {
+            "key": "over_fireseed.sp_gain_in_area",
+            "value": 2
+          },
+          {
+            "key": "kljbp_t.sp_gain_in_area",
+            "value": 2
+          }
+        ],
+        "skills": null,
+        "enemyTags": [
+          "originiumartscraft"
+        ]
+      }
+    ],
+    "CNName": "“至伟之术”净手盆",
+    "CNDescription": "被强活性塑能基质控制的镶金净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "CNAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "“至伟之术”净手盆",
+    "JPDescription": "被强活性塑能基质控制的镶金净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "JPAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "“至伟之术”净手盆",
+    "ENDescription": "被强活性塑能基质控制的镶金净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "ENAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "“至伟之术”净手盆",
+    "KRDescription": "被强活性塑能基质控制的镶金净手盆。\n曾属于炼金术师公会的器物。炼金术师进行任何操作前都应净手，以表示对炼金术这一伟大技艺的尊敬……并防止杂质干扰实验。 把它打捞起来的伊比利亚人，发现它格外适合用来当大锅。",
+    "KRAbilityList": [
+      {
+        "text": "每受到数次伤害后自身储存一个<塑能基质>；被击倒或【瘫痪】后释放储存的所有<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
       }
     ]
   },
@@ -198697,6 +201573,897 @@
       },
       {
         "text": "无法被传送",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_1594_presaint",
+    "Levels": [
+      {
+        "key": "enemy_1594_presaint",
+        "attributes": {
+          "maxHp": 90000,
+          "atk": 650,
+          "def": 1700,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.35,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 25000
+          },
+          {
+            "key": "Reborn.def",
+            "value": -700
+          },
+          {
+            "key": "Reborn.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "Reborn.invi_duration",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.range_radius",
+            "value": 3
+          },
+          {
+            "key": "boom_area_1.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.atk_scale",
+            "value": 0.6
+          },
+          {
+            "key": "boom_area_1.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_1.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "boom_area_1.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "ep_scale.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "fire_area.range_radius",
+            "value": 1.25
+          },
+          {
+            "key": "fire_area.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "fire_area.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_2.range_radius",
+            "value": 3.5
+          },
+          {
+            "key": "boom_area_2.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_2.atk_scale",
+            "value": 0.8
+          },
+          {
+            "key": "boom_area_2.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_2.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "boom_area_2.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 100
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt_2",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt_2",
+            "value": 7
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.12
+          },
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "FireSeed_Headshot_1",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 5,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "init_times",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Shootgun_1",
+            "priority": 0,
+            "cooldown": 60,
+            "initCooldown": 60,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_cnt",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireSeed_Headshot_2",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 4,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "init_times",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Shootgun_2",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 50,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_cnt",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      },
+      {
+        "key": "enemy_1594_presaint",
+        "attributes": {
+          "maxHp": 120000,
+          "atk": 850,
+          "def": 2000,
+          "magicResistance": 20,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.35,
+          "attackSpeed": 100,
+          "baseAttackTime": 2.5,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 2.5
+        },
+        "levelType": "BOSS",
+        "level": 1,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 2,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 25000
+          },
+          {
+            "key": "Reborn.def",
+            "value": -700
+          },
+          {
+            "key": "Reborn.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "Reborn.invi_duration",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.range_radius",
+            "value": 3
+          },
+          {
+            "key": "boom_area_1.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.atk_scale",
+            "value": 0.6
+          },
+          {
+            "key": "boom_area_1.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_1.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "boom_area_1.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "ep_scale.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "fire_area.range_radius",
+            "value": 1.25
+          },
+          {
+            "key": "fire_area.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "fire_area.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_2.range_radius",
+            "value": 3.5
+          },
+          {
+            "key": "boom_area_2.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_2.atk_scale",
+            "value": 0.8
+          },
+          {
+            "key": "boom_area_2.fire_damage",
+            "value": 50
+          },
+          {
+            "key": "boom_area_2.magic_damage",
+            "value": 200
+          },
+          {
+            "key": "boom_area_2.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 100
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt_2",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt_2",
+            "value": 7
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.12
+          },
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          },
+          {
+            "key": "Reborn.duration",
+            "value": 10
+          },
+          {
+            "key": "Reborn.max_hp",
+            "value": 35000
+          },
+          {
+            "key": "Reborn.def",
+            "value": -600
+          },
+          {
+            "key": "Reborn.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "Reborn.invi_duration",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.range_radius",
+            "value": 3
+          },
+          {
+            "key": "boom_area_1.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_1.atk_scale",
+            "value": 0.7
+          },
+          {
+            "key": "boom_area_1.fire_damage",
+            "value": 60
+          },
+          {
+            "key": "boom_area_1.magic_damage",
+            "value": 300
+          },
+          {
+            "key": "boom_area_1.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "ep_scale.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "fire_area.range_radius",
+            "value": 1.25
+          },
+          {
+            "key": "fire_area.magic_damage",
+            "value": 300
+          },
+          {
+            "key": "fire_area.fire_damage",
+            "value": 60
+          },
+          {
+            "key": "boom_area_2.range_radius",
+            "value": 3.5
+          },
+          {
+            "key": "boom_area_2.projectile_life_time",
+            "value": 10
+          },
+          {
+            "key": "boom_area_2.atk_scale",
+            "value": 0.8
+          },
+          {
+            "key": "boom_area_2.fire_damage",
+            "value": 60
+          },
+          {
+            "key": "boom_area_2.magic_damage",
+            "value": 300
+          },
+          {
+            "key": "boom_area_2.projectile_delay_time",
+            "value": 10
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt",
+            "value": 3
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt",
+            "value": 6
+          },
+          {
+            "key": "fireseedAbility.atk",
+            "value": 130
+          },
+          {
+            "key": "fireseedAbility.init_stack_cnt_2",
+            "value": 4
+          },
+          {
+            "key": "fireseedAbility.max_stack_cnt_2",
+            "value": 7
+          },
+          {
+            "key": "fireseedAbility.damage_resistance",
+            "value": 0.12
+          },
+          {
+            "key": "over_fireseed.duration",
+            "value": 15
+          },
+          {
+            "key": "absorb_fireseed.range_radius",
+            "value": 0.7
+          },
+          {
+            "key": "absorb_fireseed.enemy_enter_alchemy_area.interval",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "FireSeed_Headshot_1",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 4,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "init_times",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Shootgun_1",
+            "priority": 0,
+            "cooldown": 50,
+            "initCooldown": 50,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_cnt",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireSeed_Headshot_2",
+            "priority": 0,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 3,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "init_times",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.1,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Shootgun_2",
+            "priority": 0,
+            "cooldown": 45,
+            "initCooldown": 45,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "max_cnt",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "stun",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 1.3,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "圣徒瓦列里奥",
+    "CNDescription": "如果审判庭不能，他就亲手为自己的牺牲创造意义。",
+    "CNAbilityList": [
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【报偿】锁定数个地块，蓄力后对其使用手炮射击造成溅射物理伤害和<$ba.stun>晕眩</>效果，若击倒我方单位则留下一个<不甘的火>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【审判】攻击数次后对前方一定范围内所有我方单位造成一次多连击，连击数随拥有的<塑能基质>提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【绝罚】自身一定范围内我方干员被击倒或撤退时造成一次法术伤害，并留下一团火焰持续造成法术伤害和<$ba.dt.burning>灼燃损伤</>，且使周围所有未达上限的敌人获得一个<塑能基质>。在【塑能力场】内无效",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "免疫<$ba.stun>晕眩</>，但<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成物理伤害，<塑能基质>上限：6",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成法术伤害，<塑能基质>上限：7",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<圣徒瓦列里奥>周围的我方单位持续受到法术伤害和<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC",
+      "MAGIC"
+    ],
+    "JPName": "圣徒瓦列里奥",
+    "JPDescription": "如果审判庭不能，他就亲手为自己的牺牲创造意义。",
+    "JPAbilityList": [
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【报偿】锁定数个地块，蓄力后对其使用手炮射击造成溅射物理伤害和<$ba.stun>晕眩</>效果，若击倒我方单位则留下一个<不甘的火>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【审判】攻击数次后对前方一定范围内所有我方单位造成一次多连击，连击数随拥有的<塑能基质>提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【绝罚】自身一定范围内我方干员被击倒或撤退时造成一次法术伤害，并留下一团火焰持续造成法术伤害和<$ba.dt.burning>灼燃损伤</>，且使周围所有未达上限的敌人获得一个<塑能基质>。在【塑能力场】内无效",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "免疫<$ba.stun>晕眩</>，但<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成物理伤害，<塑能基质>上限：6",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成法术伤害，<塑能基质>上限：7",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<圣徒瓦列里奥>周围的我方单位持续受到法术伤害和<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "圣徒瓦列里奥",
+    "ENDescription": "如果审判庭不能，他就亲手为自己的牺牲创造意义。",
+    "ENAbilityList": [
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【报偿】锁定数个地块，蓄力后对其使用手炮射击造成溅射物理伤害和<$ba.stun>晕眩</>效果，若击倒我方单位则留下一个<不甘的火>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【审判】攻击数次后对前方一定范围内所有我方单位造成一次多连击，连击数随拥有的<塑能基质>提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【绝罚】自身一定范围内我方干员被击倒或撤退时造成一次法术伤害，并留下一团火焰持续造成法术伤害和<$ba.dt.burning>灼燃损伤</>，且使周围所有未达上限的敌人获得一个<塑能基质>。在【塑能力场】内无效",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "免疫<$ba.stun>晕眩</>，但<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成物理伤害，<塑能基质>上限：6",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成法术伤害，<塑能基质>上限：7",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<圣徒瓦列里奥>周围的我方单位持续受到法术伤害和<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "圣徒瓦列里奥",
+    "KRDescription": "如果审判庭不能，他就亲手为自己的牺牲创造意义。",
+    "KRAbilityList": [
+      {
+        "text": "每拥有一个<塑能基质>获得一定比例伤害减免和攻击力加成",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在【塑能力场】内逐渐失去<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【报偿】锁定数个地块，蓄力后对其使用手炮射击造成溅射物理伤害和<$ba.stun>晕眩</>效果，若击倒我方单位则留下一个<不甘的火>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【审判】攻击数次后对前方一定范围内所有我方单位造成一次多连击，连击数随拥有的<塑能基质>提升",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【绝罚】自身一定范围内我方干员被击倒或撤退时造成一次法术伤害，并留下一团火焰持续造成法术伤害和<$ba.dt.burning>灼燃损伤</>，且使周围所有未达上限的敌人获得一个<塑能基质>。在【塑能力场】内无效",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "免疫<$ba.stun>晕眩</>，但<塑能基质>超过上限时进入【瘫痪】状态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【瘫痪】一段时间内受到持续<$ba.stun>晕眩</>效果，失去所有<塑能基质>，且无法吸收<塑能基质>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第一形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成物理伤害，<塑能基质>上限：6",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "<圣徒瓦列里奥>攻击造成法术伤害，<塑能基质>上限：7",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "<圣徒瓦列里奥>周围的我方单位持续受到法术伤害和<$ba.dt.burning>灼燃损伤</>",
         "textFormat": "NORMAL"
       }
     ]

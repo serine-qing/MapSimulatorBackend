@@ -18411,6 +18411,84 @@
               "hasChallenge": false
             }
           ]
+        },
+        {
+          "id": "act52side",
+          "episode": "昨日海",
+          "childNodes": [
+            {
+              "id": "YW-1",
+              "operation": "YW-1",
+              "levelId": "activities/act52side/level_act52side_01",
+              "name": "互助会",
+              "description": "所谓的“互助会”为岛民的生活提供了多少实际帮助，人们不得而知。但哪怕只是有个地方能让人放心地倾吐一些怨言，对于岛民而言，就已是莫大的帮助了。",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-TR-1",
+              "operation": "YW-TR-1",
+              "levelId": "activities/act52side/level_act52side_tr01",
+              "name": "炼金术遗产考察",
+              "description": "旧都城的街道上布满了炼金术师的遗产。他们或许已经葬身海底，但他们的造物仍像幽灵般游荡。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-2",
+              "operation": "YW-2",
+              "levelId": "activities/act52side/level_act52side_02",
+              "name": "浮浮沉沉",
+              "description": "有人希望这座旧都城重见天日，又有人希望它沉在海底。他们都说这是为了伊比利亚。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-3",
+              "operation": "YW-3",
+              "levelId": "activities/act52side/level_act52side_03",
+              "name": "破手铐",
+              "description": "一如这个时代的许多手工制品，这副手铐做工粗糙，边缘还残留着锋利的铁刺。在伊比利亚人眼里，它是国家衰退的印证，但在戴上这副手铐的岛民眼里，它就只是一种冰冷的嘲弄。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-4",
+              "operation": "YW-4",
+              "levelId": "activities/act52side/level_act52side_04",
+              "name": "走上街道",
+              "description": "伊比利亚的戒严似乎永远不会结束，路上行人寥寥，直到一群岛民拿起武器，沉默地走上街道。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-5",
+              "operation": "YW-5",
+              "levelId": "activities/act52side/level_act52side_05",
+              "name": "三岔路口",
+              "description": "走投无路的人，其实并非全然无路可走。只不过，那些道路一条通向牢狱，一条通向死亡，还有一条通向一只扭曲的海怪。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”\\n<@lv.item><基质合成台></>开启可以生成数个塑能基质",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-6",
+              "operation": "YW-6",
+              "levelId": "activities/act52side/level_act52side_06",
+              "name": "大人物",
+              "description": "一辈子都在用谎言包装自己的孩子，太清楚怎么骗别人相信自己是个大人物。可当她真想成为那个大人物时，却不知道自己实际上该做什么了。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-7",
+              "operation": "YW-7",
+              "levelId": "activities/act52side/level_act52side_07",
+              "name": "殉葬品",
+              "description": "世人皆以为伟大的圣徒瓦列里奥是殉道而死，只有他知道，自己不是殉道，而是殉葬。于是，当他重新睁开眼，看到自己为之殉葬的事物还笼罩在伊比利亚的头顶，他必然会把它们再拖回坟墓。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”\\n<@lv.item><基质合成台></>开启可以生成数个塑能基质",
+              "hasChallenge": false
+            },
+            {
+              "id": "YW-8",
+              "operation": "YW-8",
+              "levelId": "activities/act52side/level_act52side_08",
+              "name": "鳞的记忆",
+              "description": "过去，成群的海鳞会追逐着金色的庞大人造物巡游，饱餐它掀起的微生物。如今，那个庞大的金色影子再度浮现，不论人们是否记得它原本的模样，鳞群都还保留着追逐它的习性。\\n<@lv.item><塑能砖></>上部署我方干员时发出“能量束”\\n<@lv.item><能量束></>围成封闭图形时形成“塑能力场”\\n<@lv.item><基质合成台></>开启可以生成数个塑能基质",
+              "hasChallenge": false
+            }
+          ]
         }
       ]
     },

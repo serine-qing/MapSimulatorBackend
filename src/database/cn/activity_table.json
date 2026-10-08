@@ -1,5 +1,30 @@
 {
   "basicInfo": {
+     "act52side": {
+      "id": "act52side",
+      "type": "TYPE_ACT52SIDE",
+      "displayType": "NONE",
+      "name": "昨日海",
+      "startTime": 1788476400,
+      "endTime": 1789675199,
+      "rewardEndTime": 1790279999,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act52side",
+      "medalGroupId": null,
+      "ungroupedMedalIds": [
+        "medal_hidden_54side_01",
+        "medal_hidden_54side_02"
+      ],
+      "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "SPECIAL",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
     "act3break": {
       "id": "act3break",
       "type": "VEC_BREAK_V2",
