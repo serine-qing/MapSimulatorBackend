@@ -234938,6 +234938,2320 @@
     "KRName": "烟雾弹"
   },
   {
+    "Key": "enemy_2157_shadvr",
+    "Levels": [
+      {
+        "key": "enemy_2157_shadvr",
+        "attributes": {
+          "maxHp": 800000,
+          "atk": 1800,
+          "def": 1000,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "NONE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 30,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_normal.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "reborn_normal.duration",
+            "value": 10
+          },
+          {
+            "key": "reborn_normal.damage_resistance",
+            "value": 0.9
+          },
+          {
+            "key": "attackSetMagic.attack@max_target",
+            "value": 2
+          },
+          {
+            "key": "attackSetMagic.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "attackSetMagic.attack@ability_range_radius",
+            "value": 2.5
+          },
+          {
+            "key": "attackSetMagic.attack@atk_scale",
+            "value": 1
+          },
+          {
+            "key": "addMagicRes.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "magicAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "AttackSetPhysics.attack@times",
+            "value": 3
+          },
+          {
+            "key": "AttackSetPhysics.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysics.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "addDef.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "attackRnage.attack@ability_range_radius",
+            "value": 1.1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@times",
+            "value": 5
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@ability_range_radius",
+            "value": 1.1
+          },
+          {
+            "key": "phyAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "phyAdv.move_speed",
+            "value": 0
+          },
+          {
+            "key": "state.max_value",
+            "value": 120
+          },
+          {
+            "key": "state.add_attack",
+            "value": 1
+          },
+          {
+            "key": "state.duration_advance",
+            "value": 40
+          },
+          {
+            "key": "state.interval",
+            "value": 0.1
+          },
+          {
+            "key": "state.add_time",
+            "value": 0.25
+          },
+          {
+            "key": "branch.interval",
+            "value": 28
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.def",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.move_speed",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.atk",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.magic_resistance",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].atk",
+            "value": 1000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].def",
+            "value": 1500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].magic_resistance",
+            "value": 60
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].atk",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].def",
+            "value": 3000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].magic_resistance",
+            "value": 20
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].move_speed",
+            "value": 0.4
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].move_speed",
+            "value": 0.6
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "state.normal_scale",
+            "value": 2
+          },
+          {
+            "key": "state.advance_scale",
+            "value": 0.33
+          },
+          {
+            "key": "reborn_normal.interval",
+            "value": 20
+          },
+          {
+            "key": "state.duration",
+            "value": 40
+          },
+          {
+            "key": "state.abnormal_resistance",
+            "value": 0.5
+          },
+          {
+            "key": "state.max_stack_cnt",
+            "value": 2
+          },
+          {
+            "key": "addDef.fire_duration",
+            "value": 0.1
+          },
+          {
+            "key": "addMagicRes.fire_duration",
+            "value": 0.1
+          },
+          {
+            "key": "reborn_normal.first_trigger_interval",
+            "value": 3
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "change2magic",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physics",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Fire",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physicsAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2magicAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "chainAttack",
+            "priority": 0,
+            "cooldown": 12,
+            "initCooldown": 6,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2normal",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": []
+          },
+          {
+            "prefabKey": "chainAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 8,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttack",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 3,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "dist",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "dist",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireAdvance",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "沉沦之人",
+    "CNDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
+    "CNAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到可<$ba.buffres>抵抗</>的异常状态时间减少，一段时间内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "转变为对应的强化形态且不再转变形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "NO_DAMAGE"
+    ],
+    "JPName": "沉沦之人",
+    "JPDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
+    "JPAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到可<$ba.buffres>抵抗</>的异常状态时间减少，一段时间内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "转变为对应的强化形态且不再转变形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "沉沦之人",
+    "ENDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
+    "ENAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到可<$ba.buffres>抵抗</>的异常状态时间减少，一段时间内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "转变为对应的强化形态且不再转变形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "沉沦之人",
+    "KRDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
+    "KRAbilityList": [
+      {
+        "text": "无法被阻挡",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "受到可<$ba.buffres>抵抗</>的异常状态时间减少，一段时间内受到相同异常状态的时间进一步减少（至多减至0）",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "第二形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "转变为对应的强化形态且不再转变形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_2157_shadvr_1",
+    "Levels": [
+      {
+        "key": "enemy_2157_shadvr_1",
+        "attributes": {
+          "maxHp": 800000,
+          "atk": 1800,
+          "def": 1000,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 30,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_normal.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "reborn_normal.duration",
+            "value": 10
+          },
+          {
+            "key": "reborn_normal.damage_resistance",
+            "value": 0.9
+          },
+          {
+            "key": "attackSetMagic.attack@max_target",
+            "value": 2
+          },
+          {
+            "key": "attackSetMagic.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "attackSetMagic.attack@ability_range_radius",
+            "value": 2.5
+          },
+          {
+            "key": "attackSetMagic.attack@atk_scale",
+            "value": 1
+          },
+          {
+            "key": "addMagicRes.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "magicAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "AttackSetPhysics.attack@times",
+            "value": 3
+          },
+          {
+            "key": "AttackSetPhysics.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysics.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "addDef.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "attackRnage.attack@ability_range_radius",
+            "value": 1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@times",
+            "value": 5
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@ability_range_radius",
+            "value": 1.5
+          },
+          {
+            "key": "phyAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "phyAdv.move_speed",
+            "value": 0
+          },
+          {
+            "key": "state.max_value",
+            "value": 120
+          },
+          {
+            "key": "state.add_attack",
+            "value": 1
+          },
+          {
+            "key": "state.duration_advance",
+            "value": 40
+          },
+          {
+            "key": "state.interval",
+            "value": 0.1
+          },
+          {
+            "key": "state.add_time",
+            "value": 0.25
+          },
+          {
+            "key": "branch.interval",
+            "value": 28
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.def",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.move_speed",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.atk",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.magic_resistance",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].atk",
+            "value": 1000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].def",
+            "value": 1500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].magic_resistance",
+            "value": 60
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].atk",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].def",
+            "value": 3000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].magic_resistance",
+            "value": 20
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].move_speed",
+            "value": 0.4
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].move_speed",
+            "value": 0.6
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "state.normal_scale",
+            "value": 2
+          },
+          {
+            "key": "state.advance_scale",
+            "value": 0.33
+          },
+          {
+            "key": "reborn_normal.interval",
+            "value": 20
+          },
+          {
+            "key": "state.duration",
+            "value": 40
+          },
+          {
+            "key": "state.abnormal_resistance",
+            "value": 0.5
+          },
+          {
+            "key": "state.max_stack_cnt",
+            "value": 2
+          },
+          {
+            "key": "addDef.fire_duration",
+            "value": 0.1
+          },
+          {
+            "key": "addMagicRes.fire_duration",
+            "value": 0.1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "change2magic",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physics",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Fire",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physicsAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2magicAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "chainAttack",
+            "priority": 0,
+            "cooldown": 12,
+            "initCooldown": 6,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2normal",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": []
+          },
+          {
+            "prefabKey": "chainAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 8,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttack",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 3,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireAdvance",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "艾穆拉伊，祝日降临",
+    "CNDescription": "诞于日照的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。征服并非为了统治，而是要履行天生的职责，如此往复便能统合四方的土地。",
+    "CNAbilityList": [
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日照信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "艾穆拉伊，祝日降临",
+    "JPDescription": "诞于日照的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。征服并非为了统治，而是要履行天生的职责，如此往复便能统合四方的土地。",
+    "JPAbilityList": [
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日照信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "艾穆拉伊，祝日降临",
+    "ENDescription": "诞于日照的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。征服并非为了统治，而是要履行天生的职责，如此往复便能统合四方的土地。",
+    "ENAbilityList": [
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日照信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "艾穆拉伊，祝日降临",
+    "KRDescription": "诞于日照的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。征服并非为了统治，而是要履行天生的职责，如此往复便能统合四方的土地。",
+    "KRAbilityList": [
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日照信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_2157_shadvr_2",
+    "Levels": [
+      {
+        "key": "enemy_2157_shadvr_2",
+        "attributes": {
+          "maxHp": 800000,
+          "atk": 1800,
+          "def": 1000,
+          "magicResistance": 30,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 10,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": true,
+          "silenceImmune": true,
+          "sleepImmune": true,
+          "frozenImmune": true,
+          "levitateImmune": true,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "BOSS",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 30,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "reborn_normal.hp_ratio",
+            "value": 1
+          },
+          {
+            "key": "reborn_normal.duration",
+            "value": 10
+          },
+          {
+            "key": "reborn_normal.damage_resistance",
+            "value": 0.9
+          },
+          {
+            "key": "attackSetMagic.attack@max_target",
+            "value": 2
+          },
+          {
+            "key": "attackSetMagic.attack@ep_damage_ratio",
+            "value": 0.2
+          },
+          {
+            "key": "attackSetMagic.attack@ability_range_radius",
+            "value": 2.5
+          },
+          {
+            "key": "attackSetMagic.attack@atk_scale",
+            "value": 1
+          },
+          {
+            "key": "addMagicRes.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "magicAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "AttackSetPhysics.attack@times",
+            "value": 3
+          },
+          {
+            "key": "AttackSetPhysics.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysics.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "addDef.damage_resistance",
+            "value": 0.95
+          },
+          {
+            "key": "attackRnage.attack@ability_range_radius",
+            "value": 1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@times",
+            "value": 5
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@hit_interval",
+            "value": 0.1
+          },
+          {
+            "key": "AttackSetPhysicsAdv.hp_ratio",
+            "value": 0.03
+          },
+          {
+            "key": "AttackSetPhysicsAdv.attack@ability_range_radius",
+            "value": 1.5
+          },
+          {
+            "key": "phyAdv.atk",
+            "value": 0
+          },
+          {
+            "key": "phyAdv.move_speed",
+            "value": 0
+          },
+          {
+            "key": "state.max_value",
+            "value": 120
+          },
+          {
+            "key": "state.add_attack",
+            "value": 1
+          },
+          {
+            "key": "state.duration_advance",
+            "value": 40
+          },
+          {
+            "key": "state.interval",
+            "value": 0.1
+          },
+          {
+            "key": "state.add_time",
+            "value": 0.25
+          },
+          {
+            "key": "branch.interval",
+            "value": 28
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.def",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.move_speed",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.atk",
+            "value": 500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.magic_resistance",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].atk",
+            "value": 1000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].def",
+            "value": 1500
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].magic_resistance",
+            "value": 60
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].move_speed",
+            "value": 0.2
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].atk",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].def",
+            "value": 3000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].magic_resistance",
+            "value": 20
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].move_speed",
+            "value": 0.4
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].atk",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].def",
+            "value": 2000
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].magic_resistance",
+            "value": 40
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_normal[adv].move_speed",
+            "value": 0.6
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic.base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy.base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_magic[adv].base_attack_time",
+            "value": 1
+          },
+          {
+            "key": "EnemyAttri.enemy_shadvr_attri_phy[adv].base_attack_time",
+            "value": 0
+          },
+          {
+            "key": "state.normal_scale",
+            "value": 2
+          },
+          {
+            "key": "state.advance_scale",
+            "value": 0.33
+          },
+          {
+            "key": "reborn_normal.interval",
+            "value": 20
+          },
+          {
+            "key": "state.duration",
+            "value": 40
+          },
+          {
+            "key": "state.abnormal_resistance",
+            "value": 0.5
+          },
+          {
+            "key": "state.max_stack_cnt",
+            "value": 2
+          },
+          {
+            "key": "addDef.fire_duration",
+            "value": 0.1
+          },
+          {
+            "key": "addMagicRes.fire_duration",
+            "value": 0.1
+          }
+        ],
+        "skills": [
+          {
+            "prefabKey": "change2magic",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physics",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "Fire",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2physicsAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2magicAdv",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration_state",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "chainAttack",
+            "priority": 0,
+            "cooldown": 12,
+            "initCooldown": 6,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 3,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "change2normal",
+            "priority": 1,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": []
+          },
+          {
+            "prefabKey": "chainAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 8,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 2.5,
+                "valueStr": null
+              },
+              {
+                "key": "chain.max_target",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "interval",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_delay_time",
+                "value": 5,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale_chain",
+                "value": 0.35,
+                "valueStr": null
+              },
+              {
+                "key": "projectile_range",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "duration",
+                "value": 8,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttack",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 3,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "crossAttackAdvance",
+            "priority": 0,
+            "cooldown": 10,
+            "initCooldown": 5,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "range_radius",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              }
+            ]
+          },
+          {
+            "prefabKey": "FireAdvance",
+            "priority": 2,
+            "cooldown": 0,
+            "initCooldown": 0,
+            "spCost": 0,
+            "blackboard": [
+              {
+                "key": "duration",
+                "value": 2,
+                "valueStr": null
+              },
+              {
+                "key": "max_target",
+                "value": 4,
+                "valueStr": null
+              },
+              {
+                "key": "atk_scale",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "damage_resistance",
+                "value": 0.99,
+                "valueStr": null
+              },
+              {
+                "key": "cnt",
+                "value": 1,
+                "valueStr": null
+              },
+              {
+                "key": "cnt_limit",
+                "value": 5,
+                "valueStr": null
+              }
+            ]
+          }
+        ],
+        "enemyTags": []
+      }
+    ],
+    "CNName": "托斯卡特尔，末日敕令",
+    "CNDescription": "诞于日蚀的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。杀生并非为了屠戮，而是要献上鲜活的生命，如此往复便能点燃第五轮太阳。",
+    "CNAbilityList": [
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日蚀信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，普通攻击变为5连击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "托斯卡特尔，末日敕令",
+    "JPDescription": "诞于日蚀的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。杀生并非为了屠戮，而是要献上鲜活的生命，如此往复便能点燃第五轮太阳。",
+    "JPAbilityList": [
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日蚀信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，普通攻击变为5连击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "托斯卡特尔，末日敕令",
+    "ENDescription": "诞于日蚀的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。杀生并非为了屠戮，而是要献上鲜活的生命，如此往复便能点燃第五轮太阳。",
+    "ENAbilityList": [
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日蚀信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，普通攻击变为5连击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "托斯卡特尔，末日敕令",
+    "KRDescription": "诞于日蚀的古老乌托邦意志的化身，一度在战争中与死敌同归于尽。杀生并非为了屠戮，而是要献上鲜活的生命，如此往复便能点燃第五轮太阳。",
+    "KRAbilityList": [
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "在本形态若日蚀信仰进度再次满溢，转变为强化形态",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "属性大幅提升，普通攻击变为5连击",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_2158_sheagl",
+    "Levels": [
+      {
+        "key": "enemy_2158_sheagl",
+        "attributes": {
+          "maxHp": 60000,
+          "atk": 1000,
+          "def": 300,
+          "magicResistance": 50,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0.6,
+          "attackSpeed": 100,
+          "baseAttackTime": 4,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 1,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": 1.5
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "RANGED",
+        "motion": "FLY",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "move.damage_resistance",
+            "value": 0.9
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "灼目神使",
+    "CNDescription": "它们受命于君王，在天空中不知疲倦地起舞，把黑夜改作白昼。",
+    "CNAbilityList": [
+      {
+        "text": "普通攻击对目标及其周围4格造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "MAGIC"
+    ],
+    "JPName": "灼目神使",
+    "JPDescription": "它们受命于君王，在天空中不知疲倦地起舞，把黑夜改作白昼。",
+    "JPAbilityList": [
+      {
+        "text": "普通攻击对目标及其周围4格造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "灼目神使",
+    "ENDescription": "它们受命于君王，在天空中不知疲倦地起舞，把黑夜改作白昼。",
+    "ENAbilityList": [
+      {
+        "text": "普通攻击对目标及其周围4格造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "灼目神使",
+    "KRDescription": "它们受命于君王，在天空中不知疲倦地起舞，把黑夜改作白昼。",
+    "KRAbilityList": [
+      {
+        "text": "普通攻击对目标及其周围4格造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "移动时受到的物理和法术伤害大幅降低",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
+    "Key": "enemy_2159_shjagr",
+    "Levels": [
+      {
+        "key": "enemy_2159_shjagr",
+        "attributes": {
+          "maxHp": 160000,
+          "atk": 2050,
+          "def": 1000,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 1.2,
+          "attackSpeed": 100,
+          "baseAttackTime": 1.3,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "massLevel": 2,
+          "baseForceLevel": 0,
+          "tauntLevel": 0,
+          "epDamageResistance": 0,
+          "epResistance": 0,
+          "damageHitratePhysical": 1,
+          "damageHitrateMagical": 1,
+          "epBreakRecoverSpeed": 0,
+          "stunImmune": false,
+          "silenceImmune": true,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false,
+          "teleportImmune": false,
+          "groundBoundImmune": false,
+          "rangeRadius": -1
+        },
+        "levelType": "ELITE",
+        "level": 0,
+        "applyWay": "MELEE",
+        "motion": "WALK",
+        "hugeEnemy": false,
+        "unMoveable": false,
+        "lifePointReduce": 1,
+        "notCountInTotal": false,
+        "talentBlackboard": [
+          {
+            "key": "block.interval",
+            "value": 1
+          },
+          {
+            "key": "block.hp_ratio",
+            "value": 0.05
+          }
+        ],
+        "skills": null,
+        "enemyTags": []
+      }
+    ],
+    "CNName": "黯锋助祭",
+    "CNDescription": "它们受命于祭司，在大地上不知疲倦地狩猎，将鲜血汇成潮水。",
+    "CNAbilityList": [
+      {
+        "text": "被阻挡时，自身逐渐损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "damageType": [
+      "PHYSIC"
+    ],
+    "JPName": "黯锋助祭",
+    "JPDescription": "它们受命于祭司，在大地上不知疲倦地狩猎，将鲜血汇成潮水。",
+    "JPAbilityList": [
+      {
+        "text": "被阻挡时，自身逐渐损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "ENName": "黯锋助祭",
+    "ENDescription": "它们受命于祭司，在大地上不知疲倦地狩猎，将鲜血汇成潮水。",
+    "ENAbilityList": [
+      {
+        "text": "被阻挡时，自身逐渐损失生命",
+        "textFormat": "NORMAL"
+      }
+    ],
+    "KRName": "黯锋助祭",
+    "KRDescription": "它们受命于祭司，在大地上不知疲倦地狩猎，将鲜血汇成潮水。",
+    "KRAbilityList": [
+      {
+        "text": "被阻挡时，自身逐渐损失生命",
+        "textFormat": "NORMAL"
+      }
+    ]
+  },
+  {
     "Key": "enemy_3001_upeopl",
     "Levels": [
       {
