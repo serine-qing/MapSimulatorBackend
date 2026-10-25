@@ -2334,7 +2334,7 @@
     ],
     "CNName": "猎狗",
     "CNDescription": "整合运动技术侦察部队操纵的生物。身上装备着某个品牌的监控设备。由于优良的隐蔽性和行动速度，较为容易突破防御造成大量破坏，需要注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -2454,7 +2454,7 @@
     ],
     "CNName": "猎狗pro",
     "CNDescription": "整合运动技术侦察部队操纵的生物，比一般猎狗更具有作战能力。身上装备着某个牌子的监控设备。由于优良的隐蔽性和行动速度，较为容易突破防御造成大量破坏，需要注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -2524,7 +2524,7 @@
     ],
     "CNName": "狂暴的猎狗pro",
     "CNDescription": "整合运动技术侦察部队操纵的生物，比猎狗pro更具有作战能力。身上装备着某个牌子的监控设备。由于优良的隐蔽性和行动速度，较为容易突破防御造成大量破坏，需要注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -2780,7 +2780,7 @@
     ],
     "CNName": "市井猎手",
     "CNDescription": "常见于萨尔贡城镇的猎手。他们往往拿着名义上用于在荒地打猎的弓，出现在各种需要“解决问题”的场合。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -2848,7 +2848,7 @@
     ],
     "CNName": "市井流窜猎手",
     "CNDescription": "在多座萨尔贡城市流窜的猎手。猎手之间的水平亦有高下，一些“成绩不错”的猎手自然会被请到各个城市为雇主们“解决问题”。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -4832,7 +4832,7 @@
     ],
     "CNName": "大鲍勃",
     "CNDescription": "整合运动干部。穿着沉重的防爆护具，且使用电锯进行攻击。出现在一些不起眼的作战地区，似乎默默参与了一些周边行动，拥有丰富的作战和指挥经验。造成大量破坏的同时极难被击溃，需要特别注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -4900,7 +4900,7 @@
     ],
     "CNName": "大亚当",
     "CNDescription": "整合运动干部。穿着沉重的防爆护具，且使用电锯进行攻击。看上去装束和大鲍勃很像，但可能并不是一个人，不知道他们之间是怎样的关系。资料评估认为，其危险性可能比大鲍勃更大。造成大量破坏的同时极难被击溃，需要特别注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -7151,7 +7151,7 @@
     ],
     "CNName": "士兵",
     "CNDescription": "整合运动的基础近身作战人员。装备了被缴获或非法渠道获得到的武器和服装，使用统一的面具和服装掩盖自己身份参与行动。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -9765,7 +9765,7 @@
     ],
     "CNName": "弩手",
     "CNDescription": "整合运动的基础射击作战人员。装备了被缴获或非法渠道获得到的武器和服装，使用统一的面具和服装掩盖自己身份参与行动。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -9881,7 +9881,7 @@
     ],
     "CNName": "弩手组长",
     "CNDescription": "整合运动的高级远程作战人员。相比一般弩手更具作战能力。装备了被缴获或非法渠道获得到的武器和护具，使用统一的面具和服装掩盖自己身份参与行动。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -17097,7 +17097,7 @@
     ],
     "CNName": "重装防御者",
     "CNDescription": "整合运动的近身作战人员。装备有沉重的全套防具，且能熟练参与战斗，极难被击溃，可能是受过正规训练的作战人员，需要小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -17213,7 +17213,7 @@
     ],
     "CNName": "重装防御组长",
     "CNDescription": "整合运动的近身作战人员，比一般重装防御者更具威胁。装备有沉重的全套防具，且能熟练参与战斗，极难被击溃，可能是受过正规训练的作战人员，需要小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -17329,7 +17329,7 @@
     ],
     "CNName": "重装五十夫长",
     "CNDescription": "整合运动的近身作战人员，比重装防御组长更具威胁。装备有沉重的全套防具，通常都伴随大量配合进攻的人员，极难被击溃，需要特别注意。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -17832,7 +17832,7 @@
     ],
     "CNName": "侵入式调用",
     "CNDescription": "“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸……你说看不见是什么意思？”",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -17902,7 +17902,7 @@
     ],
     "CNName": "迷茫的修理小助手",
     "CNDescription": "被源石干扰了寻路模块的修理小助手，连工程部干员特意添加的送餐功能都很难实现了。“你说维护功能？我们的工程师够多了。至于华法琳提出的食品安全警告，我们正在努力改进。”",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -17972,7 +17972,7 @@
     ],
     "CNName": "失控的修理小助手",
     "CNDescription": "被源石干扰了威胁识别模块的修理小助手，连工程部干员精心设计的小功率带安全离合的钻头都变得更危险了。“你说功率？比起复杂作业，显然是确保干员工作环境的安全性并为其提供足够的情绪支持更加重要！”",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -18042,7 +18042,7 @@
     ],
     "CNName": "冰镇饮料机",
     "CNDescription": "被源石干扰了轨道模拟模块的冰镇饮料机，会不受控制地向根本不渴的干员投射过度冷冻的易拉罐。工程部“第十届胡闹大赛”头等奖，毕竟没人能拒绝一个全自动投放美味饮品到工位上的贴心小冰箱（除了对接你体检的医疗部干员）。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -18112,7 +18112,7 @@
     ],
     "CNName": "加热饮料机",
     "CNDescription": "被源石干扰了温度控制模块的冰镇饮料机，美味饮品在过度加热后会给干员们带来生理和心理的双重冲击。工程部“第十届胡闹大赛”头等奖，不过现在恐怕会收到大量的投诉。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -19252,7 +19252,7 @@
     ],
     "CNName": "源石虫",
     "CNDescription": "野生的被感染生物。这种低智能生物极有可能会被敌方术师操纵，以进入人工设施内发动集群攻击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -19372,7 +19372,7 @@
     ],
     "CNName": "源石虫·α",
     "CNDescription": "野生的被感染生物，比一般源石虫更具有威胁。这种低智能生物极有可能会被敌方术师操纵，以进入人工设施内发动集群攻击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -19442,7 +19442,7 @@
     ],
     "CNName": "源石虫·β",
     "CNDescription": "野生的被感染生物，比源石虫·α更具有威胁。这种低智能生物极有可能会被敌方术师操纵，以进入人工设施内发动集群攻击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -20220,7 +20220,7 @@
     ],
     "CNName": "弱化节点",
     "CNDescription": "-",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -27387,7 +27387,7 @@
     ],
     "CNName": "萨卡兹大剑手",
     "CNDescription": "萨卡兹雇佣兵。体内源石可能更进一步强化了他的体能，使他可以自如运用更大的武器，且更难以被击倒。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -27457,7 +27457,7 @@
     ],
     "CNName": "萨卡兹大剑组长",
     "CNDescription": "萨卡兹雇佣兵，比一般萨卡兹大剑手更具威胁。体内源石可能更进一步强化了他的体能，使他可以自如运用更大的武器，且更难以被击倒。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -29878,7 +29878,7 @@
     ],
     "CNName": "术师",
     "CNDescription": "整合运动的基础法术作战人员。由于是感染者，他们倾向于直接利用自身的源石发动法术。由于一般作战时脱离了法杖，所以他们攻击的方式更加让人难以预料，且无法缴械。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -30042,7 +30042,7 @@
     ],
     "CNName": "术师组长",
     "CNDescription": "整合运动的高级法术作战人员。相比一般术师更具作战能力。由于是感染者，他们倾向于直接利用自身的源石发动法术。由于一般作战时脱离了法杖，所以他们攻击的方式更加让人难以预料，且无法缴械。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -32668,7 +32668,7 @@
     ],
     "CNName": "萨卡兹狙击手",
     "CNDescription": "萨卡兹雇佣兵。庞大的身躯没有影响他的射击能力，反而比其他人更为强韧的身体使他可以自如运用威力更大的远程武器，且更难以被击倒。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -32738,7 +32738,7 @@
     ],
     "CNName": "萨卡兹狙击组长",
     "CNDescription": "萨卡兹雇佣兵，比一般萨卡兹狙击手更具威胁。庞大的身躯没有影响他的射击能力，反而比其他人更为强韧的身体使他可以自如运用威力更大的远程武器，且更难以被击倒。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -38320,7 +38320,7 @@
     ],
     "CNName": "双持剑士",
     "CNDescription": "整合运动的近身作战人员。似乎经过双持武器的训练，可能来自叛变的军警部门。熟练的攻击方式使他们比一般参与破坏的敌方人员更难以针对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -38436,7 +38436,7 @@
     ],
     "CNName": "双持剑士组长",
     "CNDescription": "整合运动的近身作战人员，比一般双持剑士更具威胁。似乎经过双持武器的训练，可能来自叛变的军警部门。熟练的攻击方式使他们比一般参与破坏的敌方人员更难以针对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -40888,7 +40888,7 @@
     ],
     "CNName": "轻甲卫兵",
     "CNDescription": "整合运动的近身作战人员。装备了被缴获或非法渠道获得到的武器和护具，装备更加完整，更接近一般正规训练的近战人员，也使他们不能以普通战术针对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -40956,7 +40956,7 @@
     ],
     "CNName": "轻甲卫兵组长",
     "CNDescription": "整合运动的近身作战人员，比一般轻甲卫兵更具威胁。装备了被缴获或非法渠道获得到的武器和护具，装备更加完整，很有可能是受过正规训练的近战人员，也使他们不能以普通战术针对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -43504,7 +43504,7 @@
     ],
     "CNName": "磐蟹",
     "CNDescription": "野生的被感染生物，被坚硬的金属包裹着，大多数的普通武器对其效果都不太理想，但是重量并没有想像的大，且行动缓慢。这种低智能生物极有可能会被敌方术师操纵，以进入人工设施内发动集群攻击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59406,7 +59406,7 @@
     ],
     "CNName": "暴徒",
     "CNDescription": "来路不明的作战人员。常见的混迹于各种纷乱地区的人。用简单的面罩掩盖了自己的身份，使用随意制作的武器进行近身攻击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59474,7 +59474,7 @@
     ],
     "CNName": "暴乱分子",
     "CNDescription": "来路不明的作战人员，但比一般暴徒更具威胁。常见的混迹于各种纷乱地区的人。用简单的面罩掩盖了自己的身份，使用随意制作的武器进行近身攻击。这种简陋的武器，在更多的场合中代表着暴乱。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59542,7 +59542,7 @@
     ],
     "CNName": "鸡尾酒投掷者",
     "CNDescription": "来路不明的作战人员。用简单的面罩掩盖了自己的身份，并携带了土制燃烧瓶，对范围内的目标造成破坏。这种简陋的武器，在更多的场合中代表着暴乱。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59610,7 +59610,7 @@
     ],
     "CNName": "燃烧瓶投掷者",
     "CNDescription": "来路不明的作战人员，比一般鸡尾酒投掷者更具威胁。用简单的面罩掩盖了自己的身份，并携带了土制燃烧瓶，对范围内的目标造成破坏。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59678,7 +59678,7 @@
     ],
     "CNName": "机动盾兵",
     "CNDescription": "整合运动的近身作战人员。装备了被缴获或非法渠道获得到的武器和护具，其中包括制式的盾牌。该目标比一般的整合运动士兵更难以击溃。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59746,7 +59746,7 @@
     ],
     "CNName": "机动盾组长",
     "CNDescription": "整合运动的近身作战人员，比一般机动盾兵更具威胁。装备了被缴获或非法渠道获得到的武器和护具，其中包括制式的盾牌。该目标比一般的整合运动士兵更难以击溃。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59814,7 +59814,7 @@
     ],
     "CNName": "拾荒者",
     "CNDescription": "缺少打理，穿着着破损服装的作战人员。据了解有人刻意伪装成贫民来隐藏自己佣兵的身份。虽然来路不明，但攻击意图强烈，需要有所防范。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59882,7 +59882,7 @@
     ],
     "CNName": "流浪者",
     "CNDescription": "缺少打理，穿着着破损服装的作战人员，身上带有一些伤疤，可能比一般拾荒者更有交战经验。据了解有人刻意伪装成贫民来隐藏自己佣兵的身份。虽然来路不明，但攻击意图强烈，需要有所防范。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -59950,7 +59950,7 @@
     ],
     "CNName": "法术近卫",
     "CNDescription": "受过法术战斗训练的整合运动近身作战人员，在使用近战武器攻击的同时会利用自身的源石技艺附加法术伤害。该作战单位的编制加入，使得整合运动在正面战场上拥有不可小视的破坏力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -60018,7 +60018,7 @@
     ],
     "CNName": "法术近卫组长",
     "CNDescription": "受过法术战斗训练的整合运动近身作战人员，比一般法术近卫更具威胁。在使用近战武器攻击的同时会利用自身的源石技艺附加法术伤害。该作战单位的编制加入，使得整合运动在正面战场上拥有不可小视的破坏力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -60086,7 +60086,7 @@
     ],
     "CNName": "拳刃武士",
     "CNDescription": "受过一些传统战斗训练的整合运动近身作战人员，使用改造的拳刃进行攻击。攻击频率较高，容易对我方的一般近战人员造成较大伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60154,7 +60154,7 @@
     ],
     "CNName": "拳刃武士组长",
     "CNDescription": "受过一些传统战斗训练的整合运动近身作战人员，比一般拳刃武士更具威胁，使用改造的拳刃进行攻击。攻击频率较高，容易对我方的一般近战人员造成较大伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60222,7 +60222,7 @@
     ],
     "CNName": "伐木机",
     "CNDescription": "来路不明，穿戴简易林业护具，携带伐木工具进行攻击的人。因为武器和打扮，以及机器般的行为，这伙人通常被称呼为伐木机。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60290,7 +60290,7 @@
     ],
     "CNName": "伐木老手",
     "CNDescription": "来路不明，穿戴简易林业护具，携带伐木工具进行攻击的人。把自己的衣服用涂料染成了红色，仿佛更加容易被辨认，但同时似乎也比一般人更加难以针对。绰号比其伐木机多了一丝人性，但人通常也许会比机器更加可怕吧。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60358,7 +60358,7 @@
     ],
     "CNName": "屠夫",
     "CNDescription": "来路不明，穿着一身白色工装，使用巨大的钝器进行攻击的人。这样的外貌和作战风格不难以让人联想起恐怖片里的形象，屠夫的绰号也应运而生。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60426,7 +60426,7 @@
     ],
     "CNName": "屠宰老手",
     "CNDescription": "来路不明，穿着一身白色工装，使用巨大的钝器进行攻击的人。染红的订制头巾似乎像是他们团体内部力量和权力的象征。既然有比屠夫更加鲜明的形象，他的绰号也更上一层楼。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60494,7 +60494,7 @@
     ],
     "CNName": "武装人员",
     "CNDescription": "来路不明，穿着复杂护具，佩戴防毒面具，携带不明罐装设备，使用巨大的钝器进行攻击的人。不可理喻的装束，只能用武装人员称呼这样的人。虽然移动缓慢但是其武器会对一般人员造成巨大伤害。请小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60562,7 +60562,7 @@
     ],
     "CNName": "高级武装人员",
     "CNDescription": "来路不明，穿着复杂护具，佩戴防毒面具，携带不明罐装设备，使用巨大的钝器进行攻击的人。根据装备猜测其比一般武装人员更具威胁。虽然移动缓慢但是其武器会对一般人员造成巨大伤害。请小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60718,7 +60718,7 @@
     ],
     "CNName": "特战士兵",
     "CNDescription": "整合运动的近身作战人员。配备了和其他战士稍有不同的装备。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -60786,7 +60786,7 @@
     ],
     "CNName": "特战术师",
     "CNDescription": "整合运动的法术作战人员。相比一般术师，他配备的护甲能抵抗一定物理伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -60942,7 +60942,7 @@
     ],
     "CNName": "破阵者",
     "CNDescription": "训练有素的敌方冲锋单位。攻击能力比一般单位略高，但正因为他们可怕的移动速度，往往让防御阵线措手不及，因此称为破阵者。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -61010,7 +61010,7 @@
     ],
     "CNName": "破阵者组长",
     "CNDescription": "训练有素的敌方冲锋单位，相比一般的破阵者更难击溃。攻击能力比一般单位略高，移动速度也非常之快。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -62214,7 +62214,7 @@
     ],
     "CNName": "步兵",
     "CNDescription": "基础近身作战人员。装配的护甲能够抵抗一定的法术伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -62282,7 +62282,7 @@
     ],
     "CNName": "步兵组长",
     "CNDescription": "基础近身作战人员。相比一般步兵拥有更强的作战能力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63205,7 +63205,7 @@
     ],
     "CNName": "编制术师",
     "CNDescription": "基础法术作战人员。法术是从古至今最具威胁的作战手段之一，而现代战术对于法术战术人员的活用也是各势力研究的课题。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -63273,7 +63273,7 @@
     ],
     "CNName": "编制术师组长",
     "CNDescription": "基础法术作战人员。比一般编制术师更具威胁。法术是从古至今最具威胁的作战手段之一，而现代战术对于法术战术人员的活用也是各势力研究的课题。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -63341,7 +63341,7 @@
     ],
     "CNName": "机动卫兵",
     "CNDescription": "标准近身作战人员。配备的机动盾牌使他们攻守兼备。在作战中能对前线造成不小的威胁。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63409,7 +63409,7 @@
     ],
     "CNName": "机动卫兵组长",
     "CNDescription": "标准近身作战人员。比一般机动卫兵更具威胁。配备的机动盾牌使他们攻守兼备。在作战中能对前线造成不小的威胁。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63653,7 +63653,7 @@
     ],
     "CNName": "重装防御者-N型",
     "CNDescription": "近身作战人员。装备有沉重的全套防具，且拥有应对各种物理攻击手段的丰富经验，极难被击溃，需要小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63721,7 +63721,7 @@
     ],
     "CNName": "重装防御者-S型",
     "CNDescription": "近身作战人员。比一般重装防御者更具威胁。装备有沉重的全套防具，且拥有应对各种物理攻击手段的丰富经验，极难被击溃，需要小心应对。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63789,7 +63789,7 @@
     ],
     "CNName": "西西里人",
     "CNDescription": "基础近身作战人员。这些来自叙拉古的人们以古老的名号自称，象征着他们过去的荣耀。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63857,7 +63857,7 @@
     ],
     "CNName": "精锐西西里人",
     "CNDescription": "基础近身作战人员。比西西里人拥有更高的作战能力。这些来自叙拉古的人们以古老的名号自称，象征着他们过去的荣耀。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63925,7 +63925,7 @@
     ],
     "CNName": "打手",
     "CNDescription": "经过特殊训练的作战人员。极为快速的出拳往往能给人连续的致命打击。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -63993,7 +63993,7 @@
     ],
     "CNName": "精干打手",
     "CNDescription": "相比打手拥有更强的破坏力，需要更优秀的防护装备才能抵挡他。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -66686,7 +66686,7 @@
     ],
     "CNName": "萨卡兹刀兵",
     "CNDescription": "萨卡兹雇佣兵。长年累月的战争使他们伤痕累累，如今依旧为了完成雇主的命令而不断征战。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -66756,7 +66756,7 @@
     ],
     "CNName": "萨卡兹刀术师",
     "CNDescription": "萨卡兹雇佣兵，比一般的刀兵更加技艺精湛。长年累月的战争使他们伤痕累累，如今依旧为了完成雇主的命令而不断征战。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -67878,7 +67878,7 @@
     ],
     "CNName": "游击队猎犬",
     "CNDescription": "穿戴轻量乌萨斯装甲的基础游击队战犬，拥有一定的防御性能，行动速度很快。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -67948,7 +67948,7 @@
     ],
     "CNName": "游击队猎犬pro",
     "CNDescription": "穿戴轻量乌萨斯装甲的高级游击队战犬，拥有一定的防御性能，行动速度很快，攻击欲望比游击队战犬更强。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -69847,7 +69847,7 @@
     ],
     "CNName": "莱塔尼亚叛兵",
     "CNDescription": "莱塔尼亚本地的激进分子。古典源石技艺的普及让他们更具威胁性，攻击造成法术伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -69915,7 +69915,7 @@
     ],
     "CNName": "莱塔尼亚叛兵组长",
     "CNDescription": "莱塔尼亚本地的激进分子头目。古典源石技艺的普及让他们更具威胁性，攻击造成更高的法术伤害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -69983,7 +69983,7 @@
     ],
     "CNName": "冬灵猎犬",
     "CNDescription": "当地人自古以来培养并操纵的猎犬。曾是土著民和早期拓荒者的得力助手。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -70051,7 +70051,7 @@
     ],
     "CNName": "冬灵猎犬pro",
     "CNDescription": "当地人自古以来培养并操纵的猎犬，作为犬群的头领。曾是土著民和早期拓荒者的得力助手。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -71019,7 +71019,7 @@
     ],
     "CNName": "泥岩巨像",
     "CNDescription": "泥岩的源石技艺造物，不具备意识，需要泥岩本人操纵。笨重迟缓，但难以击破，拥有极高的物理伤害和生命力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -71089,7 +71089,7 @@
     ],
     "CNName": "巫术巨像",
     "CNDescription": "泥岩的源石技艺造物，掺入了萨卡兹的古老巫术，它们是其主人意志的延展。这种源石技艺的原理相当晦涩，相较于普通造物拥有更高的生命力与破坏力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -71345,7 +71345,7 @@
     ],
     "CNName": "提亚卡乌投矛手",
     "CNDescription": "和普通战士没有什么区别的战士，只是学会了将武器进行投掷。虽然距离有限，不过行之有效。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -71413,7 +71413,7 @@
     ],
     "CNName": "提亚卡乌神投手",
     "CNDescription": "经过锻炼而对投掷有了一定心得的战士，投出的矛具有更强的杀伤力。不过有碍于矛的重量，在射程上并没有得到改善。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72285,7 +72285,7 @@
     ],
     "CNName": "无名独立骑士",
     "CNDescription": "卡西米尔独立骑士，身价微妙，技艺不精，迟早会淹没在卡西米尔骑士竞技的浪潮之中吧。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72353,7 +72353,7 @@
     ],
     "CNName": "无名精锐骑士",
     "CNDescription": "卡西米尔独立骑士，身价有所上涨，但水准仍旧堪忧。依旧会淹没在卡西米尔骑士竞技的浪潮之中吧。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72423,7 +72423,7 @@
     ],
     "CNName": "训练用钳兽",
     "CNDescription": "在卡西米尔的长河大湖中常见的感染生物，被术师捕捉并人工饲育后，作为训练骑士、斗兽表演的残酷工具。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72493,7 +72493,7 @@
     ],
     "CNName": "训练用残暴钳兽",
     "CNDescription": "在卡西米尔的长河大湖中常见的感染生物，相较于普通钳兽，以特殊激素喂养的雄性钳兽更具攻击性。作为训练骑士、斗兽表演的残酷工具。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72867,7 +72867,7 @@
     ],
     "CNName": "持盾独立骑士",
     "CNDescription": "卡西米尔独立骑士，在各种千变万化的赛制中，依赖装备进行防守，稳扎稳打赚取积分将会是有效的策略。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -72935,7 +72935,7 @@
     ],
     "CNName": "持盾精锐骑士",
     "CNDescription": "卡西米尔独立骑士，拥有更精良的装备，差一点点就能找到赞助商了。在各种千变万化的赛制中，依赖装备进行防守，稳扎稳打赚取积分将会是有效的策略。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -74255,7 +74255,7 @@
     ],
     "CNName": "乌萨斯裂兽",
     "CNDescription": "乌萨斯军训练的作战生物。听从命令，渴求血肉，撕扯铠甲，从不停歇。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -74323,7 +74323,7 @@
     ],
     "CNName": "乌萨斯裂兽族母",
     "CNDescription": "乌萨斯军训练的作战生物的族群领袖。听从命令，渴求血肉，撕扯铠甲，从不停歇。没人见过雄性的裂兽。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -74567,7 +74567,7 @@
     ],
     "CNName": "乌萨斯着铠术师",
     "CNDescription": "乌萨斯军中的基础术师。身披铠甲。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -74635,7 +74635,7 @@
     ],
     "CNName": "乌萨斯高级着铠术师",
     "CNDescription": "乌萨斯军基础军伍术师中的表现优良者。身披铠甲，使用更有威力的法术。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -77315,7 +77315,7 @@
     ],
     "CNName": "“小躁”",
     "CNDescription": "兽形的墨魉，名字是画家本人取的。脾气急躁，喜欢吃杏子。遵从其主的意志，在画卷里嬉戏打闹，偶尔会咬破画卷。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -77399,7 +77399,7 @@
     ],
     "CNName": "焦急的“小躁”",
     "CNDescription": "兽形的墨魉，名字是画家本人取的。脾气更加急躁，连杏子都不想吃了。遵从其主的意志，在画卷里嬉戏打闹，偶尔会咬破画卷。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -77483,7 +77483,7 @@
     ],
     "CNName": "“阿咬”",
     "CNDescription": "平凡的墨魉，名字是画家本人取的。很聪明，其实听得懂人话。似乎是群居生物，如果落单的话会感到很孤单。抱着玩耍的心态干出很多过分的事情，毕竟只是墨魉罢了。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -77567,7 +77567,7 @@
     ],
     "CNName": "认真的“阿咬”",
     "CNDescription": "平凡的墨魉，名字是画家本人取的。很聪明，其实听得懂人话。似乎是群居生物，如果落单的话会感到很孤单。现在开始认真地对付敌人，总算有点墨魉的样子了。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -79849,7 +79849,7 @@
     ],
     "CNName": "源石畸变体",
     "CNDescription": "出于某种目的，兵器化改造的源石畸变生物，拥有极其坚硬的外壳,。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -79919,7 +79919,7 @@
     ],
     "CNName": "源石畸变体α",
     "CNDescription": "出于某种目的，兵器化改造的源石畸变生物，更加凶猛可怖。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -80855,7 +80855,7 @@
     ],
     "CNName": "战术猎犬",
     "CNDescription": "被术师操纵的感染生物。猎犬在雇佣兵中被大规模使用，尽管有些佩洛人深感抵触。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -80925,7 +80925,7 @@
     ],
     "CNName": "战术猎犬pro",
     "CNDescription": "被术师操纵的感染生物。训练更加有素，将造成更大的威胁，猎犬在雇佣兵中被大规模使用，尽管有些佩洛人深感抵触。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -82515,7 +82515,7 @@
     ],
     "CNName": "壳海狂奔者",
     "CNDescription": "长出四肢的恐鱼，但它体内没有骨头。似乎捕食过岸上的四足动物。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -82585,7 +82585,7 @@
     ],
     "CNName": "富营养的狂奔者",
     "CNDescription": "长出四肢的饱食的恐鱼。通过液压控制肢体运作，反应速度超群。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -82847,7 +82847,7 @@
     ],
     "CNName": "脊海喷吐者",
     "CNDescription": "神秘的恐鱼。在海中能以更快的初速喷吐，足以摧毁礁石。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -82917,7 +82917,7 @@
     ],
     "CNName": "富营养的喷吐者",
     "CNDescription": "神秘的饱食的恐鱼。喷吐不是为了捕食，而是为了应对自然灾害。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -92233,7 +92233,7 @@
     ],
     "CNName": "冰原战士",
     "CNDescription": "擅长冰原作战的战士。长期在冰原环境下的生活锻炼了他们的意志和体魄。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -92301,7 +92301,7 @@
     ],
     "CNName": "冰原战士队长",
     "CNDescription": "擅长冰原作战的精锐战士。他们的意志和体魄如同雪山山顶的坚冰一般坚不可摧。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -97287,7 +97287,7 @@
     ],
     "CNName": "寻路者战士",
     "CNDescription": "为先导的理念所感召，聚集在他身边的战士。为了实现寻路者共同的目标而奋战。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -97355,7 +97355,7 @@
     ],
     "CNName": "寻路者精锐战士",
     "CNDescription": "为先导的理念所感召，聚集在他身边的战士。实力强劲，为了实现寻路者共同的目标而奋战。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -107169,7 +107169,7 @@
     ],
     "CNName": "实验用动力装甲",
     "CNDescription": "无人操控的动力装甲。不需要操控者在其中控制，但灵活度仍旧很高。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -107239,7 +107239,7 @@
     ],
     "CNName": "测试用动力装甲",
     "CNDescription": "无人操控的动力装甲。仿佛拥有自主意识一般，就连经验丰富的工程师也很难凭肉眼分辨是否有人操控。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -108371,7 +108371,7 @@
     ],
     "CNName": "沙堡建筑者",
     "CNDescription": "把建造沙堡当兴趣的杜林人。对一切搅动人工湖水的人深恶痛绝，为此在建造工具上加装了施术单元。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -108439,7 +108439,7 @@
     ],
     "CNName": "沙堡设计师",
     "CNDescription": "把设计沙堡当职业的杜林人。对沙堡建不起来这件事已经习以为常，最近连设计图都不画了，专心鼓捣施术单元。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -115861,7 +115861,7 @@
     ],
     "CNName": "谛兽",
     "CNDescription": "“睚”随手捏塑的造物。躯体与黄沙同色，听觉极其敏锐，穿街过巷如影随形，负责情报的收集与传递。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -115929,7 +115929,7 @@
     ],
     "CNName": "躁怒谛兽",
     "CNDescription": "“睚”随手捏塑的造物，被黄沙洗练出凶意，听觉极其敏锐，穿街过巷如影随形，负责情报的收集与传递，并参与战斗。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -116381,7 +116381,7 @@
     ],
     "CNName": "山海众冒矢者",
     "CNDescription": "负责防御的山海众成员。山海众网罗了不少亡命之徒，他们身材魁梧，手持重盾，为同伙提供庇护。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -116449,7 +116449,7 @@
     ],
     "CNName": "山海众连阵者",
     "CNDescription": "负责防御的山海众成员。山海众网罗了不少亡命之徒，他们大多曾为祸一方，身材魁梧，手持特制的重盾，极具威慑力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -119398,7 +119398,7 @@
     ],
     "CNName": "“无念之冬”",
     "CNDescription": "-",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -121876,7 +121876,7 @@
     ],
     "CNName": "军用猎狗",
     "CNDescription": "在玻利瓦尔首先投入使用的军用猎狗。锋牙利爪，性情残暴。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -121946,7 +121946,7 @@
     ],
     "CNName": "高级军用猎狗",
     "CNDescription": "经过严格选种后培育出的高级军用猎狗。眼中只有猎物，不死不休。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -135923,7 +135923,7 @@
     ],
     "CNName": "访问团新兵",
     "CNDescription": "访问团征召而来的军人，其作战方式扎实且标准。他们现在更享受平淡如水的闲暇时光。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -135991,7 +135991,7 @@
     ],
     "CNName": "访问团老兵",
     "CNDescription": "与访问团共命运的军人，其作战方式老练且凌厉。他们现在更警惕任何即将升级的冲突。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -140313,7 +140313,7 @@
     ],
     "CNName": "联合政府军犬",
     "CNDescription": "玻利瓦尔联合政府训练的猎犬。佩洛军官们不太喜欢将其纳入战术考量。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -140383,7 +140383,7 @@
     ],
     "CNName": "联合政府军犬pro",
     "CNDescription": "经哥伦比亚训练后，由玻利瓦尔联合政府采购的特种猎犬。在军队内部推广时遭遇了一定的阻力。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -142839,7 +142839,7 @@
     ],
     "CNName": "“锅盖头”射手",
     "CNDescription": "头盔装有维多利亚透镜的佣兵。他们从未听清过疤痕商场的其他佣兵在背后偷笑的声音，因为头盔的密封性很好。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -142909,7 +142909,7 @@
     ],
     "CNName": "“锅盖头”劲弩射手",
     "CNDescription": "头盔装有维多利亚透镜，武器装备良好的佣兵。他们从未听清过疤痕商场的其他佣兵在背后偷笑的声音，因为头盔的密封性很好。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -145119,7 +145119,7 @@
     ],
     "CNName": "萨卡兹枯朽宿卫",
     "CNDescription": "食腐者之王军团中的铁壁卫士，他知道自己注定倒下，而这面涂满了鲜血的巨盾总有下一个人接手。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -145189,7 +145189,7 @@
     ],
     "CNName": "萨卡兹枯朽不屈宿卫",
     "CNDescription": "食腐者之王军团中的顶尖铁壁卫士，也许有一天他会被敌人的军阵淹没，但战争与仇恨的铁壁却屹立不倒。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -146171,7 +146171,7 @@
     ],
     "CNName": "魂灵涡流",
     "CNDescription": "因死魂灵的意志而诞生的魂灵碎片，无数极端的情感在其中交杂，千万年的混乱记忆最终凝聚成了有形的涡流。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -147107,7 +147107,7 @@
     ],
     "CNName": "单核掠食者",
     "CNDescription": "构造简单的海嗣，推测是海嗣群落中的采集者，其生命活动几乎不需消耗能量。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -147177,7 +147177,7 @@
     ],
     "CNName": "异光体掠食者",
     "CNDescription": "构造简单但受到滋养的新生海嗣，能以更高效率采集养分。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -174553,7 +174553,7 @@
     ],
     "CNName": "蜃景",
     "CNDescription": "-",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -174767,7 +174767,7 @@
     ],
     "CNName": "妄境",
     "CNDescription": "-",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -175015,7 +175015,7 @@
     ],
     "CNName": "爱布拉娜",
     "CNDescription": "深池的领袖，焚尽伪装的德拉克。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "MAGIC"
     ],
@@ -175083,7 +175083,7 @@
     ],
     "CNName": "“变形者集群”",
     "CNDescription": "游离于萨卡兹王庭之外的长生者，直面火焰之途。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -210324,7 +210324,7 @@
     ],
     "CNName": "高普尼克",
     "CNDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -210392,19 +210392,19 @@
     ],
     "CNName": "高普尼克",
     "CNDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
     "JPName": "高普尼克",
     "JPDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "高普尼克",
     "ENDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "高普尼克",
     "KRDescription": "鸭爵雇佣的乌萨斯保安，力大无穷但是脑袋不太好使，主要负责给鸭爵提行李。",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2003_rockman",
@@ -215108,7 +215108,7 @@
     ],
     "CNName": "箱形恐鱼",
     "CNDescription": "一种拟态成宝箱模样的恐鱼，时常被深海主教用以保卫避难所。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -216839,7 +216839,7 @@
     ],
     "CNName": "木裂战士",
     "CNDescription": "曾经是树痕部落荣耀的战士，如今同首领一起沦落为邪魔的尖兵。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -216907,7 +216907,7 @@
     ],
     "CNName": "积雪银凇",
     "CNDescription": "-",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -218974,7 +218974,7 @@
     ],
     "CNName": "巨壳藤蔓",
     "CNDescription": "被弃置荒野的盒子中落入了一颗种子，没过多久，它们便成为了利用好奇心捕食的猎手。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -219042,7 +219042,7 @@
     ],
     "CNName": "可汗片影",
     "CNDescription": "陷在可汗梦魇中的灵魂，自会举起兵器，同它永世的统帅一起，拼杀到大地尽头。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -219110,7 +219110,7 @@
     ],
     "CNName": "王者友伴",
     "CNDescription": "高傲的兽亲自古与萨尔贡皇室关系密切，某些个体更自愿随伴君王左右，以存在护其周全。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -230508,19 +230508,19 @@
     ],
     "CNName": "身形",
     "CNDescription": "祂最不似人的部分。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
     "JPName": "身形",
     "JPDescription": "祂最不似人的部分。",
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "身形",
     "ENDescription": "祂最不似人的部分。",
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "身形",
     "KRDescription": "祂最不似人的部分。",
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_2129_dylong",
@@ -235515,11 +235515,7 @@
     "CNDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
     "CNAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": "NORMAL"
-      },
-      {
-        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "text": "日照与日蚀信仰随时间增长。受到法术伤害会增长日照信仰，满溢时转变为艾穆拉伊，祝日降临；受到物理伤害会增长日蚀信仰，满溢时转变为托斯卡特尔，末日敕令；两种形态下若对应信仰再次满溢会进入强化形态，持续一段时间",
         "textFormat": "NORMAL"
       },
       {
@@ -235527,19 +235523,55 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "text": "信仰满溢后，对两个目标所在位置召唤陨石，陨石对目标及其周围造成高额物理伤害，并在目标周围生成一个<祭台>（至多存在5个）；若转变为强化形态，则额外锁定两个目标",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "【乌托邦的崛起】生命值首次降为0时，依据最后切换的形态，转变为对应强化形态且之后不再转变；移除场上其他敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "沉沦之人",
         "textFormat": "TITLE"
       },
       {
-        "text": "转变为对应的强化形态且不再转变形态",
+        "text": "无法被阻挡",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "text": "艾穆拉伊，祝日降临",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低；攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "托斯卡特尔，末日敕令",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低；普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，普通攻击变为5连击",
         "textFormat": "NORMAL"
       }
     ],
@@ -235550,11 +235582,7 @@
     "JPDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
     "JPAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": "NORMAL"
-      },
-      {
-        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "text": "日照与日蚀信仰随时间增长。受到法术伤害会增长日照信仰，满溢时转变为艾穆拉伊，祝日降临；受到物理伤害会增长日蚀信仰，满溢时转变为托斯卡特尔，末日敕令；两种形态下若对应信仰再次满溢会进入强化形态，持续一段时间",
         "textFormat": "NORMAL"
       },
       {
@@ -235562,19 +235590,55 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "text": "信仰满溢后，对两个目标所在位置召唤陨石，陨石对目标及其周围造成高额物理伤害，并在目标周围生成一个<祭台>（至多存在5个）；若转变为强化形态，则额外锁定两个目标",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "【乌托邦的崛起】生命值首次降为0时，依据最后切换的形态，转变为对应强化形态且之后不再转变；移除场上其他敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "沉沦之人",
         "textFormat": "TITLE"
       },
       {
-        "text": "转变为对应的强化形态且不再转变形态",
+        "text": "无法被阻挡",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "text": "艾穆拉伊，祝日降临",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低；攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "托斯卡特尔，末日敕令",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低；普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，普通攻击变为5连击",
         "textFormat": "NORMAL"
       }
     ],
@@ -235582,11 +235646,7 @@
     "ENDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
     "ENAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": "NORMAL"
-      },
-      {
-        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "text": "日照与日蚀信仰随时间增长。受到法术伤害会增长日照信仰，满溢时转变为艾穆拉伊，祝日降临；受到物理伤害会增长日蚀信仰，满溢时转变为托斯卡特尔，末日敕令；两种形态下若对应信仰再次满溢会进入强化形态，持续一段时间",
         "textFormat": "NORMAL"
       },
       {
@@ -235594,19 +235654,55 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "text": "信仰满溢后，对两个目标所在位置召唤陨石，陨石对目标及其周围造成高额物理伤害，并在目标周围生成一个<祭台>（至多存在5个）；若转变为强化形态，则额外锁定两个目标",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "【乌托邦的崛起】生命值首次降为0时，依据最后切换的形态，转变为对应强化形态且之后不再转变；移除场上其他敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "沉沦之人",
         "textFormat": "TITLE"
       },
       {
-        "text": "转变为对应的强化形态且不再转变形态",
+        "text": "无法被阻挡",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "text": "艾穆拉伊，祝日降临",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低；攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "托斯卡特尔，末日敕令",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低；普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，普通攻击变为5连击",
         "textFormat": "NORMAL"
       }
     ],
@@ -235614,11 +235710,7 @@
     "KRDescription": "他似乎在树海中找到了他梦寐以求的东西，却因此丢失了自己。曾经缔造了乌托邦的信物必定再度将其缔造。",
     "KRAbilityList": [
       {
-        "text": "无法被阻挡",
-        "textFormat": "NORMAL"
-      },
-      {
-        "text": "日照信仰与日蚀信仰的进度会随时间逐渐增长。受到法术伤害时会增长日照信仰的进度，满溢转变为艾穆拉伊，祝日降临；受到物理伤害时会增长日蚀信仰的进度，满溢时转变为托斯卡特尔，末日敕令",
+        "text": "日照与日蚀信仰随时间增长。受到法术伤害会增长日照信仰，满溢时转变为艾穆拉伊，祝日降临；受到物理伤害会增长日蚀信仰，满溢时转变为托斯卡特尔，末日敕令；两种形态下若对应信仰再次满溢会进入强化形态，持续一段时间",
         "textFormat": "NORMAL"
       },
       {
@@ -235626,19 +235718,55 @@
         "textFormat": "NORMAL"
       },
       {
-        "text": "转变形态后，对两个目标所在位置召唤陨石，陨石坠落后对目标及其周围造成高额物理伤害，并生成一个<祭台>；若转变为强化形态，则额外锁定两个目标",
+        "text": "信仰满溢后，对两个目标所在位置召唤陨石，陨石对目标及其周围造成高额物理伤害，并在目标周围生成一个<祭台>（至多存在5个）；若转变为强化形态，则额外锁定两个目标",
         "textFormat": "NORMAL"
       },
       {
-        "text": "第二形态",
+        "text": "【乌托邦的崛起】生命值首次降为0时，依据最后切换的形态，转变为对应强化形态且之后不再转变；移除场上其他敌人，改变战场区域的地形",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "沉沦之人",
         "textFormat": "TITLE"
       },
       {
-        "text": "转变为对应的强化形态且不再转变形态",
+        "text": "无法被阻挡",
         "textFormat": "NORMAL"
       },
       {
-        "text": "【乌托邦的崛起】移除场上敌人，改变战场区域的地形",
+        "text": "艾穆拉伊，祝日降临",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的法术伤害大幅降低，日蚀信仰的增长速度降低；攻击造成<$ba.dt.burning>灼燃损伤</>，同时攻击两个目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【耀日的恩宠】蓄力后朝一个目标释放，并额外链接至多2个单位，对链上的单位持续造成法术伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，攻击范围扩大，【耀日的恩宠】额外链接2个目标，且对链上的单位造成<$ba.dt.burning>灼燃损伤</>",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "托斯卡特尔，末日敕令",
+        "textFormat": "TITLE"
+      },
+      {
+        "text": "受到的物理伤害大幅降低，日照信仰的增长速度降低；普通攻击为3连击，且会同时攻击自身周围的目标",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "我方干员撤退或被击倒时自身回复一定比例生命值",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "【熄日的祭仪】与我方单位处于同一直线时蓄力砍出剑气，对剑气碰到的首个目标及其周围造成高额物理伤害",
+        "textFormat": "NORMAL"
+      },
+      {
+        "text": "强化形态下不可阻挡，免疫<$ba.root>束缚</>、<$ba.sluggish>停顿</>，属性大幅提升，普通攻击变为5连击",
         "textFormat": "NORMAL"
       }
     ]
@@ -238838,7 +238966,7 @@
     ],
     "CNName": "EYESOFPRIESTESS",
     "CNDescription": "CONGRATULATIONS ON FINDING ME.",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -239038,7 +239166,7 @@
     ],
     "CNName": "“皇帝的利刃”，折戟者",
     "CNDescription": "他的行动本代表乌萨斯的意志。而利刃崩断，也许喻示着意志已摇摇欲坠。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -251478,7 +251606,7 @@
     ],
     "CNName": "终点信标塔",
     "CNDescription": "漂流赛道的终点。漂流艇一旦触碰到浮动平台，中央的天线塔会立即发送讯号宣布比赛结束。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -252088,7 +252216,7 @@
     ],
     "CNName": "定点浮标",
     "CNDescription": "划定漂流比赛区域的浮标。觉得它像看上去那样不稳固就大错特错了！",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "NO_DAMAGE"
     ],
@@ -252254,7 +252382,7 @@
     ],
     "CNName": "盐水健身客",
     "CNDescription": "深感自己肢体力量不足的岩壳蟹，很明显它对健身的理解有偏差，否则不会变成现在这副“一肢独大”的模样。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -252322,7 +252450,7 @@
     ],
     "CNName": "“超级钳”盐水健身客",
     "CNDescription": "深感自己肢体力量不足的岩壳蟹，它们的出现可能是因为肢体大小已经成为群体内部攀比的标准。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -266020,7 +266148,7 @@
     ],
     "CNName": "荧壳源石虫",
     "CNDescription": "原生的壳类软体源石虫，繁衍能力极强，壳上的荧光为可视的信息素。蜕壳之后，体型会在短时间内急剧增大。",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -266586,7 +266714,7 @@
     ],
     "CNName": "小型共生体",
     "CNDescription": "和“自然的妥协”一起出现的共生体。难以分清到底是其生物学上的后代，还是被花粉沾染并同化的源石虫。也许两者兼而有之？",
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
@@ -299988,19 +300116,19 @@
     ],
     "CNName": "“碎铳之簧”",
     "CNDescription": null,
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
     "JPName": "“碎铳之簧”",
     "JPDescription": null,
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "“碎铳之簧”",
     "ENDescription": null,
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "“碎铳之簧”",
     "KRDescription": null,
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_9020_actrpc",
@@ -300083,19 +300211,19 @@
     ],
     "CNName": "“碎铳之簧”",
     "CNDescription": null,
-    "CNAbilityList": [],
+    "CNAbilityList": {},
     "damageType": [
       "PHYSIC"
     ],
     "JPName": "“碎铳之簧”",
     "JPDescription": null,
-    "JPAbilityList": [],
+    "JPAbilityList": {},
     "ENName": "“碎铳之簧”",
     "ENDescription": null,
-    "ENAbilityList": [],
+    "ENAbilityList": {},
     "KRName": "“碎铳之簧”",
     "KRDescription": null,
-    "KRAbilityList": []
+    "KRAbilityList": {}
   },
   {
     "Key": "enemy_9021_acduml",
